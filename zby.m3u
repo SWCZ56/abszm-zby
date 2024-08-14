@@ -115,148 +115,56 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 group-title="国内频道" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312213951630999_11.png",[BD]tvri world
-https://stream1.freetv.fun/ef0e08193958083d203a68b67a1e47cc6f2bc5b01d240ee1ae9ff0ab5e93200e.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",[VGA]rthk33
 https://stream1.freetv.fun/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",[VGA]cctv1-港澳台[geo-blocked]
 https://stream1.freetv.fun/f13f27285b9eeee5eb038860ebc2e9603ea7b7c90ae9847682149d8f7968cdfa.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",[BD]cctv1-港澳台
 https://stream1.freetv.fun/5e1a1a606612ee5a4861e3349d7e848295bd2e9cb217a4548123d8bf75736492.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",[BD]cctv-1
-https://stream1.freetv.fun/2dc0c879aa85f18c9db745d7a6ebfcc0247e6c7f17621278a14c9e3ead522b3c.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",[BD]cctv-1
-https://stream1.freetv.fun/61418e35a758a1d008af499492b3ae7fd32d018f77561d6570e32b84f214b605.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",[SD]cctv-1
-https://stream1.freetv.fun/a0ef90582097762d251506dc4aa95c4273498e29738fe7f90889ec52f051c075.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",[BD]cctv1-港澳台
-https://stream1.freetv.fun/3870a5dad997c0fa6ee27fff92770316fecf818c4408b675c23bc87ba4b4d246.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png",[HD]now tv
 https://stream1.freetv.fun/9a86f6504ebc39ebede157d2cf9c33aaf0bebea50e8abf8d609327539a7acbe0.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png",[BD]surf now tv
-https://stream1.freetv.fun/d05473213eccf4814f220641dbcf25abe94f124106c31eed62c4c51ee611342d.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png",[BD]axs tv now (1080p)[geo-blocked]
-https://stream1.freetv.fun/724836601896e4352220aba1836d449f5ee96a3c8455f000043d4b5688ec0093.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png",[BD]axs tv now
-https://stream1.freetv.fun/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png",[BD]axs tv now (1080p)[geo-blocked]
-https://stream1.freetv.fun/2d864c47240105a338e9ebb2ee617cf045dec0bd66fac260feecb8d8f48441b5.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png",[BD]axs tv now
 https://stream1.freetv.fun/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/08/22/large/20220822225312895053_10.png",[VGA]rthk34
 https://stream1.freetv.fun/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/08/22/large/20220822225312895053_10.png",[HD]rthk34台
 https://stream1.freetv.fun/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/08/22/large/20220822225312895053_10.png",[BD]rthktv34
-https://stream1.freetv.fun/8dc8b380861cc994bb3d9bb64f415d0d313eef5c60b5efbec01551f461837c92.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173109065303_59.png",[HD]tvb翡翠
-https://stream1.freetv.fun/e0810f349d52a45fd1faf771402e6a04596a8e2398155f25e1141dc4d7746e4d.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173109065303_59.png",[HD]tvb翡翠2
-https://stream1.freetv.fun/6a233a4a8d7b34bc6eade16d139194ee384c4d6df12681741b78a99c0cc99829.ctv
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193925517675_19.png",[BD]ช่อง viu tv 6
 https://stream1.freetv.fun/ad6b7cb3fd9bdf18e54cb7dd36053208e25f7e5c0aa9a8cb56011b907c6b0f6e.ctv
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193925517675_19.png",[BD]ช่อง viu tv
 https://stream1.freetv.fun/f2a1c94dff3575e185e1f2c13e7603b8aaf430741516643f8f055ed327d0ba8e.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193925517675_19.png",[HD]360 tv (720p) [not 24/7]
-https://stream1.freetv.fun/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png",[HD]tvbj1[geo-blocked]
-https://stream1.freetv.fun/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",[BD]無綫港澳台
-https://stream1.freetv.fun/d9b4b272710a828a3ab5e88b9b7a6f696ce61bd1c01ae8990e46f908f6842e98.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",[HD]无线新闻
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",[HD]无线娱乐新闻
 https://stream1.freetv.fun/a17566b81efbc7de0bd335ce7dd6083a3150c80a02c0f2d8a6d2d7525435f600.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090803853591_56.png",[SD]环球电视
 https://stream1.freetv.fun/6234a9bcbe41073ea5f86dfdea0d0241a0f06a064046d72c42128f714889299c.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/img/logo/3_358.jpg",[BD]tvb无线新闻
-https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/img/logo/3_358.jpg",[BD]tvb无线新闻[geo-blocked]
-https://stream1.freetv.fun/a2870617ade0afbb63a2c2b2bfd3a3a9b696d34ef4bc2ab60c9105524842f63c.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173109065303_59.png",[BD]tvb翡翠[geo-blocked]
-https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",[BD]翡翠台
-https://stream1.freetv.fun/2f69dcf1d6afdbf8c3d7331ab0c858be22de1068a36be03c676dec8ffb28d2d7.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",[VGA]翡翠[geo-blocked]
-https://stream1.freetv.fun/aab1e3c651061ddc2ce266030239f13d8d808461e910a16ce9d60cf803082470.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",[BD]翡翠
-https://stream1.freetv.fun/44bd1ba645adb14b4f6ea64c0fd9764c02a373898e39bff7c06dc9afe931053d.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",[BD]翡翠[geo-blocked]
-https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/10/20171010210707310138_36.jpg",[HD]香港有线新闻
 https://stream1.freetv.fun/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/10/20171010210707310138_36.jpg",[HD]香港有线新闻
-https://stream1.freetv.fun/1b440a21b089797aecfd8328b5f587036dbeb394a97b3baaaca595ca6692ef93.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png",[SD]香港卫视
 https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png",[SD]香港卫视
-https://stream1.freetv.fun/b6770f832d6bc1d61b9d574880da41458a581489c8922b70c1b4aaa97c3aecc1.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png",[SD]香港卫视
 https://stream1.freetv.fun/e0c8a89afdee0e1edf99b2001ad3611e6e13c966c3014c0eaf898f62d9eab873.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png",[SD]香港卫视
 https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png",[SD]香港卫视
-https://stream1.freetv.fun/b4c0ad6a433dae7305d22d82597e9832344d20a67225391b343adecd024f596f.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806140520886327_26.jpg",[SD]香港電台(34)
-https://stream1.freetv.fun/fff47f95d4dac240120edd29a384c302d30f12642b79e96eab61e8449641f6db.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806140520886327_26.jpg",[SD]香港電台(34)
-https://stream1.freetv.fun/c227f3d71cd6f0d5a4c3eed6b7ba17dcc4ba4fe7bad59c47813d70f5e9eee02d.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235948618467_91.png",[HD]凤凰卫视[geo-blocked]
-https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
-https://stream1.freetv.fun/fd3f587c16496807d24b3f3c58eff10439384428069068b6b822777315cbc5b6.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[SD]凤凰中文
-https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
-https://stream1.freetv.fun/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
-https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文 8m1080[国内频道]
-https://stream1.freetv.fun/459c73f6025193a4ccb431c2f7c7a4569632d7c54f8398fbd1765496d9e84914.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[SD]凤凰中文
 https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
 https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
 https://stream1.freetv.fun/544b45a6ee430683fdf2aef7329b7b277e7827a3a57a57f3700b7fd1b15c5df4.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[VGA]凤凰中文[geo-blocked]
-https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
-https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[HD]中天娱乐
 https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
-https://stream1.freetv.fun/58b90e179939717b2c6501181658ae1f827155a248d59d77d84bd1910da50599.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
-https://stream1.freetv.fun/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
 https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
 https://stream1.freetv.fun/03b8b50959f71c9480228564b4fedbe3cd0927a427d0bc903059a5843cb7c4b6.ctv
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
-https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
 https://stream1.freetv.fun/dfb226a17fb306cc8882209213987bda586dce57054d4f4f0d02a8815f8a5ca1.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",[HD]凤凰卫视香港[geo-blocked]
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",[HD]凤凰卫视香港
 https://stream1.freetv.fun/169d769e40dfe46931c8376b8f2ff9758a3132888a172aae168d6c9a101fe5ea.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png",[BD]澳视澳门
-https://stream1.freetv.fun/56e911076120ba8a4639f7446c639591da9423eba3a14212acc42648d2bfb473.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png",[BD]澳视澳门
-https://stream1.freetv.fun/761b2498f1ab07bec8396c9522c7a99ea7a578c385a305e8f5b11206e635de26.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png",[BD]澳视澳门
-https://stream1.freetv.fun/63dfe0918b34a9c16af1d45637dadb494cac757fc34f97ac4741689288ed84ed.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png",[VGA]澳視澳門[geo-blocked]
-https://stream1.freetv.fun/03548f52945ed6c816a972deb0746e7e30892babff59c022f2927b21ed3baed0.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720154712065553_65.png",[HD]八大港澳台
 https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[HD]台视新闻[geo-blocked]
-https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[VGA]台视新闻[geo-blocked]
-https://stream1.freetv.fun/b0c0549cf360eb0eb5b7a7e216830a23c58b500f575990d31f82871b8bf27d4d.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻
-https://stream1.freetv.fun/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻台
 https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf122255b2140a.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻台
-https://stream1.freetv.fun/96afb8d6fa20bb65a774f91d5caa60abc507e35ade518c7992f5f652cadd0914.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻台
 https://stream1.freetv.fun/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻
@@ -264,15 +172,7 @@ https://stream1.freetv.fun/1e6f4fea556314599d76bcf7a81101aa774142e1bd344e2354f55
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻
 https://stream1.freetv.fun/d3230731a96387dccb11e86bafb66b5715c55e8b3033cbf183d4972995cea362.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻
-https://stream1.freetv.fun/d388b721bbe24174167197bd8df71614187bcb174879a301f1bc24ff2d8d6136.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻 hd
-https://stream1.freetv.fun/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻
 https://stream1.freetv.fun/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻
-https://stream1.freetv.fun/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻
-https://stream1.freetv.fun/eac1d72af640b2368193c724070f1cceb6892b6cb329e871864697f1905af047.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻
 https://stream1.freetv.fun/a68a66899669d90058ad8baacda8c9e59ba8b2c5ab1fb74e50ac7d3bc971e25b.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[BD]台视新闻
@@ -281,17 +181,11 @@ https://stream1.freetv.fun/e44275a32f95c673d1f2a0084465ae30047704adb964b0efc00b7
 https://stream1.freetv.fun/7e38e8d94c527c78eb0b414d29e8100d0bf3f90d5c73ce799795fe3785675319.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223148772098_30.png",[HD]大立電視
 https://stream1.freetv.fun/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/8889e6b27f2bf5143f6c0f3b0ec452f6.jpg",[BD]年代新闻台[geo-blocked]
-https://stream1.freetv.fun/371863f79fd1ca486f1e79e1321bf71096588d0cfb2c433e0f5e8a198966ce29.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/8889e6b27f2bf5143f6c0f3b0ec452f6.jpg",[BD]年代新闻台[geo-blocked]
-https://stream1.freetv.fun/446c4999cadccac81b67f64ed38ac411384023e4bd7ac8b0039cf5d254fed238.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/8889e6b27f2bf5143f6c0f3b0ec452f6.jpg",[BD]年代新闻[geo-blocked]
-https://stream1.freetv.fun/b5ef52c4c0014cd069714f7d908107b3ac6a13150071d27d0829d1ee47cb27e9.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/17/20180217150650283018_64.jpg",[SD]亚洲新闻
 https://stream1.freetv.fun/98eb74ca7a9f28132802504e43b676e6ff74d4a89e623ad4b8e9a92c14b5b287.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/17/20180217150650283018_64.jpg",[BD]东森美洲新闻
 https://stream1.freetv.fun/fa34408ed30b39c93655467bd2bf33e33295f5c28a16ca17dce40d8feacaf17a.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png",[BD]民视新闻 hd
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png",[BD]民视新闻
 https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png",[BD]民視港澳台台
 https://stream1.freetv.fun/37de02efb12a4dc05e13814405a580e6f46b091c993c411e7a95bcac4c41e9b0.m3u8
@@ -303,8 +197,6 @@ https://stream1.freetv.fun/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc5
 https://stream1.freetv.fun/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png",[BD]民视新闻 hd
 https://stream1.freetv.fun/c8bfbc31e5af4b4d07b7222dc9ac9315dd57fbd663daafea3ce611c5bc57cf83.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png",[BD]民视新闻
-https://stream1.freetv.fun/c5164ddd2983de1b83d87250bb921836d47363c90dc4643440e92060c18e98e6.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png",[BD]民视 新闻
 https://stream1.freetv.fun/7270ae89dc1f30cfec2c03d01b6e2fbc50863f60936b534814dfd28caa72181e.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png",[BD]民视新闻
@@ -315,32 +207,10 @@ https://stream1.freetv.fun/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e035539
 https://stream1.freetv.fun/1d469cbfb06b06cde4dc59c21272a4e6da364621e97513d03523c96d0c7afe1e.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png",[BD]民视新闻台
 https://stream1.freetv.fun/75e14c76b6bf52ae5f96e83d07ea3b69008f6b017d18a395b6c6346ef60bcb27.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png",[BD]民视新闻
-https://stream1.freetv.fun/59efca9eea64079ba2ac54830e73469d9a1027e2dfd67d768bd4206567866cdb.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506171601310367_14.png",[BD]民视新闻 hd
-https://stream1.freetv.fun/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162515629145_45.png",[BD]tvbs
-https://stream1.freetv.fun/8367c93681f2d6627b3575b8919e7df4a246630f0640fbf2ccb3f1aa0ff740a4.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162515629145_45.png",[VGA]tvbs[geo-blocked]
-https://stream1.freetv.fun/5ff69e6b2e5eea60dcf5154d7548e6180b5afa05f43fe358ab4084f11eaadf34.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162515629145_45.png",[BD]tvbs
-https://stream1.freetv.fun/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg",[BD]tvbs asia
-https://stream1.freetv.fun/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg",[BD]tvbs aisa
 https://stream1.freetv.fun/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg",[VGA]澳門資訊[geo-blocked]
-https://stream1.freetv.fun/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg",[BD]澳门资讯
-https://stream1.freetv.fun/45db1a0bae9d32dd70fce159b47d886c8fbf6ec5ee57af0e2f91ef017ba73338.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg",[BD]澳门资讯
-https://stream1.freetv.fun/8f5e06164f83ea905f999a68eb8c62711d9b752fc3b984f5a6b07b1b355e210b.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023212524554784_66.jpg",[VGA]東森美洲
 https://stream1.freetv.fun/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005514425865_72.jpg",[BD]东森美洲
-https://stream1.freetv.fun/0d00efefad804953ceb6895831171b42f1a54070a17986d57bb09384afbaf4e1.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005514425865_72.jpg",[BD]东森美洲
-https://stream1.freetv.fun/8b92c1907147a3ce01a1808d6ad0301815d01b26d42246e19fdd3f9a2edd7625.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005514425865_72.jpg",[BD]东森美洲
 https://stream1.freetv.fun/4f75b6abb8483c7acd3ce3b93a088cb93d1be9ec7c8bf4d9137f0f4c3a2076a6.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005514425865_72.jpg",[BD]东森美洲
@@ -354,69 +224,31 @@ https://stream1.freetv.fun/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png",[VGA]東森超視34.5
 https://stream1.freetv.fun/41abf308e03f0e00cf97633b2892d5477b3329bae64920ad101c87398baf61a6.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png",[BD]东森超视
-https://stream1.freetv.fun/422fac3bf2bcfa2a48a698dbd1198c0623bebca0f4b87a03a64f7edffcb54aaf.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png",[BD]东森超视
-https://stream1.freetv.fun/d6d49169b4bd9d092af133265046491f07446ae84f0ca15eda8e6153ed221669.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png",[BD]东森超视
-https://stream1.freetv.fun/bf0c93b73b47a18039f8e42d027ba66e63d7627ddfbfbd47a2ea77784413a4bc.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png",[BD]东森超视
 https://stream1.freetv.fun/d5ffbfe432a7d143ab09b683064d01db744bbf6371c0271eefbcb412a4985caf.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png",[BD]三立港澳台[geo-blocked]
-https://stream1.freetv.fun/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721172453389269_45.png",[HD]三立港澳台[geo-blocked]
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721172453389269_45.png",[HD]三立综合台
 https://stream1.freetv.fun/2c7e0a2ade6453d6a39e4a520da30f2dfe605a24daa05699d7debfbb7d846b01.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221412936937_72.png",[BD]中視[geo-blocked]
-https://stream1.freetv.fun/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221808922798_13.jpg",[BD]中视新闻
-https://stream1.freetv.fun/279682439ae7d95097abfcd5111fd366ad5be7cf7a2b80b9b2587cd19761521f.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155629392519_70.jpg",[BD]taiwan plus tv[geo-blocked]
-https://stream1.freetv.fun/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155629392519_70.jpg",[BD]wuan plus
-https://stream1.freetv.fun/1333a1f41334c1824fd18115bf9b5e2a18f95cbb1611189ac718cb8fe1013d72.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg",[BD]东森新闻[geo-blocked]
-https://stream1.freetv.fun/4e8297ed0610c91e855ddb69d24344baa6b732dd2d1b24ac2e0a71a3d39ca41c.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg",[BD]東森港澳台[geo-blocked]
-https://stream1.freetv.fun/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127002436544853_95.png",[BD]台视新闻 hd
 https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/06/14/large/20230614212503849654_98.png",[BD]民视[geo-blocked]
-https://stream1.freetv.fun/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/28/20161228112746699750_89.jpg",[BD]緯來精采
 https://stream1.freetv.fun/d7fb67b6ad553367e15a443a726eb62c44d1775de9b706ebde77eead8d67ba58.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127002436544853_95.png",[BD]台视新闻 hd
 https://stream1.freetv.fun/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127002436544853_95.png",[BD]台视新闻 hd
 https://stream1.freetv.fun/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg",[BD]華視[geo-blocked]
-https://stream1.freetv.fun/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011449264065_58.jpg",[BD]新闻
-https://stream1.freetv.fun/c173b772297d53c3f72dcf7b7e265b8d5302dde20bf254add3b06e7222484668.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011449264065_58.jpg",[BD]新闻
 https://stream1.freetv.fun/31848cf4aa8b2d512ddda081d2e7408562d92fc54de3e4da2345aa1e549a153c.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011449264065_58.jpg",[BD]新闻
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011449264065_58.jpg",[BD]BBC新闻
 https://stream1.freetv.fun/249a7b012274c4d99a3a9d379f1761b3db2cdcfc5321a24bcd7462682fdd1430.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155808519742_55.jpg",[BD]新闻
-https://stream1.freetv.fun/e9f46bd9382a75cc97aaa461fe70bc32381de5695413f2d1270fc33961d91231.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211901276301_20.png",[BD]靖天國際[geo-blocked]
-https://stream1.freetv.fun/dcc21467149190299377201978c07fafd2a760bfbf01c528688e19e3d49ae5e3.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211628838481_19.png",[BD]靖天港澳台[geo-blocked]
-https://stream1.freetv.fun/ed753fde1a3d74dc5fecbd7c625b4ba1d04a33350b911a43271b6f28a6
-#EXTINF:-1 group-title="港澳台",Dali TV
+#EXTINF:-1 group-title="港澳台",Dali 大力TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="港澳台" ,TVBS欢乐
+#EXTINF:-1 group-title="港澳台",TVBS欢乐
 http://37.27.111.214:8080/live/24/hls.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS欢乐
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="港澳台",澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="港澳台",大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台",东森超视
-http://171.108.239.79:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港澳台",东森超视
-http://171.108.239.80:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="港澳台",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰香港
@@ -425,10 +257,6 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰中文
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-EXTINF:-1 group-title="港澳台",凤凰资讯
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰资讯
 http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰资讯
@@ -495,14 +323,6 @@ https://stream1.freetv.fun/38c0d7024b9467731c3bc25cb67d7571fee8f166295b5606e8390
 https://stream1.freetv.fun/88f463fa409f97502746410d9e9590f5258028705a38873b492f1c9d1b122150.m3u8
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",[SD]douyu movie
 https://stream1.freetv.fun/4fd70d7793fa5083b1f36cae2ff1d7e8fe4b763223651f3cd79ee129c53fd69a.m3u8
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png",[HD]now 星影
-https://stream1.freetv.fun/2239055000429be87a26ed325ac9d1600d3266edf08b5babcf6027280830d751.ctv
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png",[HD]now 星影2
-https://stream1.freetv.fun/9831e46c3cb207aa3da313964067ffe15559a002acadec20acce7bf57969b76f.ctv
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128132020801663_23.jpg",[SD]star plus[geo-blocked]
-https://stream1.freetv.fun/acf89911dcfd14f27f2728da8983c5e869cf479853bcc2984c8152756ee9701a.ctv
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/26/20171126170246733981_44.png",[HD]ช่อง asian action channel
-https://stream1.freetv.fun/17d9dd0abeb5f148a44492d28adf05650641bbc184e6d81e61a2f19cf5ef2fb4.ctv
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png",[HD]美亚电影
 https://stream1.freetv.fun/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.ctv
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105927706804_92.png",[BD]东森洋片
@@ -524,13 +344,9 @@ https://stream1.freetv.fun/93a03cbed75762466910af326fd4ca18aa69c93f658aea592d09d
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",CHC超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",[CHC动作电影
-http://171.108.239.80:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",[CHC动作电影
 http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",[CHC动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",[CHC家庭影院
-http://171.108.239.80:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",[黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",[黑莓电影
@@ -597,10 +413,6 @@ https://stream1.freetv.fun/c3cd3ca8247ddea5e44ca119f668e878189bec8f3e5900df6da55
 https://stream1.freetv.fun/63e9879537d97c1c03d6bf8b53ab33a7c1494327769d230a13815bcb6f2fecb7.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",[BD]tvb plus
 https://stream1.freetv.fun/b996dd550768a18d19dbc153fa89886a83e077c384455daea3beea366092c826.m3u8
-#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",[BD]tvb plus
-https://stream1.freetv.fun/85817057181a8f1bf3f836030ee27b9cc3bbf2fdc5f4977985a4e9b38af2d689.ctv
-#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",[VGA]htvc plus[geo-blocked]
-https://stream1.freetv.fun/dfd4eb201a632e2eb70475fb17b8dacd7195f69c508b997a7bdaa1b3e776cff8.ctv
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",[SD]htvc plus
 https://stream1.freetv.fun/6837179d89fe2d34a93455dc619c0e6f7fd4fc29c36a45f61aedd9bfda84d366.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png",[BD]viutv
@@ -609,8 +421,6 @@ https://stream1.freetv.fun/4b1dd593dbef7dda5679ff12ddcb296b1b4aacaa6180c8e3f386d
 https://stream1.freetv.fun/b1c6f0c8839dadd3d651ab5595f73b6041558c367730f79c48aa631ef5cb73eb.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193559298867_98.png",[BD]viutvsix
 https://stream1.freetv.fun/205dd2177e421abb6ceff1d0f569bdcfaac1d13e27f6f526919ac0397d0ba645.m3u8
-#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112750924244_65.png",[SD]星空衛視
-https://stream1.freetv.fun/4d6218212c494c9898b8a15b7fc8a3dae025bf257c6ef7ea518e4ac0719da009.ctv
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112750924244_65.png",[BD]星空卫视
 https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112750924244_65.png",[SD]星空卫视
@@ -689,8 +499,6 @@ https://stream1.freetv.fun/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc
 https://stream1.freetv.fun/d46e743c8a4b7a0251c7df036f0969c69258d6277c9b661c410762fd7a923791.m3u8
 #EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601220556736344_25.png",[HD]nat geo[geo-blocked]
 https://stream1.freetv.fun/25764ff8977e46f69f07dfd235ef37be6dfbf338c492c45b5092adf631ee4cca.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601220556736344_25.png",[HD]nat geo
-https://stream1.freetv.fun/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
 #EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg",[BD]smithsonian channel
 https://stream1.freetv.fun/b1553b81be58e6846203539f162b4b40c0cc53697d897d9388b42fa7f43f8cae.ctv
 #EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg",[HD]smithsonian
@@ -757,8 +565,6 @@ https://stream1.freetv.fun/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d284475
 https://stream1.freetv.fun/cc02d989176e9fff71dc972773e9b8978c20d1191335cd7a9ad21dd81aaec31c.m3u8
 #EXTINF:-1 group-title="兒童" tvg-logo="https://epg.pw/media/images/channel/2022/10/24/large/20221024221936025013_58.jpg",[BD]東森幼幼台[geo-blocked]
 https://stream1.freetv.fun/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
-#EXTINF:-1 group-title="奧運" tvg-logo="https://epg.pw/media/images/channel/2024/07/27/large/20240727184950327795_32.png",[SD]kttv3
-https://stream1.freetv.fun/cb51ce37e35060ae05fb6978c3c86595068860e8636418b75eebe99495307e43.ctv
 #EXTINF:-1 group-title="奧運" tvg-logo="https://epg.pw/media/images/channel/2024/07/27/large/20240727184950327795_32.png",[HD]ttv[geo-blocked]
 https://stream1.freetv.fun/b0cb10857e5b0bddf8b6a8ca75d36a29563d15c644f1176528d85181687d7df2.m3u8
 #EXTINF:-1 group-title="奧運" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728014702033959_27.png",[BD]tv toruń
@@ -767,8 +573,6 @@ https://stream1.freetv.fun/a3f7b0886396e045987e048ef36063207e6a743db18c6d6df9512
 https://stream1.freetv.fun/482dde6f9ded0ba74b5f8c6a37ee833e248384c9b035219de51eff3de2c6a853.m3u8
 #EXTINF:-1 group-title="世界各国",[PS]Audeh[873*480][873*480]
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
-#EXTINF:-1 group-title="世界各国",[PS]NablusTV
-http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1 group-title="世界各国",[PS]PalestineMubasher[720*404][720*404]
 http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 #EXTINF:-1 group-title="世界各国",[XK]PeaceTVAlbanian(PeaceTVShqip)[640*360][640*360
@@ -781,40 +585,10 @@ http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="世界各国",[德国]1-2-3TV(480p)
 http://123tv.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 group-title="世界各国",[德国]OF-TVOffenbach(720p)
-https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[俄罗斯联邦]UniverTV(576p)
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[俄罗斯联邦]ТВК24[640*360][640*360]
 http://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[哥斯达黎加]Canal88Stereo
-http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]MeerTV(720p)
-https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]MeerTV
-http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]OmroepEde(480p)[854*480][854*480]
-https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]OmroepOnsWestBrabant(480p)[856*480][856*480]
-https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]OmroepP&M(480p)[854*480][854*480]
-https://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]OmroepP&M(480p)[854*480][854*480]
-https://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]OmroepTilburg(480p)[856*480][856*480]
-https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]OmroepTilburg[856*480][856*480]
-https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841_b1894400_slNLD.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]OmroepWest(1080p)
-https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]OpenRotterdam(480p)[854*480][854*480]
-http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]ORTS[854*480][854*480]
-http://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]RTVDordrecht(480p)[854*480][854*480]
-https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]RTVNOF(WEB)(720p)[Not24/7]
-http://593aed234297b.streamlock.net:1935/rtvnof2/live/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[荷兰]RTVNOFTV(720p)
 http://593aed234297b.streamlock.net:1935/rtvnof/rtvnof/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[荷兰]RTVNoordoostFriesland(720p)
@@ -849,8 +623,6 @@ https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[美国]SKWAD (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-#EXTINF:-1 group-title="世界各国",[美国]WhitePlainsCommunityMedia[640*360][640*360]
-http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
 #EXTINF:-1 group-title="世界各国",[美国]Wu Tang Collection
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 #EXTINF:-1 group-title="世界各国",[孟加拉国]EkuseyTV[600*480][600*480]
@@ -865,8 +637,6 @@ http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[土耳其]ÇiftçiTV
 https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[土耳其]DEHATV
-https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[土耳其]GRT
 https://waw2.artiyerelmedya.net/grt/bant1/chunks.m3u8
 #EXTINF:-1 group-title="世界各国",[土耳其]IBBTV(1080p)
@@ -911,10 +681,6 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[意大利]TeleAbruzzo[853*480][853*480]
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[意大利]Videolina(Sardegna)(404p)[704*404][704*404]
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[意大利]Videolina[704*404][704*404]
-http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
 #EXTINF:-1 group-title="世界各国",[印度]9XM(480p)[256*144]
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 group-title="世界各国",[印度]MediaOne(576p)[640*360][640*360]
@@ -987,24 +753,10 @@ https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="世界各国",ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 group-title="世界各国",ABCNews-720P（美国）
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-#EXTINF:-1 group-title="世界各国",ABCnews-720P
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="世界各国",ABP Ananda (720p)
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 group-title="世界各国",ABP Majha (720p)
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:-1 group-title="世界各国",Abu Dhabi Al Oula
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 group-title="世界各国",Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1 group-title="世界各国",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 group-title="世界各国",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 group-title="世界各国",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Asian
@@ -1087,8 +839,6 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Al Iraqiya Al 3ama (720p) [Not 24/7]
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Al Manar (576p)
-https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Aleph News (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Alex Berlin (1080p)
@@ -1101,8 +851,6 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Amazing Discoveries TV [1280*792]
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",AMX Noticias (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Anand TV (720p)
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 group-title="世界各国",Anixe  (720p)
@@ -1135,8 +883,6 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Aurora Arte (480p)
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",ausbiz TV (720p) [Geo-blocked]
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 group-title="世界各国",Avivamiento TV (720p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",AXS TV Now (1080p)
@@ -1199,16 +945,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 group-title="世界各国",Canal 13 La Rioja (480p)
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Canal 2000 La Solana (720p)
-http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 #EXTINF:-1 group-title="世界各国",Canal 8 (720p)
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 group-title="世界各国",Canal Alpha Jura (1080p)
-https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Canal Motor (720p)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="世界各国",Canale 2 Altamura (576p)
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Canale 7 (480p)
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",CANALE 7 (480p)
@@ -1471,8 +1211,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Solidaria TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 group-title="世界各国",Sonus FM Alemania
-http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Sonus FM
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 #EXTINF:-1 group-title="世界各国",Spacetoon
@@ -1493,8 +1231,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTINF:-1 group-title="世界各国",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="世界各国",TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 group-title="世界各国",TVDigitalBirigui(320p)
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 #EXTINF:-1 group-title="世界各国",TVO(CH)
@@ -1571,8 +1307,6 @@ http://msk3.peers.tv/streaming/dom_kino_premium/16/gvh1w/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Думская.TV
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Евразия (Орск)
-http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Звезда
@@ -1583,8 +1317,6 @@ https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",К16 (Саров)
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Катунь 24 (Барнаул)
-https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 group-title="世界各国",Кинозал (VHS 90s)
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="世界各国",Киносвидание
@@ -1645,8 +1377,6 @@ https://stream.ntktv.ua/s/ntk/ntk.m3u8
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",НТС
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",Общественное Независимое Телевидение
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 group-title="世界各国",Остросюжетное HD
 http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/904/index.m3u8
 #EXTINF:-1 group-title="世界各国",ОТР
@@ -1677,8 +1407,6 @@ http://hithd.camsh.orsk.ru/hls/hit.m3u8
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 group-title="世界各国",Ратник
 https://online-video.rbc.ru/online/rbctv.m3u8
-#EXTINF:-1 group-title="世界各国",РБК
-http://e2.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="世界各国",РБК
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="世界各国",РБК
@@ -1799,8 +1527,6 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",德国 MDF.1
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 NRWISION
-https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",德国 OK Dessau
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",德国 OK Magdeburg
@@ -1871,8 +1597,6 @@ http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1 group-title="世界各国",哥斯达黎加 Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",哥斯达黎加 TV Sur Canal 9
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 #EXTINF:-1 group-title="世界各国",韩国-Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",韩国BBS 불교방송
@@ -2013,8 +1737,6 @@ http://news1.live14.com/stream/news1_hi.m3u8
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="世界各国",泰国-公共三台
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="世界各国",土耳其 Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",土耳其 Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",土耳其 TGRT BELGESEL
@@ -2043,14 +1765,10 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 http://tv.hegyvidek.hu/stream_mpeg.flv
 #EXTINF:-1 group-title="世界各国",伊拉克 Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",伊拉克 Dijlah
-http://91.134.145.75:10001/Dijlah/index.m3u8
 #EXTINF:-1 group-title="世界各国",伊拉克 Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",伊朗 Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
-#EXTINF:-1 group-title="世界各国",意大利 Canale 2 Altamura
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
 #EXTINF:-1 group-title="世界各国",意大利 Elive Brescia TV
 http://59d7d6f47d7fc.streamlock.net:1935/elivebresciatv/elivebresciatv/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",意大利 Euro Indie Music Chart TV
@@ -2101,69 +1819,69 @@ https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="实时视频",黟县宏村南湖
 https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,黟县西递牌坊
+#EXTINF:-1 group-title="实时视频",黟县西递牌坊
 https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,黄山卧云峰
+#EXTINF:-1 group-title="实时视频",黄山卧云峰
 https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,黄山排云亭
+#EXTINF:-1 group-title="实时视频",黄山排云亭
 https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,黄山西海大峡谷
+#EXTINF:-1 group-title="实时视频",黄山西海大峡谷
 https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,泰山迎客松
+#EXTINF:-1 group-title="实时视频",泰山迎客松
 https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,泰山玉皇顶
+#EXTINF:-1 group-title="实时视频",泰山玉皇顶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,千佛山
+#EXTINF:-1 group-title="实时视频",千佛山
 https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,武夷山玉女峰
+#EXTINF:-1 group-title="实时视频",武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,水长城镜头一
+#EXTINF:-1 group-title="实时视频",水长城镜头一
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,水长城镜头二
+#EXTINF:-1 group-title="实时视频",水长城镜头二
 https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,滨海新区2
+#EXTINF:-1 group-title="实时视频",滨海新区2
 https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,井冈山
+#EXTINF:-1 group-title="实时视频",井冈山
 https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,远眺万佛顶
+#EXTINF:-1 group-title="实时视频",远眺万佛顶
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,两江四案
+#EXTINF:-1 group-title="实时视频",两江四案
 https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,悬空寺全景
+#EXTINF:-1 group-title="实时视频",悬空寺全景
 https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,火星基地
+#EXTINF:-1 group-title="实时视频",火星基地
 https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,白头叶猴保护区
+#EXTINF:-1 group-title="实时视频",白头叶猴保护区
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,黟县宏村月沼
+#EXTINF:-1 group-title="实时视频",黟县宏村月沼
 https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,婺源江岭1
+#EXTINF:-1 group-title="实时视频",婺源江岭1
 https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,黄山始信峰
+#EXTINF:-1 group-title="实时视频",黄山始信峰
 https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,泰山主峰
+#EXTINF:-1 group-title="实时视频",泰山主峰
 https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,泰山大观峰
+#EXTINF:-1 group-title="实时视频",泰山大观峰
 https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,印象大红袍
+#EXTINF:-1 group-title="实时视频",印象大红袍
 https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,武夷山大红袍茶园
+#EXTINF:-1 group-title="实时视频",武夷山大红袍茶园
 https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,张家界将军列队
+#EXTINF:-1 group-title="实时视频",张家界将军列队
 https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,峨眉云海日出
+#EXTINF:-1 group-title="实时视频",峨眉云海日出
 https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,贡嘎雪山
+#EXTINF:-1 group-title="实时视频",贡嘎雪山
 https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,天涯鸟瞰
+#EXTINF:-1 group-title="实时视频",天涯鸟瞰
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,天涯石
+#EXTINF:-1 group-title="实时视频",天涯石
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,南天一柱
+#EXTINF:-1 group-title="实时视频",南天一柱
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,雪乡梦幻家园
+#EXTINF:-1 group-title="实时视频",雪乡梦幻家园
 https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,嘉峪关长城
+#EXTINF:-1 group-title="实时视频",嘉峪关长城
 https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="实时视频" ,金山
+#EXTINF:-1 group-title="实时视频",金山
 https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
