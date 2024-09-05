@@ -1191,6 +1191,8 @@ http://wouu.net:9977/udp/239.93.0.157:2194
 http://37.27.111.214:8080/live/24/hls.m3u8
 #EXTINF:-1 group-title="港澳台",台湾TVBS欢乐
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
+#EXTINF:-1 group-title="港澳台",台湾TVBS新聞台
+https://gat.zhoujie218.top/litv/4gtv-4gtv072
 #EXTINF:-1 group-title="港澳台",台湾TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png",台湾民视新闻
@@ -1218,13 +1220,25 @@ https://stream1.freetv.fun/e0c8a89afdee0e1edf99b2001ad3611e6e13c966c3014c0eaf898
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png",香港卫视（备2）
 https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",香港凤凰中文
+http://171.110.10.194:8181/tsfile/live/1083_1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",香港凤凰中文
 https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",台湾中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",台湾中天娱乐
 https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",凤凰资讯台
+http://171.110.10.194:8181/tsfile/live/1082_1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",凤凰资讯台
+http://222.217.247.208:8181/tsfile/live/1082_1.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",凤凰资讯测试台
 https://stream1.freetv.fun/dfb226a17fb306cc8882209213987bda586dce57054d4f4f0d02a8815f8a5ca1.ctv
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",凤凰卫视香港
 https://stream1.freetv.fun/169d769e40dfe46931c8376b8f2ff9758a3132888a172aae168d6c9a101fe5ea.m3u8
+#EXTINF:-1 group-title="港澳台",台湾年代新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
+#EXTINF:-1 group-title="港澳台",台湾壹新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720154712065553_65.png",台湾八大港澳台
 https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",台湾台视新闻台
@@ -2881,47 +2895,3 @@ https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
 https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="实时视频",广东-梅州梅江
 http://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
-#EXTINF:-1 group-title="实时视频",越南-黄迈镇的景色
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",波兰-克拉科夫维斯瓦河
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",波兰-维尔日霍斯瓦维采环形交叉路口
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",冰岛-泻湖冰川
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",马尔代夫-Kudafolhudhoo 岛的海滩
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",马尔代夫-Huruelhi 岛全景
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",美国-内华达州弗吉尼亚市C街
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",美国-纽约第五大的屋顶酒吧230欣赏帝国大厦
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",美国-纽约第42街，麦迪逊大街和哈德逊河
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",美国-夏威夷毛伊岛海湾
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",迪拜-公主塔
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",迪拜-公主塔俯瞰迪拜码头
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",开罗-吉萨大金字塔和哈夫拉金字塔
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",开罗-吉萨和哈夫拉大金字塔
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",皮兰-塔蒂尼市政厅和圣乔治大教堂
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",威尼斯-里亚托桥
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",罗马-人民广场
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",罗马-西班牙广场
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",耶路撒冷-西墙
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",加拿大-芬迪湾圣马丁斯海
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",法国-巴黎天际线与万神殿
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
-#EXTINF:-1 group-title="实时视频",法国-巴黎埃菲尔铁塔
-https://hd-auth.skylinewebcams.com/live.m3u8?a=30cpmdpatljk6mtk3ia1r9ivd1
