@@ -117,943 +117,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 group-title="国内频道" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 group-title="地方频道",北京纪实科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 group-title="地方频道",浙江龙泉
-http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江青田
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江松阳
-http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江遂昌
-http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",湖南经视
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=hnjs
-#EXTINF:-1 group-title="地方频道",湖南都市
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=hnds
-#EXTINF:-1 group-title="地方频道",湖南爱晚
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=hngg
-#EXTINF:-1 group-title="地方频道",湖南电视剧
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=hndsj
-#EXTINF:-1 group-title="地方频道",湖南电影
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=hndy
-#EXTINF:-1 group-title="地方频道",湖南娱乐
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=hnyl
-#EXTINF:-1 group-title="地方频道",湖南国际
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=hngj
-#EXTINF:-1 group-title="地方频道",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 group-title="地方频道",延边卫视
-http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-#EXTINF:-1 group-title="地方频道",宿州新闻综合
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-#EXTINF:-1 group-title="地方频道",宿州公共频道
-http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-#EXTINF:-1 group-title="地方频道",宿州科教频道
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-#EXTINF:-1 group-title="地方频道",亳州新闻频道
-http://zbbf2.ahbztv.com/live/416.m3u8
-#EXTINF:-1 group-title="地方频道",亳州农村频道
-http://zbbf2.ahbztv.com/live/418.m3u8
-#EXTINF:-1 group-title="地方频道",滁州新闻综合
-http://live.cztv.cc:85/live/xwpd.m3u8
-#EXTINF:-1 group-title="地方频道",滁州科教频道
-http://live.cztv.cc:85/live/sjpd.m3u8
-#EXTINF:-1 group-title="地方频道",滁州公共频道
-http://live.cztv.cc:85/live/ggpd.m3u8
-#EXTINF:-1 group-title="地方频道",固镇新闻频道
-http://www.guzhenm.com:7001/hls/hd-live.m3u8
-#EXTINF:-1 group-title="地方频道",灵璧综合频道
-http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
-#EXTINF:-1 group-title="地方频道",肥西综合频道
-http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
-#EXTINF:-1 group-title="地方频道",潜山新闻综合
-http://60.171.171.101:8278/rtmp_export/video22.m3u8
-#EXTINF:-1 group-title="地方频道",万州综合频道
-http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1 group-title="地方频道",万州综合频道
-http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1 group-title="地方频道",万州三峡移民
-http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 group-title="地方频道",万州三峡移民
-http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 group-title="地方频道",潼南综合频道
-http://183.230.184.51:65500/tntv1.m3u8
-#EXTINF:-1 group-title="地方频道",江津新闻综合
-http://222.179.155.21:1935/ch1.m3u8
-#EXTINF:-1 group-title="地方频道",垫江综合频道
-http://125.62.24.185:80/1.m3u8
-#EXTINF:-1 group-title="地方频道",武隆综合频道
-https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",荣昌综合频道
-http://183.64.181.25:40023/rongchang01.m3u8
-#EXTINF:-1 group-title="地方频道",漳州一套
-http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-#EXTINF:-1 group-title="地方频道",三明新闻综合
-http://stream.smntv.cn/smtv1/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",三明公共频道
-http://stream.smntv.cn/smtv2/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",武夷山综合频道
-http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",武夷山文旅茶
-http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",广州综合
-http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-#EXTINF:-1 group-title="地方频道",广州南国都市
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzngds
-#EXTINF:-1 group-title="地方频道",广州南国都市
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-#EXTINF:-1 group-title="地方频道",广州影视
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzys
-#EXTINF:-1 group-title="地方频道",广州影视
-http://php.jdshipin.com:8880/gztv.php?id=yingshi
-#EXTINF:-1 group-title="地方频道",河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",番禺综合
-http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-#EXTINF:-1 group-title="地方频道",贺州综合频道
-http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",罗城综合
-http://111.12.75.177:9100/lctvlive/lch.m3u8
-#EXTINF:-1 group-title="地方频道",松桃新闻
-http://live.strmtzx.cn/stxw/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",邯郸新闻综合
-https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
-#EXTINF:-1 group-title="地方频道",邯郸公共频道
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-#EXTINF:-1 group-title="地方频道",邯郸公共频道
-https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",邯郸科技教育
-https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
-#EXTINF:-1 group-title="地方频道",邯郸科技教育
-https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",承德新闻综合
-https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
-#EXTINF:-1 group-title="地方频道",承德新闻综合
-https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",承德公共生活
-https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
-#EXTINF:-1 group-title="地方频道",承德公共生活
-https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",鹿泉一套
-https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
-#EXTINF:-1 group-title="地方频道",鹿泉一套
-https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",鹿泉二套
-https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
-#EXTINF:-1 group-title="地方频道",鹿泉二套
-https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",涉县新闻综合
-https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",深州综合频道
-http://hbsz.chinashadt.com:2036/live/stream:sztv.stream/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",深州综合频道
-http://hbsz.chinashadt.com:2036/live/stream:sztv.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",枣强综合
-http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",昌黎综合频道
-https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",昌黎综合频道
-https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
-#EXTINF:-1 group-title="地方频道",迁安新闻综合
-https://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",迁西综合频道
-https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
-#EXTINF:-1 group-title="地方频道",迁西综合频道
-https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",迁西农业频道
-https://jwliveqxzb.hebyun.com.cn/qxny/qxny.m3u8
-#EXTINF:-1 group-title="地方频道",迁西农业频道
-https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",霸州公共频道
-http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",大厂一套
-http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",永清综合频道
-http://60.10.203.69:8000/0.m3u8
-#EXTINF:-1 group-title="地方频道",永清影视频道
-http://60.10.203.69:8000/4.m3u8
-#EXTINF:-1 group-title="地方频道",清河新闻综合
-https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",清河新闻综合
-https://jwliveqxzb.hebyun.com.cn/qinghe/qinghe.m3u8
-#EXTINF:-1 group-title="地方频道",清河经济综艺
-https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",清河经济综艺
-https://jwliveqxzb.hebyun.com.cn/qinghe1/qinghe1.m3u8
-#EXTINF:-1 group-title="地方频道",青县新闻
-https://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1.m3u8
-#EXTINF:-1 group-title="地方频道",青县新闻
-https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",任丘综合
-https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",任丘文娱
-https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",定州新闻综合
-https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
-#EXTINF:-1 group-title="地方频道",定州新闻综合
-https://jwcdnqx.hebyun.com.cn/live/xxzhpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",定州生活频道
-https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
-#EXTINF:-1 group-title="地方频道",定州生活频道
-https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",涞水新闻频道
-https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
-#EXTINF:-1 group-title="地方频道",涞水新闻频道
-https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",清苑新闻频道
-https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",清苑生活频道
-https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",望都综合频道
-https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
-#EXTINF:-1 group-title="地方频道",望都综合频道
-https://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",丰宁综合频道
-https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
-#EXTINF:-1 group-title="地方频道",丰宁综合频道
-https://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",平泉综合频道
-https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
-#EXTINF:-1 group-title="地方频道",平泉综合频道
-https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",平泉影视频道
-https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-#EXTINF:-1 group-title="地方频道",平泉影视频道
-https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",双滦新闻频道
-https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",双滦影视频道
-https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",兴隆综合频道
-https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",哈尔滨新闻综合
-http://stream.hrbtv.net/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",哈尔滨生活
-http://stream.hrbtv.net/shpd/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",富裕综合
-http://221.209.44.174:1980/hls/1001.m3u8
-#EXTINF:-1 group-title="地方频道",郑州教育频道
-https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
-#EXTINF:-1 group-title="地方频道",焦作综合频道
-http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",焦作公共频道
-http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",开封新闻综合
-http://live.dxhmt.cn:9081/tv/10200-2.m3u8
-#EXTINF:-1 group-title="地方频道",开封新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
-#EXTINF:-1 group-title="地方频道",开封公共频道
-http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-#EXTINF:-1 group-title="地方频道",济源电视一套
-http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-#EXTINF:-1 group-title="地方频道",永城新闻
-http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
-#EXTINF:-1 group-title="地方频道",永城新闻
-http://live.dxhmt.cn:9081/tv/11481-1.m3u8
-#EXTINF:-1 group-title="地方频道",登封综合频道
-http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-#EXTINF:-1 group-title="地方频道",登封综合频道
-http://live.dxhmt.cn:9081/tv/10185-1.m3u8
-#EXTINF:-1 group-title="地方频道",巩义新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
-#EXTINF:-1 group-title="地方频道",巩义新闻综合
-http://live.dxhmt.cn:9081/tv/10181-1.m3u8
-#EXTINF:-1 group-title="地方频道",上街电视台
-http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
-#EXTINF:-1 group-title="地方频道",新密新闻频道
-http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
-#EXTINF:-1 group-title="地方频道",新密新闻频道
-http://live.dxhmt.cn:9081/tv/10183-2.m3u8
-#EXTINF:-1 group-title="地方频道",新郑综合频道
-http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 group-title="地方频道",新郑综合频道
-http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 group-title="地方频道",宝丰综合频道
-http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
-#EXTINF:-1 group-title="地方频道",宝丰综合频道
-http://live.dxhmt.cn:9081/tv/10421-1.m3u8
-#EXTINF:-1 group-title="地方频道",郏县综合频道
-http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
-#EXTINF:-1 group-title="地方频道",郏县综合频道
-http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-#EXTINF:-1 group-title="地方频道",鲁山综合频道
-http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
-#EXTINF:-1 group-title="地方频道",鲁山综合频道
-http://live.dxhmt.cn:9081/tv/10423-1.m3u8
-#EXTINF:-1 group-title="地方频道",舞钢新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
-#EXTINF:-1 group-title="地方频道",舞钢新闻综合
-http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-#EXTINF:-1 group-title="地方频道",叶县一套
-http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-#EXTINF:-1 group-title="地方频道",叶县一套
-http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-#EXTINF:-1 group-title="地方频道",栾川新闻频道
-http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
-#EXTINF:-1 group-title="地方频道",栾川新闻频道
-http://live.dxhmt.cn:9081/tv/10324-1.m3u8
-#EXTINF:-1 group-title="地方频道",孟津新闻频道
-http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
-#EXTINF:-1 group-title="地方频道",孟津新闻频道
-http://live.dxhmt.cn:9081/tv/10322-2.m3u8
-#EXTINF:-1 group-title="地方频道",汝阳综合频道
-http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
-#EXTINF:-1 group-title="地方频道",汝阳综合频道
-http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-#EXTINF:-1 group-title="地方频道",嵩县综合新闻
-http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
-#EXTINF:-1 group-title="地方频道",嵩县综合新闻
-http://live.dxhmt.cn:9081/tv/10325-1.m3u8
-#EXTINF:-1 group-title="地方频道",新安新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
-#EXTINF:-1 group-title="地方频道",新安新闻综合
-http://live.dxhmt.cn:9081/tv/10323-1.m3u8
-#EXTINF:-1 group-title="地方频道",偃师新闻频道
-http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
-#EXTINF:-1 group-title="地方频道",偃师新闻频道
-http://live.dxhmt.cn:9081/tv/10381-1.m3u8
-#EXTINF:-1 group-title="地方频道",宜阳综合频道
-http://live.dxhmt.cn:9081/tv/10327-1.m3u8
-#EXTINF:-1 group-title="地方频道",宜阳综合频道
-http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
-#EXTINF:-1 group-title="地方频道",孟州综合
-http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1 group-title="地方频道",孟州综合
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1 group-title="地方频道",沁阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
-#EXTINF:-1 group-title="地方频道",沁阳新闻综合
-http://live.dxhmt.cn:9081/tv/10882-1.m3u8
-#EXTINF:-1 group-title="地方频道",温县综合
-http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
-#EXTINF:-1 group-title="地方频道",温县综合
-http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-#EXTINF:-1 group-title="地方频道",武陟新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
-#EXTINF:-1 group-title="地方频道",武陟新闻综合
-http://live.dxhmt.cn:9081/tv/10823-1.m3u8
-#EXTINF:-1 group-title="地方频道",邓州新闻
-http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
-#EXTINF:-1 group-title="地方频道",邓州新闻
-http://live.dxhmt.cn:9081/tv/11381-1.m3u8
-#EXTINF:-1 group-title="地方频道",方城一套
-http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
-#EXTINF:-1 group-title="地方频道",方城一套
-http://live.dxhmt.cn:9081/tv/11322-1.m3u8
-#EXTINF:-1 group-title="地方频道",内乡综合
-http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
-#EXTINF:-1 group-title="地方频道",内乡综合
-http://live.dxhmt.cn:9081/tv/11325-1.m3u8
-#EXTINF:-1 group-title="地方频道",唐河一套
-http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
-#EXTINF:-1 group-title="地方频道",唐河一套
-http://live.dxhmt.cn:9081/tv/11328-1.m3u8
-#EXTINF:-1 group-title="地方频道",淅川综合
-http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
-#EXTINF:-1 group-title="地方频道",淅川综合
-http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-#EXTINF:-1 group-title="地方频道",新野综合
-http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
-#EXTINF:-1 group-title="地方频道",新野综合
-http://live.dxhmt.cn:9081/tv/11329-1.m3u8
-#EXTINF:-1 group-title="地方频道",镇平新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
-#EXTINF:-1 group-title="地方频道",镇平新闻综合
-http://live.dxhmt.cn:9081/tv/11324-1.m3u8
-#EXTINF:-1 group-title="地方频道",郸城新闻综合
-http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-#EXTINF:-1 group-title="地方频道",郸城新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
-#EXTINF:-1 group-title="地方频道",扶沟综合频道
-http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
-#EXTINF:-1 group-title="地方频道",扶沟综合频道
-http://live.dxhmt.cn:9081/tv/11621-1.m3u8
-#EXTINF:-1 group-title="地方频道",鹿邑新闻频道
-http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
-#EXTINF:-1 group-title="地方频道",鹿邑新闻频道
-http://live.dxhmt.cn:9081/tv/11628-1.m3u8
-#EXTINF:-1 group-title="地方频道",沈丘新闻综合
-http://live.dxhmt.cn:9081/tv/11624-1.m3u8
-#EXTINF:-1 group-title="地方频道",沈丘新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
-#EXTINF:-1 group-title="地方频道",太康综合
-http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
-#EXTINF:-1 group-title="地方频道",太康综合
-http://live.dxhmt.cn:9081/tv/11627-1.m3u8
-#EXTINF:-1 group-title="地方频道",项城新闻
-http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-#EXTINF:-1 group-title="地方频道",项城新闻
-http://live.dxhmt.cn:9081/tv/11681-1.m3u8
-#EXTINF:-1 group-title="地方频道",西华综合频道
-http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
-#EXTINF:-1 group-title="地方频道",西华综合频道
-http://live.dxhmt.cn:9081/tv/11622-1.m3u8
-#EXTINF:-1 group-title="地方频道",兰考新闻频道
-http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-#EXTINF:-1 group-title="地方频道",兰考新闻频道
-http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-#EXTINF:-1 group-title="地方频道",杞县新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
-#EXTINF:-1 group-title="地方频道",杞县新闻综合
-http://live.dxhmt.cn:9081/tv/10221-1.m3u8
-#EXTINF:-1 group-title="地方频道",通许综合频道
-http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
-#EXTINF:-1 group-title="地方频道",通许综合频道
-http://live.dxhmt.cn:9081/tv/10222-1.m3u8
-#EXTINF:-1 group-title="地方频道",尉氏综合频道
-http://tvpull.dxhmt.cn:9081/tv/10223-1.m3u8
-#EXTINF:-1 group-title="地方频道",尉氏综合频道
-http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-#EXTINF:-1 group-title="地方频道",临颍综合频道
-http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
-#EXTINF:-1 group-title="地方频道",临颍综合频道
-http://live.dxhmt.cn:9081/tv/11122-1.m3u8
-#EXTINF:-1 group-title="地方频道",舞阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
-#EXTINF:-1 group-title="地方频道",舞阳新闻综合
-http://live.dxhmt.cn:9081/tv/11121-1.m3u8
-#EXTINF:-1 group-title="地方频道",泌阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
-#EXTINF:-1 group-title="地方频道",泌阳新闻综合
-http://live.dxhmt.cn:9081/tv/11726-1.m3u8
-#EXTINF:-1 group-title="地方频道",平舆综合
-http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
-#EXTINF:-1 group-title="地方频道",平舆综合
-http://live.dxhmt.cn:9081/tv/11723-1.m3u8
-#EXTINF:-1 group-title="地方频道",确山综合
-http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
-#EXTINF:-1 group-title="地方频道",确山综合
-http://live.dxhmt.cn:9081/tv/11725-1.m3u8
-#EXTINF:-1 group-title="地方频道",上蔡综合
-http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
-#EXTINF:-1 group-title="地方频道",上蔡综合
-http://live.dxhmt.cn:9081/tv/11722-1.m3u8
-#EXTINF:-1 group-title="地方频道",遂平一套
-http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
-#EXTINF:-1 group-title="地方频道",遂平一套
-http://live.dxhmt.cn:9081/tv/11728-1.m3u8
-#EXTINF:-1 group-title="地方频道",新蔡综合
-http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
-#EXTINF:-1 group-title="地方频道",新蔡综合
-http://live.dxhmt.cn:9081/tv/11729-1.m3u8
-#EXTINF:-1 group-title="地方频道",西平综合
-http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8
-#EXTINF:-1 group-title="地方频道",西平综合
-http://live.dxhmt.cn:9081/tv/11721-1.m3u8
-#EXTINF:-1 group-title="地方频道",长垣综合频道
-http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
-#EXTINF:-1 group-title="地方频道",长垣综合频道
-http://live.dxhmt.cn:9081/tv/10728-1.m3u8
-#EXTINF:-1 group-title="地方频道",封丘新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
-#EXTINF:-1 group-title="地方频道",封丘新闻综合
-http://live.dxhmt.cn:9081/tv/10727-1.m3u8
-#EXTINF:-1 group-title="地方频道",获嘉综合频道
-http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
-#EXTINF:-1 group-title="地方频道",获嘉综合频道
-http://live.dxhmt.cn:9081/tv/10724-1.m3u8
-#EXTINF:-1 group-title="地方频道",辉县新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
-#EXTINF:-1 group-title="地方频道",辉县新闻综合
-http://live.dxhmt.cn:9081/tv/10782-1.m3u8
-#EXTINF:-1 group-title="地方频道",卫辉综合频道
-http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
-#EXTINF:-1 group-title="地方频道",卫辉综合频道
-http://live.dxhmt.cn:9081/tv/10781-1.m3u8
-#EXTINF:-1 group-title="地方频道",新乡县电视台
-http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-#EXTINF:-1 group-title="地方频道",新乡县电视台
-http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-#EXTINF:-1 group-title="地方频道",延津综合频道
-http://tvpull.dxhmt.cn:9081/tv/10726-1.m3u8
-#EXTINF:-1 group-title="地方频道",延津综合频道
-http://live.dxhmt.cn:9081/tv/10726-1.m3u8
-#EXTINF:-1 group-title="地方频道",原阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
-#EXTINF:-1 group-title="地方频道",原阳新闻综合
-http://live.dxhmt.cn:9081/tv/10725-1.m3u8
-#EXTINF:-1 group-title="地方频道",灵宝新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
-#EXTINF:-1 group-title="地方频道",灵宝新闻综合
-http://live.dxhmt.cn:9081/tv/11282-1.m3u8
-#EXTINF:-1 group-title="地方频道",卢氏综合频道
-http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
-#EXTINF:-1 group-title="地方频道",卢氏综合频道
-http://live.dxhmt.cn:9081/tv/11224-1.m3u8
-#EXTINF:-1 group-title="地方频道",渑池新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
-#EXTINF:-1 group-title="地方频道",渑池新闻综合
-http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-#EXTINF:-1 group-title="地方频道",义马新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
-#EXTINF:-1 group-title="地方频道",义马新闻综合
-http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-#EXTINF:-1 group-title="地方频道",安阳县新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8
-#EXTINF:-1 group-title="地方频道",安阳县新闻综合
-http://live.dxhmt.cn:9081/tv/10522-1.m3u8
-#EXTINF:-1 group-title="地方频道",滑县新闻
-http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
-#EXTINF:-1 group-title="地方频道",滑县新闻
-http://live.dxhmt.cn:9081/tv/10526-1.m3u8
-#EXTINF:-1 group-title="地方频道",林州综合
-http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
-#EXTINF:-1 group-title="地方频道",林州综合
-http://live.dxhmt.cn:9081/tv/10581-1.m3u8
-#EXTINF:-1 group-title="地方频道",内黄综合频道
-http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1 group-title="地方频道",汤阴综合
-http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
-#EXTINF:-1 group-title="地方频道",汤阴综合
-http://live.dxhmt.cn:9081/tv/10523-1.m3u8
-#EXTINF:-1 group-title="地方频道",淇县电视台
-http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
-#EXTINF:-1 group-title="地方频道",淇县电视台
-http://live.dxhmt.cn:9081/tv/10622-1.m3u8
-#EXTINF:-1 group-title="地方频道",浚县一套
-http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
-#EXTINF:-1 group-title="地方频道",浚县一套
-http://live.dxhmt.cn:9081/tv/10621-1.m3u8
-#EXTINF:-1 group-title="地方频道",范县新闻综合
-http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
-#EXTINF:-1 group-title="地方频道",南乐综合频道
-http://tvpull.dxhmt.cn:9081/tv/10923-1.m3u8
-#EXTINF:-1 group-title="地方频道",南乐综合频道
-http://live.dxhmt.cn:9081/tv/10923-1.m3u8
-#EXTINF:-1 group-title="地方频道",光山综合频道
-http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
-#EXTINF:-1 group-title="地方频道",光山综合频道
-http://live.dxhmt.cn:9081/tv/11522-1.m3u8
-#EXTINF:-1 group-title="地方频道",固始综合频道
-http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
-#EXTINF:-1 group-title="地方频道",固始综合频道
-http://live.dxhmt.cn:9081/tv/11525-1.m3u8
-#EXTINF:-1 group-title="地方频道",淮滨综合频道
-http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-#EXTINF:-1 group-title="地方频道",淮滨综合频道
-http://live.dxhmt.cn:9081/tv/11527-1.m3u8
-#EXTINF:-1 group-title="地方频道",潢川综合频道
-http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-#EXTINF:-1 group-title="地方频道",潢川综合频道
-http://live.dxhmt.cn:9081/tv/11526-1.m3u8
-#EXTINF:-1 group-title="地方频道",罗山综合频道
-http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
-#EXTINF:-1 group-title="地方频道",罗山综合频道
-http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-#EXTINF:-1 group-title="地方频道",商城新闻频道
-http://tvpull.dxhmt.cn:9081/tv/11524-1.m3u8
-#EXTINF:-1 group-title="地方频道",商城新闻频道
-http://live.dxhmt.cn:9081/tv/11524-1.m3u8
-#EXTINF:-1 group-title="地方频道",新县综合频道
-http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-#EXTINF:-1 group-title="地方频道",新县综合频道
-http://live.dxhmt.cn:9081/tv/11523-1.m3u8
-#EXTINF:-1 group-title="地方频道",建安综合频道
-http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 group-title="地方频道",建安综合频道
-http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 group-title="地方频道",襄城综合频道
-http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
-#EXTINF:-1 group-title="地方频道",襄城综合频道
-http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-#EXTINF:-1 group-title="地方频道",鄢陵综合频道
-http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-#EXTINF:-1 group-title="地方频道",鄢陵综合频道
-http://live.dxhmt.cn:9081/tv/11024-1.m3u8
-#EXTINF:-1 group-title="地方频道",禹州综合
-http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
-#EXTINF:-1 group-title="地方频道",禹州综合
-http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-#EXTINF:-1 group-title="地方频道",荆门新闻综合
-http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",荆门教育频道
-http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",荆门公共频道
-http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",孝感公共频道
-http://live.yingxi.tv/channel1/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",江夏新闻综合
-http://59.175.226.142:280/gb28181/xwzh.m3u8
-#EXTINF:-1 group-title="地方频道",湘潭新闻综合
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",湘潭公共频道
-http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方频道",连云港公共频道
-http://live.lyg1.com/ggpd/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",张家港新闻综合
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",张家港民生频道
-http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",如东新闻综合
-http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
-#EXTINF:-1 group-title="地方频道",溧水新闻综合
-http://live.lsrmw.cn/zhpd/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",溧水影视娱乐
-http://live.lsrmw.cn/ysyl/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",金湖新闻综合
-http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
-#EXTINF:-1 group-title="地方频道",武进新闻频道
-https://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 group-title="地方频道",武进生活频道
-https://live.wjyanghu.com/live/CH2.m3u8
-#EXTINF:-1 group-title="地方频道",新沂新闻频道
-http://live.xysrmt.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",新沂生活频道
-http://live.xysrmt.cn/shpd/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",泗洪新闻综合
-http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
-#EXTINF:-1 group-title="地方频道",句容新闻综合
-http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",句容生活频道
-http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",句容影视频道
-http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",句容党建频道
-http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",睢宁综合频道
-http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
-#EXTINF:-1 group-title="地方频道",靖江新闻综合
-http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",靖江新闻综合
-http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",高邮综合频道
-http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
-#EXTINF:-1 group-title="地方频道",鄱阳综合
-http://pili-live-hls.poyang.jxxw.com.cn/pyxrmtzx/poyang.m3u8
-#EXTINF:-1 group-title="地方频道",万载综合频道
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",延边朝鲜语综合
-http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
-#EXTINF:-1 group-title="地方频道",延边汉语综合
-http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
-#EXTINF:-1 group-title="地方频道",延边汉语综合
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 group-title="地方频道",松原公共频道
-http://stream8.jlntv.cn/sytv2/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",长白山电视台
-http://stream8.jlntv.cn/cbstv/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",德惠综合
-http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",九台综合
-http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",双阳综合
-http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",江源综合频道
-http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",靖宇综合频道
-http://stream8.jlntv.cn/jytv/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",敦化一套
-http://stream8.jlntv.cn/dhtv/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",珲春新闻综合
-http://stream8.jlntv.cn/hctv/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",龙井综合
-http://stream8.jlntv.cn/ljtv/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",桦甸综合
-http://stream10.jlntv.cn/huadian/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",磐石综合
-http://stream5.jlntv.cn/ps/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",舒兰新闻综合
-http://stream8.jlntv.cn/shulan/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",永吉综合频道
-http://stream10.jlntv.cn/yongji/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",东丰综合
-http://stream5.jlntv.cn/df/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",东辽综合
-http://stream5.jlntv.cn/dl/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",双辽综合
-http://stream5.jlntv.cn/sl/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",辉南新闻综合
-http://stream5.jlntv.cn/hn/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",柳河综合
-http://stream5.jlntv.cn/lh/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",通化县综合
-http://stream5.jlntv.cn/thx/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",汪清综合
-http://stream5.jlntv.cn/wq/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",乌兰察布新闻综合
-http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",乌兰察布经济生活
-http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",乌兰察布生活频道
-http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",达茂综合频道
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162426298237692.m3u8
-#EXTINF:-1 group-title="地方频道",固阳综合频道
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
-#EXTINF:-1 group-title="地方频道",克旗综合频道
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live159582155321721.m3u8
-#EXTINF:-1 group-title="地方频道",元宝山综合
-http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6-1.m3u8
-#EXTINF:-1 group-title="地方频道",突泉综合频道
-http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live163886991032759.m3u8
-#EXTINF:-1 group-title="地方频道",库伦旗电视台
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161942247484390.m3u8
-#EXTINF:-1 group-title="地方频道",奈曼旗电视台
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161888593025926.m3u8
-#EXTINF:-1 group-title="地方频道",准格尔旗电视台
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161802828375549.m3u8
-#EXTINF:-1 group-title="地方频道",鄂托克旗电视台
-http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-#EXTINF:-1 group-title="地方频道",察右前旗综合
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160073959279435.m3u8
-#EXTINF:-1 group-title="地方频道",鄂温克电视台
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m3u8
-#EXTINF:-1 group-title="地方频道",宁夏经济
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=7
-#EXTINF:-1 group-title="地方频道",青海经视
-http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
-#EXTINF:-1 group-title="地方频道",青海都市
-http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
-#EXTINF:-1 group-title="地方频道",西宁新闻综合
-https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 group-title="地方频道",西宁生活服务
-http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",西宁生活服务
-https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-#EXTINF:-1 group-title="地方频道",囊谦综合
-http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
-#EXTINF:-1 group-title="地方频道",门源综合
-http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
-#EXTINF:-1 group-title="地方频道",祁连综合
-http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
-#EXTINF:-1 group-title="地方频道",贵南综合
-http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
-#EXTINF:-1 group-title="地方频道",化隆综合
-http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
-#EXTINF:-1 group-title="地方频道",民和综合
-http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
-#EXTINF:-1 group-title="地方频道",安康公共频道
-http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
-#EXTINF:-1 group-title="地方频道",安康教育频道
-http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakjypd.m3u8
-#EXTINF:-1 group-title="地方频道",青岛城阳频道
-http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8
-#EXTINF:-1 group-title="地方频道",烟台新闻综合
-http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
-#EXTINF:-1 group-title="地方频道",烟台公共频道
-http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
-#EXTINF:-1 group-title="地方频道",烟台经济科技
-http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
-#EXTINF:-1 group-title="地方频道",烟台影视频道
-http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-#EXTINF:-1 group-title="地方频道",枣庄新闻综合
-http://stream.zztvzd.com/1/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",枣庄教育频道
-http://stream.zztvzd.com/2/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",枣庄公共频道
-http://stream.zztvzd.com/3/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",东营综合频道
-http://stream.hhek.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",东营公共频道
-http://stream.hhek.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",东营科教频道
-http://stream.hhek.cn/dyjy/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",青州综合频道
-http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",青州文化旅游
-http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",点掌财经
-https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",晋城新闻
-http://live.jinnews.com.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",晋城公共
-http://live.jinnews.com.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",运城新闻综合
-http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
-#EXTINF:-1 group-title="地方频道",运城公共频道
-http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
-#EXTINF:-1 group-title="地方频道",运城科技教育
-http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
-#EXTINF:-1 group-title="地方频道",晋中新闻频道
-http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-#EXTINF:-1 group-title="地方频道",晋中新闻频道
-http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
-#EXTINF:-1 group-title="地方频道",晋中公共频道
-http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-#EXTINF:-1 group-title="地方频道",晋中公共频道
-http://jzdb.jztvnews.com:83/live/mount_for_ts/jzgg.m3u8
-#EXTINF:-1 group-title="地方频道",晋中综合频道
-http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-#EXTINF:-1 group-title="地方频道",壶关电视台
-http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
-#EXTINF:-1 group-title="地方频道",黎城综合频道
-http://111.53.96.67:8081/live/1/index.m3u8
-#EXTINF:-1 group-title="地方频道",武乡新闻综合
-http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
-#EXTINF:-1 group-title="地方频道",武乡新闻综合
-http://60.220.198.84:81/0.m3u8
-#EXTINF:-1 group-title="地方频道",长子综合频道
-http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
-#EXTINF:-1 group-title="地方频道",怀仁综合频道
-http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
-#EXTINF:-1 group-title="地方频道",平鲁综合频道
-https://stream.icelook.cn/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
-#EXTINF:-1 group-title="地方频道",潞城新闻综合
-http://59.48.42.6:62204/lucheng.m3u8
-#EXTINF:-1 group-title="地方频道",汾西综合
-https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
-#EXTINF:-1 group-title="地方频道",吉县新闻综合
-http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
-#EXTINF:-1 group-title="地方频道",襄汾综合
-http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8
-#EXTINF:-1 group-title="地方频道",翼城综合
-http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",临猗综合频道
-http://pili-live-hls.lyzx.live.chinacici.cn/lyrmt/ceshi-ly.m3u8
-#EXTINF:-1 group-title="地方频道",原平综合
-http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
-#EXTINF:-1 group-title="地方频道",高平综合频道
-http://live.gprmt.cn/gpnews/hd/live.m3u8
-#EXTINF:-1 group-title="地方频道",广安新闻综合
-http://live1.gatv.com.cn:85/live/XWZH.m3u8
-#EXTINF:-1 group-title="地方频道",广安公共频道
-http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
-#EXTINF:-1 group-title="地方频道",达州新闻综合
-http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
-#EXTINF:-1 group-title="地方频道",达州公共频道
-http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
-#EXTINF:-1 group-title="地方频道",达州通川频道
-http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
-#EXTINF:-1 group-title="地方频道",泸州新闻综合
-http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",泸州公共频道
-http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",泸州科教频道
-http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",凉山彝语频道
-http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",自贡综合频道
-http://110.189.153.160:1001/zhpd.flv
-#EXTINF:-1 group-title="地方频道",自贡公共频道
-http://110.189.153.160:1002/ggpd.flv
-#EXTINF:-1 group-title="地方频道",德阳新闻综合
-http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",甘孜综合频道
-http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
-#EXTINF:-1 group-title="地方频道",双流综合频道
-http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
-#EXTINF:-1 group-title="地方频道",渠县新闻综合
-http://222.208.224.227:81/hls/cfp2p8m3.m3u8
-#EXTINF:-1 group-title="地方频道",渠县城市公共
-http://222.208.224.227:81/hls/8ishqdtt.m3u8
-#EXTINF:-1 group-title="地方频道",南部新闻综合
-http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
-#EXTINF:-1 group-title="地方频道",营山电视台
-http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",黑水新闻综合
-http://live.schstv.com:90/live/xwzh.m3u8
-#EXTINF:-1 group-title="地方频道",金川新闻综合
-http://live.jinchuanrmt.com:90/live/zhxw.m3u8
-#EXTINF:-1 group-title="地方频道",金川新闻综合
-http://139.203.180.9:90/live/zhxw.m3u8
-#EXTINF:-1 group-title="地方频道",金川乡村频道
-http://live.jinchuanrmt.com:90/live/jcxc.m3u8
-#EXTINF:-1 group-title="地方频道",金川乡村频道
-http://139.203.180.9:90/live/jcxc.m3u8
-#EXTINF:-1 group-title="地方频道",松潘新闻综合
-http://live.spccmc.com:90/live/spxwzh.m3u8
-#EXTINF:-1 group-title="地方频道",汶川新闻综合
-http://live.iwcmt.cn:90/live/zhxw.m3u8
-#EXTINF:-1 group-title="地方频道",马尔康综合频道
-http://live.zmmek.com:90/live/zhxw.m3u8
-#EXTINF:-1 group-title="地方频道",利州综合频道
-http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",利州综合频道
-http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
-#EXTINF:-1 group-title="地方频道",青神综合频道
-http://lmt.scqstv.com/live1/live1.m3u8
-#EXTINF:-1 group-title="地方频道",乐至综合频道
-http://175.155.106.72:89/live1/live1.m3u8
-#EXTINF:-1 group-title="地方频道",会东综合频道
-http://112.45.133.129:90/live/xwzh.m3u8
-#EXTINF:-1 group-title="地方频道",会东综合频道
-http://live.schdxww.com:90/live/xwzh.m3u8
-#EXTINF:-1 group-title="地方频道",雷波综合频道
-http://lbzb.yd-data.com/live/0000.flv?auth_key=601589378470-0-0-67d1de5fa3aa9412566d7c9f807c91a0
-#EXTINF:-1 group-title="地方频道",康定新闻综合
-http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",夹江新闻综合
-http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",泸县新闻综合
-http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",纳溪新闻频道
-https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
-#EXTINF:-1 group-title="地方频道",武胜综合频道
-http://live2.gatv.com.cn:86/live/WS.m3u8
-#EXTINF:-1 group-title="地方频道",三台电视一套
-http://125.65.94.91:12351/live
-#EXTINF:-1 group-title="地方频道",三台电视二套
-http://125.65.94.91:12353/live
-#EXTINF:-1 group-title="地方频道",津南一套
-http://play.jinnantv.top/live/JNTV1.m3u8
-#EXTINF:-1 group-title="地方频道",伊犁汉语综合
-http://110.153.180.106:55555/out_1/index.m3u8
-#EXTINF:-1 group-title="地方频道",伊犁维吾尔
-http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 group-title="地方频道",伊犁哈萨克
-http://110.153.180.106:55555/out_3/index.m3u8
-#EXTINF:-1 group-title="地方频道",伊犁经济法制
-http://110.153.180.106:55555/out_4/index.m3u8
-#EXTINF:-1 group-title="地方频道",裕民汉语
-http://117.190.130.4:8081/out_1/index.m3u8
-#EXTINF:-1 group-title="地方频道",裕民哈语
-http://117.190.130.4:8081/out_2/index.m3u8
-#EXTINF:-1 group-title="地方频道",吉木萨尔综合
-http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8
-#EXTINF:-1 group-title="地方频道",奎屯汉语综合
-http://218.84.12.186:8001/hls/main/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",奎屯哈萨克语
-http://218.84.12.186:8002/hls/main/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",九师电视台
-https://liveout.btzx.com.cn/3pyc0h/dbfvwu.m3u8
-#EXTINF:-1 group-title="地方频道",可克达拉综合
-http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",石河子新闻综合
-http://124.88.144.73:1935/live/xwzh/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",石河子影视文体
-http://124.88.144.73:1935/live/jjsh/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",拉萨汉语综合
-http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",拉萨藏语综合
-http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",拉萨文旅频道
-http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel3/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",文山州新闻综合
-http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-#EXTINF:-1 group-title="地方频道",文山州新闻综合
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",文山州公共
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",西双版纳综合
-http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",西双版纳公共
-http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",怒江新闻综合
-http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
-#EXTINF:-1 group-title="地方频道",福贡综合
-http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8
-#EXTINF:-1 group-title="地方频道",麻栗坡电视台
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",麻栗坡电视台
-http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
-#EXTINF:-1 group-title="地方频道",绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
-#EXTINF:-1 group-title="地方频道",绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1 group-title="地方频道",绍兴公共频道
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 group-title="地方频道",绍兴文化影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 group-title="地方频道",武义新闻综合
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",平湖新闻综合
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",平湖民生休闲
-http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-#EXTINF:-1 group-title="地方频道",萧山新闻综合
+
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 group-title="地方频道",萧山生活频道
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
@@ -1079,8 +143,6 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 group-title="地方频道",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 group-title="地方频道",兰溪新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 #EXTINF:-1 group-title="地方频道",德清文化生活
 http://live.yingxi.tv/channel2/sd/live.m3u8
 #EXTINF:-1 group-title="地方频道",苍南新闻综合
@@ -1117,18 +179,10 @@ http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 #EXTINF:-1 group-title="地方频道",缙云综合频道
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",龙泉新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1 group-title="地方频道",庆元综合频道
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",遂昌综合频道
-http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",松阳综合频道
-http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 #EXTINF:-1 group-title="地方频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",青田电视台
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 group-title="国际时事" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="国际时事" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png",CNA
@@ -1155,56 +209,16 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 #EXTINF:-1 group-title="国际时事" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/",KBS world
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135716055628_86.jpg",香港c+
-https://stream1.freetv.fun/8809ef652c64001910cceaa72e6190b5bfe53d1f7478b98f2bcac0531f8c436d.m3u8
-#EXTINF:-1 group-title="港澳台",香港翡翠台
-http://free.xiptv.x10.bz/kudou.php?id=188
-#EXTINF:-1 group-title="港澳台",香港翡翠台（备1）
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct2
-#EXTINF:-1 group-title="港澳台",香港翡翠台（备2）
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-#EXTINF:-1 group-title="港澳台",香港翡翠台（备3）
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct4
-#EXTINF:-1 group-title="港澳台", tvg-logo="https://upload.112114.xyz/logo/TVB4.png" ,TVB无线新闻
-http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="港澳台", tvg-logo="https://upload.112114.xyz/logo/TVB5.png" ,TVB无线财经
-http://live.cooltv.top/tv/tvb.php?id=2&hq
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://live.cooltv.top/logo/31.png",香港RTHK31
-http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://live.cooltv.top/logo/32.png",香港RTHK32
-http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",香港rthk33
 https://stream1.freetv.fun/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/08/22/large/20220822225312895053_10.png",香港rthk34
-https://stream1.freetv.fun/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/08/22/large/20220822225312895053_10.png",香港rthk34台
-https://stream1.freetv.fun/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
-#EXTINF:-1 group-title="港澳台",香港V2BEAT
-http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",香港TVB星
-https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",香港TVB星河（备1）
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",香港凤凰资讯
-http://61.130.232.37:8889/udp/233.50.200.192:5140
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",香港凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",香港凤凰香港
-http://www.lebaobei.top:6868/udp/239.255.30.123:8231
 #EXTINF:-1 group-title="港澳台",華語電視2
 http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",華語電視3
 http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",香港TVB亚洲武侠
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",香港TVB亚洲武侠（备）
-https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",香港VIUTV
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
-#EXTINF:-1 group-title="港澳台",香港HOY TV
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=hoytv
 #EXTINF:-1 group-title="港澳台",澳视澳门
 http://61.244.22.5/ch1/ch1.live/index.m3u8
 #EXTINF:-1 group-title="港澳台",澳视卫星
@@ -1215,8 +229,6 @@ http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 #EXTINF:-1 group-title="港澳台",澳门综艺
 http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
-#EXTINF:-1 group-title="港澳台",澳门莲花
-http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 group-title="港澳台",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 group-title="港澳台",Channel [V]
@@ -1235,12 +247,6 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",香港cctv1-港澳台
 https://stream1.freetv.fun/5e1a1a606612ee5a4861e3349d7e848295bd2e9cb217a4548123d8bf75736492.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png",now tv
-https://stream1.freetv.fun/9a86f6504ebc39ebede157d2cf9c33aaf0bebea50e8abf8d609327539a7acbe0.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png",axs tv now
-https://stream1.freetv.fun/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",[HD]无线娱乐新闻
-https://stream1.freetv.fun/a17566b81efbc7de0bd335ce7dd6083a3150c80a02c0f2d8a6d2d7525435f600.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090803853591_56.png",香港环球电视
 https://stream1.freetv.fun/6234a9bcbe41073ea5f86dfdea0d0241a0f06a064046d72c42128f714889299c.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/10/20171010210707310138_36.jpg",香港有线新闻
@@ -1255,12 +261,6 @@ https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee4
 https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",台湾中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",台湾中天娱乐
-https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",凤凰资讯测试台
-https://stream1.freetv.fun/dfb226a17fb306cc8882209213987bda586dce57054d4f4f0d02a8815f8a5ca1.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",凤凰卫视香港
-https://stream1.freetv.fun/169d769e40dfe46931c8376b8f2ff9758a3132888a172aae168d6c9a101fe5ea.m3u8
 #EXTINF:-1 group-title="港澳台",台湾年代新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
 #EXTINF:-1 group-title="港澳台",台湾壹新闻
@@ -1269,24 +269,6 @@ http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",台湾台视新闻台
 https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf122255b2140a.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",台视新闻台（备1）
-https://stream1.freetv.fun/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",台湾台视新闻（备2）
-https://stream1.freetv.fun/1e6f4fea556314599d76bcf7a81101aa774142e1bd344e2354f552f5ca2ea562.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",台湾台视新闻（备3
-https://stream1.freetv.fun/d3230731a96387dccb11e86bafb66b5715c55e8b3033cbf183d4972995cea362.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",台湾台视新闻 备4
-https://stream1.freetv.fun/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",台湾台视新闻 备5
-https://stream1.freetv.fun/a68a66899669d90058ad8baacda8c9e59ba8b2c5ab1fb74e50ac7d3bc971e25b.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",台湾台视新闻 备6
-https://stream1.freetv.fun/e44275a32f95c673d1f2a0084465ae30047704adb964b0efc00b7d7057c512f3.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",台湾台视新闻 备7
-https://stream1.freetv.fun/7e38e8d94c527c78eb0b414d29e8100d0bf3f90d5c73ce799795fe3785675319.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223148772098_30.png",台湾大立電視
-https://stream1.freetv.fun/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/17/20180217150650283018_64.jpg",新加坡亚洲新闻
-https://stream1.freetv.fun/98eb74ca7a9f28132802504e43b676e6ff74d4a89e623ad4b8e9a92c14b5b287.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/17/20180217150650283018_64.jpg",台湾东森美洲新闻
 https://stream1.freetv.fun/fa34408ed30b39c93655467bd2bf33e33295f5c28a16ca17dce40d8feacaf17a.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png",台湾民视新闻
@@ -1295,18 +277,6 @@ https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png",台湾民視综合台
 https://stream1.freetv.fun/37de02efb12a4dc05e13814405a580e6f46b091c993c411e7a95bcac4c41e9b0.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png",台湾民视新闻台 备1
-https://stream1.freetv.fun/34d506e2605e076f621b2f7f788f773d3aa7a88784c506cbec1b71123650fbfc.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png",台湾民視综合 备1
-https://stream1.freetv.fun/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png",台湾民视新闻 备2
-https://stream1.freetv.fun/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png",台湾民视新闻 hd
-https://stream1.freetv.fun/c8bfbc31e5af4b4d07b7222dc9ac9315dd57fbd663daafea3ce611c5bc57cf83.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png",台湾民视 新闻
-https://stream1.freetv.fun/7270ae89dc1f30cfec2c03d01b6e2fbc50863f60936b534814dfd28caa72181e.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png",台湾民视新闻
-https://stream1.freetv.fun/0c80cda59e31ab1b748fe8ab0d6b89877f0a36e117d4f0f1a3814aa1d015f4f4.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png",台湾民视新闻
 https://stream1.freetv.fun/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png",台湾民视新闻台
@@ -1315,34 +285,12 @@ https://stream1.freetv.fun/1d469cbfb06b06cde4dc59c21272a4e6da364621e97513d03523c
 https://stream1.freetv.fun/75e14c76b6bf52ae5f96e83d07ea3b69008f6b017d18a395b6c6346ef60bcb27.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg",台湾tvbs aisa
 https://stream1.freetv.fun/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023212524554784_66.jpg",台湾東森美洲
-https://stream1.freetv.fun/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005514425865_72.jpg",台湾东森美洲 备1
-https://stream1.freetv.fun/4f75b6abb8483c7acd3ce3b93a088cb93d1be9ec7c8bf4d9137f0f4c3a2076a6.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005514425865_72.jpg",台湾东森美洲
-https://stream1.freetv.fun/41fd1dc90b335e2c39f811e013a8bc45d966113d4b326afb8bed450591629da1.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005514425865_72.jpg",台湾东森美洲 备1
-https://stream1.freetv.fun/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506010946533169_37.PNG",台湾东森美洲中国
-https://stream1.freetv.fun/0d9d053e113b9f4affb851bf56c0a2ed8755fab592272d0d922555abd74cee95.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005646228477_42.jpg",台湾东森美洲卫视 备2
 https://stream1.freetv.fun/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png",台湾東森超視34.5
 https://stream1.freetv.fun/41abf308e03f0e00cf97633b2892d5477b3329bae64920ad101c87398baf61a6.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png",台湾东森超视
-https://stream1.freetv.fun/d5ffbfe432a7d143ab09b683064d01db744bbf6371c0271eefbcb412a4985caf.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127002436544853_95.png",台湾台视新闻 hd
-https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/28/20161228112746699750_89.jpg",台湾緯來精采
 https://stream1.freetv.fun/d7fb67b6ad553367e15a443a726eb62c44d1775de9b706ebde77eead8d67ba58.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127002436544853_95.png",台湾台视新闻 hd
-https://stream1.freetv.fun/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127002436544853_95.png",台湾台视新闻 hd
-https://stream1.freetv.fun/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011449264065_58.jpg",CMT新闻
-https://stream1.freetv.fun/31848cf4aa8b2d512ddda081d2e7408562d92fc54de3e4da2345aa1e549a153c.ctv
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011449264065_58.jpg",BBC新闻
-https://stream1.freetv.fun/249a7b012274c4d99a3a9d379f1761b3db2cdcfc5321a24bcd7462682fdd1430.ctv
 #EXTINF:-1 group-title="港澳台",台湾Dali 大力TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="港澳台",台湾番薯台
@@ -1371,42 +319,112 @@ https://stream1.freetv.fun/38e422e8760b731a44f2edf723aad66e82223336f5a8b4cd23a34
 https://stream1.freetv.fun/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68025a20c01a9ba0d8.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg",香港tvb星河
 https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.m3u8
-#EXTINF:-1 group-title="電影",1905电影网1
-http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 group-title="電影",1905电影网2
-http://php.jdshipin.com:8880/1905.php?id=1905dy2
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png",黑莓电影
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/家庭剧场.png",家庭剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/家庭剧场.png",家庭剧场
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225677/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/潮妈辣婆.png",潮妈辣婆
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/潮妈辣婆.png",潮妈辣婆
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225685/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/爱情喜剧.png",爱情喜剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/爱情喜剧.png",爱情喜剧
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225669/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/东北热剧.png",东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/东北热剧.png",东北热剧
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225741/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/欢乐剧场.png",欢乐剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/欢乐剧场.png",欢乐剧场
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225742/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/中国功夫.png",中国功夫
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/精品大剧.png",精品大剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/精品大剧.png",精品大剧
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225670/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/海外剧场.png",海外剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/海外剧场.png",海外剧场
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/精品纪录.png",精品纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/精品纪录.png",精品纪录
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225672/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/精品体育.png",精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/精品体育.png",精品体育
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/超级体育.png",超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/超级体育.png",超级体育
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/超级电影.png",超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/超级电影.png",超级电影
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225717/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/超级电视剧.png",超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/超级电视剧.png",超级电视剧
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/超级综艺.png",超级综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/超级综艺.png",超级综艺
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/军事评论.png",军事评论
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/军事评论.png",军事评论
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225668/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png",军旅剧场
+http://115.171.216.191:4000/udp/225.1.8.228:4120$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png",军旅剧场
+http://123.113.237.36:8012/rtp/239.3.1.68:4120$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png",军旅剧场
+http://sweetown.fun:4000/rtp/239.3.1.68:4120$LR•IPV4『线路4』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png",军旅剧场
+http://iptv.8t.cx:8180/rtp/239.3.1.68:4120$LR•IPV4『线路5』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png",军旅剧场
+http://125.82.168.238:8888/rtp/235.254.198.75:1576$LR•IPV4『线路7』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png",军旅剧场
+http://125.82.171.210:8888/rtp/235.254.198.75:1576$LR•IPV4『线路8』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png",军旅剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$LR•IPV4『线路9』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png",军旅剧场
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225676/index.m3u8$LR•IPV4『线路10』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/惊悚悬疑.png",惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/惊悚悬疑.png",惊悚悬疑
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/明星大片.png",明星大片
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/明星大片.png",明星大片
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/武搏世界.png",武搏世界
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 group-title="🇨🇳 NewTV" tvg-logo="https://live.fanmingming.com/tv/武搏世界.png",武搏世界
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 group-title="電影",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="電影",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="電影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC4.png",CHC影迷电影
-http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 #EXTINF:-1 group-title="電影",NewTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 group-title="電影",NewTV惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 group-title="電影",NewTV海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",稻穀movie
-https://stream1.freetv.fun/d8d92f6377637179947de8d3b6c476b0a4ca2e4ef29a30c68570faf821ce99a4.ctv
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",稻谷movie
-https://stream1.freetv.fun/38c0d7024b9467731c3bc25cb67d7571fee8f166295b5606e8390ca38069bfbd.ctv
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",sunset movie
-https://stream1.freetv.fun/88f463fa409f97502746410d9e9590f5258028705a38873b492f1c9d1b122150.m3u8
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",douyu movie
-https://stream1.freetv.fun/4fd70d7793fa5083b1f36cae2ff1d7e8fe4b763223651f3cd79ee129c53fd69a.m3u8
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png",amc电影
-https://stream1.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721172523829915_30.png",台湾三立戏剧
-https://stream1.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.m3u8
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png",经典电影
-https://stream1.freetv.fun/7ef761783289fd2b6e5426e99aa3376480041b166ee31a68aa1a51f0dac105fa.m3u8
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105858673463_13.png",台湾东森电影
-https://stream1.freetv.fun/7e7daf1aca2b5fc6ab5365c3d5201b91e3b538cd4a947fd5bdb0256900d3f638.m3u8
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",CHC超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",[CHC动作电影
-http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",[黑莓电影
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 #EXTINF:-1 group-title="運動",超级体育
@@ -1419,20 +437,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 group-title="運動",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="運動",武术世界
-http://php.jdshipin.com:8880/hntv.php?id=wspd
-#EXTINF:-1 group-title="運動",高尔夫网球
-http://cdn.jdshipin.com:8880/ysp.php?id=gefwq
-#EXTINF:-1 group-title="運動",风云足球
-http://cdn.jdshipin.com:8880/ysp.php?id=fyzq
-#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313161940485960_23.png",masn
-https://stream1.freetv.fun/ad57bf5142ed012e0136c81607b6c5ed5f54f381cc9e760b2e8e78e67a1d3481.ctv
-#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210100834148_98.png",now hk sports 1 ⁴ᵏ
-https://stream1.freetv.fun/cc8c30fb084a50aea98f52d07adb20fa521f16ddd75ec55e5f89b2aa40aea417.ctv
-#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222835770753_83.jpg",root sports plus 2
-https://stream1.freetv.fun/f87997be8937d08b86c1b94d0894e9f62cf0e210c45608b1a554ebe1ba885ca4.ctv
-#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg",eleven sports 2
-https://stream1.freetv.fun/3618cba59faf94760e7e4bd8c3bdc386b4c3be11b7d475023ab2597a6760a658.ctv
 #EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png",广东体育
 https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 #EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png",精品体育
@@ -1449,30 +453,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 group-title="綜藝",文物宝库
 http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
-#EXTINF:-1 group-title="綜藝",文物宝库
-http://php.jdshipin.com:8880/hntv.php?id=wwbk
-#EXTINF:-1 group-title="綜藝",新视觉
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xsj
-#EXTINF:-1 group-title="綜藝",兵器科技
-http://cdn.jdshipin.com:8880/ysp.php?id=bqkj
-#EXTINF:-1 group-title="綜藝",电视指南
-http://cdn.jdshipin.com:8880/ysp.php?id=dszn
-#EXTINF:-1 group-title="綜藝",央视台球
-http://cdn.jdshipin.com:8880/ysp.php?id=ystq
-#EXTINF:-1 group-title="綜藝",世界地理
-http://cdn.jdshipin.com:8880/ysp.php?id=sjdl
-#EXTINF:-1 group-title="綜藝",怀旧剧场
-http://cdn.jdshipin.com:8880/ysp.php?id=hjjc
-#EXTINF:-1 group-title="綜藝",文化精品
-http://cdn.jdshipin.com:8880/ysp.php?id=whjp
-#EXTINF:-1 group-title="綜藝",风云剧场
-http://cdn.jdshipin.com:8880/ysp.php?id=fyjc
-#EXTINF:-1 group-title="綜藝",风云音乐
-http://cdn.jdshipin.com:8880/ysp.php?id=fyyy
-#EXTINF:-1 group-title="綜藝",女性时尚
-http://cdn.jdshipin.com:8880/ysp.php?id=nxss
-#EXTINF:-1 group-title="綜藝",卫生健康
-http://cdn.jdshipin.com:8880/ysp.php?id=wsjk
 #EXTINF:-1 group-title="綜藝",怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 group-title="綜藝",军旅剧场
@@ -1503,8 +483,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 group-title="綜藝",NewTV爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png",[VGA]rthk35
-https://stream1.freetv.fun/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",[HD]tv puls
 https://stream1.freetv.fun/c3cd3ca8247ddea5e44ca119f668e878189bec8f3e5900df6da554abb9117b7a.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",[HD]tvb plus
@@ -1523,78 +501,20 @@ https://stream1.freetv.fun/205dd2177e421abb6ceff1d0f569bdcfaac1d13e27f6f526919ac
 https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112750924244_65.png",[SD]星空卫视
 https://stream1.freetv.fun/a9c09c04bf7f0ccc71744697c26feb67743da281eaee48022c606b179d97fb81.ctv
-#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112750924244_65.png",[BD]星空卫视
-https://stream1.freetv.fun/07210c96ff4ccc0b2e414c2aff40af25c9426daeb6fde8e39b544f00f8d0c0a8.m3u8
-#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112750924244_65.png",[BD]星空卫视
-https://stream1.freetv.fun/ae23de7390b82ec2ed529326c03d0d554037064da93f2706485f8468b0f0f315.m3u8
-#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112750924244_65.png",[BD]星空卫视
-https://stream1.freetv.fun/a44702841c9f9ca492c251a036d82f5222339b61ab142b72acdb8695777a1b83.m3u8
-#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090457244729_96.png",[HD]cmusic[geo-blocked]
-https://stream1.freetv.fun/962b183db2050a7f4995fa60fb432e5da6df5872565cb7f6792a673d3c157248.m3u8
-#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png",[BD]ROCK ENTERTAINMENT
-https://stream1.freetv.fun/2ca1b8459ee6803e966b7846678d6746511b7183f15ae5ed3b0534ed0f9c86ca.ctv
-#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png",[BD]ROCK ENTERTAINMENT
-https://stream1.freetv.fun/09979d5f6c037272c072383f474cdce726bb99088c0f070b129f40cdc30e1c7a.ctv
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/06/05/large/20240605164735768642_24.png",[BD]tvn
 https://stream1.freetv.fun/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
-#EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[BD]tennis channel
-https://stream1.freetv.fun/9d741f7a69392950497ff7540a55c1dffda3c541e9e2e672be1d8ce8eb40afc0.ctv
 #EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[VGA]up channel
 https://stream1.freetv.fun/b13d7ec864ead3a6af53e0e9a7fe50786133ddda1a591def83d7dd42a7fd7900.m3u8
 #EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[HD]tennis channel
 https://stream1.freetv.fun/08b7a30afdc733002b2e112f4e9469a33c204024995491a5bfcdbd1bac9f1c1c.m3u8
-#EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[BD]hunt channel
-https://stream1.freetv.fun/15deb3b8af70b569762d56c5b4ed3857433811b9f2fef8c577773cb77f81abcc.ctv
-#EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[HD]iq channel
-https://stream1.freetv.fun/ffb314d23e12b661f7f5e189d61ef634d25637cc95031aadb6ea191ffe092afa.m3u8
-#EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[BD]lingua channel
-https://stream1.freetv.fun/de0f78dad520c6f9e0fbf49473a531bd0a0e690cc6e59215abe6bc6945072772.m3u8
 #EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[HD]cool channel
 https://stream1.freetv.fun/1809f0db847493f7b81f95cfdcc4097f3c9f9cf6f9d5102927ae1a654a7b774e.m3u8
-#EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[BD]tennis channel
-https://stream1.freetv.fun/a5d82c3978082a45b01feb8868e2690f925424e8daf92d880994cdc8a2841640.ctv
 #EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[BD]white channel
 https://stream1.freetv.fun/5a70942f5e4c6280c37d5b43584b2ac3c79310b6cd572a68e35e4b09f3534fb4.m3u8
 #EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[SD]bn channel
 https://stream1.freetv.fun/c99e68a36c6f505e702bf8da76373a5dfab102024da6823a898cb30658f437c5.m3u8
-#EXTINF:-1 group-title="音樂" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[BD]tennis channel 2
-https://stream1.freetv.fun/0c22c3190118491653f9c154bd2b1e1125aaa589549e0f941fefd816eca78e09.ctv
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010810817531_37.jpeg",[HD]global trekker-cdn6
-https://stream1.freetv.fun/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010810817531_37.jpeg",[VGA]global trekker channel-cdn6
-https://stream1.freetv.fun/315d997def5917ea5bcc0a4c05b7eaab81d844380a44ccf14af702c46e3936e3.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",[HD]love nature[geo-blocked]
-https://stream1.freetv.fun/b395444e812c106932e74d89abc6636d90a79f67be3f729b0c11926e452a485c.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",[BD]love nature 4k[geo-blocked]
-https://stream1.freetv.fun/30c7c461245365535860d95e2338c63c02f8ce1a2eab9483b132d644afb90873.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",[BD]love nature
-https://stream1.freetv.fun/50b37a23774517c16dfe5b104ce15ec4e4d933a704184d2981c37e7735d216a6.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",[SD]lovenature4k
-https://stream1.freetv.fun/2e37ff89d6a1e5d6f1b7a3268b983005fd5a1dcd53a0bfff8d2a7d7f2a77b9d8.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",[HD]love nature 4k
-https://stream1.freetv.fun/b7c862d77522bb4eb385226c1f6f1c64c5e955b151c3b01cff7621aa0e83e3a6.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",[SD]lovenature4k
-https://stream1.freetv.fun/87d579967081ff5b32bab0daa8ffe78e34cea8cf5f988ecbc049539ea55e9857.m3u8
 #EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",[BD]love nature 4k
 https://stream1.freetv.fun/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2744e6ca39f1e7d62f1.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",[BD]lovenature4k
-https://stream1.freetv.fun/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b8861ece58.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",[BD]lovenature4k
-https://stream1.freetv.fun/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601220556736344_25.png",[SD]natgeo japan
-https://stream1.freetv.fun/d46e743c8a4b7a0251c7df036f0969c69258d6277c9b661c410762fd7a923791.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601220556736344_25.png",[HD]nat geo[geo-blocked]
-https://stream1.freetv.fun/25764ff8977e46f69f07dfd235ef37be6dfbf338c492c45b5092adf631ee4cca.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg",[BD]smithsonian channel
-https://stream1.freetv.fun/b1553b81be58e6846203539f162b4b40c0cc53697d897d9388b42fa7f43f8cae.ctv
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg",[HD]smithsonian
-https://stream1.freetv.fun/8e712a8ab3dbfc28e927429f92227cfa193662e13c5c38aede1bc02c3d98c82a.ctv
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg",[BD]bbc earth
-https://stream1.freetv.fun/35c0a9bbb3f3135d9a5cbda0e7a05a9541709abf653224e64c765f936287ad8f.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png",[BD]discovery channel
-https://stream1.freetv.fun/cc9401821b6012a3da7e68a57be59ae14f4dc3c511c0101df5aadfa76284b313.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png",[BD]discovery channel cee hd
-https://stream1.freetv.fun/94376536df0cfe2fdad4a6e4bf5b7fa6cd6d6fe49d9a53e99bcb2344979ffced.m3u8
 #EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png",[SD]discovery channel
 https://stream1.freetv.fun/e9371b3736bbbd9043747b6a0ae09466dc0c53cbfc1d6cf509ee0f4480675d97.m3u8
 #EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png",[VGA]discovery channel
@@ -1603,38 +523,14 @@ https://stream1.freetv.fun/6b9e99b153df4eeae1556287f2fc6ad5f3ee0595f6ff014630df4
 https://stream1.freetv.fun/c550957389889e7c508d1b7db8edc582a4f270f05f5e5d8bcba2f758b9cf7bb1.m3u8
 #EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png",[BD]ช่อง discovery channels
 https://stream1.freetv.fun/04a408a0354c634c7cad80a9e0f90ccfebc366c4024146c243abd12f513aab4f.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313164101367758_71.png",[BD]world-1[geo-blocked]
-https://stream1.freetv.fun/e46b9c5b45349d4568ba7748e30643c2919bba8f9ee28478a858db061fc2b366.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313164101367758_71.png",[BD]world-1[geo-blocked]
-https://stream1.freetv.fun/825a89d707a10ae773bff066d0674e3183ec33094092549240987d9da2e73924.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313164101367758_71.png",[BD]discovery hd world
-https://stream1.freetv.fun/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png",[BD]discovery east
-https://stream1.freetv.fun/21bc6fc8b394ab3ca60cfa793c4acef84154900498bf749c5ae0f5dce2f66dce.ctv
 #EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png",[HD]discovery west
 https://stream1.freetv.fun/446f010a5a72bea8c071685545455ee33fa68e50387ec66b81a7d87943f4bcbf.ctv
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png",[BD]discovery español
-https://stream1.freetv.fun/e43e85cd770c5bfa7369e4bab628e0ae0ec235b7234c4c619d04d4953fd1bca4.ctv
-#EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png",[BD]discovery familia
-https://stream1.freetv.fun/5c3ca20adee35d87ea1d63da9b9395ee3d6902a68aefd304db2ee75e9ed226d7.ctv
 #EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png",[BD]discoveryᵁᴴᴰ[geo-blocked]
 https://stream1.freetv.fun/6c94814c15df20ac0ac94a7b6ca23acd90872738ea7a39378bfcd1c568fff91f.m3u8
 #EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165040805892_78.jpg",[BD]第一卫视
 https://stream1.freetv.fun/f7a332b0de0639d5df6a1b85d75af796f60f3fac597b1874c33f22829d7ff212.m3u8
 #EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/img/logo/1_285.jpg",[HD]剧集
 https://stream1.freetv.fun/56a96ffa5043d616d056b46b3aab357ddf67596d5ace63891e0d88ccc3d7581f.ctv
-#EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png",[VGA]food
-https://stream1.freetv.fun/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8
-#EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png",[BD]pet club tv
-https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
-#EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png",[VGA]澳亚卫视
-https://stream1.freetv.fun/272b491cb7edf448a56c75a2677cdfa0f9427bc87d01f02765f5aff658dadeba.m3u8
-#EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg",[HD]人間衛視
-https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
-#EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg",[HD]人间卫视
-https://stream1.freetv.fun/42db7d21271f321cdd59f552ed6de00b634a389edf2db56e1f2b59852f9551db.ctv
-#EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg",[HD]人间卫视
-https://stream1.freetv.fun/ab7bcf5a18958aaf322e01631bd9d031db56960aeabbb526a8781fbe1c1f1ba3.m3u8
 #EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg",[HD]人间卫视
 https://stream1.freetv.fun/2a4504f486633cdacf70e84a9bddad9f70e8cdf960695cb54d5f278d83b3a3a4.ctv
 #EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg",[BD]人间衛視
@@ -1655,208 +551,50 @@ https://stream1.freetv.fun/b0cb10857e5b0bddf8b6a8ca75d36a29563d15c644f1176528d85
 https://stream1.freetv.fun/a3f7b0886396e045987e048ef36063207e6a743db18c6d6df951227d39034a24.m3u8
 #EXTINF:-1 group-title="奧運" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728014702033959_27.png",[VGA]tv turfe
 https://stream1.freetv.fun/482dde6f9ded0ba74b5f8c6a37ee833e248384c9b035219de51eff3de2c6a853.m3u8
-#EXTINF:-1 group-title="世界各国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",俄罗斯RT新闻
-https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="世界各国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",俄罗斯RT纪录
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",朝鲜中央台
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="世界各国",[PS]Audeh[873*480][873*480]
-http://htvpalsat.mada.ps:8888/audeh/index.m3u8
-#EXTINF:-1 group-title="世界各国",[PS]PalestineMubasher[720*404][720*404]
-http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 #EXTINF:-1 group-title="世界各国",[XK]PeaceTVAlbanian(PeaceTVShqip)[640*360][640*360
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 group-title="世界各国",[巴西]RedeMãoAmiga(720p)
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 group-title="世界各国",[巴西]TVSolComunidade(480p)[854*480][854*480]
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[白俄罗斯]FirstMusicChannelBielorrusia
-http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 group-title="世界各国",[德国]1-2-3TV(480p)
-http://123tv.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 group-title="世界各国",[俄罗斯联邦]UniverTV(576p)
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[俄罗斯联邦]ТВК24[640*360][640*360]
-http://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]RTVNOFTV(720p)
-http://593aed234297b.streamlock.net:1935/rtvnof/rtvnof/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]RTVNoordoostFriesland(720p)
-https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]TommyTeleshopping(480p)[854*480][854*480]
-http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[荷兰]WOSTV(1080p)[854*480][854*480]
-https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[吉尔吉斯斯坦]TV1KG
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[库拉索岛]NosPais
-http://558bd16067b67.streamlock.net/nos_pais_24_7/smil:livestream.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[库拉索岛]NosPaïs[640*360][640*360]
-http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[罗马尼亚]LightChannel[854*480][854*480]
-http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[罗马尼亚]Profit.ro(404p)[720*407][720*407]
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[美国]3ABNRussia
-https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/master.m3u8
 #EXTINF:-1 group-title="世界各国",[美国]AlientoVision[640*360][640*360]
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[美国]Christian Youth Channel (CYC) (720p)
-http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[美国]LoupeArt
-https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[美国]OAN Plus (1080p)
-http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[美国]OMLonRevry
-https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[美国]PAC 12 Insider (1080p)
-https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[美国]SKWAD (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-#EXTINF:-1 group-title="世界各国",[美国]Wu Tang Collection
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
-#EXTINF:-1 group-title="世界各国",[莫桑比克]TVMInternacional(480p)[854*480][854*480]
-http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[斯洛伐克]TeleviziaOSEM(360p)[640*360][640*360]
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[斯洛伐克]TelevíziaOSEM(576p)
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[斯洛伐克]TVRužinov(1080p)
-http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[土耳其]ÇiftçiTV
-https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[土耳其]GRT
-https://waw2.artiyerelmedya.net/grt/bant1/chunks.m3u8
-#EXTINF:-1 group-title="世界各国",[土耳其]IBBTV(1080p)
-http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[土耳其]KentTürk
-https://waw2.artiyerelmedya.net/38kenttv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[土耳其]OLAYTÜRKTV
-https://waw2.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[土耳其]TV41
-https://waw1.artiyerelmedya.net/tv41/bant1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[土耳其]VTV
-https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="世界各国",[土库曼斯坦]Asgabat[725*406][725*406]
 http://217.174.225.146/legacyhls/ch006_720/index.m3u8
-#EXTINF:-1 group-title="世界各国",[乌克兰]7канал
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[西班牙]8TVCádiz
-https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
 #EXTINF:-1 group-title="世界各国",[西班牙]TuyaLaJandaTelevisión
 http://185.210.20.13:8080/0.m3u8
-#EXTINF:-1 group-title="世界各国",[希腊]NEATV(1080p)[640*360][640*360]
-https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:-1 group-title="世界各国",[希腊]NRGTV(720p)
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[伊朗]MohabatTV(540p)[676*540][676*540]
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[伊朗]PayvandTV(720p)[1280*720]
-https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[意大利]IcaroTV(720p)
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[意大利]KissKissNapoliTV(380p)
-https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[意大利]RadioIbizaTV(360p)[Not24/7]
-https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[意大利]RadioKissKissItaliaTV(380p)
-https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[意大利]SuperSixLombardia(720p)
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",[意大利]TeleAbruzzo[853*480][853*480]
-http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",[印度]9XM(480p)[256*144]
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 group-title="世界各国",[印度]MediaOne(576p)[640*360][640*360]
 http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
-#EXTINF:-1 group-title="世界各国",[印度]NDTV24X7(480p)[640*480]
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="世界各国",[印度]NDTVIndia(480p)[640*480][640*480]
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 group-title="世界各国",[印度]NDTVProfit[640*480][640*480]
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
 #EXTINF:-1 group-title="世界各国",[智利]ElPingüinoTV(360p)[Not24/7]
 http://167.114.133.205:1935/live/pinguinotv_360p/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",1muz.com [1280*720]
-http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="世界各国",23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 group-title="世界各国",30ADarcizzleOffshore
-https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="世界各国",30AMusic
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 group-title="世界各国",30ASidewalks
-https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 group-title="世界各国",30ATheBeachShow
-https://30a-tv.com/beachy.m3u8
-#EXTINF:-1 group-title="世界各国",3ABN Latino (720p)
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 group-title="世界各国",3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
-#EXTINF:-1 group-title="世界各国",3ABNInternational
-https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
-#EXTINF:-1 group-title="世界各国",3ABNKids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 group-title="世界各国",3ABNPraiseHimMusicChannel
-https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",43 канал (720p)
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",4E (576p)
-http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",91 NRJ MUSIC[1280*720]
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="世界各国",ABC 2 WMAR
 https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8
 #EXTINF:-1 group-title="世界各国",ABC 4 Seattle (KOMO-TV)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 group-title="世界各国",ABC 7 Denver (KMGH)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 group-title="世界各国",ABC News Live 1
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 group-title="世界各国",ABC News Live 10
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#EXTINF:-1 group-title="世界各国",ABC News Live 2
-https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-#EXTINF:-1 group-title="世界各国",ABC News Live 3
-https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
-#EXTINF:-1 group-title="世界各国",ABC News Live 4
-https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-#EXTINF:-1 group-title="世界各国",ABC News Live 5
-https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-#EXTINF:-1 group-title="世界各国",ABC News Live 6
-https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-#EXTINF:-1 group-title="世界各国",ABC News Live 7
-https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
-#EXTINF:-1 group-title="世界各国",ABC News Live 8
-https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
-#EXTINF:-1 group-title="世界各国",ABC News Live 9
-https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 #EXTINF:-1 group-title="世界各国",ABC News US HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="世界各国",ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 group-title="世界各国",ABP Ananda (720p)
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 group-title="世界各国",ABP Majha (720p)
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:-1 group-title="世界各国",AdultIPTV.net Anal
-http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="世界各国",AdultIPTV.net Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 group-title="世界各国",AdultIPTV.net Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="世界各国",AdultIPTV.net Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Big Tits
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="世界各国",AdultIPTV.net Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Blonde
 http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Blowjob
@@ -1871,18 +609,10 @@ http://cdn.adultiptv.net/cuckold.m3u8
 http://live.redtraffic.xyz/cuckold.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="世界各国",AdultIPTV.net Gangbang
-http://live.redtraffic.net/gangbang.m3u8
-#EXTINF:-1 group-title="世界各国",AdultIPTV.net Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="世界各国",AdultIPTV.net Interracial
-http://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Latina
 http://cdn.adultiptv.net/latina.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Latina
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 group-title="世界各国",AdultIPTV.net Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net MILF
@@ -1903,48 +633,8 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 group-title="世界各国",AdultIPTV.net Threesome
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 group-title="世界各国",AdultIPTV.net Woman
-http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 group-title="世界各国",Africa TV2 (720p) [Not 24/7]
-http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Africa TV3 (720p) [Not 24/7]
-http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",AFV en Español (720p)
-https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Al Horreya TV (1080p)
-http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Al Hurra (720p)
-https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
-#EXTINF:-1 group-title="世界各国",Al Hurra (720p)
-https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-#EXTINF:-1 group-title="世界各国",Al Iraqiya (720p) [Not 24/7]
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Al Iraqiya Al 3ama (720p) [Not 24/7]
-http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Aleph News (720p)
-https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Alex Berlin (1080p)
-https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",ALTV (1080p)
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="世界各国",ALTV4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="世界各国",Al-Zahra TV Turkic (1080p) [Not 24/7]
-https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Amazing Discoveries TV [1280*792]
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Anand TV (720p)
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 group-title="世界各国",Anixe  (720p)
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 group-title="世界各国",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="世界各国",Arabica TV (720p)
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",ARAS TV (576p) [Not 24/7]
-http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",ARENA
-http://iptvtree.net:8080/11703/688cbf1a/157485?play_token=ovRrQhELXI
 #EXTINF:-1 group-title="世界各国",Ariana TV National (480p) [Not 24/7]
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Ariana TV US (720p) [Not 24/7]
@@ -1963,166 +653,40 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",ATN News (360p) [Not 24/7]
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Aurora Arte (480p)
-https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Avivamiento TV (720p) [Not 24/7]
-https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",AXS TV Now (1080p)
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="世界各国",AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Ayush TV
-http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 group-title="世界各国",AzstarTV
-http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Baden TV (720p)
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Bali TV
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="世界各国",BBCWorldNews
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/545/index.m3u8
-#EXTINF:-1 group-title="世界各国",Beach TV CSULB (720p)
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Beach TV Key West & Florida Keys (720p)
-https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Berat TV (720p) [Not 24/7]
-http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",BeritaSatu World (Opt-3)
 http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="世界各国",Bibel TV Musik (720p)
-http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",BIP TV [850*480]
-http://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 group-title="世界各国",Black News Channel (1080p)
-http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Bloomberg TV Australia (720p)
-https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
-#EXTINF:-1 group-title="世界各国",BNN Bloomberg HD CA
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6465/index.m3u8
-#EXTINF:-1 group-title="世界各国",Bolivia TV 7.2 (720p)
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",BossBrothersTV
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
-#EXTINF:-1 group-title="世界各国",Brat TV
-https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",BRTV (720p)
-https://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Bursa AS TV (720p)
-https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Buzzr (1080p)
-https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",C31 Melbourne (480p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 group-title="世界各国",Cali TV (Santiago de Cali | Valle del Cauca) (540p) [Not 24/7]
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Camera dei Deputati (via RR) (240p)
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Camp Spoopy (720p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1 group-title="世界各国",Can TV (720p)
-http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1 group-title="世界各国",Canal 13 La Rioja (480p)
-http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Canal 8 (720p)
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 group-title="世界各国",Canal Motor (720p)
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="世界各国",Canale 7 (480p)
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",CANALE 7 (480p)
-http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Canale 8 (480p)
-http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",CANALE 8 (480p)
-http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Canela TV (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
-#EXTINF:-1 group-title="世界各国",CBC News Network HD CA
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6442/index.m3u8
 #EXTINF:-1 group-title="世界各国",CBS 3 Omaha NE (KMTV-TV) (720p)
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
 #EXTINF:-1 group-title="世界各国",CBS 6 Albany NY (WRGB) (720p)
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1 group-title="世界各国",CBSN Baltimore
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 group-title="世界各国",CBSN Sacramento
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
 #EXTINF:-1 group-title="世界各国",ChannelNewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="世界各国",Charge! USAHD
-https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 group-title="世界各国",Charge!HD
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 group-title="世界各国",Circle
-https://circle-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",CNAnews-HD（新加坡）
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="世界各国",CNBC HD
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/962/index.m3u8
-#EXTINF:-1 group-title="世界各国",CNN International Europe
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/842/index.m3u8
 #EXTINF:-1 group-title="世界各国",CNN
 http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6499/index.m3u8
 #EXTINF:-1 group-title="世界各国",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 group-title="世界各国",CP 24 CA
 http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6501/index.m3u8
-#EXTINF:-1 group-title="世界各国",CRACKLE PlexTVHD
-https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",CRACKLE-HD
-http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",CTV News Channel HD CA
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6468/index.m3u8
-#EXTINF:-1 group-title="世界各国",Darcizzle电视
-http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="世界各国",DUBAI SPORTS 2 (1920×1080)
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
-#EXTINF:-1 group-title="世界各国",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
-#EXTINF:-1 group-title="世界各国",DUBAI SPORTS 3 (1920×1080)
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="世界各国",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
 #EXTINF:-1 group-title="世界各国",ElPingüinoTV
 http://167.114.133.205:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Fireplace
 https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="世界各国",Fonte TV
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 group-title="世界各国",FOX
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 group-title="世界各国",FOXNews（美国）
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",France | Francophonie24
-https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",France 24 | French
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="世界各国",France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="世界各国",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="世界各国",France 24 Arabic
-https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="世界各国",France 24 English
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="世界各国",France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="世界各国",France 24 Español
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="世界各国",France 24 Español
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="世界各国",France 24 Français
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="世界各国",France 24 Français
-https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="世界各国",Francophonie
-http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="世界各国",FS1Salzburg
-http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 group-title="世界各国",FunRoads
 http://104.143.4.5:2080/funroads.m3u8
 #EXTINF:-1 group-title="世界各国",Groovy TVHD
@@ -2131,172 +695,38 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1 group-title="世界各国",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1 group-title="世界各国",HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",Headline News HD CA
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6483/index.m3u8
-#EXTINF:-1 group-title="世界各国",Himlen TV 7
-http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Himlen TV7 (SE)
 http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Hitradio Ö3 (Webradio)
-https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-#EXTINF:-1 group-title="世界各国",Hi-YAH!
-https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",India Today EN
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",InfoWars - The David Kni
-https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",InfoWars - War Room With
-https://freespeech.akamaized.net/hls/live/2016873/live4/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",InfoWars
-https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Insight TV
-https://insighttv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Insight TV
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Insight
-https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Intermedia TV
 http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Intermedia TV
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Introuble TV
-https://introuble-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",INTV Simaye Azadi
-https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
-#EXTINF:-1 group-title="世界各国",Inwild TV
-https://inwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Inwild
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Inwonder TV
-https://inwonder-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Jeevan TV
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-#EXTINF:-1 group-title="世界各国",KBS LiveCam DokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",KBSV/AssyriaSat
-http://66.242.170.53/hls/live/temp/index.m3u8
-#EXTINF:-1 group-title="世界各国",KBSWorldHD
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="世界各国",KC2
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",KC2
-https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",KCTV 광주 CH05
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="世界各国",Kecskemeti TV
-http://rtmp1.40e.hu:8000/live/ktv.m3u8
 #EXTINF:-1 group-title="世界各国",KESQ Livestream Alert
 https://content.uplynk.com/channel/edcc7b94bf074eaf8df9fc6454b0086b.m3u8
-#EXTINF:-1 group-title="世界各国",kltv
-https://dai2-playlistserver.aws.syncbak.com/playlist/18439558/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQzOTU1OCIsIm1kNSI6IjdjNmM5Yjk5YmMxNjUyMmVhM2E5Y2Q4ZmRiMmUzOThjIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.70BwybOv28vKpy1DlhpYkN8Y18r4ugp-1KXpuVV1mWs
 #EXTINF:-1 group-title="世界各国",LOUPE 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="世界各国",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="世界各国",M1 HD
-http://live.m2.tv/hls2/stream.m3u8
-#EXTINF:-1 group-title="世界各国",malta
-http://webtvstream.bhtelecom.ba/malta.m3u8
-#EXTINF:-1 group-title="世界各国",Mezzo live HD
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/208/index.m3u8
-#EXTINF:-1 group-title="世界各国",Mezzo live HD
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/707/index.m3u8
-#EXTINF:-1 group-title="世界各国",Motorvisison TVHD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="世界各国",MSNBC
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6470/index.m3u8
-#EXTINF:-1 group-title="世界各国",MTV Club
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/558/index.m3u8
-#EXTINF:-1 group-title="世界各国",MTV HD CA
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6461/index.m3u8
 #EXTINF:-1 group-title="世界各国",MTV
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 group-title="世界各国",Music Reload TV HD
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",NASA
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
-#EXTINF:-1 group-title="世界各国",NASATVMedia
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="世界各国",NASATVPublic
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="世界各国",NBC 15 Madison WI (WMTVNBC)
-https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 #EXTINF:-1 group-title="世界各国",NBC 26 (WGBA)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1 group-title="世界各国",NBC HD
-http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1081/index.m3u8
-#EXTINF:-1 group-title="世界各国",NBC News Now | HD
-https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
-#EXTINF:-1 group-title="世界各国",NBC News Now | Source 1
-https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
-#EXTINF:-1 group-title="世界各国",NBC News Now | Source 2
-https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
-#EXTINF:-1 group-title="世界各国",NBC News Now
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 group-title="世界各国",NBC WTMJ4
 https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
-#EXTINF:-1 group-title="世界各国",Newmax(美国)
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF:-1 group-title="世界各国",NEWS NOW
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="世界各国",NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="世界各国",PIX11 (New York)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1 group-title="世界各国",Reload Radio Music Power HD
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 group-title="世界各国",RT news(俄罗斯)
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Russia Today Documentary HD （俄罗斯）
-https://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",SET Televisión Canal 26.
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Sky 1 Racing
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1 group-title="世界各国",Sky 2 Racing
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 group-title="世界各国",Sky News (US)
-http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
-#EXTINF:-1 group-title="世界各国",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="世界各国",Sky News Extra 2 (540p)
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 group-title="世界各国",Sky News Extra 3 (540p)
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="世界各国",Sochi Live HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Solidaria TV
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 group-title="世界各国",Sonus FM
-http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:-1 group-title="世界各国",Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",SportsGrid
-https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",STARTV
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Super Radyo DZBB [Not 24/7]
-http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
-#EXTINF:-1 group-title="世界各国",Tele1
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 group-title="世界各国",TeleM1
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 group-title="世界各国",Toon Goggles
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
-#EXTINF:-1 group-title="世界各国",Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="世界各国",TVDigitalBirigui(320p)
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1 group-title="世界各国",TVO(CH)
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 group-title="世界各国",VTVAconcaga
-http://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Wild Earth
-https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Z_BZA_yssxyqid8AaAg5&channelId=60d4edddb2fdec002c141135&uid=1g1307rds-llbl-i9g-wijf-7pf81nv305a/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",WLS TV News
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
 #EXTINF:-1 group-title="世界各国",WPEC CBS12 News
@@ -2305,332 +735,40 @@ https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 #EXTINF:-1 group-title="世界各国",WTVD TV News
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
-#EXTINF:-1 group-title="世界各国",Yahoo Finance
-https://yahoofinance-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Арис 24
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Астрахань 24 +1 [FHD]
-http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="世界各国",Астрахань 24 HD
-https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="世界各国",Астрахань 24
-https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="世界各国",Астрахань 24
-https://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="世界各国",Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
-#EXTINF:-1 group-title="世界各国",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="世界各国",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="世界各国",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="世界各国",Астрахань.Ru TV
-http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v5a1/index.m3u8
 #EXTINF:-1 group-title="世界各国",Астрахань.Ru TV
 https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="世界各国",Астрахань.Ru TV
 https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="世界各国",Астрахань.Ru TV
 https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="世界各国",Белгород 24
-http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-#EXTINF:-1 group-title="世界各国",БСТ (Башкирское спутниковое телевидение)
-https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Вместе-РФ HD
-http://uiptv.do.am/1ufc/118056781/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Глас
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-#EXTINF:-1 group-title="世界各国",Городской телеканал (Ярославль)
-http://www.gtk.tv/hls/gtyar.m3u8
-#EXTINF:-1 group-title="世界各国",Губерния (Самара)
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Дагестан
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Дом кино [FHD]
-http://spacetv.in/stream/DVB2D6AE8CU/108.m3u8
 #EXTINF:-1 group-title="世界各国",Дом кино 16
 http://spacetv.in/stream/DVB2D6AE8CU/236.m3u8
-#EXTINF:-1 group-title="世界各国",Дом кино Премиум
-http://msk3.peers.tv/streaming/dom_kino_premium/16/gvh1w/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Думская ТВ
-http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Думская.TV
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Енисей
-http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="世界各国",Известия (720p) （俄罗斯）
-https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",К16 (Саров)
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Кинозал (VHS 90s)
-https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="世界各国",Киносвидание
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
-#EXTINF:-1 group-title="世界各国",Комедийное HD
-http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
 #EXTINF:-1 group-title="世界各国",КТК
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",КФУ ТВ
-https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Матур ТВ
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="世界各国",Матч ТВ
-https://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Миллет
-http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 group-title="世界各国",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Мир 24
-http://uiptv.do.am/1ufc/112234126/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Мир
-http://uiptv.do.am/1ufc/113500247/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Мордовия 24
-https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",МТВ (Волгоград)
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Муз союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Надежда
-https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Надежда
-https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Надия/Новый канал
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1 group-title="世界各国",Наш Кинороман
-http://s1.only4.tv/0107/video.m3u8
-#EXTINF:-1 group-title="世界各国",Наше Крутое HD
-http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8
-#EXTINF:-1 group-title="世界各国",Ника ТВ
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",НТК
-https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1 group-title="世界各国",НТМ (Народное телевидение Мордовии)
-https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",НТС
-http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",Остросюжетное HD
-http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/904/index.m3u8
-#EXTINF:-1 group-title="世界各国",ОТР
-https://uiptv.do.am/1ufc/000000008/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Первый городской (Одесса)
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",Первый Городской (Одесса)
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Первый Музыкальный BY
-http://rtmp.one.by:1300
-#EXTINF:-1 group-title="世界各国",Первый Музыкальный RU
-http://rtmp.one.by:2200
-#EXTINF:-1 group-title="世界各国",Первый Музыкальный RU
-http://rtmp.one.by:2300
-#EXTINF:-1 group-title="世界各国",Первый Тульский
-http://5.164.24.83/tula/1tv_low/index.m3u8
-#EXTINF:-1 group-title="世界各国",Прима
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF:-1 group-title="世界各国",Радио Говорит Москва (Веб-камера) [RU]
-https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 group-title="世界各国",Радио Говорит Москва
-http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
-#EXTINF:-1 group-title="世界各国",Радио Хит (Орск)
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-title="世界各国",радио Хит ТВ
-http://hithd.camsh.orsk.ru/hls/hit.m3u8
-#EXTINF:-1 group-title="世界各国",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="世界各国",Ратник
-https://online-video.rbc.ru/online/rbctv.m3u8
-#EXTINF:-1 group-title="世界各国",РБК
-http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
-#EXTINF:-1 group-title="世界各国",РБК
-http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
-#EXTINF:-1 group-title="世界各国",РБК
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1 group-title="世界各国",РБК
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 group-title="世界各国",РБК
-http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc
-#EXTINF:-1 group-title="世界各国",РБК
-http://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",РЕН ТВ
-http://uiptv.do.am/1ufc/102323759/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Россия 24
-https://uiptv.do.am/1ufc/000000006/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Русский Детектив
-http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/907/index.m3u8
-#EXTINF:-1 group-title="世界各国",С1 (Сургут)
-https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 group-title="世界各国",Салям
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",СК1
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8?version=2
-#EXTINF:-1 group-title="世界各国",Спас
-http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="世界各国",Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Страшное HD
-http://spacetv.in/stream/DIPK8H19CP8/226.m3u8
-#EXTINF:-1 group-title="世界各国",СТРК
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",СТС
-http://spacetv.in/stream/DVB2D6AE8CU/138.m3u8
-#EXTINF:-1 group-title="世界各国",ТВ Центр
-http://uiptv.do.am/1ufc/000000009/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",ТВА (Чернiвцi)
-http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",ТВА (Чернiвцi)
-http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",ТВА Чернівці
-http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
-#EXTINF:-1 group-title="世界各国",Телеканал 86 (Сургут)
-https://sitv.ru/hls/s861024.m3u8
-#EXTINF:-1 group-title="世界各国",Телплюс ТВ (Астрахань)
-http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="世界各国",ТИС ТВ
-http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",ТІС ТВ
-http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",ТКР (Рязань)
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Три Ангела
-https://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="世界各国",Хузур ТВ
-https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Чернівецький промінь
-https://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1 group-title="世界各国",Шансон ТВ
-http://uiptv.do.am/1ufc/602079679/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",Шокирующее HD
-http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
-#EXTINF:-1 group-title="世界各国",Щёлковское ТВ
-http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1 group-title="世界各国",Ювелирочка ТВ
-http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",ಪಬ್ಲಿಕ್ ಸಂಗೀತ Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:-1 group-title="世界各国",阿根廷 Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",阿里郎电视
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="世界各国",阿塞拜疆 EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",埃塞俄比亚 Addis TV
-https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/chunklist_w418104290_b2130000.m3u8
-#EXTINF:-1 group-title="世界各国",巴西 Novo Tempo
-http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",巴西 RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",巴西 Retrô Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",巴西 TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",巴西 TV Pampa - RedeTV! RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",巴西 TV Santa Cruz
-https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
-#EXTINF:-1 group-title="世界各国",半岛电视台
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="世界各国",半岛新闻
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 group-title="世界各国",波兰 Telewizja Toruń
 http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1 group-title="世界各国",波兰TV Kujawy (Opt-1)
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 group-title="世界各国",波兰TV Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 group-title="世界各国",玻利维亚 Red Advenir
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",국악방송
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",赤道几内亚 TVGE Int
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="世界各国",德国 KulturMD
-http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 MDF.1
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 OK Dessau
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 OK Magdeburg
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 OK Merseburg-Querfurt
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 OK Salzwedel
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 OK Stendal
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 OK Stendal
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 OK Wernigerode
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 OK Wernigerode
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 PunktUM
-http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 Ran 1
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 RBW
-http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 RFH TV
-http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国 Tide TV
-https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",德国Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯Astrakhan 24 (Opt-2)
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 #EXTINF:-1 group-title="世界各国",俄罗斯RBC (Opt-1)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯Tivikom Ulan-Udje
-http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯TRO Soyuz
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯-UniverTV
-http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯红星电视台
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="世界各国",俄罗斯联邦 ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯联邦 Новый
-http://spacetv.in/stream/DVB2D6AE8CU/157.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯联邦 НТС (Севастополь)
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯联邦 Остросюжетное HD
-http://s1.only4.tv/0122/video.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯联邦 РБК
-http://online-video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯联邦 С1 (Сургут) [Not 24/7
-https://sitv.ru/hls/stv.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯联邦 Спас
-http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯联邦 Телплюс ТВ (Астрахань)
-http://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",俄罗斯联邦 Тивиком (Улан-Удэ)
-http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",法国24台英语
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="世界各国",法国时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",法国时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="世界各国",哥斯达黎加 Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",韩国-Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",韩国BBS 불교방송
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="世界各国",韩国EBS第二频道
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 #EXTINF:-1 group-title="世界各国",韩国EBS第一频道
@@ -2651,26 +789,10 @@ http://1.245.74.5:1935/live/tv/.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 #EXTINF:-1 group-title="世界各国",韩国中央
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",加拿大 Pardesi TV
-http://stream.pardesitv.online/pardesi/index.m3u8
-#EXTINF:-1 group-title="世界各国",加拿大-Inwonder
-https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",加拿大The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 group-title="世界各国",加纳TV Africa (Ghana)
-http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",捷克Retro (Opt-1)
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",拉脱维亚RETV
-http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
-#EXTINF:-1 group-title="世界各国",拉脱维亚TV Net
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="世界各国",卢旺达 RTV Rwanda
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 #EXTINF:-1 group-title="世界各国",罗马尼亚 MEDIA REGIONAL
 http://83.103.150.198:8080
-#EXTINF:-1 group-title="世界各国",美国 30A TV
-https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 group-title="世界各国",美国 3ABN Dare to Dream
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
 #EXTINF:-1 group-title="世界各国",美国 3ABN Proclaim!
@@ -2679,50 +801,16 @@ https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 #EXTINF:-1 group-title="世界各国",美国 Comet
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 group-title="世界各国",美国 Folk TV
-https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",美国 KidsFlix
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 group-title="世界各国",美国 KidsFlix
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&amp;live=1&amp;app_bundle=com.plexapp.desktop
 #EXTINF:-1 group-title="世界各国",美国 Las Vegas - 13 Action News
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 group-title="世界各国",美国 Las Vegas - 13 Action News
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
-#EXTINF:-1 group-title="世界各国",美国 Mystery Science Theater 3000
-https://mst3k-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",美国 MyTime movie network (Brazil)
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",美国 MyTime movie network (Spain)
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",美国 Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 group-title="世界各国",美国 TD Ameritrade Network
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
-#EXTINF:-1 group-title="世界各国",美国 红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="世界各国",美国Free IPTV
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-#EXTINF:-1 group-title="世界各国",美国July.12.2018
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-#EXTINF:-1 group-title="世界各国",美国movie sphere二台
-https://moviesphere-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="世界各国",美国movie sphere高清
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/1920x1080_5491200/index.m3u8
-#EXTINF:-1 group-title="世界各国",美国movie sphere英国频道
-https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="世界各国",美国Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="世界各国",美国TVW2
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1 group-title="世界各国",美国-彭博财经台
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 group-title="世界各国",美国中文电视
-https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1 group-title="世界各国",墨西哥 TELERITMO
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
-#EXTINF:-1 group-title="世界各国",彭博财经(美)Bloomberg TV
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="世界各国",乔丹 Rotana Radio Jordan (220p)
 http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",日本 声优广播
@@ -2739,54 +827,16 @@ http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",斯洛伐克TV 8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1 group-title="世界各国",斯洛伐克TVNZ
-http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-#EXTINF:-1 group-title="世界各国",泰国 ASTV News 1
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="世界各国",泰国PBS
-http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="世界各国",泰国-公共三台
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="世界各国",土耳其 Semerkand TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",土耳其 TGRT BELGESEL
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",土耳其 TGRT HABER
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",土库曼斯坦 Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 group-title="世界各国",乌克兰  M2 音乐频道
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="世界各国",乌克兰 24 Канал
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",希腊Fox TV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",希腊Ionian Channel
-http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="世界各国",新马 亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-#EXTINF:-1 group-title="世界各国",新西兰Three
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1 group-title="世界各国",匈牙利 Hegyvidek Tv Budapest
-http://tv.hegyvidek.hu/stream_mpeg.flv
-#EXTINF:-1 group-title="世界各国",伊朗 Payam Javan TV
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
-#EXTINF:-1 group-title="世界各国",意大利 Elive Brescia TV
-http://59d7d6f47d7fc.streamlock.net:1935/elivebresciatv/elivebresciatv/playlist.m3u8
 #EXTINF:-1 group-title="世界各国",意大利 Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",意大利 Euro TV
-https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",意大利 Iunior TV
-https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",意大利 Reteveneta
-https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
-#EXTINF:-1 group-title="世界各国",意大利Sky TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",意大利SuperTV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1 group-title="世界各国",印度 DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="世界各国",印度 DD Sports
@@ -2807,30 +857,10 @@ http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 #EXTINF:-1 group-title="世界各国",印度 Reporter TV
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
-#EXTINF:-1 group-title="世界各国",越南ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 group-title="世界各国",越南ANTVHD
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",越南-CTV
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="世界各国",越南ktv
 http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1 group-title="世界各国",越南Bac Kan TV
 http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF:-1 group-title="世界各国",越南Bac Lieu TV
-https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:-1 group-title="世界各国",越南Bac Ninh TV
-https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",越南Ha Giang TV
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国" tvg-logo="https://i.imgur.com/e0gc4CQ.png",越南Hau Giang TV
-https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",tvg-logo="https://i.imgur.com/nyfysP7.png",越南HB TV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",智利 Thema Televisión (La Serena)
-https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",智利 Universidad Autónoma Temuco (UATV)
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="实时视频",全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="实时视频",黟县宏村南湖
