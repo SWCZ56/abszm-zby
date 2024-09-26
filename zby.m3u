@@ -306,11 +306,11 @@ http://xeace.cn:8888/udp/239.93.0.162:2192
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",香港凤凰台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="港澳台" tvg-
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",香港凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKs5v52FoFMRpKEbFHPGGL14/.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-
 logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",香港33频道
 https://stream1.freetv.fun/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
 #EXTINF:-1 group-title="港澳台",华语电视2
@@ -613,25 +613,25 @@ http://gslbservzqhsw.itv.cmvideo.cn/1000000004000026167/1.m3u8?channel-id=ystenl
 https://stream1.freetv.fun/a9c09c04bf7f0ccc71744697c26feb67743da281eaee48022c606b179d97fb81.ctv
 #EXTINF:-1 group-title="综艺" ,GOOD好消息
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="音乐" tvg-logo="https://i.imgur.com/3yeGDTP.png",Cadena Elite (音乐台)
+#EXTINF:-1 group-title="音乐",tvg-logo="https://i.imgur.com/3yeGDTP.png",Cadena Elite (音乐台)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 group-title="音乐"，音乐重载电视高清
+#EXTINF:-1 group-title="音乐",音乐重载电视高清
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1 group-title="音乐"，重新加载电台音乐力量高清
+#EXTINF:-1 group-title="音乐",重新加载电台音乐力量高清
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 group-title="音乐" tvg-logo="https://i.imgur.com/2312Luq.png",Cali TV（音乐艺术台）
+#EXTINF:-1 group-title="音乐",tvg-logo="https://i.imgur.com/2312Luq.png",Cali TV（音乐艺术台）
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 group-title="音乐" tvg-logo="https://i.imgur.com/2GAEWhn.png",Camino Real TV (音乐艺术台)
+#EXTINF:-1 group-title="音乐",tvg-logo="https://i.imgur.com/2GAEWhn.png",Camino Real TV (音乐艺术台)
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
-#EXTINF:-1 group-title="音乐" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[VGA]上频道
+#EXTINF:-1 group-title="音乐",tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[VGA]上频道
 https://stream1.freetv.fun/b13d7ec864ead3a6af53e0e9a7fe50786133ddda1a591def83d7dd42a7fd7900.m3u8
-#EXTINF:-1 group-title="音乐" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[HD]网球频道
+#EXTINF:-1 group-title="音乐",tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[HD]网球频道
 https://stream1.freetv.fun/08b7a30afdc733002b2e112f4e9469a33c204024995491a5bfcdbd1bac9f1c1c.m3u8
-#EXTINF:-1 group-title="音乐" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[HD]cool channel
+#EXTINF:-1 group-title="音乐",tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[HD]cool channel
 https://stream1.freetv.fun/1809f0db847493f7b81f95cfdcc4097f3c9f9cf6f9d5102927ae1a654a7b774e.m3u8
-#EXTINF:-1 group-title="音乐" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[BD]white channel
+#EXTINF:-1 group-title="音乐",tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[BD]white channel
 https://stream1.freetv.fun/5a70942f5e4c6280c37d5b43584b2ac3c79310b6cd572a68e35e4b09f3534fb4.m3u8
-#EXTINF:-1 group-title="音乐" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[SD]bn channel
+#EXTINF:-1 group-title="音乐",tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",[SD]bn channel
 https://stream1.freetv.fun/c99e68a36c6f505e702bf8da76373a5dfab102024da6823a898cb30658f437c5.m3u8
 #EXTINF:-1 group-title="知識" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",[BD]love nature 4k
 https://stream1.freetv.fun/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2744e6ca39f1e7d62f1.m3u8
@@ -752,20 +752,6 @@ https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="世界各地",AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="世界各国",ANTV接口
-http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="世界各地",印尼BTV新闻台
-https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-#EXTINF:-1 group-title="世界各地",印尼RCTI公共电视台
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
-#EXTINF:-1 group-title="世界各地",印尼RCTI公共电视台
-https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 group-title="世界各地",印尼SCTV公共电视台
-http://202.150.172.3:5000/udp/239.1.2.58:8324
-#EXTINF:-1 group-title="世界各地",印尼Trans7电视台
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 group-title="世界各地",印尼TRANSTV电影台
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 group-title="世界各地",巴厘岛电视台
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="世界各地",BeritaSatu World (Opt-3)
