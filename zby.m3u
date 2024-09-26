@@ -661,11 +661,11 @@ https://stream1.freetv.fun/b477995b160cdb9c7e4073eb76a5e241dfe20bcfee9faf4528af9
 https://stream1.freetv.fun/9d0b87502ccb47a1a2c8211dc602777d5146e941c631c933743048da0b44053d.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg",[HD]人间卫视
 https://stream1.freetv.fun/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
-#EXTINF:-1 group-title="高清4K" ，放大镜4K
+#EXTINF:-1 group-title="高清4K",放大镜4K
 https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="高清4K" ，放大镜4K
+#EXTINF:-1 group-title="高清4K",放大镜4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="高清4K" ，爱自然4K
+#EXTINF:-1 group-title="高清4K",爱自然4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="世界各地",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
