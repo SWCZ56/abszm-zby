@@ -752,6 +752,20 @@ https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="世界各地",AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="世界各国",ANTV接口
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="世界各地",印尼BTV新闻台
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:-1 group-title="世界各地",印尼RCTI公共电视台
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:-1 group-title="世界各地",印尼RCTI公共电视台
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 group-title="世界各地",印尼SCTV公共电视台
+http://202.150.172.3:5000/udp/239.1.2.58:8324
+#EXTINF:-1 group-title="世界各地",印尼Trans7电视台
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 group-title="世界各地",印尼TRANSTV电影台
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 group-title="世界各地",巴厘岛电视台
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="世界各地",BeritaSatu World (Opt-3)
