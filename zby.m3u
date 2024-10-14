@@ -285,7 +285,7 @@ http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",香港翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",香港翡翠台 （备） ） ） ）
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",香港翡翠台 （备）
 https://stream.bookmarkmanager.net/live/tv?id=bec3fwyGfHNwxi7Y9cng1_Os-cSzZ9IGd8yxvQmyH_c8eezw4ozB1uN7BVFNquZJjxvpkuRWH_89CyuS80DZTsJ17UwrmuOIoNd3LZfnG5d-DS7aQwOtHMqV fD754QxPWuItDu2uTZgBz9vuQ9R6o3bIs3hLZcC5hzQcP83BjsqeeSI9xA&idp=c825CuBC2WTSUrifYzZNT_Ljo15Jvi0-s_JzaCKHcVELZVg9rOkhnsC7
 #EXTINF:-1 group-title="港澳台", tvg-logo="https://upload.112114.xyz/logo/TVB4.png" ,TVB无线新闻
 https://stream.bookmarkmanager.net/live/tv?id=1dd2bycanrjqKmDZWDDhgf3sL1AjkysZZxcjrINs8aahNniOYc3Tr6_vZAd9lLtSrF-Izu4MDYmPBFILc4nYSZheNZnxOLIdi_dZwfkMHSE8A1-wC9ne6BIoeZG9z3arIR -w_dxR_0GK-LHP4cVuD5GeQWerBGqsJLiRJZ1fLfS47c0IHNQg&idp=45b6ZNgkY5mrWkBkwBGOkCgax8L9un_0IZKX7H8ETmc7v34thIN4EkPE
@@ -377,7 +377,7 @@ http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv055
 http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv044
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.kakaxi-1.ink/LOGO/靖天育乐台.png", 靖天育乐台
 http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv062
-#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://live.kakaxi-1.ink/LOGO/靖天资讯台.png " group-title="4GTV", 靖天资讯台
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://live.kakaxi-1.ink/LOGO/靖天资讯台.png ", 靖天资讯台
 http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv065
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.kakaxi-1.ink/LOGO/靖天电影台.png", 靖天电影台
 http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv061
@@ -485,7 +485,7 @@ http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv011
 http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv017
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.kakaxi-1.ink/LOGO/CatchPlay-电影台.png", CatchPlay 电影台
 http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv076
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.kakaxi-1.ink/LOGO/My-Cinema-Europe-HD-我的欧洲电影.png", 我的电影院欧洲高清我的欧洲电影
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.kakaxi-1.ink/LOGO/My-Cinema-Europe-HD-我的欧洲电影.png", 我的电影院欧洲高清
 http://4gtv.kakaxi-1.ink:9999/4gtv/176
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.kakaxi-1.ink/LOGO/公视戏剧台.png", 公视戏剧台
 http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv042
