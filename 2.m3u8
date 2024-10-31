@@ -1,204 +1,579 @@
-
 #EXTM3U
-#EXTINF:-1 group-title="港澳台",澳门Macau
-http://61.244.22.4/ch3/ch3.live/index.m3u8
-#EXTINF:-1 group-title="港澳台",澳门Macau
-http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 group-title="港澳台",澳门Macau
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 group-title="港澳台",澳门Macau
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="港澳台",澳门莲花
-http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 group-title="港澳台",澳门葡语
-http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 group-title="港澳台",澳门葡语
-http://61.244.22.4/ch2/ch2.live/index.m3u8
-#EXTINF:-1 group-title="港澳台",澳门体育
-http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
-#EXTINF:-1 group-title="港澳台",澳门体育 (720p)
-http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
-#EXTINF:-1 group-title="港澳台",澳门卫视
-http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 group-title="港澳台",澳门信息
-http://61.244.22.4/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 group-title="港澳台",澳门信息
-http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
-#EXTINF:-1 group-title="港澳台",澳门资讯
-http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
-#EXTINF:-1 group-title="港澳台",澳门综艺
-http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",澳门综艺
-http://61.244.22.4/ch6/hd_ch6.live/master.m3u8
-#EXTINF:-1 group-title="港澳台",澳视澳门
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="港澳台",澳视澳门
-http://61.244.22.4/ch1/ch1.live/master.m3u8
-#EXTINF:-1 group-title="港澳台",澳视澳门 (720p) [Not 24/7]
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="港澳台",澳视葡文
-http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 group-title="港澳台",澳视卫星 (720p) [Not 24/7]
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/live.m3u8
-#EXTINF:-1 group-title="港澳台",澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
-#EXTINF:-1 group-title="港澳台",澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
-#EXTINF:-1 group-title="港澳台",澳亚卫视 [Not 24/7]
-http://live.mastvnet.com/4rlff1m/live.m3u8
-#EXTINF:-1 group-title="港澳台",大立电视台
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="港澳台",澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://tv.redrainl.site:9500/live.m3u8?c=01
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://tv.redrainl.site:9500/live.m3u8?c=1
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://tv.redrainl.site:9500/live.m3u8?c=11
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",中视新闻 HD
-http://tv.redrainl.site:9500/live.m3u8?c=02
-#EXTINF:-1 group-title="港澳台",中视新闻 HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="港澳台",中视新闻 HD
-https://ytm2.yuanhsing.cf/twctvnews.m3u8
-#EXTINF:-1 group-title="港澳台",三立iNEWS
-http://tv.redrainl.site:9500/live.m3u8?c=51
-#EXTINF:-1 group-title="港澳台",三立iNEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 group-title="港澳台",三立iNEWS
-https://ytm2.yuanhsing.cf/setmoney159.m3u8
-#EXTINF:-1 group-title="港澳台",三立NEWS+
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 group-title="港澳台",三立NEWS+
-https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-#EXTINF:-1 group-title="港澳台",寰宇新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 group-title="港澳台",寰宇新闻
-https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-#EXTINF:-1 group-title="港澳台",镜新闻Mnews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 group-title="港澳台",镜新闻Mnews
-https://ytm2.yuanhsing.cf/mnews.m3u8
-#EXTINF:-1 group-title="港澳台",中天新闻
-http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1 group-title="港澳台",东森財经 HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 group-title="港澳台",东森財经 HD
-https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-#EXTINF:-1 group-title="港澳台",原住民族电视台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",中视 HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-#EXTINF:-1 group-title="港澳台",东森超视34.5
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",东森购物2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-#EXTINF:-1 group-title="港澳台",东森购物3
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 group-title="港澳台",华视综合娱乐
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 group-title="港澳台",华视综合娱乐
-https://ytm2.yuanhsing.cf/ctsprog.m3u8
-#EXTINF:-1 group-title="港澳台",The K-POP
-https://git.io/JgYAE
-#EXTINF:-1 group-title="港澳台",The K-POP
-https://ytm2.yuanhsing.cf/TheKPOP.m3u8
-#EXTINF:-1 group-title="港澳台",The K-POP2
-https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
-#EXTINF:-1 group-title="港澳台",時尚台FTV
-http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",時尚台FTV
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",時尚台FTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="港澳台",時尚台FTV4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",MOMO購物1台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 group-title="港澳台",MOMO購物2台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 group-title="港澳台",Viva 美好購物1台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-#EXTINF:-1 group-title="港澳台",Viva 美好購物2台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-#EXTINF:-1 group-title="港澳台",EF运通
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 group-title="港澳台",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 group-title="港澳台",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 group-title="港澳台",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",大爱1台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 group-title="港澳台",大爱1台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-#EXTINF:-1 group-title="港澳台",大爱1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台",大爱1台
-https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台",大爱2台
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台",大爱2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台",大爱2台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-#EXTINF:-1 group-title="港澳台",幸福空间居家台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 group-title="港澳台",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 group-title="港澳台",唯心電视
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="港澳台",唯心電视
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-#EXTINF:-1 group-title="港澳台",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="港澳台",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Interracial
+http://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Threesome
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Asian
+http://live.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",安斋
+https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",百永纱理奈
+https://siwazywcdn2.com:5278/zhongwenzimu/5PzEAi0h/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",春埼芽衣1
+https://fc.maa1809.com/m/omsopjnoon/omsopjnoon.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",春埼芽衣2
+https://fc.maa1809.com/d/onqiitnimq/onqiitnimq.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",春埼芽衣3
+https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",耳边细语
+https://siwazywcdn2.com:5278/zhongwenzimu/07fs3XqF/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",河原枫
+https://fc.maa1809.com/f/qcreaitlwz/qcreaitlwz.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",嘿嘿1768神田
+https://fc.maa1808.com/g/mllotqnpol/mllotqnpol.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",嘿嘿立花琉莉
+https://fc.maa1808.com/c/rkxhwovsgf/rkxhwovsgf.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",花音1
+https://fc.maa1809.com/e/pjnvmkrplq/pjnvmkrplq.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",姬野栞
+https://fc.maa1809.com/g/rnhlghoqyo/rnhlghoqyo.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",加勒比001THE4名
+https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",加勒比206西川
+https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",加勒比350丘笑
+https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",加勒比612希笑
+https://fc.maa1808.com/n/kqnjvnpjkm/kqnjvnpjkm.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",笠木一香
+https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",帕科马马-希笑
+https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",晴佳
+https://fc.maa1809.com/b/inmkopifvj/inmkopifvj.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",三原穗花加藤绫野
+https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈1
+https://fc.maa1809.com/m/roqelpimmo/roqelpimmo.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈2
+https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈3
+https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈4
+https://fc.maa1809.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈5
+https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈6
+https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",西宫
+https://siwazywcdn2.com:5278/zhongwenzimu/1BvNA3kM/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",筱原友香1
+https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",筱原友香2
+https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",咲咲原凛星奈爱
+https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",雪音
+https://siwazywcdn2.com:5278/zhongwenzimu/23fVU6wT/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",叶月梨乃
+https://siwazywcdn2.com:5278/ribenyouma/6F2acdoY/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",伊藤优希
+https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",音羽
+https://fc.maa1809.com/c/nokhxqnqpj/nokhxqnqpj.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",永濑唯
+https://fc.maa1809.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",奏美沙
+https://fc.maa1809.com/e/chifuosxst/chifuosxst.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib002姬川
+https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib004西川
+https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib146西川
+https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib182西川
+https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib239西川
+https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib288西川
+https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib311西川
+https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib337西川
+https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib339姬川
+https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib363西川
+https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib375姬川
+https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib375姬川
+https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib420丘笑
+https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib431北川
+https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib433姬川
+https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib449神田
+https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib457北川
+https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib474立花琉莉
+https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib477立花琉莉
+https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib478北川
+https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib495神田
+https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib531立花琉莉
+https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib533丘笑
+https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib541神田
+https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib563爱莉
+https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib563七濑
+https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib589立花琉莉
+https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib639神田
+https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib665姬川
+https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib665姬川
+https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib674杏奈
+https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib675神田
+https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib710神田
+https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib717杏奈
+https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib744立花琉莉
+https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib758美笑爱
+https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",cawd-092皆川优奈
+https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ebod-829北野未奈
+https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",fsdss-039美乃
+https://siwazywcdn2.com:5278/zhongwenzimu/30HRcubp/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1199希笑
+https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1243水谷
+https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1262西川
+https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1275水谷
+https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1395姬川
+https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1478丘笑
+https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1544姬川
+https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1570神田
+https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1590神田
+https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1601北川
+https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1638姬川
+https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1691神田
+https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1722杏奈
+https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1786杏奈
+https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ipx-511
+https://siwazywcdn2.com:5278/ribenyouma/NkRh5zW8/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",JUFE-104
+https://siwazywcdn2.com:5278/zhongwenzimu/4TrvxJeg/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",JUFE-104
+https://siwazywcdn2.com:5278//zhongwenzimu/4TrvxJeg/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",MEYD-647川上奈奈美
+https://siwazywcdn2.com:5278/zhongwenzimu/3YPtObjx/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",MIAA-247
+https://siwazywcdn2.com:5278/zhongwenzimu/TZb8hicm/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",MIAA-320
+https://siwazywcdn2.com:5278/zhongwenzimu/4idREMlz/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",MIFD-117
+https://siwazywcdn2.com:5278/zhongwenzimu/2imBA5or/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",mifd070永瀬
+https://fc.maa1808.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo273水谷
+https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo311水谷
+https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo350西川
+https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo366水谷
+https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo419西川
+https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo450西川
+https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo488姬川
+https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo518姬川
+https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo559北川
+https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo597西川
+https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo613七濑
+https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo618水谷
+https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo764杏奈
+https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo793杏奈
+https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",SCOP-697
+https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",SPRD-1481夏川
+https://siwazywcdn2.com:5278/zhongwenzimu/1Wc2gtfN/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ssis-096乙白沙也
+https://siwazywcdn2.com:5278/zhongwenzimu/0GbVxCsv/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ssis-118梦乃
+https://siwazywcdn2.com:5278/zhongwenzimu/5yvSxVeg/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",SSNI-658A
+https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",SSNI-658B
+https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ssni-778儿玉玲奈
+https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
+#EXTINF:-1 group-title="成人视频" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",WAAA-087工藤良罗
+https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
+#EXTINF:-1 group-title="成人频道",_1
+https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+#EXTINF:-1 group-title="成人频道",_2
+https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+#EXTINF:-1 group-title="成人频道",_3
+https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+#EXTINF:-1 group-title="成人频道",_4
+https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+#EXTINF:-1 group-title="成人频道",_5
+https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+#EXTINF:-1 group-title="成人频道",_6
+https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+#EXTINF:-1 group-title="成人频道",_7
+https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+#EXTINF:-1 group-title="成人频道",_8
+https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+#EXTINF:-1 group-title="成人频道",_9
+https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+#EXTINF:-1 group-title="成人频道",_10
+https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+#EXTINF:-1 group-title="成人频道",_11
+https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+#EXTINF:-1 group-title="成人频道",_12
+https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+#EXTINF:-1 group-title="成人频道",_13
+https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+#EXTINF:-1 group-title="成人频道",_14
+https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+#EXTINF:-1 group-title="成人频道",_15
+https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+#EXTINF:-1 group-title="成人频道",_16
+https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+#EXTINF:-1 group-title="成人频道",_17
+https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+#EXTINF:-1 group-title="成人频道",_18
+https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+#EXTINF:-1 group-title="成人频道",_19
+https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+#EXTINF:-1 group-title="成人频道",_20
+https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+#EXTINF:-1 group-title="成人频道",_21
+https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+#EXTINF:-1 group-title="成人频道",_22
+https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+#EXTINF:-1 group-title="成人频道",_23
+https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+#EXTINF:-1 group-title="成人频道",_24
+https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+#EXTINF:-1 group-title="成人频道",_25
+https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+#EXTINF:-1 group-title="成人频道",_26
+https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+#EXTINF:-1 group-title="成人频道",_27
+https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+#EXTINF:-1 group-title="成人频道",_28
+https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+#EXTINF:-1 group-title="成人频道",_29
+https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
+#EXTINF:-1 group-title="成人频道",_30
+https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+#EXTINF:-1 group-title="成人频道",_31
+https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+#EXTINF:-1 group-title="成人频道",_32
+https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
+#EXTINF:-1 group-title="成人频道",_33
+https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
+#EXTINF:-1 group-title="成人频道",_34
+https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
+#EXTINF:-1 group-title="成人频道",_35
+https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
+#EXTINF:-1 group-title="成人频道",_36
+https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
+#EXTINF:-1 group-title="成人频道",_37
+https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+#EXTINF:-1 group-title="成人频道",_38
+https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
+#EXTINF:-1 group-title="成人频道",_39
+https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+#EXTINF:-1 group-title="成人频道",_40
+https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
+#EXTINF:-1 group-title="成人频道",_41
+https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
+#EXTINF:-1 group-title="成人频道",_42
+https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
+#EXTINF:-1 group-title="成人频道",_43
+https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
+#EXTINF:-1 group-title="成人频道",_44
+https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
+#EXTINF:-1 group-title="成人频道",_45
+https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
+#EXTINF:-1 group-title="成人频道",_46
+https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
+#EXTINF:-1 group-title="成人频道",_47
+https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
+#EXTINF:-1 group-title="成人频道",_48
+https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
+#EXTINF:-1 group-title="成人频道",_49
+https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
+#EXTINF:-1 group-title="成人频道",_50
+https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
+#EXTINF:-1 group-title="成人频道",_51
+https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
+#EXTINF:-1 group-title="成人频道",_52
+https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
+#EXTINF:-1 group-title="成人频道",_54
+https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
+#EXTINF:-1 group-title="成人频道",_55
+https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
+#EXTINF:-1 group-title="成人频道",_56
+https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+#EXTINF:-1 group-title="成人频道",_57
+https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
+#EXTINF:-1 group-title="成人频道",_58
+https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
+#EXTINF:-1 group-title="成人频道",_59
+https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
+#EXTINF:-1 group-title="成人频道",_60
+https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
+#EXTINF:-1 group-title="成人频道",_61
+https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
+#EXTINF:-1 group-title="成人频道",_62
+https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
+#EXTINF:-1 group-title="成人频道",_63
+https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
+#EXTINF:-1 group-title="成人频道",_64
+https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
+#EXTINF:-1 group-title="成人频道",_65
+https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
+#EXTINF:-1 group-title="成人频道",_66
+https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
+#EXTINF:-1 group-title="成人频道",_4424
+https://siwazywcdn2.com:5278/koubao/ArO0ZKyh/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4425
+https://siwazywcdn2.com:5278/zhongwenzimu/1et0icd2/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4428
+https://siwazywcdn2.com:5278/zhongwenzimu/3Cl64rKR/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4434
+https://siwazywcdn2.com:5278/zhongwenzimu/3xtCZeFz/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4440
+https://siwazywcdn2.com:5278/zhongwenzimu/mSbszYv1/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4442
+https://siwazywcdn2.com:5278/zhongwenzimu/rN9jgfdG/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4444
+https://siwazywcdn2.com:5278/zhongwenzimu/hrXPg0Ol/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4446
+https://siwazywcdn2.com:5278/zhongwenzimu/WCh34sbn/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4447
+https://siwazywcdn2.com:5278/zhongwenzimu/cZQDGuKE/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4448
+https://siwazywcdn2.com:5278/zhongwenzimu/FUr8CV3S/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4495
+https://play1.laoyacdn.com/20220419/Xl2ido3h/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4496
+https://play1.laoyacdn.com/20220419/VFFcVw9l/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4504
+https://vod1.ttbfp2.com/20210822/hVWMxztT/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4505
+https://vod1.ttbfp2.com/20210817/a3SImI23/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4506
+https://vod1.ttbfp2.com/20210822/ZEODhqOk/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4514
+https://siwazywcdn2.com:5278/zhongwenzimu/3AmaC0Mx/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4515
+https://siwazywcdn2.com:5278/zhongwenzimu/5IyOmQhe/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4518
+https://siwazywcdn2.com:5278/ribenyouma/403gbqUp/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4521
+https://siwazywcdn2.com:5278/zhongwenzimu/4PjZfJcz/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4522
+https://siwazywcdn2.com:5278/zhongwenzimu/dW32KNcY/index.m3u8
+#EXTINF:-1 group-title="成人频道",_4529
+https://play1.laoyacdn.com/20220308/HOgMxJkq/index.m3u8
+#EXTINF:-1 group-title="成人频道",Playboy TV Latin America HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Arab (720p)
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Blowjob (720p)
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Medium (720p)
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV MILF (720p)
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Teen (720p)
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Young (720p)
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la! (576p)
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://i.imgur.com/avtSqUu.png",Visit-X TV (720p)
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",一本03
+http://live.redtraffic.xyz:80/bigass.m3u8
+#EXTINF:-1 group-title="成人频道",二本04
+http://live.redtraffic.xyz:80/blowjob.m3u8
+#EXTINF:-1 group-title="成人频道",欧美01
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="成人频道",欧美02
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="成人频道",松视1
+http://live.redtraffic.xyz:80/fetish.m3u8
+#EXTINF:-1 group-title="成人频道",松视2
+http://live.redtraffic.xyz:80/bigdick.m3u8
+#EXTINF:-1 group-title="成人频道",玩美台
+http://live.redtraffic.xyz:80/pov.m3u8
+#EXTINF:-1 group-title="成人频道",限制级
+http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+#EXTINF:-1 group-title="成人频道",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="成人频道",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="成人频道",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="成人频道",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="成人频道",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="成人频道",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="成人频道",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="成人频道",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="成人频道",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="成人频道",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="成人频道",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="成人频道",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="成人频道",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="成人频道",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="成人频道",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="成人频道",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="成人频道",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="成人频道",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="成人频道",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="成人频道",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="成人频道",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="成人频道",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="成人频道",Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="成人频道",AdultIPTV.net Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="成人频道",AdultIPTV.net Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="成人频道",AdultIPTV.net MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="成人频道",AdultIPTV.net Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="成人频道",AdultIPTV.net Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="成人频道",AdultIPTV.net Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="成人频道",AdultIPTV.net Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 成熟
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 黑人女孩
+http://live.mycamtv.com/ebony.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 亚洲女孩
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 黑发女孩
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 拉丁裔女孩
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 白人女孩
+http://live.mycamtv.com/white.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 金发女孩
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 肛交
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 丰臀女孩
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 女孩潮吹
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 group-title="成人频道",MyCamTV 瘦女孩
+http://live.mycamtv.com/skinny.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Threesome
+http://cdn.adultiptv.net/thirdsome.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",俄语
+http://cdn.adultiptv.net/ Russian.m3u8
