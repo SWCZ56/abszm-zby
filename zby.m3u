@@ -491,9 +491,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 group-title="音乐" tvg-logo="https://i.imgur.com/3yeGDTP.png",Cadena Elite (音乐台)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 group-title="音乐",#EXTINF:-1 group-title="音乐"，音乐重载电视高清
+#EXTINF:-1 group-title="音乐"，音乐重载电视高清
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1 group-title="音乐",#EXTINF:-1 group-title="音乐"，重新加载电台音乐力量高清
+#EXTINF:-1 group-title="音乐"，重新加载电台音乐力量高清
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF:-1 group-title="音乐" tvg-logo="https://i.imgur.com/2312Luq.png",Cali TV（音乐艺术台）
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
@@ -539,6 +539,36 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b796000_slENG.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/dLzgBUj.png",马来西亚 TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b796000_slENG.m3u8?id=2
+#EXTINF:-1 group-title="世界各地",印尼TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 group-title="世界各地",印尼TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20000.m3u8
+#EXTINF:-1 group-title="世界各地",印尼ANAK TV
+https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/playlist.m3u8
+#EXTINF:-1 group-title="世界各地",印尼ANAK TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+#EXTINF:-1 group-title="世界各地",印尼CNN TV
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="世界各地",印尼CNN TV
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1614499554_b192000_sleng.m3u8
+#EXTINF:-1 group-title="世界各地",印尼ANTV TV
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CocG2NVj03_l4gsvusiHOPdpTunKoAtprpmCRh4dAkNaWmXU6T0s6CS5TsT1NvtuwbpGUUPzOO7v2TNnD3TH8sKoPDQv1lx3jRllY7sMq2RCP5b3pYuDPrJP5Kwc9nxjpo6KnjBStvNNieZuqx8bFEKY2K-StzvmsBSkMJ5AUE64c2X1iDflw_o5tVE4ISTqaVA7mOMKUAS_K1YHfJ5CK5UdYlwxKQaHqpPsKFJLCjUgQrGgpYkm0Em1sAu27hDlrqInMs9vxlWDVOi4q6Oe2qlIYtymj0rNYldhhc9HcalW0E69r5VrzJVLaGtmjWgUmlrNNyp8xxqRp9-5rMfRKdn6n902bVTXMiEUfPrGxnMW4suQyFw2c4ovHuEqfW3eUJKPUfxqIIVGfOrFbUoQEkaz25wYsSt0yZ3B5TBYI4AT-f221I4z-FVIhpZNRsNTI95ZQvjJiFbNCuXOqlw3Yhgk-2Ori0Hmx5vTT2IoFHSy8Vn8lGu71fX0wTKpWZjmxGzr754R9UfAN9D1s2UzbRf1uN3m8GCY61BriVSwhvQOvtUcD5k7DgtZfY1zwz5vwOWC4kSyxk_I3ncEp2TKdrOSy0NbH-Y77esGevUByqaxqGJIKv-WC5oYW8IARFQeGoNcu8Y1MJaLy2bcx_V-XJoB6hGLIQ_ozfeg2EVq1LKOsN75xeWYQis4KSft2Y-Sue2Ag-JLfn9Xz9LgGvSRY9YU1QkGt9CIzlpeSf2ByvbqYgA-N4AKjnqqB7GSW99k7IGPQbDaQAF_WVbW2-oqbSpCZMNAKveojU6QBg3gHyVAy7dYYyl1mFGFnyVE9Xi5pxcB-lO7QhgeAVc3o-wgvZem-joZTDl0wr5-_4R0ubI0yeCtPcHIaKCENoWdRkLl2AlfldUDOUBj_N7gx7H6rWpl7S9uNpKAaJ_z-GkFIj8ugO2wZ8L9jpnHma8GmC0tnGAmmGPfjZVDeOAPHHTxPqvakydXN_TaCZAddjJkBpN1auf2o78lufYHvGlASNYjyF19O6pVO4NTERoMMqATEl664uW0Z8M7IAEqCXVzLWVhc3QtMjDjCg.m3u8
+#EXTINF:-1 group-title="世界各地",印尼ANTV TV
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpEGBGhr4_rav7QoTCYh9JtvCB8jYoQHzlF0Y0CsNCtJdlXSYQ8ZBUgBaZF_dpZtToYCn3DLWxUKGZ85UVMsOfaXkQNmVaBKPU2I-HQjLnQJRlWOGxj-sNlNEmfCRGucUPYZL3mESw8mgV-YLdpKyc1yteyW2y5g51hm7NcIUddCmjYpeU8QlTqoj07zMf4f_afXxRuiD8VrRFqDsTtB9YZ_SCVK0AqY8EBACWQdXTWLnAJumYonr6UeXiFNct44xeqZ94n5tEa_ymKbtFVfSXOkurC1bxN61v_ifq3Fdk7m4BmMcXy7a1ptD7StIeooEIizXmMAKWLWPLJbvbUqbs6ZRWihyypjnivkpIKld3shkrJfNtqJGIvdKrt7omEd05Unk0mdznXBdC6NsnoTyA0comvWFuH3yAFrnUdipF4uXYSP4L410x4FHzKVnocW8JHJsgNmVRDnHLgGzzHTPqBoaHuZtsAk_ZzyfkQzhXbD6C4BYy-qCsGawThUEXUjSqdyAWc53ttRi3I4a1EMkCI4-jvCDMQh4Q4cg9eQrOyvuGVZs6jVsDosyDetFvv-69d2iciDFh70StXUir89jgq1DYH3IK9T-hw8I1TKF5SHbrdXYBROwdNrKmi-4z20RB41J5XdNjOConYhtiTwqSv1n1Rqo06iMrpoaOp7L7pn2CAqtgDSqW4OCC94Zvoj7FQACvWNOXVI4a0uGWjSAbRWMY8Fs6y3kSpRAs8dSlAw0jviHpiwEIsofqIuV7-XZIa30thWyeXRYEOc7EzOwpe1dWLZzGGf9qH3sPHfWT3inQqxGZhK1DDGYkho0Uv1nAUJ2dkX7h0TkswalUGjvaq9POnP6g3r8397Y7S2Q08dJ-yG2pIwuqvlKZdXSEOm0YwCwce2Kmu41TAIo_C9aEWh-3KvvNh8nGJdfd0Z3oiE7aaCwMoAmjB-8TjZr3Q5BnN8P-QHYFrcHFX3LNOwNMS7bmUhCFQfA6fDUaecVoJ0PCiUVeOTI0fdJ9J0vEKgQIA0EGTUZ3ZgdMkuIin2uugBSLwaDKN_ZtsAeelzSnVtHSABKgl1cy1lYXN0LTIw4wo.m3u8
+#EXTINF:-1 group-title="世界各地",印尼BTV TV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 group-title="世界各地",印尼BTV TV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="世界各地",印尼TRANS TV
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
+#EXTINF:-1 group-title="世界各地",印尼Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="世界各地",印尼Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png",对话木偶团体
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 group-title="世界各地",印尼BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 group-title="世界各地" tvg-logo="https://i.postimg.cc/xT9jJXZ0/TBK-logo-2021.png",越南 Hậu Giang TV
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/gWc8xVD.jpg",CTV（越南）
@@ -558,14 +588,14 @@ https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlis
 #EXTINF:-1 group-title="世界各地" tvg-logo="https://i.postimg.cc/xT9jJXZ0/TBK-logo-2021.png",越南 Bac Kan TV
 http://123.31.36.68/live.m3u8？
 c = vstv360＆deviceId =＆deviceType =＆gcId = 1532＆location = NA＆pkg = pkg11.hni＆q = high＆requestTime = 1586309420781＆time = 1586395820＆token = LX-ibJYRUq9pflRtYAxfYQ＆type = tv＆userId =
-#EXTINF:-1 group-title="世界各地",印尼Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各地",印尼Trans7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png",对话木偶团体
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 group-title="世界各地",印尼BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 group-title="世界各地",日本NHK TV
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zt/playlist.m3u8
+#EXTINF:-1 group-title="世界各地",日本朝日电视台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730859301/ei/xXwqZ7j2KavDsfIP8uu60AQ/ip/104.28.158.197/id/coYw-eVU0Ks.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51312688%2C51326932/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPiR6q4iRASX1b-b4OlpzoWr0qZwNr_BqRPEMuculDgHAiBbntSWThw5jfGTI1jJ2jeVJUncAg4PM7ZpxQDG1yFt9A%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="世界各地",日本 声优广播
+http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+#EXTINF:-1 group-title="世界各地",日本QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="世界各地",泰国 ASTV News 1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="世界各地",泰国PBS
@@ -976,10 +1006,6 @@ http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 #EXTINF:-1 group-title="世界各地",罗马尼亚 MEDIA REGIONAL
 http://83.103.150.198:8080
-#EXTINF:-1 group-title="世界各地",日本 声优广播
-http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
-#EXTINF:-1 group-title="世界各地",日本QVC Japan
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="世界各地",斯洛伐克 TV DK
 http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
 #EXTINF:-1 group-title="世界各地",斯洛伐克TV 8
