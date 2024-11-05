@@ -232,7 +232,7 @@ http://xeace.cn:8888/udp/239.93.1.9:2192
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",香港rthk33
 https://stream1.freetv.fun/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",香港凤凰资讯
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 #EXTINF:-1 group-title="港澳台",tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰香港
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 #EXTINF:-1 group-title="港澳台",华语电视2
