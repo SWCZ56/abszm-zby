@@ -222,7 +222,7 @@ https://edge.yeslive.buzz/live/tvb_jade.m3u8?token=vqFSGbLW-m1hj6R9NqWj3A&expire
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://upload.112114.xyz/logo/TVB4.png",TVB无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://upload.112114.xyz/logo/TVB5.png",TVB无线新闻（备）
-http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/明珠台.png",香港明珠台
 https://stream.bookmarkmanager.net/live/tv?id=557eOTH11aGW0js19fF_4jRFeMETDshodFoyioCAgorYLqAtd8ZxGF8zmkhskYID-0dodFCR7yJ-mmkVcshYkIkefHzWk62hwPSs2-BExQ4Tbn5TPtYNdN7RrLsJec_U6394VilW 8io2PHzQQWAM2SuTbhGTJk__UKW9lcr2tpV8Mau44DU&idp=cc4e1m8UZhVitAHqCDMwckJpTfvBiXfgZnco9YO8HeMgHgcMauDCXp4C
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",香港TVBJ2
@@ -232,7 +232,7 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",香港rthk33
 https://stream1.freetv.fun/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",香港凤凰资讯
-http://xeace.cn:8888/udp/239.93.0.118:2191
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="港澳台",tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="港澳台",华语电视2
