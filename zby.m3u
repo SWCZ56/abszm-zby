@@ -233,6 +233,8 @@ http://xeace.cn:8888/udp/239.93.1.9:2192
 https://stream1.freetv.fun/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",香港凤凰资讯
 http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",香港凤凰资讯
+https://stream.bookmarkmanager.net/live/tv?id=4dd4SH40dDCm4q9HVyHriC2JxX7-rqEIcoLtRlxaPg07iwQ-dNlnuCWmlM6-u-A0CeVQSVIkygLouC1ujo9n8Fz0ByTpg7zPld7z-FC9IPp3s_KU-MwoCSck6q0Wz0OoK80W9_V51a8I8BkHrFKANqvFsfIPKfAU7EONVuVe3g3vi9mwYbwN2_z1hA&idp=d3229-0IZlqZiLQwsx19m8xjowvvc1ETqmayoS3ie98Qt66Bi-q9Yqct
 #EXTINF:-1 group-title="港澳台",tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰香港
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 #EXTINF:-1 group-title="港澳台",华语电视2
