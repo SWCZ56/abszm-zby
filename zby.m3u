@@ -216,15 +216,15 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="港澳台"  tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",香港翡翠台 （备）
-https://edge.yeslive.buzz/live/tvb_jade.m3u8?token=vqFSGbLW-m1hj6R9NqWj3A&expires=1730799662
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://upload.112114.xyz/logo/TVB4.png",TVB无线新闻
-https://stream.bookmarkmanager.net/live/tv?id=d099y1IWYweCspZSANz-5Zfjh3-y5myykVZwJwh06VxwzX2nEMfBN2bmcZmRCTUhrICgEBAZVyQfCoJyaT1-YQqrr_7JvfhACDPSJ91BIXfvyeLR-KAojPZlCmK-x0F2dWHMwQ6V2B_juWea_KhAHVYPjl3AhtIjRU3gTsALR2vqp8Elg63GXQ&idp=11afH2hZgNIzj0ulrn0fwTyHuclDxxBCtVvF66sawoAAINt077shELz7
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://upload.112114.xyz/logo/TVB5.png",TVB无线新闻（备）
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/明珠台.png",香港明珠台
-https://stream.bookmarkmanager.net/live/tv?id=877d4NqIVCruIho9-RB0bKhuoUDoaVUAhmMD6Ahc2m_RBcZKGIqlLD65if3ezbCqOonZLEe7Wckthn24GdyxeotzT9DOqqOplL_YtcrRcr-mLaqiEfHzfgNSLYmkpoI6W7aSgq65yPoEXEbOMqlt3KAJnQoaeExD_7jWrB6SPTq-FN4LmkY&idp=13f0Vr4nDZvVtnpOdsk30wH7UdzKwDbHfrAppDnaFZr1sKP4dgTMPDyG
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",香港TVBJ2
-https://stream.bookmarkmanager.net/live/tv?id=fb50jf4M9ZalbzdzVWJKD7phG_e7YW0OGQ5svam_8bfmAV6K9GsEOXIlh1mvvJGTBurkFDZqkqK5N9Di_sUkpFjZPe3_04pmAMDA-TDtFwdHurV8HStRtzTL5rQpGSPUosejh4Yb_2DHgcRcTamYRt2TIGI00pQCsyuHxBDTJU9kWwk&idp=3f1eURhXWAM6CBCnCXIe7RI6U0PU6PzeRLAChVaOZkwvcrOen5tEpDQl
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
