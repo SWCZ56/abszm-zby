@@ -1,83 +1,51 @@
-#EXTM3U
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文台
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台",澳门葡语
-http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 group-title="港澳台",澳门卫视
-http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 group-title="港澳台",澳门信息
-http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
-#EXTINF:-1 group-title="港澳台",澳视澳门
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="港澳台",澳视卫星 (720p) [Not 24/7]
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",大立电视台
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻 HD
-http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",东森超视34.5
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",時尚台FTV
-http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",時尚台FTV
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",時尚台FTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="港澳台",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 group-title="港澳台",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 group-title="港澳台",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",大爱1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台",大爱1台
-https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台",大爱2台
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台",大爱2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 group-title="港澳台",唯心電视
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="港澳台",唯心電视
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-#EXTINF:-1 group-title="港澳台",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="港澳台",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="AKTV" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.112114.xyz/logo/myTV SUPER 18台.png" epg-url="https://epg.112114.xyz/pp.xml",myTV SUPER 18台
+https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3YiaX8QrZIfDdm2Bavk4LREfWhmpdeVITQickahlv8F5w1YaPzpEyaaViaIkzHN6Ezx01SnykfvHWNffejkkdNMWJzdf37I0Q0DP&token=6xykWLEnztJic14j5EuwldMXNY9JG5oGrRjicia5n7NQvD8JSE4vZB6yyBqoWwACdZkuricsa5x2X7Aib99S4ZTcQZEObx4ZYMaCWDgJMVTI8tDCOdN9dviaiaLT8Y8PA3uBkl4&idx=1&hy=SZ&m=&uzid=2&web=1
+#EXTINF:-1 group-title="AKTV" tvg-name="PopC" tvg-logo="https://epg.112114.xyz/logo/PopC.png" epg-url="https://epg.112114.xyz/pp.xml",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVB Plus.png" epg-url="https://epg.112114.xyz/pp.xml",TVB Plus
+https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3YiaX8QrZIfDe3UBVPD7L8CsmmNJ7vhytndYmkFnznkwRu23YBBvb5ETraTVzeiaF9Y8xcBhxgK62ic91ia7q4aad4pnJATty8vrv&token=6xykWLEnztJic14j5EuwldMXNY9JG5oGrtCxrKuNglxL0kIcSkNAMaznFRJjHVnUI1HWgMCsoOErTRRMXdoz4jnVtlhnTibsgK0stUrSb0t2WgJTJIYp8yaiaauTGia84ib0G&idx=1&hy=SZ&m=&uzid=2&web=1
+#EXTINF:-1 group-title="AKTV" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS
+https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3YiaX8QrZIfDcyKZlKpQPqqtlRCZZMtSPS4ad2JjRJoVJUgd1jHM1WuzdZ0fAgexCQn5nok0veib4tDIicAAGL05txibrJ3CmJwk0&token=cztXnd9GyrEbic7XC4JK5U3zXbLZ7X3s1ClA8TmvkWLjJ91PyJIMf3f807qqmdyk7odX4O5aZ7LRLqf0L6R33ombiavXQL7KOY5vD5iaiaGyYkn343B2j7FtCdnbrloIDc5d&idx=1&hy=SZ&m=&uzid=2&web=1
+#EXTINF:-1 group-title="AKTV" tvg-name="TVBS-新聞台" tvg-logo="https://epg.112114.xyz/logo/TVBS-新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS-新聞台
+https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibusn4vVFEyiaruzgr82gn2M2WMWmMSRtCQY9e6au70Hp2QI2rtojczrCWssLId0CBKiboX6Vic2m8qwcibUJ0uK8hTyyPaIWYASEjxfryibAzYO66SesEyc06Kjg&token=6xykWLEnztJic14j5EuwldNF70ZRMpxK3Wv2Zic1g1N4PGQ8ExiacMATLGxTgMXvxXWLW3Z84nXrJaZcIwss090Q2JTuqREMs4uc9oCruQKWO4wCLcuNlIcU6y91dWvJPicI&idx=1&bizid=1023&dotrans=0&hy=SZ&m=6cb9732f8aba13998d043bf864228080&upid=500240&web=1
+#EXTINF:-1 group-title="AKTV" tvg-name="三立綜合台" tvg-logo="https://epg.112114.xyz/logo/三立綜合台.png" epg-url="https://epg.112114.xyz/pp.xml",三立綜合台
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="三立財經新聞" tvg-logo="https://epg.112114.xyz/logo/三立財經新聞.png" epg-url="https://epg.112114.xyz/pp.xml",三立財經新聞
+http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" epg-url="https://epg.112114.xyz/pp.xml",中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="无线新闻台(北美)" tvg-logo="https://epg.112114.xyz/logo/无线新闻台(北美).png" epg-url="https://epg.112114.xyz/pp.xml",无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.112114.xyz/logo/明珠剧集台(北美).png" epg-url="https://epg.112114.xyz/pp.xml",明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" epg-url="https://epg.112114.xyz/pp.xml",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="無線新聞台" tvg-logo="https://epg.112114.xyz/logo/無線新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="翡翠剧集台(北美)" tvg-logo="https://epg.112114.xyz/logo/翡翠剧集台(北美).png" epg-url="https://epg.112114.xyz/pp.xml",翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" epg-url="https://epg.112114.xyz/pp.xml",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="翡翠台(泰国)" tvg-logo="https://epg.112114.xyz/logo/翡翠台(泰国).png" epg-url="https://epg.112114.xyz/pp.xml",翡翠台(泰国)
+http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="翡翠综合台(北美)" tvg-logo="https://epg.112114.xyz/logo/翡翠综合台(北美).png" epg-url="https://epg.112114.xyz/pp.xml",翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" epg-url="https://epg.112114.xyz/pp.xml",華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="靖天電影台" tvg-logo="https://epg.112114.xyz/logo/靖天電影台.png" epg-url="https://epg.112114.xyz/pp.xml",靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV" tvg-name="龍華經典台" tvg-logo="https://epg.112114.xyz/logo/龍華經典台.png" epg-url="https://epg.112114.xyz/pp.xml",龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
