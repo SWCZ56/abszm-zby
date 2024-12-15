@@ -208,7 +208,7 @@ https://stream1.freetv.fun/2f69dcf1d6afdbf8c3d7331ab0c858be22de1068a36be03c676de
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",香港翡翠台 （备）
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",无线新闻
 https://stream1.freetv.fun/a17566b81efbc7de0bd335ce7dd6083a3150c80a02c0f2d8a6d2d7525435f600.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://upload.112114.xyz/logo/TVB4.png",TVB无线新闻
