@@ -145,6 +145,10 @@ http://dsm.huarunguoji.top:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 http://dsm.huarunguoji.top:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17
 http://1.itv.nctv.top:35455/gaoma/cctv17.m3u8
+#EXTINF:-1 group-title="💰央视付费频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png",风云足球
+http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
+#EXTINF:-1 group-title="💰央视付费频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png",风云足球
+http://183.11.239.36:808/hls/133/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视
 http://219.145.93.74:9999/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视
@@ -835,6 +839,86 @@ http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png",CHC家庭影院
+http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+#EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png",CHC家庭影院
+http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png",CHC家庭影院
+http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+#EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png",CHC动作电影
+http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png",黑莓电影
+http://www.terrykang.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png",经典电影
+http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
+#EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png",星空卫视
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png",星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png",星空卫视
+http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
+#EXTINF:-1 group-title="🏀体育频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png",睛彩篮球
+http://dsm.huarunguoji.top:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="🏀体育频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png",睛彩篮球
+http://dsm.huarunguoji.top:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="🏀体育频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png",睛彩篮球
+http://dsm.huarunguoji.top:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="🏀体育频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png",睛彩篮球
+http://dsm.huarunguoji.top:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="🏀体育频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png",睛彩篮球
+http://1.itv.nctv.top:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="🏀体育频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png",睛彩广场舞
+http://cqshushu.us.kg:2086/ln.php?id=jcgch-1
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png",金鹰卡通
+http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png",金鹰卡通
+http://61.138.128.226:19901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png",金鹰卡通
+http://221.0.78.198:1681/hls/10265/index.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png",金鹰卡通
+http://220.170.241.204:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七龙珠.png",七龙珠
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七龙珠.png",七龙珠
+http://1.94.31.214:35455/huya/11601966
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海绵宝宝.png",海绵宝宝
+http://1.94.31.214:35455/huya/11352919
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中华小当家.png",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中华小当家.png",中华小当家
+http://1.94.31.214:35455/huya/11342413
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫和老鼠.png",猫和老鼠
+http://1.94.31.214:35455/huya/11352879
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫和老鼠.png",猫和老鼠
+http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png",蜡笔小新
+http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png",蜡笔小新
+http://1.94.31.214:35455/huya/11352970
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png",笑傲江湖
+http://rihou.cc:555/huyad.php?id=23865142
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png",笑傲江湖
+http://1.94.31.214:35455/huya/26355790
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png",笑傲江湖
+http://1.94.31.214:35455/huya/23865142
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png",笑傲江湖
+https://live.metshop.top/huya/23865142
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png",天龙八部
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png",天龙八部
+http://1.94.31.214:35455/huya/23903123
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png",西游记
+http://1.94.31.214:35455/huya/26355861
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png",三国演义
+http://rihou.cc:555/huyad.php?id=11602081
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png",三国演义
+https://live.metshop.top/huya/11602081
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png",新白娘子传奇
+http://liushizupu.site:35455/yy/1354490667
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png",封神榜
+http://1.94.31.214:35455/huya/29465849
+#EXTINF:-1 group-title="🏛经典剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/射雕英雄传.png",射雕英雄传
+http://1.94.31.214:35455/huya/23824164
 #EXTINF:-1 group-title="🇨🇳 数字频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 数字频道" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/ah4k.png",华数测试
