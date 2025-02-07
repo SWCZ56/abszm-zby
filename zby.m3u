@@ -759,86 +759,148 @@ https://stream1.freetv.fun/38e422e8760b731a44f2edf723aad66e82223336f5a8b4cd23a34
 https://stream1.freetv.fun/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68025a20c01a9ba0d8.m3u8
 #EXTINF:-1 group-title="🌊港澳台频道" tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg",香港tvb星河
 https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.m3u8
+#EXTINF:-1 group-title="AKTV",翡翠台4K
+http://138.2.50.24:20000/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="AKTV",凤凰中文
+http://138.2.50.24:20000/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="AKTV",TVB PLUS
+http://138.2.50.24:20000/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="AKTV",HOY TV
+http://138.2.50.24:20000/live/hoy/stream.m3u8
+#EXTINF:-1group-title="AKTV",澳视澳门
+http://138.2.50.24:20000/live/asam/stream.m3u8
+#EXTINF:-1group-title="AKTV",澳视卫星
+http://138.2.50.24:20000/live/as/stream.m3u8
+#EXTINF:-1group-title="AKTV",重温经典
+http://138.2.50.24:20001/live/cwjd/stream.m3u8
+#EXTINF:-1group-title="AKTV",凤凰资讯
+http://138.2.50.24:20001/live/fhzx/stream.m3u8
+#EXTINF:-1group-title="AKTV",TVB J1
+http://138.2.50.24:20001/live/j1/stream.m3u8
+#EXTINF:-1group-title="AKTV",广东珠江
+http://138.2.50.24:20007/live/gdzj/stream.m3u8
+#EXTINF:-1group-title="AKTV",广东体育
+http://138.2.50.24:20007/live/gdty/stream.m3u8
+#EXTINF:-1group-title="AKTV",翡翠台
+http://138.2.50.24:20002/smt3.2.1.php?id=jade_twn
+#EXTINF:-1group-title="AKTV",华丽翡翠台
+http://138.2.50.24:20002/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1group-title="AKTV",无线新闻台
+http://138.2.50.24:20002/smt3.2.1.php?id=inews_twn
+#EXTINF:-1group-title="AKTV",TVB星河
+http://138.2.50.24:20002/smt3.2.1.php?id=Xinhe
+#EXTINF:-1group-title="AKTV",千禧经典台
+http://138.2.50.24:20002/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1group-title="AKTV",Astro AOD
+http://138.2.50.24:20002/smt3.2.1.php?id=Aodhd
+#EXTINF:-1group-title="AKTV",华丽翡翠台
+http://138.2.50.24:20003/jade2/jade.stream/chunklist_w108.m3u8
+#EXTINF:-1group-title="AKTV",TVB亚洲武侠
+http://138.2.50.24:20003/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+#EXTINF:-1group-title="AKTV",TVB娱乐新闻台
+http://138.2.50.24:20004/enew/enew.stream/chunklist_w103.m3u8
+#EXTINF:-1group-title="AKTV",无线新闻台
+http://138.2.50.24:20004/news/news.stream/chunklist_w105.m3u8
+#EXTINF:-1group-title="AKTV",TVB星河
+http://138.2.50.24:20003/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+#EXTINF:-1group-title="AKTV",Jade 翡翠台
+http://138.2.50.24:20005/hls/live/81.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",TVB PLUS
+http://138.2.50.24:20005/hls/live/82.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",News 新聞台
+http://138.2.50.24:20005/hls/live/83.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",Pearl 明珠台
+http://138.2.50.24:20005/hls/live/84.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",鳳凰香港台
+http://138.2.50.24:20005/hls/live/85.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",華語劇台
+http://138.2.50.24:20005/hls/live/89.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",黃金華劇台
+http://138.2.50.24:20005/hls/live/90.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",粵語片台
+http://138.2.50.24:20005/hls/live/200.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",美亞電影台
+http://138.2.50.24:20005/hls/live/201.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",Popc
+http://138.2.50.24:20005/hls/live/206.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",翡翠4K
+http://138.2.50.24:20005/hls/live/800.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",HOY TV
+http://138.2.50.24:20005/hls/live/77.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",HOY TV 資訊台
+http://138.2.50.24:20005/hls/live/78.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",HOY 國際財經台
+http://138.2.50.24:20005/hls/live/76.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",ViuTV
+http://138.2.50.24:20005/hls/live/99.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",ViuTV Six
+http://138.2.50.24:20005/hls/live/96.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",Now Popcorn 爆谷台
+http://138.2.50.24:20005/hls/live/133.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",Now Superstars 星影台
+http://138.2.50.24:20005/hls/live/138.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",Now NEWS 新聞台
+http://138.2.50.24:20005/hls/live/332.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",Now Sports 英超1台
+http://138.2.50.24:20005/hls/live/621.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",Now Sports Prime
+http://138.2.50.24:20005/hls/live/630.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",Now Sports 632
+http://138.2.50.24:20005/hls/live/632.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",Now Sports 641
+http://138.2.50.24:20005/hls/live/641.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",Now Sports 642
+http://138.2.50.24:20005/hls/live/642.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",港台電視 31
+http://138.2.50.24:20005/hls/live/31.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",港台電視 32
+http://138.2.50.24:20005/hls/live/32.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",CCTV-1  港澳版
+http://138.2.50.24:20005/hls/live/33.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV"CGTN Documentary
+http://138.2.50.24:20005/hls/live/34.m3u8?token=225222194191364
+#EXTINF:-1 group-title="AKTV",CGTN English
+http://138.2.50.24:20005/hls/live/35.m3u8?token=225222194191364
 #EXTINF:-1 group-title="AKTV",28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Channel 8 HD
+http://138.2.50.24:20008/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Channel U HD
+http://138.2.50.24:20008/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV"myTV SUPER 18台
+http://138.2.50.24:20008/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVBS-新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",中天亞洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",中天新聞台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",千禧經典台(HK)
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",娛樂新聞台(HK)
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",美亞電影台(HK)
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",明珠剧集台(北美)
+http://138.2.50.24:20008/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",明珠台
+http://138.2.50.24:20008/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",無線新聞台
+http://138.2.50.24:20008/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",靖天電影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",鳳凰中文
+http://138.2.50.24:20008/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華日韓台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華經典台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華電影台
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Love Nature HD
-http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",viutv 99
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",viutv6 96
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",无线新闻台(北美)
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Animax(HK)
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Love Nature HD
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NHK World-Japan
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NHK東京総合
-http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Nickelodeon
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",亞洲新聞台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",東方衛視國際頻道
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",無線衛星新聞台
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+http://138.2.50.24:20008/AKTV/live/aktv3/null/AKTV.m3u8
 #EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png",CHC家庭影院
 http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 #EXTINF:-1 group-title="🎬电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png",CHC家庭影院
