@@ -857,7 +857,7 @@ http://138.2.50.24:20005/hls/live/31.m3u8?token=225222194191364
 http://138.2.50.24:20005/hls/live/32.m3u8?token=225222194191364
 #EXTINF:-1 group-title="AKTV",CCTV-1  港澳版
 http://138.2.50.24:20005/hls/live/33.m3u8?token=225222194191364
-#EXTINF:-1 group-title="AKTV"CGTN Documentary
+#EXTINF:-1 group-title="AKTV",CGTN Documentary
 http://138.2.50.24:20005/hls/live/34.m3u8?token=225222194191364
 #EXTINF:-1 group-title="AKTV",CGTN English
 http://138.2.50.24:20005/hls/live/35.m3u8?token=225222194191364
@@ -867,7 +867,7 @@ http://138.2.50.24:20008/AKTV/live/aktv/28ai/AKTV.m3u8
 http://138.2.50.24:20008/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Channel U HD
 http://138.2.50.24:20008/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV"myTV SUPER 18台
+#EXTINF:-1 group-title="AKTV",myTV SUPER 18台
 http://138.2.50.24:20008/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",PopC
 http://138.2.50.24:20008/AKTV/live/aktv/popc/AKTV.m3u8
