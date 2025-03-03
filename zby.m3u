@@ -785,6 +785,268 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 https://stream1.freetv.fun/e0c8a89afdee0e1edf99b2001ad3611e6e13c966c3014c0eaf898f62d9eab873.m3u8
 #EXTINF:-1 group-title="港澳台频道",频道 [V]
 http://wouu.net:9977/udp/239.93.0.157:2194
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png",台視
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png",中視
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png",華視
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png",好消息
+http://142.171.7.225:50102/index.m3u8?pid=litv-ftv16&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png",哆啦Ａ夢台
+http://142.171.7.225:50102/index.m3u8?pid=ofiii22&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png",亞洲旅遊台
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png",龍華戲劇台
+http://142.171.7.225:50102/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png",台灣戲劇台
+http://142.171.7.225:50102/index.m3u8?pid=litv-longturn22&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png",東森購物1台
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png",龍華偶像台
+http://142.171.7.225:50102/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png",龍華日韓台
+http://142.171.7.225:50102/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png",華視新聞
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png",三立新聞iNEWS
+http://142.171.7.225:50102/index.m3u8?pid=iNEWS&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png",寰宇財經台
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png",台視新聞
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png",中視新聞
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png",中天新聞台
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png",寰宇新聞台灣台
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png",寰宇新聞台
+http://142.171.7.225:50102/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png",龍華經典台
+http://142.171.7.225:50102/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png",龍華電影台
+http://142.171.7.225:50102/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png",去有風的地方
+http://142.171.7.225:50102/index.m3u8?pid=ofiii116&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png",綜藝玩很大
+http://142.171.7.225:50102/index.m3u8?pid=ofiii130&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png",全民星攻略
+http://142.171.7.225:50102/index.m3u8?pid=ofiii131&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png",Yes娛樂
+http://142.171.7.225:50102/index.m3u8?pid=ofiii47&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png",掏掏新聞
+http://142.171.7.225:50102/index.m3u8?pid=ofiii50&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3442_ofiii51_tv_20240822.png",柯文哲政治風波
+http://142.171.7.225:50102/index.m3u8?pid=ofiii51&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png",倪珍播新聞
+http://142.171.7.225:50102/index.m3u8?pid=nnews-zh&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png",國際大小事
+http://142.171.7.225:50102/index.m3u8?pid=ofiii55&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png",第1財經
+http://142.171.7.225:50102/index.m3u8?pid=ofiii64&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png",第1商業台
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv084_tv.png",國會頻道1台
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_tv.png",國會頻道2台
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png",倪珍英語新聞
+http://142.171.7.225:50102/index.m3u8?pid=nnews-en&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png",大新聞大爆卦
+http://142.171.7.225:50102/index.m3u8?pid=ofiii201&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png",新聞大白話
+http://142.171.7.225:50102/index.m3u8?pid=ofiii202&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_tv_20240301.png",文茜的世界周報
+http://142.171.7.225:50102/index.m3u8?pid=ofiii203&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii204_tv_20230707.png",寰宇全視界
+http://142.171.7.225:50102/index.m3u8?pid=ofiii204&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20240930.png",文茜的世界財經周報
+http://142.171.7.225:50102/index.m3u8?pid=ofiii205&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20241104.png",環球大戰線
+http://142.171.7.225:50102/index.m3u8?pid=ofiii206&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20241104.png",少康戰情室
+http://142.171.7.225:50102/index.m3u8?pid=ofiii207&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_tv_20241211.png",國民大會
+http://142.171.7.225:50102/index.m3u8?pid=ofiii208&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png",好消息2台
+http://142.171.7.225:50102/index.m3u8?pid=litv-ftv17&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png",ELTV生活英語台
+http://142.171.7.225:50102/index.m3u8?pid=litv-longturn20&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png",Smart知識台
+http://142.171.7.225:50102/index.m3u8?pid=litv-longturn19&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png",東森購物2台
+http://142.171.7.225:50102/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png",Focus探索新知台
+http://142.171.7.225:50102/index.m3u8?pid=ofiii82&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png",鄉民大學問
+http://142.171.7.225:50102/index.m3u8?pid=ofiii83&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png",銀髮聚樂部
+http://142.171.7.225:50102/index.m3u8?pid=ofiii99&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png",生命的贏家
+http://142.171.7.225:50102/index.m3u8?pid=ofiii192&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3475_ofiii215_tv_20240930.png",電動車時代
+http://142.171.7.225:50102/index.m3u8?pid=ofiii215&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3521_ofiii216_tv_20241104.png",SiCAR愛車酷
+http://142.171.7.225:50102/index.m3u8?pid=ofiii216&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_tv_20241104.png",狂人日誌
+http://142.171.7.225:50102/index.m3u8?pid=ofiii217&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_tv_20241104.png",脖子解說 Mr. Neck
+http://142.171.7.225:50102/index.m3u8?pid=ofiii218&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_tv_20240816.png",紓壓雷雨聲
+http://142.171.7.225:50102/index.m3u8?pid=ofiii250&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png",療癒下雨聲
+http://142.171.7.225:50102/index.m3u8?pid=ofiii251&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png",放鬆的爵士午後
+http://142.171.7.225:50102/index.m3u8?pid=ofiii252&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png",野外燒柴火聲
+http://142.171.7.225:50102/index.m3u8?pid=ofiii253&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png",夏日陽光海浪聲
+http://142.171.7.225:50102/index.m3u8?pid=ofiii254&sd=1080&proxy=true
+#EXTINF:-1 group-title="電影" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png",Golden 強片台
+http://142.171.7.225:50102/index.m3u8?pid=ofiii70&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png",周星馳台
+http://142.171.7.225:50102/index.m3u8?pid=ofiii73&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png",歐飛電影台
+http://142.171.7.225:50102/index.m3u8?pid=ofiii74&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png",歐飛喜劇電影台
+http://142.171.7.225:50102/index.m3u8?pid=ofiii75&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png",公視金獎台
+http://142.171.7.225:50102/index.m3u8?pid=ofiii13&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png",經典劇場
+http://142.171.7.225:50102/index.m3u8?pid=ofiii38&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3564_ofiii100_tv_20241202.png",錦繡安寧
+http://142.171.7.225:50102/index.m3u8?pid=ofiii100&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii101_tv_20230329.png",琅琊榜
+http://142.171.7.225:50102/index.m3u8?pid=ofiii101&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3383_ofiii103_tv_20240626.png",三國
+http://142.171.7.225:50102/index.m3u8?pid=ofiii103&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3476_ofiii105_tv_20240930.png",長樂曲
+http://142.171.7.225:50102/index.m3u8?pid=ofiii105&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_tv_20230920.png",軍師聯盟
+http://142.171.7.225:50102/index.m3u8?pid=ofiii106&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3264_ofiii108_tv_20240301.png",東宮(完整版)
+http://142.171.7.225:50102/index.m3u8?pid=ofiii108&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3112_ofiii109_tv_20231019.png",錦衣之下
+http://142.171.7.225:50102/index.m3u8?pid=ofiii109&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3113_ofiii110_tv_20231019.png",楚喬傳
+http://142.171.7.225:50102/index.m3u8?pid=ofiii110&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3206_ofiii111_tv_20240105.png",倚天屠龍記 2019
+http://142.171.7.225:50102/index.m3u8?pid=ofiii111&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3511_ofiii112_tv_20241104.png",披荊斬棘的大小姐
+http://142.171.7.225:50102/index.m3u8?pid=ofiii112&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3443_ofiii113_tv_20240906.png",步步驚心
+http://142.171.7.225:50102/index.m3u8?pid=ofiii113&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3512_ofiii120_tv_20241104.png",漠風吟
+http://142.171.7.225:50102/index.m3u8?pid=ofiii114&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3444_ofiii115_tv_20240906.png",私藏浪漫
+http://142.171.7.225:50102/index.m3u8?pid=ofiii115&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3167_ofiii117_tv_20231213.png",以愛為營
+http://142.171.7.225:50102/index.m3u8?pid=ofiii117&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20230823.png",向風而行
+http://142.171.7.225:50102/index.m3u8?pid=ofiii118&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20230823.png",以家人之名
+http://142.171.7.225:50102/index.m3u8?pid=ofiii119&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3524_ofiii120_tv_20241104.png",獵狐
+http://142.171.7.225:50102/index.m3u8?pid=ofiii120&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20240906.png",請叫我總監
+http://142.171.7.225:50102/index.m3u8?pid=ofiii122&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3513_ofiii123_tv_20241104.png",司藤
+http://142.171.7.225:50102/index.m3u8?pid=ofiii123&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3477_ofiii124_tv_20240930.png",他們的奇妙時光
+http://142.171.7.225:50102/index.m3u8?pid=ofiii124&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3515_ofiii146_tv_20241104.png",白雪公主非死不可
+http://142.171.7.225:50102/index.m3u8?pid=ofiii146&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3516_ofiii147_tv_20241104.png",好搭檔
+http://142.171.7.225:50102/index.m3u8?pid=ofiii147&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii148_tv_20230515.png",頭腦共助
+http://142.171.7.225:50102/index.m3u8?pid=ofiii148&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3517_ofiii149_tv_20241104.png",凌晨兩點的灰姑娘
+http://142.171.7.225:50102/index.m3u8?pid=ofiii149&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3385_litv-vchannel146_tv_20240626.png",台灣靈異事件
+http://142.171.7.225:50102/index.m3u8?pid=ofiii150&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3235_ofiii151_tv_20240131.png",包青天 1993版
+http://142.171.7.225:50102/index.m3u8?pid=ofiii151&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3027_ofiii152_tv_20230823.png",我的婆婆怎麼那麼可愛
+http://142.171.7.225:50102/index.m3u8?pid=ofiii152&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3028_ofiii153_tv_20230823.png",村裡來了個暴走女外科
+http://142.171.7.225:50102/index.m3u8?pid=ofiii153&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3077_ofiii154_tv_20230920.png",一把青
+http://142.171.7.225:50102/index.m3u8?pid=ofiii154&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3119_litv-vchannel142_tv_20231019.png",茶金
+http://142.171.7.225:50102/index.m3u8?pid=ofiii155&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3478_ofiii156_tv_20240930.png",苦力
+http://142.171.7.225:50102/index.m3u8?pid=ofiii156&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3358_ofiii157_tv_20240531.png",俗女養成記
+http://142.171.7.225:50102/index.m3u8?pid=ofiii157&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3415_ofiii158_tv_20240802.png",麻醉風暴
+http://142.171.7.225:50102/index.m3u8?pid=ofiii158&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png",東森娛樂台
+http://142.171.7.225:50102/index.m3u8?pid=ofiii32&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3408_ofiii84_tv_20240731.png",野球名人房
+http://142.171.7.225:50102/index.m3u8?pid=ofiii84&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20240531.png",豬哥壹級棒
+http://142.171.7.225:50102/index.m3u8?pid=ofiii126&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_tv_20240327.png",WTO姐妹會
+http://142.171.7.225:50102/index.m3u8?pid=ofiii129&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii133_tv_20230329.png",台灣啟示錄
+http://142.171.7.225:50102/index.m3u8?pid=ofiii133&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii134_tv_20230707.png",法眼黑與白
+http://142.171.7.225:50102/index.m3u8?pid=ofiii134&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii135_tv_20230707.png",天才衝衝衝
+http://142.171.7.225:50102/index.m3u8?pid=ofiii135&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_tv_20241211.png",女人我最大
+http://142.171.7.225:50102/index.m3u8?pid=ofiii137&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_tv_20231213.png",一字千金
+http://142.171.7.225:50102/index.m3u8?pid=ofiii142&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_tv_20240131.png",11點熱吵店
+http://142.171.7.225:50102/index.m3u8?pid=ofiii143&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3574_ofiii225_tv_20241211.png",食尚玩家-Hello腹餓代
+http://142.171.7.225:50102/index.m3u8?pid=ofiii225&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3566_ofiii236_tv_20241211.png",詹姆士出走料理
+http://142.171.7.225:50102/index.m3u8?pid=ofiii236&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3568_ofiii237_tv_20241211.png",進擊的台灣
+http://142.171.7.225:50102/index.m3u8?pid=ofiii237&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_tv_20241211.png",世界第一等
+http://142.171.7.225:50102/index.m3u8?pid=ofiii238&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_tv_20241211.png",溢遊未盡
+http://142.171.7.225:50102/index.m3u8?pid=ofiii240&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_tv.png",龍華卡通台
+http://142.171.7.225:50102/index.m3u8?pid=litv-longturn01&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png",新哆啦A夢(中文版)
+http://142.171.7.225:50102/index.m3u8?pid=ofiii23&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",雖然等級只有1級但固有技能是最強的
+http://142.171.7.225:50102/index.m3u8?pid=ofiii159&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",擁有超常技能的異世界流浪美食家
+http://142.171.7.225:50102/index.m3u8?pid=ofiii160&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",WIND BREAKER—防風少年—
+http://142.171.7.225:50102/index.m3u8?pid=ofiii161&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
+http://142.171.7.225:50102/index.m3u8?pid=ofiii162&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",第一神拳
+http://142.171.7.225:50102/index.m3u8?pid=ofiii163&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",蠟筆小新(中文版)
+http://142.171.7.225:50102/index.m3u8?pid=ofiii165&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",我們這一家
+http://142.171.7.225:50102/index.m3u8?pid=ofiii166&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",獵人(中文版)
+http://142.171.7.225:50102/index.m3u8?pid=ofiii167&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",SPY X FAMILY 間諜家家酒
+http://142.171.7.225:50102/index.m3u8?pid=ofiii170&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",SPY X FAMILY 間諜家家酒(中文版)
+http://142.171.7.225:50102/index.m3u8?pid=ofiii171&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",關於我轉生變成史萊姆這檔事(國)
+http://142.171.7.225:50102/index.m3u8?pid=ofiii173&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",夏目友人帳
+http://142.171.7.225:50102/index.m3u8?pid=ofiii174&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",鋼之鍊金術師
+http://142.171.7.225:50102/index.m3u8?pid=ofiii177&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",JOJO 的奇妙冒險
+http://142.171.7.225:50102/index.m3u8?pid=ofiii178&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",葬送的芙莉蓮
+http://142.171.7.225:50102/index.m3u8?pid=ofiii179&sd=1080&proxy=true
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png",史上最強弟子兼一(中文版)
+http://142.171.7.225:50102/index.m3u8?pid=ofiii180&sd=1080&proxy=true
 #EXTINF:-1 group-title="港澳台频道",台湾TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png",中天新闻
