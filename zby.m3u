@@ -1051,15 +1051,15 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 group-title="AKTV",CCTV1港澳版
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 group-title="AKTV",八度空间
+#EXTINF:-1 group-title="AKTV",新加波八度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1 group-title="AKTV",
+#EXTINF:-1 group-title="AKTV",新加波M5
 https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1 group-title="AKTV",CH8
+#EXTINF:-1 group-title="AKTV",新加波CH8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 group-title="AKTV",CHU
+#EXTINF:-1 group-title="AKTV",新加波CHU
 https://cdn6.163189.xyz/live/chu/stream.m3u8
-#EXTINF:-1 group-title="AKTV",Unknown_36
+#EXTINF:-1 group-title="AKTV",翡翠台
 http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 group-title="AKTV",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
