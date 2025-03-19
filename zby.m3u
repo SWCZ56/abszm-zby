@@ -1221,32 +1221,18 @@ http://cdn.163189.xyz/live/asam/stream.m3u8
 http://cdn.163189.xyz/live/as/stream.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/台视.png",台視
 http://142.171.7.225:50007/4gtv-4gtv066/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/大爱电视.png",大愛電視
-http://142.171.7.225:50007/4gtv-live007/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/三立综合台.png",三立綜合台
 http://142.171.7.225:50007/4gtv-live207/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/八大综艺台.png",八大綜藝台
-http://142.171.7.225:50007/4gtv-4gtv039/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/ARIRANG阿里郎频道.png",ARIRANG阿里郎頻道
-http://142.171.7.225:50007/4gtv-4gtv079/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/GLOBAL-NEWS.png",Global Trekker
 http://142.171.7.225:50007/4gtv-live112/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/LiveABC互动英语频道.png",LiveABC互動英語頻道
 http://142.171.7.225:50007/4gtv-live030/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/达文西.png",達文西頻道
-http://142.171.7.225:50007/4gtv-4gtv018/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/ELTV生活英语台.png",ELTV生活英語台
-http://142.171.7.225:50007/litv-longturn20/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/NICKJR.png",Nick Jr. 兒童頻道
 http://142.171.7.225:50007/4gtv-live032/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/尼克儿童频道.png",尼克兒童頻道
 http://142.171.7.225:50007/4gtv-live105/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/DREAMWORKS.png",DreamWorks 夢工廠動畫
 http://142.171.7.225:50007/4gtv-live017/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/靖天卡通台.png",靖天卡通台
-http://142.171.7.225:50007/4gtv-4gtv044/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/靖洋卡通NICEBINGO.png",靖洋卡通Nice Bingo
-http://142.171.7.225:50007/4gtv-4gtv057/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/深圳龙华.png",龍華卡通台
 http://142.171.7.225:50007/litv-longturn01/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/台湾戏剧台.png",台灣戲劇台
