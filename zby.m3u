@@ -525,104 +525,10 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 group-title="推荐频道",amc电影台
 https://stream1.freetv.fun/amcdian-ying-1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png",安徽卫视
-http://zz.yymall.top/TVOD/1000000005000265025/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png",安徽卫视
-http://zz.yymall.top/TVOD/5000000001000027288/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png",安徽卫视
-http://zz.yymall.top/TVOD/1000000001000020780/ystenlive/index.m3u8$4M1080_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png",北京纪实科教
-http://zz.yymall.top/TVOD/2000000002000000065/hnbblive/index.m3u8$6.8M1080_湖南bblive
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png",卡酷少儿
-http://zz.yymall.top/TVOD/1000000002000002413/ystenlive/index.m3u8$4M576_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png",北京卫视
-http://zz.yymall.top/TVOD/6000000001000020451/wasusyt/index.m3u8$8M1080_华数
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png",北京卫视
-http://zz.yymall.top/TVOD/1000000005000265027/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png",北京卫视
-http://zz.yymall.top/TVOD/5000000010000011502/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png",兵团卫视
-http://zz.yymall.top/TVOD/5000000006000040020/bestzb/index.m3u8$4M540_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png",东南卫视
-http://zz.yymall.top/TVOD/5000000004000010584/bestzb/index.m3u8$8M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png",东南卫视
-http://zz.yymall.top/TVOD/5000000001000005829/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
-http://zz.yymall.top/TVOD/2000000003000000045/hnbblive/index.m3u8$4M576_湖南bblive
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
-http://zz.yymall.top/TVOD/1000000002000011619/ystenlive/index.m3u8$4M576_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png",嘉佳卡通
-http://zz.yymall.top/TVOD/6000000003000025508/wasusyt/index.m3u8$1.8M576_华数
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png",广东卫视
-http://zz.yymall.top/TVOD/1000000001000028357/ystenlive/index.m3u8$4M1080_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
-http://zz.yymall.top/TVOD/1000000004000011655/ystenlive/index.m3u8$2.5M720_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png",海南卫视
-http://zz.yymall.top/TVOD/1000000002000023773/ystenlive/index.m3u8$4M1080_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png",河北卫视
-http://zz.yymall.top/TVOD/1000000002000017118/ystenlive/index.m3u8$4M1080_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
-http://zz.yymall.top/TVOD/6000000001000016510/wasusyt/index.m3u8$8M1080_华数
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
-http://zz.yymall.top/TVOD/5000000004000025203/bestzb/index.m3u8$6.8M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png",金鹰纪实
-http://zz.yymall.top/TVOD/5000000011000031203/bestzb/index.m3u8$6.8M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png",湖南卫视
-http://zz.yymall.top/TVOD/6000000001000018044/wasusyt/index.m3u8$8M1080_华数
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png",江苏卫视
-http://zz.yymall.top/TVOD/6000000001000014861/wasusyt/index.m3u8$8M1080_华数
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png",江苏卫视
-http://zz.yymall.top/TVOD/1000000001000004684/ystenlive/index.m3u8$4M1080_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏优漫卡通.png",江苏优漫卡通
-http://zz.yymall.top/TVOD/1000000002000010063/ystenlive/index.m3u8$4M576_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏优漫卡通.png",江苏优漫卡通
-http://zz.yymall.top/TVOD/6000000003000030492/wasusyt/index.m3u8$1.8M576_华数
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
-http://zz.yymall.top/TVOD/5000000004000011210/bestzb/index.m3u8$6.8M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
-http://zz.yymall.top/TVOD/1000000005000265032/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
-http://zz.yymall.top/TVOD/1000000001000013731/ystenlive/index.m3u8$4M1080_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
-http://zz.yymall.top/TVOD/1000000001000001945/ystenlive/index.m3u8$8M1080_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
-http://zz.yymall.top/TVOD/1000000005000265022/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
-http://zz.yymall.top/TVOD/1000000002000024033/ystenlive/index.m3u8$4M1080_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png",内蒙古卫视
-http://zz.yymall.top/TVOD/1000000002000014080/ystenlive/index.m3u8$4M576_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海第一财经.png",上海第一财经
-http://zz.yymall.top/TVOD/2000000002000000004/hnbblive/index.m3u8$2.5M720_湖南bblive
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png",上海都市
-http://zz.yymall.top/TVOD/5000000010000018926/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png",上海都市
-http://zz.yymall.top/TVOD/2000000002000000012/hnbblive/index.m3u8$2.5M720_湖南bblive
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png",上海
-http://zz.yymall.top/TVOD/5000000010000017540/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",上海新闻综合
-http://zz.yymall.top/TVOD/5000000011000031110/bestzb/index.m3u8$7M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/康巴卫视.png",康巴卫视
-http://zz.yymall.top/TVOD/1000000005000266002/ystenlive/index.m3u8$4M576_易视腾
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/康巴卫视.png",康巴卫视
-http://zz.yymall.top/TVOD/5000000003000001598/bestzb/index.m3u8$2.5M576_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png",天津卫视
-http://zz.yymall.top/TVOD/5000000001000030788/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://json.doube.eu.org/logo/IPTV.png",新海南
-http://zz.yymall.top/TVOD/2000000003000000011/hnbblive/index.m3u8$2.5M720_湖南bblive
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png",新疆卫视
-http://zz.yymall.top/TVOD/5000000006000040018/bestzb/index.m3u8$4M540_百视通
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://json.doube.eu.org/logo/IPTV.png",电子竞技
-http://zz.yymall.top/TVOD/6000000003000011654/wasusyt/index.m3u8$2.5M720_华数
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数高清娱乐.png",高清娱乐
-http://zz.yymall.top/TVOD/6000000003000001569/wasusyt/index.m3u8$2.5M720_华数
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数漫游世界.png",漫游世界
-http://zz.yymall.top/TVOD/2000000004000000017/hnbblive/index.m3u8$2.5M720_湖南bblive
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视
 http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视
 http://61.138.128.226:19901/tsfile/live/0125_1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
-http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
 http://110.53.52.63:8888/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
@@ -807,10 +713,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu3.png",江苏综艺
 https://stream1.freetv.fun/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu7.png",江苏教育
-https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png",江苏体育休闲
-https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
 #EXTINF:-1 group-title="地方频道",萧山生活频道
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 group-title="地方频道",余杭综合频道
@@ -863,8 +765,6 @@ http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1 group-title="地方频道",庆元综合频道
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",云和新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NHKWorld.png",NHK World
