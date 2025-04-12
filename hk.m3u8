@@ -1,5 +1,4 @@
-
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="4gtv-4gtv003" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-4gtv003_pc.png" group-title="港澳台",民視第一台
 http://205.185.123.236:50089/4gtv-4gtv003/index.m3u8
 #EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-4gtv001_pc.png" group-title="港澳台",民視台灣台
