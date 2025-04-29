@@ -237,6 +237,70 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 #EXTINF:-1 group-title="📺央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV4
 https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png",台視
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png",台視新聞
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png",中視
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png",中視新聞
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png",華視
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png",華視新聞
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png",三立新聞iNEWS
+http://142.171.7.225:50002/index.m3u8?pid=iNEWS&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png",中天新聞台
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png",寰宇新聞台灣台
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png",寰宇新聞台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png",寰宇財經台
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png",倪珍播新聞
+http://142.171.7.225:50002/index.m3u8?pid=nnews-zh&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png",倪珍英語新聞
+http://142.171.7.225:50002/index.m3u8?pid=nnews-en&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png",倪珍越南語新聞
+http://142.171.7.225:50002/index.m3u8?pid=nnews-vn&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png",好消息
+http://142.171.7.225:50002/index.m3u8?pid=litv-ftv16&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png",好消息2台
+http://142.171.7.225:50002/index.m3u8?pid=litv-ftv17&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png",第1商業台
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png",國會頻道1台
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png",國會頻道2台
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png",ELTV生活英語台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn20&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png",Smart知識台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn19&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png",亞洲旅遊台
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png",台灣戲劇台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn22&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_tv.png",龍華卡通台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn01&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png",龍華戲劇台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png",龍華偶像台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png",龍華日韓台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png",龍華經典台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png",龍華電影台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_tv.png",龍華洋片台
+http://142.171.7.225:50002/index.m3u8?pid=litv-longturn02&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png",東森購物1台
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="ofiii直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png",東森購物2台
+http://142.171.7.225:50002/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=true&token=Swqztv
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png",東森購物一台
 http://142.171.7.225:50007/4gtv-4gtv102/index.m3u8?proxy=true
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png",東森購物二台
@@ -479,6 +543,62 @@ http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=1925
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 group-title="台湾频道",tvbs新闻
 http://122.117.71.103:8543/tvbs新闻.m3u8
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",威士忌大盗威士忌强盗
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod55461-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",狂武藏疯狂武士武藏
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod72689-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",超级蜥蜴王Leio
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod61901-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",秘密特工029 秘密武器布萨巴
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod65160-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",罗布泊幽陵 罗布泊墓
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod72693-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",终极追缉最后一分钟
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod53403-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",F1：玩命卧底 F1: The Furious One
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod56442-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",OUT OUT
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod74056-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",正义正义隐形警察
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod65293-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",奇门异人Magic Man
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod67937-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",特种部队：烽火烈战 To Die For
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod38223-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",MR-9：生死对决 MR-9: Do or Die
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod72690-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",巴尔干防线 巴尔干线
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod42915-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",间谍交锋站长
+http://142.171.7.225:50002/index.m3u8?pid=ofiii75@vod74682-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",魔法阿妈4K数位修复版 奶奶和她的鬼魂
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod71288-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",芭比芭比
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod61914-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞台电影" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",龙岭迷窟龙岭谜窟
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod71662-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",鬼面信号广播信号入侵
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod73499-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",嫌疑人最后 怀疑
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod71684-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞台电影" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",异星互动趣异国
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod74693-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",我妈变成僵尸回来了好儿子
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod69090-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",乌克兰悲歌苦涩的收获
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod33875-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",美国战舰海毒蛇号
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod30938-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",西蒙娜：世纪之声 Simone: Woman of the Century
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod63124-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞台电影" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",恶之华邪恶之花
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod43475-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞台电影" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",戏杀杀戮表演
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod72699-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",看见灵魂的那只眼师公 The Eye See The Soul
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod74681-000000M001&sd=1080&proxy=true&token=Swqztv
+#EXTINF:-1 group-title="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",绝代天后黛莉达Dalida
+http://142.171.7.225:50002/index.m3u8?pid=ofiii74@vod38636-000000M001&sd=1080&proxy=true&token=Swqztv
 #EXTINF:-1 group-title="睛彩",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1 group-title="睛彩",睛彩竞技
@@ -1327,36 +1447,6 @@ http://143.244.60.30/TBS/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际频道",#EXTINF:-1 group-title="国际频道"，BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 group-title="💓港澳台📶",Animax(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",AXN
-http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",PopC
-http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",ROCK Action
-http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",tvN
-http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",明珠台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",無線新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",美亞電影台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",翡翠台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",鳳凰中文
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",鳳凰資訊
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",鳳凰香港
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",TVBS新聞
-http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",緯來體育
-http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
-#EXTINF:-1 group-title="💓港澳台📶",中天新闻台
-http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 #EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah005-golive.flv
 #EXTINF:-1 group-title="💓港澳台📶",TVB翡翠剧集
