@@ -1603,6 +1603,56 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 #EXTINF:-1 group-title="世界各地" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png",对话木偶团体
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://files.catbox.moe/6rj9aw.jpg",未知国家@TV 
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/1zsdloF.png",未知国家A2Z 
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/dLzgBUj.png",马来西亚Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.postimg.cc/xT9jJXZ0/TBK-logo-2021.png",越南Bac Kan TV
+http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png",印尼Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/dGonewm.png",越南Cao Bang TV (
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/IFpAmvW.png",未知国家CCTN 47 
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/r523kOq.png",柬埔寨CTN 
+http://43.252.18.195:5080/live/streams/ctntv.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/oQyioVa.png",越南Đồng Nai 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/tNKPSkO.png",越南Đồng Nai 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/HTnQGcs.png",缅甸ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/zXqjjUf.png",越南Ha Giang TV
+http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/VEqQfTu.png",印尼Jogja Istimewa TV
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/qLMcGPT.png",越南Khanh Hoa TV
+http://210.245.20.94/hls/ktv1.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/lSMoGlv.png",越南Lam Dong TV
+http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/Mmtx65h.png",泰国Mangorn
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/ppxUDxB.png",新加波meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 group-title="世界各地" ,柬埔寨EXTVLCOPT
+https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/SoBhuIb.png",缅甸NTV
+http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/fYYS9QS.png",越南Phu Yen TV
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/QckiN3H.png",越南Quang Ngai TV
+http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/MY40GrC.png",印度尼西亚RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/CGlzsD5.png",文莱RTB Go
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/WpMGnTr.png",印度尼西亚RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/KFC2WSB.png",印度尼西亚Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 group-title="世界各地",阿里郎韩国(韩国)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各地",阿里郎韩国(韩国)
