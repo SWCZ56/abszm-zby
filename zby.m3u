@@ -2144,7 +2144,11 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际频道",#EXTINF:-1 group-title="国际频道"，BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
+http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah005-golive.flv
+#EXTINF:-1 group-title="💓港澳台📶",TVB翡翠剧集
+http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="💓港澳台📶",TVB翡翠剧集
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b42-golive.flv
 #EXTINF:-1 group-title="💓港澳台📶",TVB无线新闻
@@ -2153,22 +2157,54 @@ http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
 #EXTINF:-1 group-title="💓港澳台📶",TVB明珠台
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah008-golive.flv
+#EXTINF:-1 group-title="💓港澳台📶",TVB星河
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
+http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
+#EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
+http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
 https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
 #EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
 #EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰香港
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰香港
+http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰香港
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 #EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰香港
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/yanggangweishi_2/index.m3u8
 #EXTINF:-1 group-title="💓港澳台📶",RTHK-35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="💓港澳台📶",频道 [V]
 http://wouu.net:9977/udp/239.93.0.157:2194
+#EXTINF:-1 group-title="💓港澳台📶",星空
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="💓港澳台📶",星空
+http://wouu.net:9977/rtp/239.93.1.10:2193
+#EXTINF:-1 group-title="💓港澳台📶",翡翠美洲台
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 group-title="💓港澳台📶",澳视澳门
+http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
+#EXTINF:-1 group-title="💓港澳台📶",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="💓港澳台📶",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="💓港澳台📶",华语电视1
+http://38.64.72.148:80/hls/modn/list/4002/playlist.m3u8
+#EXTINF:-1 group-title="💓港澳台📶",华语电视2
+http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
+#EXTINF:-1 group-title="💓港澳台📶",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 group-title="💓港澳台📶" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",台视新闻台
