@@ -1,6 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1,斯玛特
-#genre#
+
 #EXTINF:-1,香港|翡翠台
 https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
 #EXTINF:-1,香港|翡翠台 backup
