@@ -148,778 +148,86 @@ https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
 http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 #EXTINF:-1 group-title="📺央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV4
 https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
-http://docker.livednow.dpdns.org/4gtv-4gtv003/index.m3u8
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
-http://docker.livednow.dpdns.org/4gtv-4gtv001/index.m3u8
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合其他",民視HD
-http://docker.livednow.dpdns.org/4gtv-4gtv002/index.m3u8
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="綜合其他",大愛電視
-http://docker.livednow.dpdns.org/4gtv-live007/index.m3u8
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
-http://docker.livednow.dpdns.org/4gtv-4gtv040/index.m3u8
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="電影戲劇",中視經典台
-http://docker.livednow.dpdns.org/4gtv-4gtv080/index.m3u8
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
-http://docker.livednow.dpdns.org/4gtv-4gtv041/index.m3u8
-#EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合合
-http://docker.livednow.dpdns.org/4gtv-live207/index.m3u8
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="綜合其他",客家電視
-http://docker.livednow.dpdns.org/4gtv-4gtv043/index.m3u8
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="音樂綜藝",八大綜藝
-http://docker.livednow.dpdns.org/4gtv-4gtv039/index.m3u8
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="綜合其他",中視菁采台
-http://docker.livednow.dpdns.org/4gtv-4gtv064/index.m3u8
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="音樂綜藝",TVBS精采台
-http://docker.livednow.dpdns.org/4gtv-4gtv067/index.m3u8
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝",ELTA娛樂
-http://docker.livednow.dpdns.org/4gtv-4gtv070/index.m3u8
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="綜合其他",靖天綜合
-http://docker.livednow.dpdns.org/4gtv-4gtv046/index.m3u8
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="綜合其他",靖天日本
-http://docker.livednow.dpdns.org/4gtv-4gtv047/index.m3u8
-#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NTD.png" group-title="綜合其他",新唐人亞太台
-http://docker.livednow.dpdns.org/4gtv-live050/index.m3u8
-#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="綜合其他",Arirang TV
-http://docker.livednow.dpdns.org/4gtv-4gtv079/index.m3u8
-#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="生活旅遊",Global Trekker
-http://docker.livednow.dpdns.org/4gtv-live112/index.m3u8
-#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png" group-title="綜合其他",原住民族電視台
-http://docker.livednow.dpdns.org/4gtv-live014/index.m3u8
-#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物四台
-http://docker.livednow.dpdns.org/4gtv-live049/index.m3u8
-#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="兒童卡通",LiveABC 互動英語台
-http://docker.livednow.dpdns.org/4gtv-live030/index.m3u8
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="兒童卡通",達文西
-http://docker.livednow.dpdns.org/4gtv-4gtv018/index.m3u8
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
-http://docker.livednow.dpdns.org/litv-longturn20/index.m3u8
-#EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="兒童卡通",Nick Jr.
-http://docker.livednow.dpdns.org/4gtv-live032/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="兒童卡通",Nickelodeon
-http://docker.livednow.dpdns.org/4gtv-live105/index.m3u8
-#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="兒童卡通",DreamWorks
-http://docker.livednow.dpdns.org/4gtv-live017/index.m3u8
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通",靖天卡通台
-http://docker.livednow.dpdns.org/4gtv-4gtv044/index.m3u8
-#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通",靖洋卡通
-http://docker.livednow.dpdns.org/4gtv-4gtv057/index.m3u8
-#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="兒童卡通",MOMO親子
-http://docker.livednow.dpdns.org/4gtv-live107/index.m3u8
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
-http://docker.livednow.dpdns.org/4gtv-live047/index.m3u8
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
-http://docker.livednow.dpdns.org/4gtv-4gtv102/index.m3u8
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
-http://docker.livednow.dpdns.org/of-4gtv-4gtv102/index.m3u8
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
-http://docker.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
-http://docker.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞台
-http://docker.livednow.dpdns.org/4gtv-4gtv052/index.m3u8
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
-http://docker.livednow.dpdns.org/litv-ftv13/index.m3u8
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
-http://docker.livednow.dpdns.org/4gtv-live089/index.m3u8
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
-http://docker.livednow.dpdns.org/4gtv-4gtv153/index.m3u8
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
-http://docker.livednow.dpdns.org/4gtv-4gtv074/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://docker.livednow.dpdns.org/4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="新聞財經",BLOOMBERG TV
-http://docker.livednow.dpdns.org/4gtv-live059/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://docker.livednow.dpdns.org/litv-longturn14/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://docker.livednow.dpdns.org/4gtv-4gtv156/index.m3u8
-#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="新聞財經",SBN 全球財經台
-http://docker.livednow.dpdns.org/4gtv-live060/index.m3u8
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://docker.livednow.dpdns.org/4gtv-4gtv158/index.m3u8
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
-http://docker.livednow.dpdns.org/4gtv-4gtv073/index.m3u8
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
-http://docker.livednow.dpdns.org/4gtv-live046/index.m3u8
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
-http://docker.livednow.dpdns.org/4gtv-4gtv103/index.m3u8
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
-http://docker.livednow.dpdns.org/of-4gtv-4gtv103/index.m3u8
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝",民視綜藝
-http://docker.livednow.dpdns.org/4gtv-4gtv004/index.m3u8
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝",豬哥亮歌廳秀
-http://docker.livednow.dpdns.org/4gtv-4gtv006/index.m3u8
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="綜合其他",靖天育樂
-http://docker.livednow.dpdns.org/4gtv-4gtv062/index.m3u8
-#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="綜合其他",靖天國際
-http://docker.livednow.dpdns.org/4gtv-4gtv063/index.m3u8
-#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="綜合其他",靖天歡樂
-http://docker.livednow.dpdns.org/4gtv-4gtv054/index.m3u8
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="綜合其他",靖天資訊
-http://docker.livednow.dpdns.org/4gtv-4gtv065/index.m3u8
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS歡樂台
-http://docker.livednow.dpdns.org/4gtv-4gtv068/index.m3u8
-#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="綜合其他",韓國娛樂台
-http://docker.livednow.dpdns.org/4gtv-4gtv016/index.m3u8
-#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="電影戲劇",ROCK Entertainment
-http://docker.livednow.dpdns.org/4gtv-live080/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="生活旅遊", Lifetime
-http://docker.livednow.dpdns.org/4gtv-live029/index.m3u8
-#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="音樂綜藝",電影原聲台 CMusic
-http://docker.livednow.dpdns.org/4gtv-live031/index.m3u8
-#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝",Trace Urban
-http://docker.livednow.dpdns.org/4gtv-4gtv082/index.m3u8
-#EXTINF:-1 tvg-id="MTV Live HD 音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MTVLive.png" group-title="音樂綜藝",MTV Live
-http://docker.livednow.dpdns.org/4gtv-live025/index.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝",MEZZO LIVE HD
-http://docker.livednow.dpdns.org/4gtv-4gtv083/index.m3u8
-#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝",CLASSICA 古典樂
-http://docker.livednow.dpdns.org/4gtv-4gtv059/index.m3u8
-#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物三台
-http://docker.livednow.dpdns.org/4gtv-live048/index.m3u8
-#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png" group-title="生活旅遊",INULTRA
-http://docker.livednow.dpdns.org/4gtv-live096/index.m3u8
-#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="體育競技",TRACE Sport Stars
-http://docker.livednow.dpdns.org/4gtv-4gtv077/index.m3u8
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="體育競技",智林體育
-http://docker.livednow.dpdns.org/4gtv-4gtv101/index.m3u8
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技",時尚運動X
-http://docker.livednow.dpdns.org/4gtv-4gtv014/index.m3u8
-#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="體育競技",車迷 TV
-http://docker.livednow.dpdns.org/4gtv-live201/index.m3u8
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="體育競技", GINX Esports TV
-http://docker.livednow.dpdns.org/4gtv-4gtv053/index.m3u8
-#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png" group-title="生活旅遊",Pet Club TV
-http://docker.livednow.dpdns.org/4gtv-live110/index.m3u8
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊",民視旅遊
-http://docker.livednow.dpdns.org/litv-ftv07/index.m3u8
-#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="生活旅遊",滾動力 Rollor
-http://docker.livednow.dpdns.org/4gtv-live012/index.m3u8
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
-http://docker.livednow.dpdns.org/4gtv-4gtv076/index.m3u8
-#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="生活旅遊",FUN 4K探索娛樂
-http://docker.livednow.dpdns.org/4gtv-live011/index.m3u8
-#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png" group-title="生活旅遊",幸福空間居家台
-http://docker.livednow.dpdns.org/4gtv-live206/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LoveNarure4K.png" group-title="生活旅遊",LOVE NATURE
-http://docker.livednow.dpdns.org/4gtv-live208/index.m3u8
-#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png" group-title="紀實探索",歷史頻道
-http://docker.livednow.dpdns.org/4gtv-live026/index.m3u8
-#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="生活旅遊",ELTA生活旅遊
-http://docker.livednow.dpdns.org/4gtv-live120/index.m3u8
-#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="生活旅遊",LUXE TV
-http://docker.livednow.dpdns.org/4gtv-live121/index.m3u8
-#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TV5MondeStyle.png" group-title="生活旅遊",TV5MONDE Style
-http://docker.livednow.dpdns.org/4gtv-live122/index.m3u8
-#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="生活旅遊",MagellanTV頻道
-http://docker.livednow.dpdns.org/4gtv-live123/index.m3u8
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="電影戲劇",公視戲劇
-http://docker.livednow.dpdns.org/4gtv-4gtv042/index.m3u8
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="電影戲劇",民視影劇
-http://docker.livednow.dpdns.org/litv-ftv09/index.m3u8
-#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/HITS.png" group-title="電影戲劇",HITS
-http://docker.livednow.dpdns.org/4gtv-live620/index.m3u8
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝",八大精彩
-http://docker.livednow.dpdns.org/4gtv-4gtv034/index.m3u8
-#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="電影戲劇",霹靂布袋戲
-http://docker.livednow.dpdns.org/4gtv-live145/index.m3u8
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="電影戲劇",靖天戲劇
-http://docker.livednow.dpdns.org/4gtv-4gtv058/index.m3u8
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="電影戲劇",靖洋戲劇
-http://docker.livednow.dpdns.org/4gtv-4gtv045/index.m3u8
-#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Crimeplus.png" group-title="紀實探索",CI 罪案偵查頻道
-http://docker.livednow.dpdns.org/4gtv-live027/index.m3u8
-#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="紀實探索",視納華仁紀實頻道
-http://docker.livednow.dpdns.org/4gtv-4gtv013/index.m3u8
-#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="紀實探索",影迷數位紀實台
-http://docker.livednow.dpdns.org/litv-ftv15/index.m3u8
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png" group-title="電影戲劇",金光布袋戲
-http://docker.livednow.dpdns.org/4gtv-live144/index.m3u8
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="電影戲劇",ROCK Action
-http://docker.livednow.dpdns.org/4gtv-live138/index.m3u8
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="電影戲劇",采昌影劇
-http://docker.livednow.dpdns.org/4gtv-4gtv049/index.m3u8
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="電影戲劇",靖天映畫
-http://docker.livednow.dpdns.org/4gtv-4gtv055/index.m3u8
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="電影戲劇",靖天電影
-http://docker.livednow.dpdns.org/4gtv-4gtv061/index.m3u8
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="電影戲劇",影迷數位電影台
-http://docker.livednow.dpdns.org/4gtv-4gtv011/index.m3u8
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="電影戲劇",amc 電影台
-http://docker.livednow.dpdns.org/4gtv-4gtv017/index.m3u8
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="電影戲劇",Cinema World
-http://docker.livednow.dpdns.org/4gtv-live069/index.m3u8
-#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="電影戲劇",歐洲光影
-http://docker.livednow.dpdns.org/4gtv-live157/index.m3u8
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
-http://docker.livednow.dpdns.org/litv-ftv16/index.m3u8
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
-http://docker.livednow.dpdns.org/litv-ftv17/index.m3u8
-#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="綜合其他",大愛二台
-http://docker.livednow.dpdns.org/4gtv-live106/index.m3u8
-#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BLTV.png" group-title="綜合其他",人間衛視
-http://docker.livednow.dpdns.org/4gtv-live008/index.m3u8
-#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="新聞財經",FRANCE24 英文台
-http://docker.livednow.dpdns.org/4gtv-live146/index.m3u8
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="新聞財經",半島國際新聞台
-http://docker.livednow.dpdns.org/litv-ftv10/index.m3u8
-#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="新聞財經",VOA 美國之音
-http://docker.livednow.dpdns.org/litv-ftv03/index.m3u8
-#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="新聞財經",CNBC Asia 財經台
-http://docker.livednow.dpdns.org/4gtv-live130/index.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="新聞財經",DW德國之聲
-http://docker.livednow.dpdns.org/4gtv-live071/index.m3u8
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
-http://docker.livednow.dpdns.org/4gtv-4gtv084/index.m3u8
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2
-http://docker.livednow.dpdns.org/4gtv-4gtv085/index.m3u8
-#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS綜藝台
-http://docker.livednow.dpdns.org/4gtv-live087/index.m3u8
-#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="電影戲劇",TVBS台劇台
-http://docker.livednow.dpdns.org/4gtv-live088/index.m3u8
-#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png" group-title="電影戲劇",經典電影台
-http://docker.livednow.dpdns.org/4gtv-live021/index.m3u8
-#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="兒童卡通",經典卡通台
-http://docker.livednow.dpdns.org/4gtv-live022/index.m3u8
-#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png" group-title="兒童卡通",精選動漫台
-http://docker.livednow.dpdns.org/4gtv-live024/index.m3u8
-#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live010_pc.png" group-title="電影戲劇",戲劇免費看1台
-http://docker.livednow.dpdns.org/4gtv-live010/index.m3u8
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv003/index.m3u8
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv001/index.m3u8
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
-http://docker.livednow.dpdns.org/li-4gtv-4gtv040/index.m3u8
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="電影戲劇",中視經典台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv080/index.m3u8
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
-http://docker.livednow.dpdns.org/li-4gtv-4gtv041/index.m3u8
-#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="電影戲劇",龍華洋片
-http://docker.livednow.dpdns.org/li-litv-longturn02/index.m3u8
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通",龍華卡通
-http://docker.livednow.dpdns.org/li-litv-longturn01/index.m3u8
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影
-http://docker.livednow.dpdns.org/li-litv-longturn03/index.m3u8
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="電影戲劇",龍華日韓
-http://docker.livednow.dpdns.org/li-litv-longturn11/index.m3u8
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="電影戲劇",龍華偶像
-http://docker.livednow.dpdns.org/li-litv-longturn12/index.m3u8
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
-http://docker.livednow.dpdns.org/li-litv-longturn18/index.m3u8
-#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
-http://docker.livednow.dpdns.org/li-litv-longturn21/index.m3u8
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png" group-title="體育競技",博斯魅力
-http://docker.livednow.dpdns.org/litv-longturn04/index.m3u8
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="體育競技",博斯高球I
-http://docker.livednow.dpdns.org/litv-longturn05/index.m3u8
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png" group-title="體育競技",博斯高球II
-http://docker.livednow.dpdns.org/litv-longturn06/index.m3u8
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png" group-title="體育競技",博斯運動I
-http://docker.livednow.dpdns.org/litv-longturn07/index.m3u8
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png" group-title="體育競技",博斯運動II
-http://docker.livednow.dpdns.org/litv-longturn08/index.m3u8
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png" group-title="體育競技",博斯網球
-http://docker.livednow.dpdns.org/litv-longturn09/index.m3u8
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png" group-title="體育競技",博斯無限I
-http://docker.livednow.dpdns.org/litv-longturn10/index.m3u8
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="體育競技",博斯無限II
-http://docker.livednow.dpdns.org/litv-longturn13/index.m3u8
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
-http://docker.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="新聞財經",非凡商業
-http://docker.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
-#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
-http://docker.livednow.dpdns.org/4gtv-4gtv056/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="綜合其他",中天亞洲台
-http://docker.livednow.dpdns.org/4gtv-4gtv109/index.m3u8
-#EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合合
-http://docker.livednow.dpdns.org/4gtv-live207/index.m3u8
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="綜合其他",客家電視
-http://docker.livednow.dpdns.org/4gtv-4gtv043/index.m3u8
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="音樂綜藝",八大綜藝
-http://docker.livednow.dpdns.org/li-4gtv-4gtv039/index.m3u8
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="綜合其他",中視菁采台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv064/index.m3u8
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="音樂綜藝",TVBS精采台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv067/index.m3u8
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝",ELTA娛樂
-http://docker.livednow.dpdns.org/li-4gtv-4gtv070/index.m3u8
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="綜合其他",靖天綜合
-http://docker.livednow.dpdns.org/4gtv-4gtv046/index.m3u8
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="綜合其他",靖天日本
-http://docker.livednow.dpdns.org/li-4gtv-4gtv047/index.m3u8
-#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="綜合其他",Arirang TV
-http://docker.livednow.dpdns.org/li-4gtv-4gtv079/index.m3u8
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="兒童卡通",達文西
-http://docker.livednow.dpdns.org/li-4gtv-4gtv018/index.m3u8
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
-http://docker.livednow.dpdns.org/li-litv-longturn20/index.m3u8
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通",靖天卡通台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv044/index.m3u8
-#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通",靖洋卡通
-http://docker.livednow.dpdns.org/li-4gtv-4gtv057/index.m3u8
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
-http://docker.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
-http://docker.livednow.dpdns.org/li-litv-ftv13/index.m3u8
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
-http://docker.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
-http://docker.livednow.dpdns.org/4gtv-4gtv074/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://docker.livednow.dpdns.org/li-litv-longturn14/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://docker.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
-http://docker.livednow.dpdns.org/li-4gtv-4gtv073/index.m3u8
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝",民視綜藝
-http://docker.livednow.dpdns.org/li-4gtv-4gtv004/index.m3u8
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝",豬哥亮歌廳秀
-http://docker.livednow.dpdns.org/li-4gtv-4gtv006/index.m3u8
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="綜合其他",靖天育樂
-http://docker.livednow.dpdns.org/li-4gtv-4gtv062/index.m3u8
-#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="綜合其他",靖天國際
-http://docker.livednow.dpdns.org/li-4gtv-4gtv063/index.m3u8
-#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="綜合其他",靖天歡樂
-http://docker.livednow.dpdns.org/li-4gtv-4gtv054/index.m3u8
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="綜合其他",靖天資訊
-http://docker.livednow.dpdns.org/li-4gtv-4gtv065/index.m3u8
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS歡樂台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv068/index.m3u8
-#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="綜合其他",韓國娛樂台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv016/index.m3u8
-#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝",Trace Urban
-http://docker.livednow.dpdns.org/li-4gtv-4gtv082/index.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝",MEZZO LIVE HD
-http://docker.livednow.dpdns.org/li-4gtv-4gtv083/index.m3u8
-#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝",CLASSICA 古典樂
-http://docker.livednow.dpdns.org/li-4gtv-4gtv059/index.m3u8
-#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="體育競技",TRACE Sport Stars
-http://docker.livednow.dpdns.org/li-4gtv-4gtv077/index.m3u8
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="體育競技",智林體育
-http://docker.livednow.dpdns.org/li-4gtv-4gtv101/index.m3u8
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技",時尚運動X
-http://docker.livednow.dpdns.org/li-4gtv-4gtv014/index.m3u8
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="體育競技", GINX Esports TV
-http://docker.livednow.dpdns.org/li-4gtv-4gtv053/index.m3u8
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊",民視旅遊
-http://docker.livednow.dpdns.org/li-litv-ftv07/index.m3u8
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
-http://docker.livednow.dpdns.org/li-4gtv-4gtv076/index.m3u8
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="電影戲劇",公視戲劇
-http://docker.livednow.dpdns.org/li-4gtv-4gtv042/index.m3u8
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="電影戲劇",民視影劇
-http://docker.livednow.dpdns.org/li-litv-ftv09/index.m3u8
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝",八大精彩
-http://docker.livednow.dpdns.org/li-4gtv-4gtv034/index.m3u8
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="電影戲劇",靖天戲劇
-http://docker.livednow.dpdns.org/li-4gtv-4gtv058/index.m3u8
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="電影戲劇",靖洋戲劇
-http://docker.livednow.dpdns.org/li-4gtv-4gtv045/index.m3u8
-#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="紀實探索",視納華仁紀實頻道
-http://docker.livednow.dpdns.org/li-4gtv-4gtv013/index.m3u8
-#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="紀實探索",影迷數位紀實台
-http://docker.livednow.dpdns.org/li-litv-ftv15/index.m3u8
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="電影戲劇",采昌影劇
-http://docker.livednow.dpdns.org/li-4gtv-4gtv049/index.m3u8
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="電影戲劇",靖天映畫
-http://docker.livednow.dpdns.org/li-4gtv-4gtv055/index.m3u8
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="電影戲劇",靖天電影
-http://docker.livednow.dpdns.org/li-4gtv-4gtv061/index.m3u8
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="電影戲劇",影迷數位電影台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv011/index.m3u8
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="電影戲劇",amc 電影台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv017/index.m3u8
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
-http://docker.livednow.dpdns.org/li-litv-ftv16/index.m3u8
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
-http://docker.livednow.dpdns.org/li-litv-ftv17/index.m3u8
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="新聞財經",半島國際新聞台
-http://docker.livednow.dpdns.org/li-litv-ftv10/index.m3u8
-#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="新聞財經",VOA 美國之音
-http://docker.livednow.dpdns.org/li-litv-ftv03/index.m3u8
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
-http://docker.livednow.dpdns.org/li-4gtv-4gtv084/index.m3u8
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2
-http://docker.livednow.dpdns.org/li-4gtv-4gtv085/index.m3u8
-#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="電影戲劇",台灣戲劇台
-http://docker.livednow.dpdns.org/li-litv-longturn22/index.m3u8
-#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊",Smart知識台
-http://docker.livednow.dpdns.org/li-litv-longturn19/index.m3u8
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經",台視新聞台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
-http://docker.livednow.dpdns.org/li-4gtv-4gtv066/index.m3u8
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="新聞財經",第1商業台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv104/index.m3u8
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經",台視新聞台
-http://docker.livednow.dpdns.org/4gtv-4gtv051/index.m3u8
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
-http://docker.livednow.dpdns.org/4gtv-4gtv066/index.m3u8
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
-http://docker.livednow.dpdns.org/of-4gtv-4gtv040/index.m3u8
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
-http://docker.livednow.dpdns.org/of-4gtv-4gtv074/index.m3u8
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
-http://docker.livednow.dpdns.org/of-4gtv-4gtv041/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://docker.livednow.dpdns.org/of-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://docker.livednow.dpdns.org/of-litv-longturn14/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://docker.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://docker.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
-http://docker.livednow.dpdns.org/of-4gtv-4gtv076/index.m3u8
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
-http://docker.livednow.dpdns.org/of-litv-ftv16/index.m3u8
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
-http://docker.livednow.dpdns.org/of-litv-ftv17/index.m3u8
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
-http://docker.livednow.dpdns.org/of-4gtv-4gtv084/index.m3u8
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2
-http://docker.livednow.dpdns.org/of-4gtv-4gtv085/index.m3u8
-#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="電影戲劇",台灣戲劇台
-http://docker.livednow.dpdns.org/litv-longturn22/index.m3u8
-#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊",Smart知識台
-http://docker.livednow.dpdns.org/litv-longturn19/index.m3u8
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="新聞財經",第1商業台
-http://docker.livednow.dpdns.org/4gtv-4gtv104/index.m3u8
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
-http://docker.livednow.dpdns.org/iNEWS/index.m3u8
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
-http://docker.livednow.dpdns.org/of-litv-longturn20/index.m3u8
-#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="電影戲劇",龍華洋片
-http://docker.livednow.dpdns.org/litv-longturn02/index.m3u8
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通",龍華卡通
-http://docker.livednow.dpdns.org/litv-longturn01/index.m3u8
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影
-http://docker.livednow.dpdns.org/litv-longturn03/index.m3u8
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="電影戲劇",龍華日韓
-http://docker.livednow.dpdns.org/litv-longturn11/index.m3u8
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="電影戲劇",龍華偶像
-http://docker.livednow.dpdns.org/litv-longturn12/index.m3u8
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
-http://docker.livednow.dpdns.org/litv-longturn18/index.m3u8
-#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
-http://docker.livednow.dpdns.org/litv-longturn21/index.m3u8
-#EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍播新聞
-http://docker.livednow.dpdns.org/nnews-zh/index.m3u8
-#EXTINF:-1 tvg-id="倪珍英語新聞" tvg-name="倪珍英語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍英語新聞
-http://docker.livednow.dpdns.org/nnews-en/index.m3u8
-#EXTINF:-1 tvg-id="倪珍越語新聞" tvg-name="倪珍越語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍越語新聞
-http://docker.livednow.dpdns.org/nnews-vn/index.m3u8
-#EXTINF:-1 tvg-id="公視金獎台" tvg-name="公視金獎台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="歐飛點播",公視金獎台
-http://docker.livednow.dpdns.org/ofiii13/index.m3u8
-#EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png"group-title="歐飛點播",哆啦Ａ夢台
-http://docker.livednow.dpdns.org/ofiii22/index.m3u8
-#EXTINF:-1 tvg-id="新哆啦A夢(中文版)" tvg-name="新哆啦A夢(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="歐飛點播",新哆啦A夢(中文版)
-http://docker.livednow.dpdns.org/ofiii23/index.m3u8
-#EXTINF:-1 tvg-id="TVBS食尚玩家" tvg-name="TVBS食尚玩家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2984_ofiii31_tv_20230720.png" group-title="歐飛點播",TVBS食尚玩家
-http://docker.livednow.dpdns.org/ofiii31/index.m3u8
-#EXTINF:-1 tvg-id="東森娛樂台" tvg-name="東森娛樂台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png" group-title="歐飛點播",東森娛樂台
-http://docker.livednow.dpdns.org/ofiii32/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="歐飛點播",中天亞洲精采台
-http://docker.livednow.dpdns.org/ofiii36/index.m3u8
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="歐飛點播",經典劇場
-http://docker.livednow.dpdns.org/ofiii38/index.m3u8
-#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="歐飛點播",Yes娛樂
-http://docker.livednow.dpdns.org/ofiii47/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="歐飛點播",Focus風采戲劇台
-http://docker.livednow.dpdns.org/ofiii1048/index.m3u8
-#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="歐飛點播",掏掏新聞
-http://docker.livednow.dpdns.org/ofiii50/index.m3u8
-#EXTINF:-1 tvg-id="柯文哲政治風波" tvg-name="柯文哲政治風波" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3442_ofiii51_tv_20240822.png" group-title="歐飛點播",柯文哲政治風波
-http://docker.livednow.dpdns.org/ofiii51/index.m3u8
-#EXTINF:-1 tvg-id="國際大小事" tvg-name="國際大小事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="歐飛點播",國際大小事
-http://docker.livednow.dpdns.org/ofiii55/index.m3u8
-#EXTINF:-1 tvg-id="第1財經" tvg-name="第1財經" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png" group-title="歐飛點播",第1財經
-http://docker.livednow.dpdns.org/ofiii64/index.m3u8
-#EXTINF:-1 tvg-id="Golden 強片台" tvg-name="Golden 強片台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png" group-title="歐飛點播",Golden 強片台
-http://docker.livednow.dpdns.org/ofiii70/index.m3u8
-#EXTINF:-1 tvg-id="周星馳台" tvg-name="周星馳台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png" group-title="歐飛點播",周星馳台
-http://docker.livednow.dpdns.org/ofiii73/index.m3u8
-#EXTINF:-1 tvg-id="歐飛電影台" tvg-name="歐飛電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png" group-title="歐飛點播",歐飛電影台
-http://docker.livednow.dpdns.org/ofiii74/index.m3u8
-#EXTINF:-1 tvg-id="歐飛動作電影台" tvg-name="歐飛動作電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png" group-title="歐飛點播",歐飛動作電影台
-http://docker.livednow.dpdns.org/ofiii75/index.m3u8
-#EXTINF:-1 tvg-id="Focus探索新知台" tvg-name="Focus探索新知台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png" group-title="歐飛點播",Focus探索新知台
-http://docker.livednow.dpdns.org/ofiii82/index.m3u8
-#EXTINF:-1 tvg-id="鄉民大學問" tvg-name="鄉民大學問" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="歐飛點播",鄉民大學問
-http://docker.livednow.dpdns.org/ofiii83/index.m3u8
-#EXTINF:-1 tvg-id="野球名人房" tvg-name="野球名人房" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3408_ofiii84_tv_20240731.png" group-title="歐飛點播",野球名人房
-http://docker.livednow.dpdns.org/ofiii84/index.m3u8
-#EXTINF:-1 tvg-id="社會NOW什麼" tvg-name="社會NOW什麼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="歐飛點播",社會NOW什麼
-http://docker.livednow.dpdns.org/ofiii85/index.m3u8
-#EXTINF:-1 tvg-id="啦啦隊獨家專訪" tvg-name="啦啦隊獨家專訪" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3565_ofiii88_tv_20241205.png" group-title="歐飛點播",啦啦隊獨家專訪
-http://docker.livednow.dpdns.org/ofiii88/index.m3u8
-#EXTINF:-1 tvg-id="泰可愛旋風" tvg-name="泰可愛旋風" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3526_ofiii89_tv_20241114.png" group-title="歐飛點播",泰可愛旋風
-http://docker.livednow.dpdns.org/ofiii89/index.m3u8
-#EXTINF:-1 tvg-id="演唱會直擊" tvg-name="演唱會直擊" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="歐飛點播",演唱會直擊
-http://docker.livednow.dpdns.org/ofiii91/index.m3u8
-#EXTINF:-1 tvg-id="健康問良醫" tvg-name="健康問良醫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3411_ofiii92_tv_20240731.png" group-title="歐飛點播",健康問良醫
-http://docker.livednow.dpdns.org/ofiii92/index.m3u8
-#EXTINF:-1 tvg-id="ASMR行車紀錄" tvg-name="ASMR行車紀錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png" group-title="歐飛點播",ASMR行車紀錄
-http://docker.livednow.dpdns.org/ofiii94/index.m3u8
-#EXTINF:-1 tvg-id="Freeman @台灣" tvg-name="Freeman @台灣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3204_ofiii111_tv_20240105.png" group-title="歐飛點播",Freeman @台灣
-http://docker.livednow.dpdns.org/ofiii95/index.m3u8
-#EXTINF:-1 tvg-id="饕客揪愛吃" tvg-name="饕客揪愛吃" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2989_ofiii96_tv_20230906.png" group-title="歐飛點播",饕客揪愛吃
-http://docker.livednow.dpdns.org/ofiii96/index.m3u8
-#EXTINF:-1 tvg-id="人氣動漫預告" tvg-name="人氣動漫預告" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2990_ofiii97_tv_20230814.png" group-title="歐飛點播",人氣動漫預告
-http://docker.livednow.dpdns.org/ofiii97/index.m3u8
-#EXTINF:-1 tvg-id="銀髮聚樂部" tvg-name="銀髮聚樂部" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png" group-title="歐飛點播",銀髮聚樂部
-http://docker.livednow.dpdns.org/ofiii99/index.m3u8
-#EXTINF:-1 tvg-id="錦繡安寧" tvg-name="錦繡安寧" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3564_ofiii100_tv_20241202.png" group-title="歐飛點播",錦繡安寧
-http://docker.livednow.dpdns.org/ofiii100/index.m3u8
-#EXTINF:-1 tvg-id="琅琊榜" tvg-name="琅琊榜" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii101_tv_20230329.png" group-title="歐飛點播",琅琊榜
-http://docker.livednow.dpdns.org/ofiii101/index.m3u8
-#EXTINF:-1 tvg-id="扶搖" tvg-name="扶搖" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3355_ofiii102_tv_20240531.png" group-title="歐飛點播",扶搖
-http://docker.livednow.dpdns.org/ofiii102/index.m3u8
-#EXTINF:-1 tvg-id="三國" tvg-name="三國" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3383_ofiii103_tv_20240626.png" group-title="歐飛點播",三國
-http://docker.livednow.dpdns.org/ofiii103/index.m3u8
-#EXTINF:-1 tvg-id="武媚娘傳奇" tvg-name="武媚娘傳奇" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3412_ofiii104_tv_20240731.png" group-title="歐飛點播",武媚娘傳奇
-http://docker.livednow.dpdns.org/ofiii104/index.m3u8
-#EXTINF:-1 tvg-id="長樂曲" tvg-name="長樂曲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3476_ofiii105_tv_20240930.png" group-title="歐飛點播",長樂曲
-http://docker.livednow.dpdns.org/ofiii105/index.m3u8
-#EXTINF:-1 tvg-id="軍師聯盟" tvg-name="軍師聯盟" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_tv_20230920.png" group-title="歐飛點播",軍師聯盟
-http://docker.livednow.dpdns.org/ofiii106/index.m3u8
-#EXTINF:-1 tvg-id="軍師聯盟2 虎嘯龍吟" tvg-name="軍師聯盟2 虎嘯龍吟" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3071_ofiii107_tv_20230920.png" group-title="歐飛點播",軍師聯盟2 虎嘯龍吟
-http://docker.livednow.dpdns.org/ofiii107/index.m3u8
-#EXTINF:-1 tvg-id="東宮(完整版)" tvg-name="東宮(完整版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3264_ofiii108_tv_20240301.png" group-title="歐飛點播",東宮(完整版)
-http://docker.livednow.dpdns.org/ofiii108/index.m3u8
-#EXTINF:-1 tvg-id="國色芳華" tvg-name="國色芳華" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3692_ofiii108_tv_20250331.png" group-title="歐飛點播",國色芳華
-http://docker.livednow.dpdns.org/ofiii109/index.m3u8
-#EXTINF:-1 tvg-id="楚喬傳" tvg-name="楚喬傳" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3113_ofiii110_tv_20231019.png" group-title="歐飛點播",楚喬傳
-http://docker.livednow.dpdns.org/ofiii110/index.m3u8
-#EXTINF:-1 tvg-id="倚天屠龍記 2019" tvg-name="倚天屠龍記 2019" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3206_ofiii111_tv_20240105.png" group-title="歐飛點播",倚天屠龍記 2019
-http://docker.livednow.dpdns.org/ofiii111/index.m3u8
-#EXTINF:-1 tvg-id="披荊斬棘的大小姐" tvg-name="披荊斬棘的大小姐" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3511_ofiii112_tv_20241104.png" group-title="歐飛點播",披荊斬棘的大小姐
-http://docker.livednow.dpdns.org/ofiii112/index.m3u8
-#EXTINF:-1 tvg-id="步步驚心" tvg-name="步步驚心" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3443_ofiii113_tv_20240906.png" group-title="歐飛點播",步步驚心
-http://docker.livednow.dpdns.org/ofiii113/index.m3u8
-#EXTINF:-1 tvg-id="九重紫" tvg-name="九重紫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3630_ofiii114_tv_20250221.png" group-title="歐飛點播",九重紫
-http://docker.livednow.dpdns.org/ofiii114/index.m3u8
-#EXTINF:-1 tvg-id="私藏浪漫" tvg-name="私藏浪漫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3444_ofiii115_tv_20240906.png" group-title="歐飛點播",私藏浪漫
-http://docker.livednow.dpdns.org/ofiii115/index.m3u8
-#EXTINF:-1 tvg-id="去有風的地方" tvg-name="去有風的地方" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png" group-title="歐飛點播",去有風的地方
-http://docker.livednow.dpdns.org/ofiii116/index.m3u8
-#EXTINF:-1 tvg-id="以愛為營" tvg-name="以愛為營" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3167_ofiii117_tv_20231213.png" group-title="歐飛點播",以愛為營
-http://docker.livednow.dpdns.org/ofiii117/index.m3u8
-#EXTINF:-1 tvg-id="向風而行" tvg-name="向風而行" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20230823.png" group-title="歐飛點播",向風而行
-http://docker.livednow.dpdns.org/ofiii118/index.m3u8
-#EXTINF:-1 tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20230823.png" group-title="歐飛點播",以家人之名
-http://docker.livednow.dpdns.org/ofiii119/index.m3u8
-#EXTINF:-1 tvg-id="獵狐" tvg-name="獵狐" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3524_ofiii120_tv_20241104.png" group-title="歐飛點播",獵狐
-http://docker.livednow.dpdns.org/ofiii120/index.m3u8
-#EXTINF:-1 tvg-id="好運家" tvg-name="好運家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3599_ofiii121_tv_20250221.png" group-title="歐飛點播",好運家
-http://docker.livednow.dpdns.org/ofiii121/index.m3u8
-#EXTINF:-1 tvg-id="請叫我總監" tvg-name="請叫我總監" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20240906.png" group-title="歐飛點播",請叫我總監
-http://docker.livednow.dpdns.org/ofiii122/index.m3u8
-#EXTINF:-1 tvg-id="司藤" tvg-name="司藤" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3513_ofiii123_tv_20241104.png" group-title="歐飛點播",司藤
-http://docker.livednow.dpdns.org/ofiii123/index.m3u8
-#EXTINF:-1 tvg-id="月嫂先生" tvg-name="月嫂先生" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3693_ofiii124_tv_20250331.png" group-title="歐飛點播",月嫂先生
-http://docker.livednow.dpdns.org/ofiii124/index.m3u8
-#EXTINF:-1 tvg-id="豬哥壹級棒" tvg-name="豬哥壹級棒" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20250221.png" group-title="歐飛點播",豬哥壹級棒
-http://docker.livednow.dpdns.org/ofiii126/index.m3u8
-#EXTINF:-1 tvg-id="醫師好辣" tvg-name="醫師好辣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3633_ofiii128_tv_20250221.png" group-title="歐飛點播",醫師好辣
-http://docker.livednow.dpdns.org/ofiii128/index.m3u8
-#EXTINF:-1 tvg-id="WTO姐妹會" tvg-name="WTO姐妹會" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_tv_20240327.png" group-title="歐飛點播",WTO姐妹會
-http://docker.livednow.dpdns.org/ofiii129/index.m3u8
-#EXTINF:-1 tvg-id="綜藝玩很大" tvg-name="綜藝玩很大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="歐飛點播",綜藝玩很大
-http://docker.livednow.dpdns.org/ofiii130/index.m3u8
-#EXTINF:-1 tvg-id="全民星攻略" tvg-name="全民星攻略" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" group-title="歐飛點播",全民星攻略
-http://docker.livednow.dpdns.org/ofiii131/index.m3u8
-#EXTINF:-1 tvg-id="健康2.0" tvg-name="健康2.0" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3600_ofiii132_tv_20250221.png" group-title="歐飛點播",健康2.0
-http://docker.livednow.dpdns.org/ofiii132/index.m3u8
-#EXTINF:-1 tvg-id=台灣啟示錄" tvg-name="台灣啟示錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2595_ofiii133_tv_20250221.png" group-title="歐飛點播",台灣啟示錄
-http://docker.livednow.dpdns.org/ofiii133/index.m3u8
-#EXTINF:-1 tvg-id="法眼黑與白" tvg-name="法眼黑與白" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii134_tv_20230707.png" group-title="歐飛點播",法眼黑與白
-http://docker.livednow.dpdns.org/ofiii134/index.m3u8
-#EXTINF:-1 tvg-id="天才衝衝衝" tvg-name="天才衝衝衝" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii135_tv_20230707.png" group-title="歐飛點播",天才衝衝衝
-http://docker.livednow.dpdns.org/ofiii135/index.m3u8
-#EXTINF:-1 tvg-id="一步一腳印 發現新台灣" tvg-name="一步一腳印 發現新台灣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3601_ofiii136_tv_20250221.png" group-title="歐飛點播",一步一腳印 發現新台灣
-http://docker.livednow.dpdns.org/ofiii136/index.m3u8
-#EXTINF:-1 tvg-id="女人我最大" tvg-name="女人我最大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_tv_20241211.png" group-title="歐飛點播",女人我最大
-http://docker.livednow.dpdns.org/ofiii137/index.m3u8
-#EXTINF:-1 tvg-id="看板人物" tvg-name="看板人物" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3602_ofiii138_tv_20250221.png" group-title="歐飛點播",看板人物
-http://docker.livednow.dpdns.org/ofiii138/index.m3u8
-#EXTINF:-1 tvg-id="威廉沈歡樂送" tvg-name="威廉沈歡樂送" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3603_ofiii139_tv_20250221.png" group-title="歐飛點播",威廉沈歡樂送
-http://docker.livednow.dpdns.org/ofiii139/index.m3u8
-#EXTINF:-1 tvg-id=木曜4超玩 一日系列" tvg-name="木曜4超玩 一日系列" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3694_ofiii140_tv_20250331.png" group-title="歐飛點播",木曜4超玩 一日系列
-http://docker.livednow.dpdns.org/ofiii140/index.m3u8
-#EXTINF:-1 tvg-id=一字千金" tvg-name="一字千金" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_tv_20250221.png" group-title="歐飛點播",一字千金
-http://docker.livednow.dpdns.org/ofiii142/index.m3u8
-#EXTINF:-1 tvg-id="11點熱吵店" tvg-name="11點熱吵店" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_tv_20240131.png" group-title="歐飛點播",11點熱吵店
-http://docker.livednow.dpdns.org/ofiii143/index.m3u8
-#EXTINF:-1 tvg-id="回到20歲" tvg-name="回到20歲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3661_ofiii145_tv_20250305.png" group-title="歐飛點播",回到20歲
-http://docker.livednow.dpdns.org/ofiii145/index.m3u8
-#EXTINF:-1 tvg-id="白雪公主非死不可" tvg-name="白雪公主非死不可" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3515_ofiii146_tv_20250225.png" group-title="歐飛點播",白雪公主非死不可
-http://docker.livednow.dpdns.org/ofiii146/index.m3u8
-#EXTINF:-1 tvg-id="好搭檔" tvg-name="好搭檔" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3516_ofiii147_tv_20250225.png" group-title="歐飛點播",好搭檔
-http://docker.livednow.dpdns.org/ofiii147/index.m3u8
-#EXTINF:-1 tvg-id="頭腦共助" tvg-name="頭腦共助" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2886_ofiii148_tv_20250225.png" group-title="歐飛點播",頭腦共助
-http://docker.livednow.dpdns.org/ofiii148/index.m3u8
-#EXTINF:-1 tvg-id="凌晨兩點的灰姑娘" tvg-name="凌晨兩點的灰姑娘" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3517_ofiii149_tv_20250225.png" group-title="歐飛點播",凌晨兩點的灰姑娘
-http://docker.livednow.dpdns.org/ofiii149/index.m3u8
-#EXTINF:-1 tvg-id="台灣靈異事件" tvg-name="台灣靈異事件" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3385_ofiii150_tv_20250221.png" group-title="歐飛點播",台灣靈異事件
-http://docker.livednow.dpdns.org/ofiii150/index.m3u8
-#EXTINF:-1 tvg-id="包青天 1993版" tvg-name="包青天 1993版" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3235_ofiii151_tv_20250221.png" group-title="歐飛點播",包青天 1993版
-http://docker.livednow.dpdns.org/ofiii151/index.m3u8
-#EXTINF:-1 tvg-id="我的婆婆怎麼那麼可愛" tvg-name="我的婆婆怎麼那麼可愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3027_ofiii152_tv_20250221.png" group-title="歐飛點播",我的婆婆怎麼那麼可愛
-http://docker.livednow.dpdns.org/ofiii152/index.m3u8
-#EXTINF:-1 tvg-id="村裡來了個暴走女外科" tvg-name="村裡來了個暴走女外科" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3028_ofiii153_tv_20250221.png" group-title="歐飛點播",村裡來了個暴走女外科
-http://docker.livednow.dpdns.org/ofiii153/index.m3u8
-#EXTINF:-1 tvg-id="一把青" tvg-name="一把青" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3077_ofiii154_tv_20250221.png" group-title="歐飛點播",一把青
-http://docker.livednow.dpdns.org/ofiii154/index.m3u8
-#EXTINF:-1 tvg-id="茶金" tvg-name="茶金" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3119_ofiii155_tv_20250221.png" group-title="歐飛點播",茶金
-http://docker.livednow.dpdns.org/ofiii155/index.m3u8
-#EXTINF:-1 tvg-id="苦力" tvg-name="苦力" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3478_ofiii156_tv_20250221.png" group-title="歐飛點播",苦力
-http://docker.livednow.dpdns.org/ofiii156/index.m3u8
-#EXTINF:-1 tvg-id="俗女養成記" tvg-name="俗女養成記" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3358_ofiii157_tv_20250221.png" group-title="歐飛點播",俗女養成記
-http://docker.livednow.dpdns.org/ofiii157/index.m3u8
-#EXTINF:-1 tvg-id="麻醉風暴" tvg-name="麻醉風暴" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3415_ofiii158_tv_20250221.png" group-title="歐飛點播",麻醉風暴
-http://docker.livednow.dpdns.org/ofiii158/index.m3u8
-#EXTINF:-1 tvg-id="雖然等級只有1級但固有技能是最強的" tvg-name="雖然等級只有1級但固有技能是最強的" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3359_ofiii159_tv_20250221.png" group-title="歐飛點播",雖然等級只有1級但固有技能是最強的
-http://docker.livednow.dpdns.org/ofiii159/index.m3u8
-#EXTINF:-1 tvg-id="擁有超常技能的異世界流浪美食家" tvg-name="擁有超常技能的異世界流浪美食家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png" group-title="歐飛點播",擁有超常技能的異世界流浪美食家
-http://docker.livednow.dpdns.org/ofiii160/index.m3u8
-#EXTINF:-1 tvg-id="WIND BREAKER—防風少年—" tvg-name="WIND BREAKER—防風少年—" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3446_ofiii161_tv_20250221.png" group-title="歐飛點播",WIND BREAKER—防風少年—
-http://docker.livednow.dpdns.org/ofiii161/index.m3u8
-#EXTINF:-1 tvg-id="在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～" tvg-name="在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3303_ofiii162_tv_20250221.png" group-title="歐飛點播",在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
-http://docker.livednow.dpdns.org/ofiii162/index.m3u8
-#EXTINF:-1 tvg-id="第一神拳" tvg-name="第一神拳" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3266_ofiii163_tv_20250221.png" group-title="歐飛點播",第一神拳
-http://docker.livednow.dpdns.org/ofiii163/index.m3u8
-#EXTINF:-1 tvg-id="刀劍神域(中文版)" tvg-name="刀劍神域(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3267_ofiii164_tv_20250221.png" group-title="歐飛點播",刀劍神域(中文版)
-http://docker.livednow.dpdns.org/ofiii164/index.m3u8
-#EXTINF:-1 tvg-id="蠟筆小新(中文版)" tvg-name="蠟筆小新(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3079_ofiii165_tv_20250221.png" group-title="歐飛點播",蠟筆小新(中文版)
-http://docker.livednow.dpdns.org/ofiii165/index.m3u8
-#EXTINF:-1 tvg-id="我們這一家" tvg-name="我們這一家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3121_ofiii166_tv_20250221.png" group-title="歐飛點播",我們這一家
-http://docker.livednow.dpdns.org/ofiii166/index.m3u8
-#EXTINF:-1 tvg-id="獵人(中文版)" tvg-name="獵人(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3122_ofiii167_tv_20250221.png" group-title="歐飛點播",獵人(中文版)
-http://docker.livednow.dpdns.org/ofiii167/index.m3u8
-#EXTINF:-1 tvg-id="中華一番(中文版)" tvg-name="中華一番(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3124_ofiii168_tv_20250221.png" group-title="歐飛點播",中華一番(中文版)
-http://docker.livednow.dpdns.org/ofiii168/index.m3u8
-#EXTINF:-1 tvg-id="隊長小翼(中文版)" tvg-name="隊長小翼(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3125_ofiii169_tv_20250221.png" group-title="歐飛點播",隊長小翼(中文版)
-http://docker.livednow.dpdns.org/ofiii169/index.m3u8
-#EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒" tvg-name="SPY X FAMILY 間諜家家酒" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3304_ofiii170_tv_20250221.png" group-title="歐飛點播",SPY X FAMILY 間諜家家酒
-http://docker.livednow.dpdns.org/ofiii170/index.m3u8
-#EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒(中文版)" tvg-name="SPY X FAMILY 間諜家家酒(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3127_ofiii171_tv_20250221.png" group-title="歐飛點播",SPY X FAMILY 間諜家家酒(中文版)
-http://docker.livednow.dpdns.org/ofiii171/index.m3u8
-#EXTINF:-1 tvg-id="無職轉生，到了異世界就拿出真本事" tvg-name="無職轉生，到了異世界就拿出真本事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3128_ofiii172_tv_20250221.png" group-title="歐飛點播",無職轉生，到了異世界就拿出真本事
-http://docker.livednow.dpdns.org/ofiii172/index.m3u8
-#EXTINF:-1 tvg-id="關於我轉生變成史萊姆這檔事(國)" tvg-name="關於我轉生變成史萊姆這檔事(國)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3170_ofiii173_tv_20250221.png" group-title="歐飛點播",關於我轉生變成史萊姆這檔事(國)
-http://docker.livednow.dpdns.org/ofiii173/index.m3u8
-#EXTINF:-1 tvg-id="夏目友人帳" tvg-name="夏目友人帳" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3171_ofiii174_tv_20250221.png" group-title="歐飛點播",夏目友人帳
-http://docker.livednow.dpdns.org/ofiii174/index.m3u8
-#EXTINF:-1 tvg-id="家庭教師HITMAN REBORN!(中文版)" tvg-name="家庭教師HITMAN REBORN!(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3205_ofiii175_tv_20250221.png" group-title="歐飛點播",家庭教師HITMAN REBORN!(中文版)
-http://docker.livednow.dpdns.org/ofiii175/index.m3u8
-#EXTINF:-1 tvg-id="烘焙王(中文版)" tvg-name="烘焙王(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3236_ofiii176_tv_20250221.png" group-title="歐飛點播",烘焙王(中文版)
-http://docker.livednow.dpdns.org/ofiii176/index.m3u8
-#EXTINF:-1 tvg-id="鋼之鍊金術師" tvg-name="鋼之鍊金術師" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3237_ofiii177_tv_20250221.png" group-title="歐飛點播",鋼之鍊金術師
-http://docker.livednow.dpdns.org/ofiii177/index.m3u8
-#EXTINF:-1 tvg-id="JOJO 的奇妙冒險" tvg-name="JOJO 的奇妙冒險" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3238_ofiii178_tv_20250221.png" group-title="歐飛點播",JOJO 的奇妙冒險
-http://docker.livednow.dpdns.org/ofiii178/index.m3u8
-#EXTINF:-1 tvg-id="葬送的芙莉蓮" tvg-name="葬送的芙莉蓮" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3268_ofiii179_tv_20250221.png" group-title="歐飛點播",葬送的芙莉蓮
-http://docker.livednow.dpdns.org/ofiii179/index.m3u8
-#EXTINF:-1 tvg-id="史上最強弟子兼一(中文版)" tvg-name="史上最強弟子兼一(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="歐飛點播",史上最強弟子兼一(中文版)
-http://docker.livednow.dpdns.org/ofiii180/index.m3u8
-#EXTINF:-1 tvg-id="爆漫王(中文版)" tvg-name="爆漫王(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="歐飛點播",爆漫王(中文版)
-http://docker.livednow.dpdns.org/ofiii181/index.m3u8
-#EXTINF:-1 tvg-id="忍者亂太郎(中文版)" tvg-name="忍者亂太郎(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="歐飛點播",忍者亂太郎(中文版)
-http://docker.livednow.dpdns.org/ofiii182/index.m3u8
-#EXTINF:-1 tvg-id="膽大黨" tvg-name="膽大黨" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3604_ofiii183_tv_20250221.png" group-title="歐飛點播",膽大黨
-http://docker.livednow.dpdns.org/ofiii183/index.m3u8
-#EXTINF:-1 tvg-id="新忍者哈特利" tvg-name="新忍者哈特利" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3634_ofiii184_tv_20250221.png" group-title="歐飛點播",新忍者哈特利
-http://docker.livednow.dpdns.org/ofiii184/index.m3u8
-#EXTINF:-1 tvg-id="生命的贏家" tvg-name="生命的贏家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png" group-title="歐飛點播",生命的贏家
-http://docker.livednow.dpdns.org/ofiii192/index.m3u8
-#EXTINF:-1 tvg-id="海派甜心" tvg-name="海派甜心" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3605_ofiii195_tv_20250225.png" group-title="歐飛點播",海派甜心
-http://docker.livednow.dpdns.org/ofiii195/index.m3u8
-#EXTINF:-1 tvg-id="不良笑花" tvg-name="不良笑花" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3631_ofiii196_tv_20250225.png" group-title="歐飛點播",不良笑花
-http://docker.livednow.dpdns.org/ofiii196/index.m3u8
-#EXTINF:-1 tvg-id="戰神" tvg-name="戰神" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3236_ofiii176_tv_20250221.png" group-title="歐飛點播",戰神
-http://docker.livednow.dpdns.org/ofiii197/index.m3u8
-#EXTINF:-1 tvg-id="大新聞大爆卦" tvg-name="大新聞大爆卦" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png" group-title="歐飛點播",大新聞大爆卦
-http://docker.livednow.dpdns.org/ofiii201/index.m3u8
-#EXTINF:-1 tvg-id="新聞大白話" tvg-name="新聞大白話" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png" group-title="歐飛點播",新聞大白話
-http://docker.livednow.dpdns.org/ofiii202/index.m3u8
-#EXTINF:-1 tvg-id="文茜的世界周報" tvg-name="文茜的世界周報" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_tv_20240301.png" group-title="歐飛點播",文茜的世界周報
-http://docker.livednow.dpdns.org/ofiii203/index.m3u8
-#EXTINF:-1 tvg-id="寰宇全視界" tvg-name="寰宇全視界" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii204_tv_20230707.png" group-title="歐飛點播",寰宇全視界
-http://docker.livednow.dpdns.org/ofiii204/index.m3u8
-#EXTINF:-1 tvg-id="文茜的世界財經周報" tvg-name="文茜的世界財經周報" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20240930.png" group-title="歐飛點播",文茜的世界財經周報
-http://docker.livednow.dpdns.org/ofiii205/index.m3u8
-#EXTINF:-1 tvg-id="環球大戰線" tvg-name="環球大戰線" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20241104.png" group-title="歐飛點播",環球大戰線
-http://docker.livednow.dpdns.org/ofiii206/index.m3u8
-#EXTINF:-1 tvg-id="少康戰情室" tvg-name="少康戰情室" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20241104.png" group-title="歐飛點播",少康戰情室
-http://docker.livednow.dpdns.org/ofiii207/index.m3u8
-#EXTINF:-1 tvg-id="國民大會" tvg-name="國民大會" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_tv_20241211.png" group-title="歐飛點播",國民大會
-http://docker.livednow.dpdns.org/ofiii208/index.m3u8
-#EXTINF:-1 tvg-id="電動車時代" tvg-name="電動車時代" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3475_ofiii215_tv_20240930.png" group-title="歐飛點播",電動車時代
-http://docker.livednow.dpdns.org/ofiii215/index.m3u8
-#EXTINF:-1 tvg-id="SiCAR愛車酷" tvg-name="SiCAR愛車酷" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3521_ofiii216_tv_20241104.png" group-title="歐飛點播",SiCAR愛車酷
-http://docker.livednow.dpdns.org/ofiii216/index.m3u8
-#EXTINF:-1 tvg-id="狂人日誌" tvg-name="狂人日誌" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_tv_20241104.png" group-title="歐飛點播",狂人日誌
-http://docker.livednow.dpdns.org/ofiii217/index.m3u8
-#EXTINF:-1 tvg-id="脖子解說 Mr. Neck" tvg-name="脖子解說 Mr. Neck" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_tv_20241104.png" group-title="歐飛點播",脖子解說 Mr. Neck
-http://docker.livednow.dpdns.org/ofiii218/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-Hello腹餓代" tvg-name="食尚玩家-Hello腹餓代" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3574_ofiii225_tv_20241211.png" group-title="歐飛點播",食尚玩家-Hello腹餓代
-http://docker.livednow.dpdns.org/ofiii225/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-天菜就醬吃" tvg-name="食尚玩家-天菜就醬吃" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3575_ofiii226_tv_20241211.png" group-title="歐飛點播",食尚玩家-天菜就醬吃
-http://docker.livednow.dpdns.org/ofiii226/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-2天1夜go" tvg-name="食尚玩家-2天1夜go" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3554_ofiii227_tv_20241202.png" group-title="歐飛點播",食尚玩家-2天1夜go
-http://docker.livednow.dpdns.org/ofiii227/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-熱血48小時" tvg-name="食尚玩家-熱血48小時" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3558_ofiii228_tv_20241202.png" group-title="歐飛點播",食尚玩家-熱血48小時
-http://docker.livednow.dpdns.org/ofiii228/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-魚肉鄉民" tvg-name="食尚玩家-魚肉鄉民" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3556_ofiii229_tv_20250221.png" group-title="歐飛點播",食尚玩家-魚肉鄉民
-http://docker.livednow.dpdns.org/ofiii229/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-瘋狂總部" tvg-name="食尚玩家-瘋狂總部" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3557_ofiii230_tv_20241202.png" group-title="歐飛點播",食尚玩家-瘋狂總部
-http://docker.livednow.dpdns.org/ofiii230/index.m3u8
-#EXTINF:-1 tvg-id="非凡大探索" tvg-name="非凡大探索" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3553_ofiii234_tv_20241202.png" group-title="歐飛點播",非凡大探索
-http://docker.livednow.dpdns.org/ofiii234/index.m3u8
-#EXTINF:-1 tvg-id="台灣1001個故事" tvg-name="台灣1001個故事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3555_ofiii235_tv_20241202.png" group-title="歐飛點播",台灣1001個故事
-http://docker.livednow.dpdns.org/ofiii235/index.m3u8
-#EXTINF:-1 tvg-id="詹姆士出走料理" tvg-name="詹姆士出走料理" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3566_ofiii236_tv_20241211.png" group-title="歐飛點播",詹姆士出走料理
-http://docker.livednow.dpdns.org/ofiii236/index.m3u8
-#EXTINF:-1 tvg-id="進擊的台灣" tvg-name="進擊的台灣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3568_ofiii237_tv_20241211.png" group-title="歐飛點播",進擊的台灣
-http://docker.livednow.dpdns.org/ofiii237/index.m3u8
-#EXTINF:-1 tvg-id="世界第一等" tvg-name="世界第一等" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_tv_20241211.png" group-title="歐飛點播",世界第一等
-http://docker.livednow.dpdns.org/ofiii238/index.m3u8
-#EXTINF:-1 tvg-id="台灣第一等" tvg-name="台灣第一等" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3569_ofiii239_tv_20241211.png" group-title="歐飛點播",台灣第一等
-http://docker.livednow.dpdns.org/ofiii239/index.m3u8
-#EXTINF:-1 tvg-id="溢遊未盡" tvg-name="溢遊未盡" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_tv_20241211.png" group-title="歐飛點播",溢遊未盡
-http://docker.livednow.dpdns.org/ofiii240/index.m3u8
-#EXTINF:-1 tvg-id="台灣真善美" tvg-name="台灣真善美" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3635_ofiii241_tv_20250221.png" group-title="歐飛點播",台灣真善美
-http://docker.livednow.dpdns.org/ofiii241/index.m3u8
-#EXTINF:-1 tvg-id="請問今晚住誰家" tvg-name="請問今晚住誰家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3636_ofiii242_tv_20250221.png" group-title="歐飛點播",請問今晚住誰家
-http://docker.livednow.dpdns.org/ofiii242/index.m3u8
-#EXTINF:-1 tvg-id="早餐中國" tvg-name="早餐中國" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3664_ofiii243_tv_20250305.png" group-title="歐飛點播",早餐中國
-http://docker.livednow.dpdns.org/ofiii243/index.m3u8
-#EXTINF:-1 tvg-id="溢起趣打卡" tvg-name="溢起趣打卡" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3665_ofiii244_tv_20250305.png" group-title="歐飛點播",溢起趣打卡
-http://docker.livednow.dpdns.org/ofiii244/index.m3u8
-#EXTINF:-1 tvg-id="台灣壹百種味道" tvg-name="台灣壹百種味道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3666_ofiii245_tv_20250305.png" group-title="歐飛點播",台灣壹百種味道
-http://docker.livednow.dpdns.org/ofiii245/index.m3u8
-#EXTINF:-1 tvg-id="紓壓雷雨聲" tvg-name="紓壓雷雨聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_tv_20240816.png" group-title="歐飛點播",紓壓雷雨聲
-http://docker.livednow.dpdns.org/ofiii250/index.m3u8
-#EXTINF:-1 tvg-id="療癒下雨聲" tvg-name="療癒下雨聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="歐飛點播",療癒下雨聲
-http://docker.livednow.dpdns.org/ofiii251/index.m3u8
-#EXTINF:-1 tvg-id="放鬆的爵士午後" tvg-name="放鬆的爵士午後" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="歐飛點播",放鬆的爵士午後
-http://docker.livednow.dpdns.org/ofiii252/index.m3u8
-#EXTINF:-1 tvg-id="外燒柴火聲" tvg-name="外燒柴火聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="歐飛點播",野外燒柴火聲
-http://docker.livednow.dpdns.org/ofiii253/index.m3u8
-#EXTINF:-1 tvg-id="夏日陽光海浪聲" tvg-name="夏日陽光海浪聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="歐飛點播",夏日陽光海浪聲
-http://docker.livednow.dpdns.org/ofiii254/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/翡翠台.png",翡翠台4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
+https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/翡翠台.png",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/POPC.png",PopC
+https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png",美亚电影台
+https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/天映经典.png",天映频道(印尼)
+https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/tvbplus.png",TVB Plus
+https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png",Animax
+https://live.tvfix.org/live/animax/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png",华丽翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/TVB星河.png",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
+https://live.tvfix.org/live/pearl/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/明珠台.png",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/TVBS.png",TVBS
+https://live.tvfix.org/live/tvbs/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png",TVBS新闻台
+https://live.tvfix.org/live/tvbsnews/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/tvbplus.png",TVB Plus
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",无线新闻台
+https://live.tvfix.org/live/inews/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/东森亚洲新闻台.png",亚洲新闻台
+https://live.tvfix.org/live/newsasia/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/娱乐新闻台.png",娱乐新闻台
+https://live.tvfix.org/live/enews/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png",TVB娱乐新闻台
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/viutv.png",ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png",ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/rthk31.png",RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/rthk32.png",RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png",千禧经典台
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png",美亚电影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/天映.png",天映频道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/天映经典.png",天映经典
+http://php.jdshipin.com:8880/smt.php?id=Celestial2
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰中文
+https://live.tvfix.org/live/fhzw/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
+https://live.tvfix.org/live/fhzx/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png",凤凰香港
+https://live.tvfix.org/live/fhxg/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/八度空间.png",八度空间
+http://php.jdshipin.com:8880/smt.php?id=TV8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png",Astro AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png",爱奇艺
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png",Astro欢喜台
+http://php.jdshipin.com:8880/smt.php?id=Huahee
 #EXTINF:-1 group-title="睛彩",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1 group-title="睛彩",睛彩竞技
