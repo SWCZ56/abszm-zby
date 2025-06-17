@@ -606,82 +606,469 @@ http://119.36.194.123:32432/migu/923287211?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw
 http://119.36.194.123:32432/migu/923287339?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/176/202504161629_1744788994468_H169_720.jpg" group-title="咪咕视频", CHC影迷电影
 http://119.36.194.123:32432/migu/952383261?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-#EXTINF:-1 group-title="咪咕视频",1
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",2
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",3
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",4
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",5
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",6
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",7
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",8
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",9
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",10
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",11
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",12
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",13
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",14
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",15
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",16
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",17
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",18
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",19
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",20
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",21
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",22
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",23
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",24
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",25
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",26
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",27
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",28
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",29
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",30
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",31
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",32
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&mode=1&$30M UHD
-#EXTINF:-1 group-title="咪咕视频",33
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",34
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",35
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="咪咕视频",36
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",37
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&mode=1&$5M FHD
-#EXTINF:-1 group-title="咪咕视频",38
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1&$5M FHD
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-name="2025-06-16 21:12:39" tvg-logo="" group-title="列表更新时间",2025-06-16 21:12:39
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月14日08:30-NBA总决赛-雷霆VS步行者-全场回放（杨健、刘晓宇、苏群、佳依）
+http://119.36.194.123:32432/migu/955270119?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月14日08:30-NBA总决赛-雷霆VS步行者-全场回放（蔡凯臣、陈正昊）
+http://119.36.194.123:32432/migu/955270069?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月14日08:30-NBA总决赛-雷霆VS步行者-全场回放（英文原声）
+http://119.36.194.123:32432/migu/955270042?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月14日08:30-NBA总决赛-雷霆VS步行者-全场回放（仔涛）
+http://119.36.194.123:32432/migu/955269900?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月14日08:30-NBA总决赛-雷霆VS步行者-全场回放（罗森）
+http://119.36.194.123:32432/migu/955269780?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月14日09:30-2025年全国夏季游泳锦标赛-男子100米蝶泳等多项预赛-2025全国夏季游泳锦标赛第一场全场回放
+http://119.36.194.123:32432/migu/955279916?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-全场回放（魏铭、李嘉伟）
+http://119.36.194.123:32432/migu/955282492?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-全场回放（原声）
+http://119.36.194.123:32432/migu/955282400?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】北京控股13:14南海龙狮
+http://119.36.194.123:32432/migu/955272582?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】无锡文旅惠汕12:21广东悦跑豹猫
+http://119.36.194.123:32432/migu/955273493?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】龙华润庆翔21:16贵州奥弗
+http://119.36.194.123:32432/migu/955274592?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】江苏扬子江21:18成都和众
+http://119.36.194.123:32432/migu/955275956?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】浙江德清普徕21:10福州奇迹
+http://119.36.194.123:32432/migu/955276898?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】重庆瀚动17:12山东东阿阿胶
+http://119.36.194.123:32432/migu/955277832?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】南昌凯锆商贸21:16湖北江鲟
+http://119.36.194.123:32432/migu/955278400?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】北京控股19:14湖州朱雀火箭
+http://119.36.194.123:32432/migu/955278813?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】无锡文旅惠汕14:22上海横沙誉民
+http://119.36.194.123:32432/migu/955279080?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】龙华润庆翔13:21上海久事
+http://119.36.194.123:32432/migu/955279529?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日13:00-超三联赛-超三联赛上海争霸赛小组赛Day2下午场-【回放】江苏扬子江20:22宁波海曙捷英
+http://119.36.194.123:32432/migu/955280462?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 06月14日13:40-常山UUG vs 长沙TES.A-常山UUG vs 长沙TES.A-【全场回放】 常山UUG 0-3 长沙TES.A
+http://119.36.194.123:32432/migu/955279091?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png" group-title="江苏城市足球联赛", 6月14日 15:00-江苏城市足球联赛-淮安队vs南京队-【全场回放】淮安队vs南京队（官方解说）
+http://119.36.194.123:32432/migu/955280647?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png" group-title="江苏城市足球联赛", 6月14日 15:00-江苏城市足球联赛-扬州队vs泰州队-【全场回放】扬州队vs泰州队 (官方解说)
+http://119.36.194.123:32432/migu/955280579?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月14日15:30-中超联赛-浙江 vs 上海海港-【全场回放】浙江队vs上海海港 (李欣、贺宇、李子琪)
+http://119.36.194.123:32432/migu/955280686?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月14日15:30-中超联赛-浙江 vs 上海海港-【全场回放】浙江队vs上海海港 (涂远)
+http://119.36.194.123:32432/migu/955280829?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月14日 16:00-中乙联赛-赣州瑞狮vs昆明城星-【全场回放】赣州瑞狮vs昆明城星（官方解说）
+http://119.36.194.123:32432/migu/955281252?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月14日 16:00-中乙联赛-广东铭途vs贵州筑城竞技-【全场回放】广东铭途vs贵州筑城竞技 (官方解说)
+http://119.36.194.123:32432/migu/955282800?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月14日 16:00-中乙联赛-上海海港富盛经开vs江西庐山-【全场回放】上海海港富盛经开vs江西庐山（官方解说）
+http://119.36.194.123:32432/migu/955281102?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 06月14日16:30-AL vs BLG-AL vs BLG-【全场回放】 AL 3-1 BLG
+http://119.36.194.123:32432/migu/955285632?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月14日 17:00-中乙联赛-广西恒宸vs泉州亚新-【全场回放】广西恒宸vs泉州亚新 (官方解说)
+http://119.36.194.123:32432/migu/955282554?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 06月14日17:00-上海RNG.M vs 桐乡情久-上海RNG.M vs 桐乡情久-【全场回放】 上海RNG.M 1-3 情久
+http://119.36.194.123:32432/migu/955283201?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月14日17:00-WTA斯海尔托亨博斯站半决赛：梅尔滕斯逆转晋级 鲁塞险胜-梅尔滕斯逆转晋级 鲁塞险胜-【回放】鲁塞2-1科恰雷托
+http://119.36.194.123:32432/migu/955285733?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月14日17:00-WTA斯海尔托亨博斯站半决赛：梅尔滕斯逆转晋级 鲁塞险胜-梅尔滕斯逆转晋级 鲁塞险胜-【回放】鲁塞2-1科恰雷托（英文原声）
+http://119.36.194.123:32432/migu/955285661?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月14日17:00-WTA斯海尔托亨博斯站半决赛：梅尔滕斯逆转晋级 鲁塞险胜-梅尔滕斯逆转晋级 鲁塞险胜-【回放】梅尔滕斯2-1亚历山德洛娃
+http://119.36.194.123:32432/migu/955283743?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月14日17:00-WTA斯海尔托亨博斯站半决赛：梅尔滕斯逆转晋级 鲁塞险胜-梅尔滕斯逆转晋级 鲁塞险胜-【回放】梅尔滕斯2-1亚历山德洛娃（英文原声）
+http://119.36.194.123:32432/migu/955283642?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月14日19:00-中超联赛-北京国安 vs 长春亚泰-【全场回放】北京国安vs长春亚泰 (孙雨轩、黄健翔)
+http://119.36.194.123:32432/migu/955284457?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月14日19:00-中超联赛-青岛西海岸 vs 云南玉昆-【全场回放】青岛西海岸vs云南玉昆 (张昊泽、李毅)
+http://119.36.194.123:32432/migu/955283536?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月14日19:00-中甲联赛-辽宁铁人 vs 上海嘉定汇龙-【全场回放】 辽宁铁人vs上海嘉定汇龙
+http://119.36.194.123:32432/migu/955284513?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月14日19:00-中甲联赛-辽宁铁人 vs 上海嘉定汇龙-【全场回放】辽宁铁人vs上海嘉定汇龙 (官方解说)
+http://119.36.194.123:32432/migu/955284200?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日19:00-超三联赛-超三联赛上海争霸赛小组赛Day2晚间场-全场回放（李嘉伟、王冠证）
+http://119.36.194.123:32432/migu/955284613?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日19:00-超三联赛-超三联赛上海争霸赛小组赛Day2晚间场-全场回放（原声）
+http://119.36.194.123:32432/migu/955285552?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日19:00-超三联赛-超三联赛上海争霸赛小组赛Day2晚间场-【回放】宁波海曙捷英12:21广东生涯
+http://119.36.194.123:32432/migu/955284102?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日19:00-超三联赛-超三联赛上海争霸赛小组赛Day2晚间场-【回放】上海久事20:21南昌凯锆商贸
+http://119.36.194.123:32432/migu/955283713?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日19:00-超三联赛-超三联赛上海争霸赛小组赛Day2晚间场-【回放】上海横沙誉民22:18重庆瀚动
+http://119.36.194.123:32432/migu/955283467?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日19:00-超三联赛-超三联赛上海争霸赛小组赛Day2晚间场-【回放】湖州朱雀火箭20:21浙江德清普徕
+http://119.36.194.123:32432/migu/955283123?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日19:00-超三联赛-超三联赛上海争霸赛小组赛Day2晚间场-【回放】贵州奥弗16:17湖北江鲟
+http://119.36.194.123:32432/migu/955282688?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日19:00-超三联赛-超三联赛上海争霸赛小组赛Day2晚间场-【回放】广东悦跑豹猫16:17山东东阿阿胶
+http://119.36.194.123:32432/migu/955282266?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月14日19:00-超三联赛-超三联赛上海争霸赛小组赛Day2晚间场-【回放】南海龙狮21:16福州奇迹
+http://119.36.194.123:32432/migu/955281758?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/4/30/100000001269106157ff.jpg" group-title="国青男篮国际挑战赛", 6月14日 19:25-国青男篮国际挑战赛-中国U19男篮98:51德国青年队-全场回放（金哲豪）
+http://119.36.194.123:32432/migu/955283575?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/4/30/100000001269106157ff.jpg" group-title="国青男篮国际挑战赛", 6月14日 19:25-国青男篮国际挑战赛-中国U19男篮98:51德国青年队-全场回放（原声）
+http://119.36.194.123:32432/migu/955284267?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月14日19:30-中甲联赛-佛山南狮 vs 延边龙鼎-【全场回放】佛山南狮vs延边龙鼎（官方解说）
+http://119.36.194.123:32432/migu/955284706?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月14日19:30-中甲联赛-广西平果 vs 南通支云-【全场回放】广西平果vs南通支云（官方解说）
+http://119.36.194.123:32432/migu/955284537?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月14日19:30-中甲联赛-重庆铜梁龙 vs 大连鲲城-【全场回放】 重庆铜梁龙vs大连鲲城
+http://119.36.194.123:32432/migu/955285757?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月14日19:30-中甲联赛-重庆铜梁龙 vs 大连鲲城-【全场回放】重庆铜梁龙vs大连鲲城（官方解说）
+http://119.36.194.123:32432/migu/955285573?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月14日 19:30-中乙联赛-海门珂缔缘vs无锡吴钩-【全场回放】海门珂缔缘vs无锡吴钩 (官方解说)
+http://119.36.194.123:32432/migu/955284428?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月14日 19:30-中乙联赛-武汉三镇B队vs成都蓉城B队-【全场回放】武汉三镇B队vs成都蓉城B队（官方解说）
+http://119.36.194.123:32432/migu/955284490?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月14日19:30-2025年全国夏季游泳锦标赛-陈俊儿夺得男子100米蝶泳冠军-2025全国夏季游泳锦标赛第二场全场回放
+http://119.36.194.123:32432/migu/955283498?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月14日19:35-中超联赛-河南 vs 成都蓉城-【全场回放】河南俱乐部酒祖杜康vs成都蓉城 (袁甲、杨晨、李子琪)
+http://119.36.194.123:32432/migu/955284084?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月14日19:35-中超联赛-深圳新鹏城 vs 上海申花-【全场回放】深圳新鹏城vs上海申花 (娄一晨、刘越、魏欣怡)
+http://119.36.194.123:32432/migu/955284114?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月14日20:00-中超联赛-天津津门虎 vs 山东泰山-【全场回放】天津津门虎vs山东泰山 (涂远、石庆圣、邵凌霄)
+http://119.36.194.123:32432/migu/955284262?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 06月14日20:00-成都AG超玩会 vs 武汉eStarPro-成都AG超玩会 vs 武汉eStarPro-【全场回放】 成都AG超玩会 3-1 武汉eStarPro
+http://119.36.194.123:32432/migu/955285569?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月14日20:30-WTA伦敦站半决赛：郑钦文1比2不敌阿尼西莫娃止步四强-郑钦文1比2不敌阿尼西莫娃止步四强-【回放】郑钦文1-2阿尼西莫娃（房朕）
+http://119.36.194.123:32432/migu/955285751?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月14日20:30-WTA伦敦站半决赛：郑钦文1比2不敌阿尼西莫娃止步四强-郑钦文1比2不敌阿尼西莫娃止步四强-【回放】郑钦文1-2阿尼西莫娃
+http://119.36.194.123:32432/migu/955286007?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月14日20:30-WTA伦敦站半决赛：郑钦文1比2不敌阿尼西莫娃止步四强-郑钦文1比2不敌阿尼西莫娃止步四强-【回放】郑钦文1-2阿尼西莫娃（英文原声）
+http://119.36.194.123:32432/migu/955286374?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月14日20:30-WTA伦敦站半决赛：郑钦文1比2不敌阿尼西莫娃止步四强-郑钦文1比2不敌阿尼西莫娃止步四强-【回放】玛丽亚2-0凯斯（李宁）
+http://119.36.194.123:32432/migu/955284380?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月14日20:30-WTA伦敦站半决赛：郑钦文1比2不敌阿尼西莫娃止步四强-郑钦文1比2不敌阿尼西莫娃止步四强-【回放】玛丽亚2-0凯斯
+http://119.36.194.123:32432/migu/955284724?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月14日20:30-WTA伦敦站半决赛：郑钦文1比2不敌阿尼西莫娃止步四强-郑钦文1比2不敌阿尼西莫娃止步四强-【回放】玛丽亚2-0凯斯（英文原声）
+http://119.36.194.123:32432/migu/955284888?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月14日23:30-WTT斯科普里常规挑战赛：混双决赛、单打1/4决赛及单双打半决赛-温瑞博速胜达科 范姝涵晋级女单决赛-【全场回放】下午场（周冠达、小马哥）
+http://119.36.194.123:32432/migu/955282913?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月14日23:30-WTT斯科普里常规挑战赛：混双决赛、单打1/4决赛及单双打半决赛-温瑞博速胜达科 范姝涵晋级女单决赛-【全场回放】晚间场（周泽昊）
+http://119.36.194.123:32432/migu/955286204?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月14日23:30-WTT斯科普里常规挑战赛：混双决赛、单打1/4决赛及单双打半决赛-温瑞博速胜达科 范姝涵晋级女单决赛-【全场回放】一号桌（一）
+http://119.36.194.123:32432/migu/955284062?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月14日23:30-WTT斯科普里常规挑战赛：混双决赛、单打1/4决赛及单双打半决赛-温瑞博速胜达科 范姝涵晋级女单决赛-【全场回放】一号桌（二）
+http://119.36.194.123:32432/migu/955286408?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月14日23:30-WTT斯科普里常规挑战赛：混双决赛、单打1/4决赛及单双打半决赛-温瑞博速胜达科 范姝涵晋级女单决赛-【全场回放】二号桌
+http://119.36.194.123:32432/migu/955283640?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月14日23:30-WTT斯科普里常规挑战赛：混双决赛、单打1/4决赛及单双打半决赛-温瑞博速胜达科 范姝涵晋级女单决赛-【全场回放】一号桌（英文解说）（一）
+http://119.36.194.123:32432/migu/955283760?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月14日23:30-WTT斯科普里常规挑战赛：混双决赛、单打1/4决赛及单双打半决赛-温瑞博速胜达科 范姝涵晋级女单决赛-【全场回放】一号桌（英文解说）（二）
+http://119.36.194.123:32432/migu/955286368?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【主赛全场】王琰博、郝俊
+http://119.36.194.123:32432/migu/955292207?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【主赛全场】原声中字
+http://119.36.194.123:32432/migu/955296604?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【主赛全场】英文原声
+http://119.36.194.123:32432/migu/955292397?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【主赛单场】乌斯曼VS巴克利
+http://119.36.194.123:32432/migu/955291937?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【主赛单场】罗斯VS马维里克
+http://119.36.194.123:32432/migu/955291150?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【主赛单场】沙巴赞VS彼得罗斯基
+http://119.36.194.123:32432/migu/955290889?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【主赛单场】加布兰特VS巴塞洛斯
+http://119.36.194.123:32432/migu/955290567?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【主赛单场】马利克VS布伦戴奇
+http://119.36.194.123:32432/migu/955290138?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【主赛单场】梅尼菲尔德VS奥马尔
+http://119.36.194.123:32432/migu/955289604?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【副赛全场】王琰博、郝俊
+http://119.36.194.123:32432/migu/955289595?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【副赛全场】英文原声
+http://119.36.194.123:32432/migu/955289052?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【副赛单场】克雷格VS贝拉托
+http://119.36.194.123:32432/migu/955288919?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【副赛单场】基耶萨VS麦吉
+http://119.36.194.123:32432/migu/955288644?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【副赛单场】威尔梅克VS穆蒂尼奥
+http://119.36.194.123:32432/migu/955288183?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【副赛单场】杜登VS奥乔亚
+http://119.36.194.123:32432/migu/955287795?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【副赛单场】西蒙VS斯莫瑟曼
+http://119.36.194.123:32432/migu/955287634?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【副赛单场】罗威VS卢萨
+http://119.36.194.123:32432/migu/955287464?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 06月15日07:00-UFC格斗之夜：乌斯曼VS巴克利-乌斯曼碾压大胜巴克利终结三连败-【副赛单场】霍斯VS德姆普洛斯
+http://119.36.194.123:32432/migu/955287212?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" group-title="马拉松系列赛", 06月15日07:30-贵阳马拉松、巴林左旗半马-贵阳马拉松、巴林左旗半马-2025蒙牛·贵阳马拉松全场回放
+http://119.36.194.123:32432/migu/955291349?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" group-title="马拉松系列赛", 06月15日07:30-贵阳马拉松、巴林左旗半马-贵阳马拉松、巴林左旗半马-辽上京·2025巴林左旗半程马拉松全场回放
+http://119.36.194.123:32432/migu/955290892?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月15日08:00-世俱杯小组赛-开罗国民 vs 迈阿密国际-【全场回放】开罗国民vs迈阿密国际 (詹俊、张路、孙继海、孙杨、李子琪)
+http://119.36.194.123:32432/migu/955290158?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月15日08:00-世俱杯小组赛-开罗国民 vs 迈阿密国际-【全场回放】开罗国民vs迈阿密国际 (洪荒)
+http://119.36.194.123:32432/migu/955290117?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月15日08:00-世俱杯小组赛-开罗国民 vs 迈阿密国际-【全场回放】开罗国民vs迈阿密国际 (江忠德)
+http://119.36.194.123:32432/migu/955290067?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月15日08:00-世俱杯小组赛-开罗国民 vs 迈阿密国际-【全场回放】开罗国民vs迈阿密国际 (陈渤胄)
+http://119.36.194.123:32432/migu/955289921?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月15日09:30-2025年全国夏季游泳锦标赛-女子50米蝶泳等多项预赛-2025全国夏季游泳锦标赛第三场全场回放
+http://119.36.194.123:32432/migu/955293548?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 06月15日13:40-北京WB vs 西安WE-北京WB vs 西安WE-【全场回放】 北京WB 3-0 西安WE
+http://119.36.194.123:32432/migu/955294367?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/3/10/100000001025106183ed.png" group-title="Jr. NBA", 06月15日14:00-Jr. NBA-Jr. NBA校园篮球联赛@北京 决赛-全场回放
+http://119.36.194.123:32432/migu/955297426?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000157106555f9.png" group-title="中女超", 6月15日 15:50-中女超联赛-上海农商银行女足VS江苏无锡女足-【全场回放】上海农商银行女足vs江苏无锡女足
+http://119.36.194.123:32432/migu/955296071?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月15日 16:00-中乙联赛-长春喜都vs泰安天贶-【全场回放】长春喜都vs泰安天贶（官方解说）
+http://119.36.194.123:32432/migu/955296261?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月15日 16:00-中乙联赛-山西崇德荣海vs湖北青年星-【全场回放】山西崇德荣海vs湖北青年星（官方解说）
+http://119.36.194.123:32432/migu/955295850?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月15日 16:00-中乙联赛-北京理工vs杭州临平吴越-【全场回放】北京理工vs杭州临平吴越（官方解说）
+http://119.36.194.123:32432/migu/955296415?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png" group-title="江苏城市足球联赛", 6月15日 16:00-江苏城市足球联赛-徐州队vs镇江队-【全场回放】徐州队vs镇江队（官方解说）
+http://119.36.194.123:32432/migu/955296397?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月15日 16:30-中乙联赛-广州蒲公英德桦绿建vs广西蓝航-【全场回放】广州蒲公英德桦绿建vs广西蓝航 (官方解说)
+http://119.36.194.123:32432/migu/955297159?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 06月15日17:00-杭州LGD.NBW vs 南通Hero久竞-杭州LGD.NBW vs 南通Hero久竞-【全场回放】 LGD.NBW 3-2 Hero久竞
+http://119.36.194.123:32432/migu/955297338?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月15日17:30-全运会男篮附加赛-全运会男篮附加赛-河南103:78河北-全场回放:（季孟年）
+http://119.36.194.123:32432/migu/955296036?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月15日17:30-全运会男篮附加赛-全运会男篮附加赛-河南103:78河北-全场回放（原声）
+http://119.36.194.123:32432/migu/955296577?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月15日18:00-WTA斯海尔托亨博斯站决赛：梅尔滕斯2-0鲁塞夺得冠军-梅尔滕斯2-0鲁塞夺得冠军-【回放】鲁塞0-2梅尔滕斯
+http://119.36.194.123:32432/migu/955297705?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月15日18:00-WTA斯海尔托亨博斯站决赛：梅尔滕斯2-0鲁塞夺得冠军-梅尔滕斯2-0鲁塞夺得冠军-【回放】鲁塞0-2梅尔滕斯（英文原声）
+http://119.36.194.123:32432/migu/955297543?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月15日18:00-超三联赛-超三联赛上海争霸赛半决赛及决赛-全场回放（王冠证、李嘉伟）
+http://119.36.194.123:32432/migu/955299199?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月15日18:00-超三联赛-超三联赛上海争霸赛半决赛及决赛-全场回放（原声）
+http://119.36.194.123:32432/migu/955298701?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月15日18:00-超三联赛-超三联赛上海争霸赛半决赛及决赛-【决赛回放】上海横沙誉民21:7宁波海曙捷英
+http://119.36.194.123:32432/migu/955298083?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月15日18:00-超三联赛-超三联赛上海争霸赛半决赛及决赛-【第3名排位赛回放】南昌凯锆商贸21:20浙江德清普徕
+http://119.36.194.123:32432/migu/955297870?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月15日18:00-超三联赛-超三联赛上海争霸赛半决赛及决赛-【半决赛回放】宁波海曙捷英21:15浙江德清普徕
+http://119.36.194.123:32432/migu/955297275?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月15日18:00-超三联赛-超三联赛上海争霸赛半决赛及决赛-【半决赛回放】上海横沙誉民21:13南昌凯锆商贸
+http://119.36.194.123:32432/migu/955297106?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月15日18:00-超三联赛-超三联赛上海争霸赛半决赛及决赛-【1/4决赛回放】浙江德清普徕18:17重庆瀚动
+http://119.36.194.123:32432/migu/955296610?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月15日18:00-超三联赛-超三联赛上海争霸赛半决赛及决赛-【1/4决赛回放】上海久事19:21宁波海曙捷英
+http://119.36.194.123:32432/migu/955296295?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月15日18:00-超三联赛-超三联赛上海争霸赛半决赛及决赛-【1/4决赛回放】广东生涯14:17南昌凯锆商贸
+http://119.36.194.123:32432/migu/955296067?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 06月15日18:00-超三联赛-超三联赛上海争霸赛半决赛及决赛-【1/4决赛回放】上海横沙誉民21:18南海龙狮
+http://119.36.194.123:32432/migu/955295715?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 6月15日 19:00-中乙联赛-山东泰山B队vs兰州陇原竞技-【全场回放】山东泰山B队vs兰州陇原竞技（官方解说）
+http://119.36.194.123:32432/migu/955298051?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png" group-title="江苏城市足球联赛", 6月15日 19:00-江苏城市足球联赛-连云港队vs苏州队-【全场回放】 连云港队vs苏州队 (官方解说)
+http://119.36.194.123:32432/migu/955297955?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="NBA经典赛事", 06月15日19:00-NBA经典赛事-11-12赛季总决赛 热火vs雷霆G3-全场回放（张泽欣）
+http://119.36.194.123:32432/migu/955297203?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/4/30/100000001269106157ff.jpg" group-title="国青男篮国际挑战赛", 6月15日 19:25-国青男篮国际挑战赛-中国U19男篮vs美国青年队-全场回放（金哲豪）
+http://119.36.194.123:32432/migu/955297772?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/4/30/100000001269106157ff.jpg" group-title="国青男篮国际挑战赛", 6月15日 19:25-国青男篮国际挑战赛-中国U19男篮vs美国青年队-全场回放（原声）
+http://119.36.194.123:32432/migu/955298270?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月15日19:30-中甲联赛-深圳青年人 vs 石家庄功夫-【全场回放】深圳青年人vs石家庄功夫（官方解说）
+http://119.36.194.123:32432/migu/955298351?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月15日19:30-中甲联赛-定南赣联 vs 南京城市-【全场回放】 定南赣联vs南京城市
+http://119.36.194.123:32432/migu/955298362?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月15日19:30-中甲联赛-定南赣联 vs 南京城市-【全场回放】定南赣联vs南京城市（官方解说）
+http://119.36.194.123:32432/migu/955298206?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月15日19:30-中甲联赛-青岛红狮 vs 陕西联合-【全场回放】青岛红狮vs陕西联合（官方解说）
+http://119.36.194.123:32432/migu/955298208?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06月15日19:30-中甲联赛-广东广州豹 vs 苏州东吴-【全场回放】广东广州豹vs苏州东吴（官方解说）
+http://119.36.194.123:32432/migu/955298535?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/2/7/100000001096106672dc.png" group-title="中国女篮系列热身赛", 6月15日 19:30-中国女篮系列热身赛-中国vs波黑-全场回放（吕程）
+http://119.36.194.123:32432/migu/955297797?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/2/7/100000001096106672dc.png" group-title="中国女篮系列热身赛", 6月15日 19:30-中国女篮系列热身赛-中国vs波黑-全场回放（原声）
+http://119.36.194.123:32432/migu/955298355?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png" group-title="江苏城市足球联赛", 6月15日 19:30-江苏城市足球联赛-无锡队vs常州队-【全场回放】无锡队vs常州队（官方解说）
+http://119.36.194.123:32432/migu/955298455?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月15日19:30-2025年全国夏季游泳锦标赛-刷新PB！吕沁遥200米蛙泳夺冠-2025全国夏季游泳锦标赛第四场全场回放
+http://119.36.194.123:32432/migu/955297778?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 06月15日20:00-重庆狼队 vs 广州TTG-重庆狼队 vs 广州TTG-【全场回放】 重庆狼队 3-2 广州TTG
+http://119.36.194.123:32432/migu/955300036?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月15日20:00-WTT斯科普里常规挑战赛：男女单双打决赛-温瑞博2-4杜达 范姝涵0-4袁嘉楠-【男单决赛】温瑞博2-4杜达（周泽昊）
+http://119.36.194.123:32432/migu/955298343?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月15日20:00-WTT斯科普里常规挑战赛：男女单双打决赛-温瑞博2-4杜达 范姝涵0-4袁嘉楠-【女单决赛】袁嘉楠4-0范姝涵（周泽昊）
+http://119.36.194.123:32432/migu/955297930?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月15日20:00-WTT斯科普里常规挑战赛：男女单双打决赛-温瑞博2-4杜达 范姝涵0-4袁嘉楠-【男双决赛】塔卡/玛纳什·沙0-3林仲勋/吴晙诚（周泽昊）
+http://119.36.194.123:32432/migu/955297473?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月15日20:00-WTT斯科普里常规挑战赛：男女单双打决赛-温瑞博2-4杜达 范姝涵0-4袁嘉楠-【女双决赛】大藤沙月/横井咲樱1-3金娜英/柳韩娜（周泽昊）
+http://119.36.194.123:32432/migu/955297133?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月15日20:00-WTT斯科普里常规挑战赛：男女单双打决赛-温瑞博2-4杜达 范姝涵0-4袁嘉楠-【混双决赛】卡尔森/卡尔伯格3-2曾蓓勋/冯怡璇（周泽昊）
+http://119.36.194.123:32432/migu/955285369?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月15日20:00-WTT斯科普里常规挑战赛：男女单双打决赛-温瑞博2-4杜达 范姝涵0-4袁嘉楠-【全场回放】（周泽昊）
+http://119.36.194.123:32432/migu/955298503?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月15日20:00-WTT斯科普里常规挑战赛：男女单双打决赛-温瑞博2-4杜达 范姝涵0-4袁嘉楠-【全场回放】
+http://119.36.194.123:32432/migu/955299421?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月15日20:00-WTT斯科普里常规挑战赛：男女单双打决赛-温瑞博2-4杜达 范姝涵0-4袁嘉楠-【全场回放】（英文解说）
+http://119.36.194.123:32432/migu/955299401?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月15日20:00-全运会男篮附加赛-全运会男篮附加赛-湖北96:87新疆-全场回放（李天宇）
+http://119.36.194.123:32432/migu/955297848?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月15日20:00-全运会男篮附加赛-全运会男篮附加赛-湖北96:87新疆-全场回放（原声）
+http://119.36.194.123:32432/migu/955298199?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月15日20:30-WTA伦敦站决赛：玛利亚女王杯夺冠-玛利亚女王杯夺冠-【回放】阿尼西莫娃0-2玛利亚（单文强、邱超）
+http://119.36.194.123:32432/migu/955298260?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月15日20:30-WTA伦敦站决赛：玛利亚女王杯夺冠-玛利亚女王杯夺冠-【回放】阿尼西莫娃0-2玛利亚
+http://119.36.194.123:32432/migu/955298526?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月15日20:30-WTA伦敦站决赛：玛利亚女王杯夺冠-玛利亚女王杯夺冠-【回放】阿尼西莫娃0-2玛利亚（英文原声）
+http://119.36.194.123:32432/migu/955298636?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日00:00-世俱杯小组赛-拜仁慕尼黑 vs 奥克兰城-【全场回放】拜仁慕尼黑vs奥克兰城 (胡小凡、王多多)
+http://119.36.194.123:32432/migu/955300604?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 6月16日 01:00-西甲升降级附加赛-米兰德斯vs奥维耶多-【全场回放】米兰德斯vs皇家奥维耶多
+http://119.36.194.123:32432/migu/955301525?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-【全场回放】 巴黎圣日耳曼vs马德里竞技
+http://119.36.194.123:32432/migu/955302415?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-【全场回放】巴黎圣日耳曼vs马德里竞技 (李欣、黄健翔、李子琪)
+http://119.36.194.123:32432/migu/955301860?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日06:00-世俱杯小组赛-帕尔梅拉斯 vs 波尔图-【全场回放】 帕尔梅拉斯vs波尔图 (鲁靖明)
+http://119.36.194.123:32432/migu/955303018?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月16日09:20-2025年全国夏季游泳锦标赛第五场-陈俊儿、徐一舟晋级200自决赛-清流播出
+http://119.36.194.123:32432/migu/955243668?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日10:00-世俱杯小组赛-博塔福戈 vs 西雅图海湾人-【全场回放】博塔弗戈vs西雅图海湾人 (周楚雄)
+http://119.36.194.123:32432/migu/955311245?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月16日10:00-《NBA周刊》总决赛G5特别节目-《NBA周刊》NBA总决赛G5特别节目-全场回放
+http://119.36.194.123:32432/migu/955310645?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月16日17:30-全运会男篮附加赛-全运会男篮附加赛-吉林114:91新疆-全场回放（邵化谦）
+http://119.36.194.123:32432/migu/955320690?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月16日17:30-全运会男篮附加赛-全运会男篮附加赛-吉林114:91新疆-全场回放（原声）
+http://119.36.194.123:32432/migu/955321071?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="NBA经典赛事", 06月16日19:00-NBA经典赛事-99-00赛季总决赛 步行者vs湖人G6-陈鑫隆
+http://119.36.194.123:32432/migu/955288662?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月16日19:20-2025年全国夏季游泳锦标赛-陈俊儿200米自由泳夺金-清流播出
+http://119.36.194.123:32432/migu/955243684?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月16日20:00-全运会男篮附加赛-全运会男篮附加赛-河南vs湖北-王冠证
+http://119.36.194.123:32432/migu/955267573?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月16日20:00-全运会男篮附加赛-全运会男篮附加赛-河南vs湖北-现场原声
+http://119.36.194.123:32432/migu/955267520?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月16日22:00-WTA柏林站第一轮：安德列娃迎战弗莱彻-安德列娃首轮迎战弗莱彻-赛场原声
+http://119.36.194.123:32432/migu/955222661?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月16日22:00-WTA柏林站第一轮：安德列娃迎战弗莱彻-安德列娃首轮迎战弗莱彻-英文原声
+http://119.36.194.123:32432/migu/955236923?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日03:00-世俱杯小组赛-切尔西 vs 洛杉矶-颜强 徐阳 林梦鸽
+http://119.36.194.123:32432/migu/955274725?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日03:00-世俱杯小组赛-切尔西 vs 洛杉矶-智能文字解说
+http://119.36.194.123:32432/migu/955238400?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日03:00-世俱杯小组赛-切尔西 vs 洛杉矶-赛场原声
+http://119.36.194.123:32432/migu/955271136?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日03:00-世俱杯小组赛-切尔西 vs 洛杉矶-颜强 徐阳 林梦鸽
+http://119.36.194.123:32432/migu/955238189?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日06:00-世俱杯小组赛-博卡青年 vs 本菲卡-盛斌
+http://119.36.194.123:32432/migu/955274753?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日06:00-世俱杯小组赛-博卡青年 vs 本菲卡-智能文字解说
+http://119.36.194.123:32432/migu/955238759?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日06:00-世俱杯小组赛-博卡青年 vs 本菲卡-赛场原声
+http://119.36.194.123:32432/migu/955271195?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日06:00-世俱杯小组赛-博卡青年 vs 本菲卡-盛斌
+http://119.36.194.123:32432/migu/955238836?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月17日08:30-NBA总决赛-步行者VS雷霆-杨健 刘晓宇 马健
+http://119.36.194.123:32432/migu/955292877?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月17日08:30-NBA总决赛-步行者VS雷霆-蔡凯臣 陈正昊
+http://119.36.194.123:32432/migu/955292857?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月17日08:30-NBA总决赛-步行者VS雷霆-仔涛
+http://119.36.194.123:32432/migu/955292742?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月17日08:30-NBA总决赛-步行者VS雷霆-罗森
+http://119.36.194.123:32432/migu/955292732?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月17日08:30-NBA总决赛-步行者VS雷霆-英文原声
+http://119.36.194.123:32432/migu/955308253?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月17日08:30-NBA总决赛-步行者VS雷霆-莫俊祺
+http://119.36.194.123:32432/migu/955292708?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月17日08:30-NBA总决赛-步行者VS雷霆-洪荒
+http://119.36.194.123:32432/migu/955292706?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月17日08:30-NBA总决赛-步行者VS雷霆-球场十倍镜
+http://119.36.194.123:32432/migu/955305396?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06月17日08:30-NBA总决赛-步行者VS雷霆-VIP前排视角
+http://119.36.194.123:32432/migu/955306154?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日09:00-世俱杯小组赛-弗拉门戈 vs 突尼斯希望-涂远
+http://119.36.194.123:32432/migu/955274773?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日09:00-世俱杯小组赛-弗拉门戈 vs 突尼斯希望-智能文字解说
+http://119.36.194.123:32432/migu/955239114?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日09:00-世俱杯小组赛-弗拉门戈 vs 突尼斯希望-赛场原声
+http://119.36.194.123:32432/migu/955271211?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月17日09:00-世俱杯小组赛-弗拉门戈 vs 突尼斯希望-涂远
+http://119.36.194.123:32432/migu/955239135?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月17日09:30-2025年全国夏季游泳锦标赛-男子100自等多项预赛-清流播出
+http://119.36.194.123:32432/migu/955243731?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月17日16:00-WTT卢布尔雅那球星挑战赛：男女单打资格赛小组赛第一、二轮-男女单打资格赛小组赛第一、二轮-1号桌
+http://119.36.194.123:32432/migu/955278581?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月17日16:00-WTT卢布尔雅那球星挑战赛：男女单打资格赛小组赛第一、二轮-男女单打资格赛小组赛第一、二轮-2号桌
+http://119.36.194.123:32432/migu/955278713?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月17日16:00-WTT卢布尔雅那球星挑战赛：男女单打资格赛小组赛第一、二轮-男女单打资格赛小组赛第一、二轮-3号桌
+http://119.36.194.123:32432/migu/955278799?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月17日16:00-WTT卢布尔雅那球星挑战赛：男女单打资格赛小组赛第一、二轮-男女单打资格赛小组赛第一、二轮-4号桌
+http://119.36.194.123:32432/migu/955278903?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月17日17:30-WTA柏林站第二日-WTA柏林站第二日-赛场原声
+http://119.36.194.123:32432/migu/955222706?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月17日17:30-WTA柏林站第二日-WTA柏林站第二日-英文原声
+http://119.36.194.123:32432/migu/955236974?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月17日17:30-全运会男篮附加赛-全运会男篮附加赛-新疆vs河北-连睿
+http://119.36.194.123:32432/migu/955267593?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月17日17:30-全运会男篮附加赛-全运会男篮附加赛-新疆vs河北-现场原声
+http://119.36.194.123:32432/migu/955267540?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/3/24/100000001031106ef313.png" group-title="JCK", 06月17日18:55-JCK觉城之夜N100：艾力·木拉特别克VS卢安·萨丁尼亚-梁娜出战！轻量级冠军艾力迎战萨丁尼亚-官方解说
+http://119.36.194.123:32432/migu/955264762?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/3/24/100000001031106ef313.png" group-title="JCK", 06月17日18:55-JCK觉城之夜N100：艾力·木拉特别克VS卢安·萨丁尼亚-梁娜出战！轻量级冠军艾力迎战萨丁尼亚-无解说
+http://119.36.194.123:32432/migu/955264802?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月17日19:30-2025年全国夏季游泳锦标赛-男子200混等多项决赛-清流播出
+http://119.36.194.123:32432/migu/955243765?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月17日19:35-中超联赛-北京国安 vs 青岛西海岸-李欣 徐阳
+http://119.36.194.123:32432/migu/955193058?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月17日19:35-中超联赛-北京国安 vs 青岛西海岸-赛场原声
+http://119.36.194.123:32432/migu/955193144?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月17日20:00-全运会男篮附加赛-全运会男篮附加赛-吉林vs河南-姜帆
+http://119.36.194.123:32432/migu/955267611?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月17日20:00-全运会男篮附加赛-全运会男篮附加赛-吉林vs河南-现场原声
+http://119.36.194.123:32432/migu/955267548?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日00:00-世俱杯小组赛-弗卢米嫩塞 vs 多特蒙德-沈云怡 秦游夏
+http://119.36.194.123:32432/migu/955275094?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日00:00-世俱杯小组赛-弗卢米嫩塞 vs 多特蒙德-智能文字解说
+http://119.36.194.123:32432/migu/955239332?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日00:00-世俱杯小组赛-弗卢米嫩塞 vs 多特蒙德-赛场原声
+http://119.36.194.123:32432/migu/955271267?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日00:00-世俱杯小组赛-弗卢米嫩塞 vs 多特蒙德-沈云怡 秦游夏
+http://119.36.194.123:32432/migu/955239314?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日03:00-世俱杯小组赛-河床 vs 浦和红钻-张昊泽
+http://119.36.194.123:32432/migu/955275118?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日03:00-世俱杯小组赛-河床 vs 浦和红钻-智能文字解说
+http://119.36.194.123:32432/migu/955238004?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日03:00-世俱杯小组赛-河床 vs 浦和红钻-赛场原声
+http://119.36.194.123:32432/migu/955271369?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日03:00-世俱杯小组赛-河床 vs 浦和红钻-张昊泽
+http://119.36.194.123:32432/migu/955238098?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日06:00-世俱杯小组赛-蔚山现代 vs 马梅洛迪日落-孙雨轩
+http://119.36.194.123:32432/migu/955275155?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日06:00-世俱杯小组赛-蔚山现代 vs 马梅洛迪日落-智能文字解说
+http://119.36.194.123:32432/migu/955238136?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日06:00-世俱杯小组赛-蔚山现代 vs 马梅洛迪日落-赛场原声
+http://119.36.194.123:32432/migu/955271406?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日06:00-世俱杯小组赛-蔚山现代 vs 马梅洛迪日落-孙雨轩
+http://119.36.194.123:32432/migu/955238210?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日09:00-世俱杯小组赛-蒙特雷 vs 国际米兰-苏东 贺宇 林梦鸽
+http://119.36.194.123:32432/migu/955275191?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日09:00-世俱杯小组赛-蒙特雷 vs 国际米兰-智能文字解说
+http://119.36.194.123:32432/migu/955238243?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日09:00-世俱杯小组赛-蒙特雷 vs 国际米兰-赛场原声
+http://119.36.194.123:32432/migu/955271483?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月18日09:00-世俱杯小组赛-蒙特雷 vs 国际米兰-苏东 贺宇 林梦鸽
+http://119.36.194.123:32432/migu/955238334?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月18日09:30-2025年全国夏季游泳锦标赛-女子100仰等多项预赛-清流播出
+http://119.36.194.123:32432/migu/955243776?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月18日17:00-WTT卢布尔雅那球星挑战赛：男女单打资格赛小组赛第二、三轮及双打资格赛第一轮-男女单打资格赛小组赛第二、三轮及双打资格赛第一轮-1号桌
+http://119.36.194.123:32432/migu/955279144?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月18日17:00-WTT卢布尔雅那球星挑战赛：男女单打资格赛小组赛第二、三轮及双打资格赛第一轮-男女单打资格赛小组赛第二、三轮及双打资格赛第一轮-2号桌
+http://119.36.194.123:32432/migu/955279184?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月18日17:00-WTT卢布尔雅那球星挑战赛：男女单打资格赛小组赛第二、三轮及双打资格赛第一轮-男女单打资格赛小组赛第二、三轮及双打资格赛第一轮-3号桌
+http://119.36.194.123:32432/migu/955279293?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06月18日17:00-WTT卢布尔雅那球星挑战赛：男女单打资格赛小组赛第二、三轮及双打资格赛第一轮-男女单打资格赛小组赛第二、三轮及双打资格赛第一轮-4号桌
+http://119.36.194.123:32432/migu/955279333?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月18日17:30-WTA柏林站第三日-WTA柏林站第三日-赛场原声
+http://119.36.194.123:32432/migu/955222723?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月18日17:30-WTA柏林站第三日-WTA柏林站第三日-英文原声
+http://119.36.194.123:32432/migu/955237004?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月18日19:30-2025年全国夏季游泳锦标赛-男子50蝶等多项决赛-清流播出
+http://119.36.194.123:32432/migu/955243783?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月18日19:35-中超联赛-河南 vs 上海海港-孙雨轩 杨晨 李子琪
+http://119.36.194.123:32432/migu/955193168?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月18日19:35-中超联赛-河南 vs 上海海港-赛场原声
+http://119.36.194.123:32432/migu/955193362?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月18日20:00-中超联赛-深圳新鹏城 vs 武汉三镇-张天翼 雷腾龙
+http://119.36.194.123:32432/migu/955193821?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 06月18日20:00-中超联赛-深圳新鹏城 vs 武汉三镇-赛场原声
+http://119.36.194.123:32432/migu/955193514?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/16/100000001283106d63c2.jpg" group-title="国青女篮国际挑战赛", 06月18日20:30-国青女篮国际挑战赛-中国U19女篮vs新西兰U19选拔队-清流播出
+http://119.36.194.123:32432/migu/955306079?token=2QtTMCuDxdKH-maiOisSwBQJpT7f4tWxgh5pXrHBgnRYN8aylfv6zzv3RdvVPnGjimzHdiTgARldfrEm6PpjpQ&auth=
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视
 http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视
