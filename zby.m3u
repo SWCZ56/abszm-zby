@@ -337,46 +337,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
 https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="台湾频道",台湾|AFC 亚洲旅游台
 https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
-#EXTINF:-1 group-title="中国频道",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-2 财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-3 综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-4 中文国际
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-5+体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-6 电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-7 国防军事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-8 电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-9 纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-10 科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-11 戏曲
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-12 社会与法
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-13 新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-14 少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-15 音乐
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-16 奥林匹克
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="中国频道",CCTV-17 农业农村
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="中国频道",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="中国频道",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="中国频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1
 http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中国频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1
@@ -485,54 +445,148 @@ https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
 http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 #EXTINF:-1 group-title="中国频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV4
 https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-id="湖南卫视超清" tvg-name="湖南卫视超清" tvg-logo="" group-title="卫视频道",湖南卫视超清
+rtp://239.20.0.95:3020
+#EXTINF:-1 tvg-id="浙江卫视超清" tvg-name="浙江卫视超清" tvg-logo="" group-title="卫视频道",浙江卫视超清
+rtp://239.20.0.94:3024
+#EXTINF:-1 tvg-id="江苏卫视超清" tvg-name="江苏卫视超清" tvg-logo="" group-title="卫视频道",江苏卫视超清
+rtp://239.20.0.93:3028
+#EXTINF:-1 tvg-id="深圳卫视超清" tvg-name="深圳卫视超清" tvg-logo="" group-title="卫视频道",深圳卫视超清
+rtp://239.20.0.92:3032
+#EXTINF:-1 tvg-id="黑龙江卫视超清" tvg-name="黑龙江卫视超清" tvg-logo="" group-title="卫视频道",黑龙江卫视超清
+rtp://239.20.0.91:3036
+#EXTINF:-1 tvg-id="湖北卫视超清" tvg-name="湖北卫视超清" tvg-logo="" group-title="卫视频道",湖北卫视超清
+rtp://239.20.0.90:3040
+#EXTINF:-1 tvg-id="天津卫视超清" tvg-name="天津卫视超清" tvg-logo="" group-title="卫视频道",天津卫视超清
+rtp://239.20.0.89:3044
+#EXTINF:-1 tvg-id="山东卫视超清" tvg-name="山东卫视超清" tvg-logo="" group-title="卫视频道",山东卫视超清
+rtp://239.20.0.88:3048
+#EXTINF:-1 tvg-id="BTV冬奥纪实超清" tvg-name="BTV冬奥纪实超清" tvg-logo="" group-title="卫视频道",BTV冬奥纪实超清
+rtp://239.20.0.87:3052
+#EXTINF:-1 tvg-id="辽宁卫视超清" tvg-name="辽宁卫视超清" tvg-logo="" group-title="卫视频道",辽宁卫视超清
+rtp://239.20.0.86:3056
+#EXTINF:-1 tvg-id="金鹰纪实超清" tvg-name="金鹰纪实超清" tvg-logo="" group-title="卫视频道",金鹰纪实超清
+rtp://239.20.0.85:3060
+#EXTINF:-1 tvg-id="四川卫视超清" tvg-name="四川卫视超清" tvg-logo="" group-title="卫视频道",四川卫视超清
+rtp://239.20.0.82:3072
+#EXTINF:-1 tvg-id="精选频道5" tvg-name="精选频道5" tvg-logo="" group-title="卫视频道",精选频道5
+rtp://239.20.0.18:3332
+#EXTINF:-1 tvg-id="精选频道4" tvg-name="精选频道4" tvg-logo="" group-title="卫视频道",精选频道4
+rtp://239.20.0.19:3328
+#EXTINF:-1 tvg-id="精选频道3" tvg-name="精选频道3" tvg-logo="" group-title="卫视频道",精选频道3
+rtp://239.20.0.20:3324
+#EXTINF:-1 tvg-id="精选4k频道3" tvg-name="精选4k频道3" tvg-logo="" group-title="卫视频道",精选4k频道3
+rtp://239.20.0.46:3220
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视频道",广东卫视
+rtp://239.20.0.131:2060
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="卫视频道" group-title="卫视频道",安徽卫视
+rtp://239.20.0.193:2184
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="卫视频道" group-title="卫视频道",北京卫视
+rtp://239.20.0.121:2040
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="卫视频道" group-title="卫视频道",重庆卫视
+rtp://239.20.0.195:2188
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="卫视频道" group-title="卫视频道",东方卫视
+rtp://239.20.0.173:2144
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="卫视频道" group-title="卫视频道",东南卫视
+rtp://239.20.0.58:3168
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="卫视频道" group-title="卫视频道",甘肃卫视
+rtp://239.20.0.159:2116
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="卫视频道" group-title="卫视频道",广东卫视
+rtp://239.20.0.101:2000
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="卫视频道" group-title="卫视频道",广西卫视
+rtp://239.20.0.15:3344
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="卫视频道" group-title="卫视频道",贵州卫视
+rtp://239.20.0.212:2222
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="卫视频道" group-title="卫视频道",海南卫视
+rtp://239.20.0.155:2108
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="卫视频道" group-title="卫视频道",河北卫视
+rtp://239.20.0.56:3176
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="卫视频道" group-title="卫视频道",河南卫视
+rtp://239.20.0.144:2086
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="卫视频道" group-title="卫视频道",黑龙江卫视
+rtp://239.20.0.123:2044
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="卫视频道" group-title="卫视频道",湖北卫视
+rtp://239.20.0.124:2046
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="卫视频道" group-title="卫视频道",湖南卫视
+rtp://239.20.0.105:2008
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="卫视频道" group-title="卫视频道",吉林卫视
+rtp://239.20.0.54:3184
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="卫视频道" group-title="卫视频道",江苏卫视
+rtp://239.20.0.170:2138
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="卫视频道" group-title="卫视频道",江西卫视
+rtp://239.20.0.55:3180
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="卫视频道" group-title="卫视频道",辽宁卫视
+rtp://239.20.0.175:2148
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="卫视频道" group-title="卫视频道",内蒙古卫视
+rtp://239.20.0.153:2104
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="卫视频道" group-title="卫视频道",宁夏卫视
+rtp://239.20.0.156:2110
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="卫视频道" group-title="卫视频道",青海卫视
+rtp://239.20.0.154:2106
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="卫视频道" group-title="卫视频道",山东卫视
+rtp://239.20.0.172:2142
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="卫视频道" group-title="卫视频道",山西卫视
+rtp://239.20.0.152:2102
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="卫视频道" group-title="卫视频道",陕西卫视
+rtp://239.20.0.151:2100
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="卫视频道" group-title="卫视频道",深圳卫视
+rtp://239.20.0.122:2042
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="卫视频道" group-title="卫视频道",四川卫视
+rtp://239.20.0.194:2186
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="卫视频道" group-title="卫视频道",天津卫视
+rtp://239.20.0.171:2140
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="卫视频道" group-title="卫视频道",西藏卫视
+rtp://239.20.0.157:2112
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="卫视频道" group-title="卫视频道",新疆卫视
+rtp://239.20.0.158:2114
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="卫视频道" group-title="卫视频道",云南卫视
+rtp://239.20.0.145:2088
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="卫视频道" group-title="卫视频道",浙江卫视
+rtp://239.20.0.169:2136
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="卫视频道",湖南卫视
+rtp://239.20.0.135:2068
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="卫视频道",浙江卫视
+rtp://239.20.0.106:2010
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视频道",江苏卫视
+rtp://239.20.0.107:2012
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视频道",东方卫视
+rtp://239.20.0.108:2014
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="卫视频道",安徽卫视
+rtp://239.20.0.136:2070
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视频道",北京卫视
+rtp://239.20.0.137:2072
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视频道",江西卫视
+rtp://239.20.0.138:2074
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="卫视频道",深圳卫视
+rtp://239.20.0.134:2066
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="卫视频道",河南卫视
+rtp://239.20.0.144:2086
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="" group-title="卫视频道",云南卫视
+rtp://239.20.0.145:2088
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视频道",陕西卫视
+rtp://239.20.0.151:2100
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="卫视频道",山西卫视
+rtp://239.20.0.152:2102
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="" group-title="卫视频道",内蒙古卫视
+rtp://239.20.0.153:2104
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="卫视频道",青海卫视
+rtp://239.20.0.154:2106
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="" group-title="卫视频道",海南卫视
+rtp://239.20.0.155:2108
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="" group-title="卫视频道",宁夏卫视
+rtp://239.20.0.156:2110
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="卫视频道",西藏卫视
+rtp://239.20.0.157:2112
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="卫视频道",新疆卫视
+rtp://239.20.0.158:2114
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视频道",甘肃卫视
+rtp://239.20.0.159:2116
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="卫视频道",兵团卫视
+rtp://239.20.0.160:2118
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="" group-title="卫视频道",厦门卫视
+rtp://239.20.0.168:2134
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="" group-title="卫视频道",三沙卫视
+rtp://239.20.0.52:3192
 #EXTINF:-1 group-title="睛彩",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1 group-title="睛彩",睛彩竞技
