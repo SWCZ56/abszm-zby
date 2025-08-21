@@ -445,148 +445,238 @@ https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
 http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 #EXTINF:-1 group-title="中国频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV4
 https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
-#EXTINF:-1 tvg-id="湖南卫视超清" tvg-name="湖南卫视超清" tvg-logo="" group-title="卫视频道",湖南卫视超清
-rtp://239.20.0.95:3020
-#EXTINF:-1 tvg-id="浙江卫视超清" tvg-name="浙江卫视超清" tvg-logo="" group-title="卫视频道",浙江卫视超清
-rtp://239.20.0.94:3024
-#EXTINF:-1 tvg-id="江苏卫视超清" tvg-name="江苏卫视超清" tvg-logo="" group-title="卫视频道",江苏卫视超清
-rtp://239.20.0.93:3028
-#EXTINF:-1 tvg-id="深圳卫视超清" tvg-name="深圳卫视超清" tvg-logo="" group-title="卫视频道",深圳卫视超清
-rtp://239.20.0.92:3032
-#EXTINF:-1 tvg-id="黑龙江卫视超清" tvg-name="黑龙江卫视超清" tvg-logo="" group-title="卫视频道",黑龙江卫视超清
-rtp://239.20.0.91:3036
-#EXTINF:-1 tvg-id="湖北卫视超清" tvg-name="湖北卫视超清" tvg-logo="" group-title="卫视频道",湖北卫视超清
-rtp://239.20.0.90:3040
-#EXTINF:-1 tvg-id="天津卫视超清" tvg-name="天津卫视超清" tvg-logo="" group-title="卫视频道",天津卫视超清
-rtp://239.20.0.89:3044
-#EXTINF:-1 tvg-id="山东卫视超清" tvg-name="山东卫视超清" tvg-logo="" group-title="卫视频道",山东卫视超清
-rtp://239.20.0.88:3048
-#EXTINF:-1 tvg-id="BTV冬奥纪实超清" tvg-name="BTV冬奥纪实超清" tvg-logo="" group-title="卫视频道",BTV冬奥纪实超清
-rtp://239.20.0.87:3052
-#EXTINF:-1 tvg-id="辽宁卫视超清" tvg-name="辽宁卫视超清" tvg-logo="" group-title="卫视频道",辽宁卫视超清
-rtp://239.20.0.86:3056
-#EXTINF:-1 tvg-id="金鹰纪实超清" tvg-name="金鹰纪实超清" tvg-logo="" group-title="卫视频道",金鹰纪实超清
-rtp://239.20.0.85:3060
-#EXTINF:-1 tvg-id="四川卫视超清" tvg-name="四川卫视超清" tvg-logo="" group-title="卫视频道",四川卫视超清
-rtp://239.20.0.82:3072
-#EXTINF:-1 tvg-id="精选频道5" tvg-name="精选频道5" tvg-logo="" group-title="卫视频道",精选频道5
-rtp://239.20.0.18:3332
-#EXTINF:-1 tvg-id="精选频道4" tvg-name="精选频道4" tvg-logo="" group-title="卫视频道",精选频道4
-rtp://239.20.0.19:3328
-#EXTINF:-1 tvg-id="精选频道3" tvg-name="精选频道3" tvg-logo="" group-title="卫视频道",精选频道3
-rtp://239.20.0.20:3324
-#EXTINF:-1 tvg-id="精选4k频道3" tvg-name="精选4k频道3" tvg-logo="" group-title="卫视频道",精选4k频道3
-rtp://239.20.0.46:3220
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视频道",广东卫视
-rtp://239.20.0.131:2060
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="卫视频道" group-title="卫视频道",安徽卫视
-rtp://239.20.0.193:2184
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="卫视频道" group-title="卫视频道",北京卫视
-rtp://239.20.0.121:2040
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="卫视频道" group-title="卫视频道",重庆卫视
-rtp://239.20.0.195:2188
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="卫视频道" group-title="卫视频道",东方卫视
-rtp://239.20.0.173:2144
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="卫视频道" group-title="卫视频道",东南卫视
-rtp://239.20.0.58:3168
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="卫视频道" group-title="卫视频道",甘肃卫视
-rtp://239.20.0.159:2116
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="卫视频道" group-title="卫视频道",广东卫视
-rtp://239.20.0.101:2000
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="卫视频道" group-title="卫视频道",广西卫视
-rtp://239.20.0.15:3344
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="卫视频道" group-title="卫视频道",贵州卫视
-rtp://239.20.0.212:2222
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="卫视频道" group-title="卫视频道",海南卫视
-rtp://239.20.0.155:2108
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="卫视频道" group-title="卫视频道",河北卫视
-rtp://239.20.0.56:3176
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="卫视频道" group-title="卫视频道",河南卫视
-rtp://239.20.0.144:2086
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="卫视频道" group-title="卫视频道",黑龙江卫视
-rtp://239.20.0.123:2044
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="卫视频道" group-title="卫视频道",湖北卫视
-rtp://239.20.0.124:2046
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="卫视频道" group-title="卫视频道",湖南卫视
-rtp://239.20.0.105:2008
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="卫视频道" group-title="卫视频道",吉林卫视
-rtp://239.20.0.54:3184
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="卫视频道" group-title="卫视频道",江苏卫视
-rtp://239.20.0.170:2138
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="卫视频道" group-title="卫视频道",江西卫视
-rtp://239.20.0.55:3180
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="卫视频道" group-title="卫视频道",辽宁卫视
-rtp://239.20.0.175:2148
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="卫视频道" group-title="卫视频道",内蒙古卫视
-rtp://239.20.0.153:2104
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="卫视频道" group-title="卫视频道",宁夏卫视
-rtp://239.20.0.156:2110
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="卫视频道" group-title="卫视频道",青海卫视
-rtp://239.20.0.154:2106
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="卫视频道" group-title="卫视频道",山东卫视
-rtp://239.20.0.172:2142
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="卫视频道" group-title="卫视频道",山西卫视
-rtp://239.20.0.152:2102
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="卫视频道" group-title="卫视频道",陕西卫视
-rtp://239.20.0.151:2100
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="卫视频道" group-title="卫视频道",深圳卫视
-rtp://239.20.0.122:2042
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="卫视频道" group-title="卫视频道",四川卫视
-rtp://239.20.0.194:2186
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="卫视频道" group-title="卫视频道",天津卫视
-rtp://239.20.0.171:2140
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="卫视频道" group-title="卫视频道",西藏卫视
-rtp://239.20.0.157:2112
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="卫视频道" group-title="卫视频道",新疆卫视
-rtp://239.20.0.158:2114
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="卫视频道" group-title="卫视频道",云南卫视
-rtp://239.20.0.145:2088
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="卫视频道" group-title="卫视频道",浙江卫视
-rtp://239.20.0.169:2136
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="卫视频道",湖南卫视
-rtp://239.20.0.135:2068
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="卫视频道",浙江卫视
-rtp://239.20.0.106:2010
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视频道",江苏卫视
-rtp://239.20.0.107:2012
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视频道",东方卫视
-rtp://239.20.0.108:2014
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="卫视频道",安徽卫视
-rtp://239.20.0.136:2070
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视频道",北京卫视
-rtp://239.20.0.137:2072
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视频道",江西卫视
-rtp://239.20.0.138:2074
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="卫视频道",深圳卫视
-rtp://239.20.0.134:2066
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="卫视频道",河南卫视
-rtp://239.20.0.144:2086
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="" group-title="卫视频道",云南卫视
-rtp://239.20.0.145:2088
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视频道",陕西卫视
-rtp://239.20.0.151:2100
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="卫视频道",山西卫视
-rtp://239.20.0.152:2102
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="" group-title="卫视频道",内蒙古卫视
-rtp://239.20.0.153:2104
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="卫视频道",青海卫视
-rtp://239.20.0.154:2106
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="" group-title="卫视频道",海南卫视
-rtp://239.20.0.155:2108
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="" group-title="卫视频道",宁夏卫视
-rtp://239.20.0.156:2110
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="卫视频道",西藏卫视
-rtp://239.20.0.157:2112
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="卫视频道",新疆卫视
-rtp://239.20.0.158:2114
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视频道",甘肃卫视
-rtp://239.20.0.159:2116
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="卫视频道",兵团卫视
-rtp://239.20.0.160:2118
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="" group-title="卫视频道",厦门卫视
-rtp://239.20.0.168:2134
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="" group-title="卫视频道",三沙卫视
-rtp://239.20.0.52:3192
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="" group-title="移动",CCTV-1
+http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="" group-title="移动",CCTV-2
+http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="" group-title="移动",CCTV-3
+http://183.251.61.207/PLTV/88888888/224/3221225801/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="" group-title="移动",CCTV-4
+http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="" group-title="移动",CCTV-5
+http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="" group-title="移动",CCTV-5+
+http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="" group-title="移动",CCTV-6
+http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="" group-title="移动",CCTV-7
+http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="" group-title="移动",CCTV-8
+http://183.251.61.207/PLTV/88888888/224/3221225806/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="" group-title="移动",CCTV-9
+http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="" group-title="移动",CCTV-10
+http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="" group-title="移动",CCTV-11
+http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="" group-title="移动",CCTV-12
+http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="" group-title="移动",CCTV-13
+http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="" group-title="移动",CCTV-14
+http://183.251.61.207/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="" group-title="移动",CCTV-15
+http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="移动",广东卫视
+http://183.251.61.207/PLTV/88888888/224/3221225824/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="移动",浙江卫视
+http://183.251.61.207/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="移动",北京卫视
+http://183.251.61.207/PLTV/88888888/224/3221225826/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="移动",湖南卫视
+http://183.251.61.207/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:-1 tvg-id="上海东方卫视" tvg-name="上海东方卫视" tvg-logo="" group-title="移动",上海东方卫视
+http://183.251.61.207/PLTV/88888888/224/3221225828/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="移动",天津卫视
+http://183.251.61.207/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="移动",辽宁卫视
+http://183.251.61.207/PLTV/88888888/224/3221225832/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="移动",东南卫视
+http://183.251.61.207/PLTV/88888888/224/3221225833/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="移动",江西卫视
+http://183.251.61.207/PLTV/88888888/224/3221225834/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="移动",四川卫视
+http://183.251.61.207/PLTV/88888888/224/3221225835/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="移动",广西卫视
+http://183.251.61.207/PLTV/88888888/224/3221225836/index.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="移动",河北卫视
+http://183.251.61.207/PLTV/88888888/224/3221225837/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="" group-title="移动",贵州卫视
+http://183.251.61.207/PLTV/88888888/224/3221225838/index.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="移动",山西卫视
+http://183.251.61.207/PLTV/88888888/224/3221225839/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="移动",湖北卫视
+http://183.251.61.207/PLTV/88888888/224/3221225840/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="移动",青海卫视
+http://183.251.61.207/PLTV/88888888/224/3221225841/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="移动",河南卫视
+http://183.251.61.207/PLTV/88888888/224/3221225842/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="移动",山东卫视
+http://183.251.61.207/PLTV/88888888/224/3221225843/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="移动",安徽卫视
+http://183.251.61.207/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="移动",甘肃卫视
+http://183.251.61.207/PLTV/88888888/224/3221225845/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古视" tvg-name="内蒙古视" tvg-logo="" group-title="移动",内蒙古视
+http://183.251.61.207/PLTV/88888888/224/3221225846/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="移动",江苏卫视
+http://183.251.61.207/PLTV/88888888/224/3221225847/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="移动",深圳卫视
+http://183.251.61.207/PLTV/88888888/224/3221225848/index.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="" group-title="移动",宁夏卫视
+http://183.251.61.207/PLTV/88888888/224/3221225849/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="移动",陕西卫视
+http://183.251.61.207/PLTV/88888888/224/3221225850/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="" group-title="移动",吉林卫视
+http://183.251.61.207/PLTV/88888888/224/3221225851/index.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="移动",新疆卫视
+http://183.251.61.207/PLTV/88888888/224/3221225852/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="" group-title="移动",云南卫视
+http://183.251.61.207/PLTV/88888888/224/3221225853/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="移动",西藏卫视
+http://183.251.61.207/PLTV/88888888/224/3221225854/index.m3u8
+#EXTINF:-1 tvg-id="旅游卫视" tvg-name="旅游卫视" tvg-logo="" group-title="移动",旅游卫视
+http://183.251.61.207/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="" group-title="移动",康巴卫视
+http://183.251.61.207/PLTV/88888888/224/3221225856/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="" group-title="移动",黑龙江卫视
+http://183.251.61.207/PLTV/88888888/224/3221225862/index.m3u8
+#EXTINF:-1 tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="" group-title="移动",CGTN1
+http://183.251.61.207/PLTV/88888888/224/3221225813/index.m3u8
+#EXTINF:-1 tvg-id="CGTN2" tvg-name="CGTN2" tvg-logo="" group-title="移动",CGTN2
+http://183.251.61.207/PLTV/88888888/224/3221225822/index.m3u8
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="" group-title="移动",CETV1
+http://183.251.61.207/PLTV/88888888/224/3221225869/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-1HD" tvg-name="CCTV-1HD" tvg-logo="" group-title="移动",CCTV-1HD
+http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-2HD" tvg-name="CCTV-2HD" tvg-logo="" group-title="移动",CCTV-2HD
+http://183.251.61.207/PLTV/88888888/224/3221225923/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-3HD" tvg-name="CCTV-3HD" tvg-logo="" group-title="移动",CCTV-3HD
+http://183.251.61.207/PLTV/88888888/224/3221225924/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-5HD" tvg-name="CCTV-5HD" tvg-logo="" group-title="移动",CCTV-5HD
+http://183.251.61.207/PLTV/88888888/224/3221225925/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-6HD" tvg-name="CCTV-6HD" tvg-logo="" group-title="移动",CCTV-6HD
+http://183.251.61.207/PLTV/88888888/224/3221225926/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-7HD" tvg-name="CCTV-7HD" tvg-logo="" group-title="移动",CCTV-7HD
+http://183.251.61.207/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-8HD" tvg-name="CCTV-8HD" tvg-logo="" group-title="移动",CCTV-8HD
+http://183.251.61.207/PLTV/88888888/224/3221225928/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-9HD" tvg-name="CCTV-9HD" tvg-logo="" group-title="移动",CCTV-9HD
+http://183.251.61.207/PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-10HD" tvg-name="CCTV-10HD" tvg-logo="" group-title="移动",CCTV-10HD
+http://183.251.61.207/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-12HD" tvg-name="CCTV-12HD" tvg-logo="" group-title="移动",CCTV-12HD
+http://183.251.61.207/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-14HD" tvg-name="CCTV-14HD" tvg-logo="" group-title="移动",CCTV-14HD
+http://183.251.61.207/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-name="江苏卫视HD" tvg-logo="" group-title="移动",江苏卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225930/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-name="浙江卫视HD" tvg-logo="" group-title="移动",浙江卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225934/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-name="湖南卫视HD" tvg-logo="" group-title="移动",湖南卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1 tvg-id="上海东方卫视HD" tvg-name="上海东方卫视HD" tvg-logo="" group-title="移动",上海东方卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225936/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-name="北京卫视HD" tvg-logo="" group-title="移动",北京卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-name="深圳卫视HD" tvg-logo="" group-title="移动",深圳卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225938/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-name="黑龙江卫视HD" tvg-logo="" group-title="移动",黑龙江卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225940/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-name="天津卫视HD" tvg-logo="" group-title="移动",天津卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225941/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-name="广东卫视HD" tvg-logo="" group-title="移动",广东卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-name="山东卫视HD" tvg-logo="" group-title="移动",山东卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-name="安徽卫视HD" tvg-logo="" group-title="移动",安徽卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-name="辽宁卫视HD" tvg-logo="" group-title="移动",辽宁卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-name="湖北卫视HD" tvg-logo="" group-title="移动",湖北卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225948/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-name="重庆卫视HD" tvg-logo="" group-title="移动",重庆卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="移动",凤凰中文
+http://183.251.61.207/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1 tvg-id="凤凰資訊" tvg-name="凤凰資訊" tvg-logo="" group-title="移动",凤凰資訊
+http://183.251.61.207/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="" group-title="移动",北京卡酷少儿
+http://183.251.61.207/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="" group-title="移动",金鹰卡通
+http://183.251.61.207/PLTV/88888888/224/3221225870/index.m3u8
+#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="" group-title="移动",炫动卡通
+http://183.251.61.207/PLTV/88888888/224/3221225872/index.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="" group-title="移动",优漫卡通
+http://183.251.61.207/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:-1 tvg-id="SDETV" tvg-name="SDETV" tvg-logo="" group-title="移动",SDETV
+http://183.251.61.207/PLTV/88888888/224/3221225873/index.m3u8
+#EXTINF:-1 tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="" group-title="移动",风尚购物
+http://183.251.61.207/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="" group-title="移动",家有购物
+http://183.251.61.207/PLTV/88888888/224/3221225876/index.m3u8
+#EXTINF:-1 tvg-id="极速汽车" tvg-name="极速汽车" tvg-logo="" group-title="移动",极速汽车
+http://183.251.61.207/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 tvg-id="NewTV喜剧" tvg-name="NewTV喜剧" tvg-logo="" group-title="移动",NewTV喜剧
+http://183.251.61.207/PLTV/88888888/224/3221225877/index.m3u8
+#EXTINF:-1 tvg-id="NewTV动画" tvg-name="NewTV动画" tvg-logo="" group-title="移动",NewTV动画
+http://183.251.61.207/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-id="NewTV动作" tvg-name="NewTV动作" tvg-logo="" group-title="移动",NewTV动作
+http://183.251.61.207/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1 tvg-id="NewTV古装" tvg-name="NewTV古装" tvg-logo="" group-title="移动",NewTV古装
+http://183.251.61.207/PLTV/88888888/224/3221225880/index.m3u8
+#EXTINF:-1 tvg-id="NewTV海外" tvg-name="NewTV海外" tvg-logo="" group-title="移动",NewTV海外
+http://183.251.61.207/PLTV/88888888/224/3221225881/index.m3u8
+#EXTINF:-1 tvg-id="NewTV家庭" tvg-name="NewTV家庭" tvg-logo="" group-title="移动",NewTV家庭
+http://183.251.61.207/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1 tvg-id="NewTV健康" tvg-name="NewTV健康" tvg-logo="" group-title="移动",NewTV健康
+http://183.251.61.207/PLTV/88888888/224/3221225883/index.m3u8
+#EXTINF:-1 tvg-id="NewTV综艺" tvg-name="NewTV综艺" tvg-logo="" group-title="移动",NewTV综艺
+http://183.251.61.207/PLTV/88888888/224/3221225884/index.m3u8
+#EXTINF:-1 tvg-id="NewTV惊悚" tvg-name="NewTV惊悚" tvg-logo="" group-title="移动",NewTV惊悚
+http://183.251.61.207/PLTV/88888888/224/3221225885/index.m3u8
+#EXTINF:-1 tvg-id="NewTV体育" tvg-name="NewTV体育" tvg-logo="" group-title="移动",NewTV体育
+http://183.251.61.207/PLTV/88888888/224/3221225886/index.m3u8
+#EXTINF:-1 tvg-id="NewTV军旅" tvg-name="NewTV军旅" tvg-logo="" group-title="移动",NewTV军旅
+http://183.251.61.207/PLTV/88888888/224/3221225887/index.m3u8
+#EXTINF:-1 tvg-id="NewTV纪录" tvg-name="NewTV纪录" tvg-logo="" group-title="移动",NewTV纪录
+http://183.251.61.207/PLTV/88888888/224/3221225888/index.m3u8
+#EXTINF:-1 tvg-id="NewTV大剧" tvg-name="NewTV大剧" tvg-logo="" group-title="移动",NewTV大剧
+http://183.251.61.207/PLTV/88888888/224/3221225889/index.m3u8
+#EXTINF:-1 tvg-id="NewTV军事" tvg-name="NewTV军事" tvg-logo="" group-title="移动",NewTV军事
+http://183.251.61.207/PLTV/88888888/224/3221225890/index.m3u8
+#EXTINF:-1 tvg-id="NewTV电影" tvg-name="NewTV电影" tvg-logo="" group-title="移动",NewTV电影
+http://183.251.61.207/PLTV/88888888/224/3221225891/index.m3u8
+#EXTINF:-1 tvg-id="NewTV明星" tvg-name="NewTV明星" tvg-logo="" group-title="移动",NewTV明星
+http://183.251.61.207/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-id="NewTV游戏" tvg-name="NewTV游戏" tvg-logo="" group-title="移动",NewTV游戏
+http://183.251.61.207/PLTV/88888888/224/3221225894/index.m3u8
+#EXTINF:-1 tvg-id="NewTV搏击" tvg-name="NewTV搏击" tvg-logo="" group-title="移动",NewTV搏击
+http://183.251.61.207/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 tvg-id="NewTV功夫" tvg-name="NewTV功夫" tvg-logo="" group-title="移动",NewTV功夫
+http://183.251.61.207/PLTV/88888888/224/3221225896/index.m3u8
+#EXTINF:-1 tvg-id="BesTV1" tvg-name="BesTV1" tvg-logo="" group-title="移动",BesTV1
+http://183.251.61.207/PLTV/88888888/224/3221225906/index.m3u8
+#EXTINF:-1 tvg-id="BesTV2" tvg-name="BesTV2" tvg-logo="" group-title="移动",BesTV2
+http://183.251.61.207/PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="" group-title="移动",BesTV
+http://183.251.61.207/PLTV/88888888/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-id="BesTV体育" tvg-name="BesTV体育" tvg-logo="" group-title="移动",BesTV体育
+http://183.251.61.207/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 tvg-id="BesTV汽车" tvg-name="BesTV汽车" tvg-logo="" group-title="移动",BesTV汽车
+http://183.251.61.207/PLTV/88888888/224/3221225913/index.m3u8
+#EXTINF:-1 tvg-id="BesTV体育5+" tvg-name="BesTV体育5+" tvg-logo="" group-title="移动",BesTV体育5+
+http://183.251.61.207/PLTV/88888888/224/3221225915/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视4K超高清" tvg-name="北京卫视4K超高清" tvg-logo="" group-title="移动",北京卫视4K超高清
+rtsp://112.50.233.148/PLTV/88888888/224/3221227476/135487844.smil
+#EXTINF:-1 tvg-id="睛彩竞技(高清)" tvg-name="睛彩竞技(高清)" tvg-logo="" group-title="移动",睛彩竞技(高清)
+rtsp://112.50.233.148/PLTV/88888888/224/3221227450/119890837.smil
+#EXTINF:-1 tvg-id="睛彩篮球(高清)" tvg-name="睛彩篮球(高清)" tvg-logo="" group-title="移动",睛彩篮球(高清)
+rtsp://112.50.233.148/PLTV/88888888/224/3221227299/119891035.smil
+#EXTINF:-1 tvg-id="睛彩青少(高清)" tvg-name="睛彩青少(高清)" tvg-logo="" group-title="移动",睛彩青少(高清)
+rtsp://112.50.233.148/PLTV/88888888/224/3221227454/119890984.smil
+#EXTINF:-1 tvg-id="睛彩广场舞(高清)" tvg-name="睛彩广场舞(高清)" tvg-logo="" group-title="移动",睛彩广场舞(高清)
+rtsp://112.50.233.148/PLTV/88888888/224/3221227458/120578017.smil
 #EXTINF:-1 group-title="睛彩",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1 group-title="睛彩",睛彩竞技
