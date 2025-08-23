@@ -445,46 +445,6 @@ https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
 http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 #EXTINF:-1 group-title="中国频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV4
 https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="" group-title="移动",CCTV-1
-http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="" group-title="移动",CCTV-2
-http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="" group-title="移动",CCTV-3
-http://183.251.61.207/PLTV/88888888/224/3221225801/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="" group-title="移动",CCTV-4
-http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="" group-title="移动",CCTV-5
-http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="" group-title="移动",CCTV-5+
-http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="" group-title="移动",CCTV-6
-http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="" group-title="移动",CCTV-7
-http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="" group-title="移动",CCTV-8
-http://183.251.61.207/PLTV/88888888/224/3221225806/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="" group-title="移动",CCTV-9
-http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="" group-title="移动",CCTV-10
-http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="" group-title="移动",CCTV-11
-http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="" group-title="移动",CCTV-12
-http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="" group-title="移动",CCTV-13
-http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="" group-title="移动",CCTV-14
-http://183.251.61.207/PLTV/88888888/224/3221225819/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="" group-title="移动",CCTV-15
-http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="移动",广东卫视
-http://183.251.61.207/PLTV/88888888/224/3221225824/index.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="移动",浙江卫视
-http://183.251.61.207/PLTV/88888888/224/3221225825/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="移动",北京卫视
-http://183.251.61.207/PLTV/88888888/224/3221225826/index.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="移动",湖南卫视
-http://183.251.61.207/PLTV/88888888/224/3221225827/index.m3u8
 #EXTINF:-1 group-title="国际频道",BBC
 http://panelguys.top:8080/txd7Fd/030774/53757
 #EXTINF:-1 group-title="国际频道",CNN
