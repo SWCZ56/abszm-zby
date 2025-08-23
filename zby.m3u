@@ -485,198 +485,690 @@ http://183.251.61.207/PLTV/88888888/224/3221225825/index.m3u8
 http://183.251.61.207/PLTV/88888888/224/3221225826/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="移动",湖南卫视
 http://183.251.61.207/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:-1 tvg-id="上海东方卫视" tvg-name="上海东方卫视" tvg-logo="" group-title="移动",上海东方卫视
-http://183.251.61.207/PLTV/88888888/224/3221225828/index.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="移动",天津卫视
-http://183.251.61.207/PLTV/88888888/224/3221225830/index.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="移动",辽宁卫视
-http://183.251.61.207/PLTV/88888888/224/3221225832/index.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="移动",东南卫视
-http://183.251.61.207/PLTV/88888888/224/3221225833/index.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="移动",江西卫视
-http://183.251.61.207/PLTV/88888888/224/3221225834/index.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="移动",四川卫视
-http://183.251.61.207/PLTV/88888888/224/3221225835/index.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="移动",广西卫视
-http://183.251.61.207/PLTV/88888888/224/3221225836/index.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="移动",河北卫视
-http://183.251.61.207/PLTV/88888888/224/3221225837/index.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="" group-title="移动",贵州卫视
-http://183.251.61.207/PLTV/88888888/224/3221225838/index.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="移动",山西卫视
-http://183.251.61.207/PLTV/88888888/224/3221225839/index.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="移动",湖北卫视
-http://183.251.61.207/PLTV/88888888/224/3221225840/index.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="移动",青海卫视
-http://183.251.61.207/PLTV/88888888/224/3221225841/index.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="移动",河南卫视
-http://183.251.61.207/PLTV/88888888/224/3221225842/index.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="移动",山东卫视
-http://183.251.61.207/PLTV/88888888/224/3221225843/index.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="移动",安徽卫视
-http://183.251.61.207/PLTV/88888888/224/3221225844/index.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="移动",甘肃卫视
-http://183.251.61.207/PLTV/88888888/224/3221225845/index.m3u8
-#EXTINF:-1 tvg-id="内蒙古视" tvg-name="内蒙古视" tvg-logo="" group-title="移动",内蒙古视
-http://183.251.61.207/PLTV/88888888/224/3221225846/index.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="移动",江苏卫视
-http://183.251.61.207/PLTV/88888888/224/3221225847/index.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="移动",深圳卫视
-http://183.251.61.207/PLTV/88888888/224/3221225848/index.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="" group-title="移动",宁夏卫视
-http://183.251.61.207/PLTV/88888888/224/3221225849/index.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="移动",陕西卫视
-http://183.251.61.207/PLTV/88888888/224/3221225850/index.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="" group-title="移动",吉林卫视
-http://183.251.61.207/PLTV/88888888/224/3221225851/index.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="移动",新疆卫视
-http://183.251.61.207/PLTV/88888888/224/3221225852/index.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="" group-title="移动",云南卫视
-http://183.251.61.207/PLTV/88888888/224/3221225853/index.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="移动",西藏卫视
-http://183.251.61.207/PLTV/88888888/224/3221225854/index.m3u8
-#EXTINF:-1 tvg-id="旅游卫视" tvg-name="旅游卫视" tvg-logo="" group-title="移动",旅游卫视
-http://183.251.61.207/PLTV/88888888/224/3221225855/index.m3u8
-#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="" group-title="移动",康巴卫视
-http://183.251.61.207/PLTV/88888888/224/3221225856/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="" group-title="移动",黑龙江卫视
-http://183.251.61.207/PLTV/88888888/224/3221225862/index.m3u8
-#EXTINF:-1 tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="" group-title="移动",CGTN1
-http://183.251.61.207/PLTV/88888888/224/3221225813/index.m3u8
-#EXTINF:-1 tvg-id="CGTN2" tvg-name="CGTN2" tvg-logo="" group-title="移动",CGTN2
-http://183.251.61.207/PLTV/88888888/224/3221225822/index.m3u8
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="" group-title="移动",CETV1
-http://183.251.61.207/PLTV/88888888/224/3221225869/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-1HD" tvg-name="CCTV-1HD" tvg-logo="" group-title="移动",CCTV-1HD
-http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-2HD" tvg-name="CCTV-2HD" tvg-logo="" group-title="移动",CCTV-2HD
-http://183.251.61.207/PLTV/88888888/224/3221225923/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-3HD" tvg-name="CCTV-3HD" tvg-logo="" group-title="移动",CCTV-3HD
-http://183.251.61.207/PLTV/88888888/224/3221225924/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-5HD" tvg-name="CCTV-5HD" tvg-logo="" group-title="移动",CCTV-5HD
-http://183.251.61.207/PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-6HD" tvg-name="CCTV-6HD" tvg-logo="" group-title="移动",CCTV-6HD
-http://183.251.61.207/PLTV/88888888/224/3221225926/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-7HD" tvg-name="CCTV-7HD" tvg-logo="" group-title="移动",CCTV-7HD
-http://183.251.61.207/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-8HD" tvg-name="CCTV-8HD" tvg-logo="" group-title="移动",CCTV-8HD
-http://183.251.61.207/PLTV/88888888/224/3221225928/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-9HD" tvg-name="CCTV-9HD" tvg-logo="" group-title="移动",CCTV-9HD
-http://183.251.61.207/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-10HD" tvg-name="CCTV-10HD" tvg-logo="" group-title="移动",CCTV-10HD
-http://183.251.61.207/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-12HD" tvg-name="CCTV-12HD" tvg-logo="" group-title="移动",CCTV-12HD
-http://183.251.61.207/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-14HD" tvg-name="CCTV-14HD" tvg-logo="" group-title="移动",CCTV-14HD
-http://183.251.61.207/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1 tvg-id="江苏卫视HD" tvg-name="江苏卫视HD" tvg-logo="" group-title="移动",江苏卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225930/index.m3u8
-#EXTINF:-1 tvg-id="浙江卫视HD" tvg-name="浙江卫视HD" tvg-logo="" group-title="移动",浙江卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225934/index.m3u8
-#EXTINF:-1 tvg-id="湖南卫视HD" tvg-name="湖南卫视HD" tvg-logo="" group-title="移动",湖南卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225935/index.m3u8
-#EXTINF:-1 tvg-id="上海东方卫视HD" tvg-name="上海东方卫视HD" tvg-logo="" group-title="移动",上海东方卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225936/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视HD" tvg-name="北京卫视HD" tvg-logo="" group-title="移动",北京卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225937/index.m3u8
-#EXTINF:-1 tvg-id="深圳卫视HD" tvg-name="深圳卫视HD" tvg-logo="" group-title="移动",深圳卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225938/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-name="黑龙江卫视HD" tvg-logo="" group-title="移动",黑龙江卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225940/index.m3u8
-#EXTINF:-1 tvg-id="天津卫视HD" tvg-name="天津卫视HD" tvg-logo="" group-title="移动",天津卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225941/index.m3u8
-#EXTINF:-1 tvg-id="广东卫视HD" tvg-name="广东卫视HD" tvg-logo="" group-title="移动",广东卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225942/index.m3u8
-#EXTINF:-1 tvg-id="山东卫视HD" tvg-name="山东卫视HD" tvg-logo="" group-title="移动",山东卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225943/index.m3u8
-#EXTINF:-1 tvg-id="安徽卫视HD" tvg-name="安徽卫视HD" tvg-logo="" group-title="移动",安徽卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-name="辽宁卫视HD" tvg-logo="" group-title="移动",辽宁卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-id="湖北卫视HD" tvg-name="湖北卫视HD" tvg-logo="" group-title="移动",湖北卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225948/index.m3u8
-#EXTINF:-1 tvg-id="重庆卫视HD" tvg-name="重庆卫视HD" tvg-logo="" group-title="移动",重庆卫视HD
-http://183.251.61.207/PLTV/88888888/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="移动",凤凰中文
-http://183.251.61.207/PLTV/88888888/224/3221225900/index.m3u8
-#EXTINF:-1 tvg-id="凤凰資訊" tvg-name="凤凰資訊" tvg-logo="" group-title="移动",凤凰資訊
-http://183.251.61.207/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="" group-title="移动",北京卡酷少儿
-http://183.251.61.207/PLTV/88888888/224/3221225871/index.m3u8
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="" group-title="移动",金鹰卡通
-http://183.251.61.207/PLTV/88888888/224/3221225870/index.m3u8
-#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="" group-title="移动",炫动卡通
-http://183.251.61.207/PLTV/88888888/224/3221225872/index.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="" group-title="移动",优漫卡通
-http://183.251.61.207/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:-1 tvg-id="SDETV" tvg-name="SDETV" tvg-logo="" group-title="移动",SDETV
-http://183.251.61.207/PLTV/88888888/224/3221225873/index.m3u8
-#EXTINF:-1 tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="" group-title="移动",风尚购物
-http://183.251.61.207/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="" group-title="移动",家有购物
-http://183.251.61.207/PLTV/88888888/224/3221225876/index.m3u8
-#EXTINF:-1 tvg-id="极速汽车" tvg-name="极速汽车" tvg-logo="" group-title="移动",极速汽车
-http://183.251.61.207/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1 tvg-id="NewTV喜剧" tvg-name="NewTV喜剧" tvg-logo="" group-title="移动",NewTV喜剧
-http://183.251.61.207/PLTV/88888888/224/3221225877/index.m3u8
-#EXTINF:-1 tvg-id="NewTV动画" tvg-name="NewTV动画" tvg-logo="" group-title="移动",NewTV动画
-http://183.251.61.207/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 tvg-id="NewTV动作" tvg-name="NewTV动作" tvg-logo="" group-title="移动",NewTV动作
-http://183.251.61.207/PLTV/88888888/224/3221225879/index.m3u8
-#EXTINF:-1 tvg-id="NewTV古装" tvg-name="NewTV古装" tvg-logo="" group-title="移动",NewTV古装
-http://183.251.61.207/PLTV/88888888/224/3221225880/index.m3u8
-#EXTINF:-1 tvg-id="NewTV海外" tvg-name="NewTV海外" tvg-logo="" group-title="移动",NewTV海外
-http://183.251.61.207/PLTV/88888888/224/3221225881/index.m3u8
-#EXTINF:-1 tvg-id="NewTV家庭" tvg-name="NewTV家庭" tvg-logo="" group-title="移动",NewTV家庭
-http://183.251.61.207/PLTV/88888888/224/3221225882/index.m3u8
-#EXTINF:-1 tvg-id="NewTV健康" tvg-name="NewTV健康" tvg-logo="" group-title="移动",NewTV健康
-http://183.251.61.207/PLTV/88888888/224/3221225883/index.m3u8
-#EXTINF:-1 tvg-id="NewTV综艺" tvg-name="NewTV综艺" tvg-logo="" group-title="移动",NewTV综艺
-http://183.251.61.207/PLTV/88888888/224/3221225884/index.m3u8
-#EXTINF:-1 tvg-id="NewTV惊悚" tvg-name="NewTV惊悚" tvg-logo="" group-title="移动",NewTV惊悚
-http://183.251.61.207/PLTV/88888888/224/3221225885/index.m3u8
-#EXTINF:-1 tvg-id="NewTV体育" tvg-name="NewTV体育" tvg-logo="" group-title="移动",NewTV体育
-http://183.251.61.207/PLTV/88888888/224/3221225886/index.m3u8
-#EXTINF:-1 tvg-id="NewTV军旅" tvg-name="NewTV军旅" tvg-logo="" group-title="移动",NewTV军旅
-http://183.251.61.207/PLTV/88888888/224/3221225887/index.m3u8
-#EXTINF:-1 tvg-id="NewTV纪录" tvg-name="NewTV纪录" tvg-logo="" group-title="移动",NewTV纪录
-http://183.251.61.207/PLTV/88888888/224/3221225888/index.m3u8
-#EXTINF:-1 tvg-id="NewTV大剧" tvg-name="NewTV大剧" tvg-logo="" group-title="移动",NewTV大剧
-http://183.251.61.207/PLTV/88888888/224/3221225889/index.m3u8
-#EXTINF:-1 tvg-id="NewTV军事" tvg-name="NewTV军事" tvg-logo="" group-title="移动",NewTV军事
-http://183.251.61.207/PLTV/88888888/224/3221225890/index.m3u8
-#EXTINF:-1 tvg-id="NewTV电影" tvg-name="NewTV电影" tvg-logo="" group-title="移动",NewTV电影
-http://183.251.61.207/PLTV/88888888/224/3221225891/index.m3u8
-#EXTINF:-1 tvg-id="NewTV明星" tvg-name="NewTV明星" tvg-logo="" group-title="移动",NewTV明星
-http://183.251.61.207/PLTV/88888888/224/3221225893/index.m3u8
-#EXTINF:-1 tvg-id="NewTV游戏" tvg-name="NewTV游戏" tvg-logo="" group-title="移动",NewTV游戏
-http://183.251.61.207/PLTV/88888888/224/3221225894/index.m3u8
-#EXTINF:-1 tvg-id="NewTV搏击" tvg-name="NewTV搏击" tvg-logo="" group-title="移动",NewTV搏击
-http://183.251.61.207/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 tvg-id="NewTV功夫" tvg-name="NewTV功夫" tvg-logo="" group-title="移动",NewTV功夫
-http://183.251.61.207/PLTV/88888888/224/3221225896/index.m3u8
-#EXTINF:-1 tvg-id="BesTV1" tvg-name="BesTV1" tvg-logo="" group-title="移动",BesTV1
-http://183.251.61.207/PLTV/88888888/224/3221225906/index.m3u8
-#EXTINF:-1 tvg-id="BesTV2" tvg-name="BesTV2" tvg-logo="" group-title="移动",BesTV2
-http://183.251.61.207/PLTV/88888888/224/3221225907/index.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="" group-title="移动",BesTV
-http://183.251.61.207/PLTV/88888888/224/3221225908/index.m3u8
-#EXTINF:-1 tvg-id="BesTV体育" tvg-name="BesTV体育" tvg-logo="" group-title="移动",BesTV体育
-http://183.251.61.207/PLTV/88888888/224/3221225912/index.m3u8
-#EXTINF:-1 tvg-id="BesTV汽车" tvg-name="BesTV汽车" tvg-logo="" group-title="移动",BesTV汽车
-http://183.251.61.207/PLTV/88888888/224/3221225913/index.m3u8
-#EXTINF:-1 tvg-id="BesTV体育5+" tvg-name="BesTV体育5+" tvg-logo="" group-title="移动",BesTV体育5+
-http://183.251.61.207/PLTV/88888888/224/3221225915/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视4K超高清" tvg-name="北京卫视4K超高清" tvg-logo="" group-title="移动",北京卫视4K超高清
-rtsp://112.50.233.148/PLTV/88888888/224/3221227476/135487844.smil
-#EXTINF:-1 tvg-id="睛彩竞技(高清)" tvg-name="睛彩竞技(高清)" tvg-logo="" group-title="移动",睛彩竞技(高清)
-rtsp://112.50.233.148/PLTV/88888888/224/3221227450/119890837.smil
-#EXTINF:-1 tvg-id="睛彩篮球(高清)" tvg-name="睛彩篮球(高清)" tvg-logo="" group-title="移动",睛彩篮球(高清)
-rtsp://112.50.233.148/PLTV/88888888/224/3221227299/119891035.smil
-#EXTINF:-1 tvg-id="睛彩青少(高清)" tvg-name="睛彩青少(高清)" tvg-logo="" group-title="移动",睛彩青少(高清)
-rtsp://112.50.233.148/PLTV/88888888/224/3221227454/119890984.smil
-#EXTINF:-1 tvg-id="睛彩广场舞(高清)" tvg-name="睛彩广场舞(高清)" tvg-logo="" group-title="移动",睛彩广场舞(高清)
-rtsp://112.50.233.148/PLTV/88888888/224/3221227458/120578017.smil
+#EXTINF:-1 group-title="国际频道",BBC
+http://panelguys.top:8080/txd7Fd/030774/53757
+#EXTINF:-1 group-title="国际频道",CNN
+http://panelguys.top:8080/txd7Fd/030774/47213
+#EXTINF:-1 group-title="国际频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际频道",RT NEWS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
+#EXTINF:-1 group-title="国际频道",GB NEWS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
+#EXTINF:-1 group-title="国际频道",FRANCE 24
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745640
+#EXTINF:-1 group-title="国际频道",SKY NEWS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100690
+#EXTINF:-1 group-title="国际频道",EURO NEWS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181673.m3u8
+#EXTINF:-1 group-title="国际频道",NBC NEWS NOW
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/82805.m3u8
+#EXTINF:-1 group-title="国际频道",AL JAZEERA
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100700
+#EXTINF:-1 group-title="国际频道",NEWS 12
+http://panelguys.top:8080/qcFA9B/963626/167741
+#EXTINF:-1 group-title="国际频道",DW ENGLISH
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8
+#EXTINF:-1 group-title="国际频道",CBS NEWS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360767
+#EXTINF:-1 group-title="国际频道",TRT WORLD
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230338.m3u8
+#EXTINF:-1 group-title="国际频道",USA TODAY
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
+#EXTINF:-1 group-title="国际频道",ONE AMERICA NEWS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/783496
+#EXTINF:-1 group-title="国际频道",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际频道",OAN
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8
+#EXTINF:-1 group-title="国际频道",CNBC
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100695
+#EXTINF:-1 group-title="国际频道",ITV 1
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100653
+#EXTINF:-1 group-title="国际频道",ITV 2
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100654
+#EXTINF:-1 group-title="国际频道",ITV 3
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100655
+#EXTINF:-1 group-title="国际频道",ITV 4
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100656
+#EXTINF:-1 group-title="国际频道",CHANNEL 4
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100658
+#EXTINF:-1 group-title="国际频道",CHANNEL 5
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100659
+#EXTINF:-1 group-title="国际频道",TALK TV
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/714352
+#EXTINF:-1 group-title="国际频道",ALIBI
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100663
+#EXTINF:-1 group-title="国际频道",BBC PARLIAMENT
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100669
+#EXTINF:-1 group-title="国际频道",GOLD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100800
+#EXTINF:-1 group-title="国际频道",DAVE
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100797
+#EXTINF:-1 group-title="国际频道",MORE 4
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100803
+#EXTINF:-1 group-title="国际频道",QUEST
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745652
+#EXTINF:-1 group-title="国际频道",SKY MAX
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/547880
+#EXTINF:-1 group-title="国际频道",SKY SHOWCASE
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100806
+#EXTINF:-1 group-title="国际频道",SKY ATLANTIC
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100936
+#EXTINF:-1 group-title="国际频道",SKY ARTS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100937
+#EXTINF:-1 group-title="国际频道",SKY WITNESS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100807
+#EXTINF:-1 group-title="国际频道",COMEDY CENTRAL
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100916
+#EXTINF:-1 group-title="国际频道",SKY MIX
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449268
+#EXTINF:-1 group-title="国际频道",QVC
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/102419
+#EXTINF:-1 group-title="国际频道",QVC STYLE
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/102422
+#EXTINF:-1 group-title="国际频道",NAT GEO
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100762
+#EXTINF:-1 group-title="国际频道",NAT GEO WILD
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745679
+#EXTINF:-1 group-title="国际频道",SKY CRIME
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/739766
+#EXTINF:-1 group-title="国际频道",SKY HISTORY
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100766
+#EXTINF:-1 group-title="国际频道",SKY CINEMA COMEDY
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100939
+#EXTINF:-1 group-title="国际频道",SKY CINEMA FAMILY
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745665
+#EXTINF:-1 group-title="国际频道",SKY CINEMA PREMIER
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/213526
+#EXTINF:-1 group-title="国际频道",SKY CINEMA GREATS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100942
+#EXTINF:-1 group-title="国际频道",SKY CINEMA SCI-FI & HORROR
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100944
+#EXTINF:-1 group-title="国际频道",SKY CINEMA THRILLER
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100946
+#EXTINF:-1 group-title="国际频道",SKY CINEMA DRAMA
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100947
+#EXTINF:-1 group-title="国际频道",SKY CINEMA HITS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745671
+#EXTINF:-1 group-title="国际频道",SKY CINEMA ANIMATION
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/197793
+#EXTINF:-1 group-title="国际频道",FILM 4
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745674
+#EXTINF:-1 group-title="国际频道",SYFY
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100771
+#EXTINF:-1 group-title="国际频道",CARTOON NETWORK
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100912
+#EXTINF:-1 group-title="国际频道",SKY KIDS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/771667
+#EXTINF:-1 group-title="国际频道",SKY SPORTS ACTION
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101020
+#EXTINF:-1 group-title="国际频道",SKY SPORTS NEWS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101042
+#EXTINF:-1 group-title="国际频道",SKY SPORTS FOOTBALL
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101044
+#EXTINF:-1 group-title="国际频道",SKY SPORTS PREMIER LEAGUE
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101045
+#EXTINF:-1 group-title="国际频道",SKY SPORTS MAIN EVENT
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103112
+#EXTINF:-1 group-title="国际频道",SKY SPORT MIX
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103109
+#EXTINF:-1 group-title="国际频道",SKY SPORTS TENNIS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1341720
+#EXTINF:-1 group-title="国际频道",SKY SPORTS+
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101049
+#EXTINF:-1 group-title="国际频道",SKY SPORTS F1
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101051
+#EXTINF:-1 group-title="国际频道",SKY SPORTS GOLF
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101052
+#EXTINF:-1 group-title="国际频道",BEIN SPORT NBA
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112438
+#EXTINF:-1 group-title="国际频道",BEIN SPORTS ENGLISH 2
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112453
+#EXTINF:-1 group-title="国际频道",BEIN SPORTS 1
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112449
+#EXTINF:-1 group-title="国际频道",BEIN SPORTS 2
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112450
+#EXTINF:-1 group-title="国际频道",BEIN SPORTS 4
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112443
+#EXTINF:-1 group-title="国际频道",BEIN SPORTS 3
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112451
+#EXTINF:-1 group-title="国际频道",BEIN SPORTS 5
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112444
+#EXTINF:-1 group-title="国际频道",BEIN SPORTS 7
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112446
+#EXTINF:-1 group-title="国际频道",BEIN SPORTS 6
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112445
+#EXTINF:-1 group-title="国际频道",BEIN SPORTS 8
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/899112
+#EXTINF:-1 group-title="国际频道",BEIN SPORTS 9
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/899113
+#EXTINF:-1 group-title="国际频道",TNT SPORTS 1
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/205999
+#EXTINF:-1 group-title="国际频道",TNT SPORTS 2
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103146
+#EXTINF:-1 group-title="国际频道",TNT SPORTS 3
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103149
+#EXTINF:-1 group-title="国际频道",TNT SPORTS 4
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/670669
+#EXTINF:-1 group-title="国际频道",PREMIER SPORTS 1
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101064
+#EXTINF:-1 group-title="国际频道",PREMIER SPORTS 2
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101065
+#EXTINF:-1 group-title="国际频道",RACING UK
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101066
+#EXTINF:-1 group-title="国际频道",RANGERS FC TV
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/292939
+#EXTINF:-1 group-title="国际频道",TNT SPORTS ULTIMATE U
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449257
+#EXTINF:-1 group-title="国际频道",BBC RED BUTTON 1
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449267
+#EXTINF:-1 group-title="国际频道",HUBPREMIER 1
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1289436
+#EXTINF:-1 group-title="国际频道",DAZN
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/787620
+#EXTINF:-1 group-title="国际频道",ASTRO SUPERSPORT
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/556245
+#EXTINF:-1 group-title="国际频道",VIAPLAY SPORTS 1
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1479405
+#EXTINF:-1 group-title="国际频道",VIAPLAY SPORTS 2
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1479406
+#EXTINF:-1 group-title="国际频道",KIDS ONEPLAY MICKEY MOUSE
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1652828
+#EXTINF:-1 group-title="国际频道",KIDS ONEPLAY CURIOUS GEORGE
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1652805
+#EXTINF:-1 group-title="国际频道",HBO EAST
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361401
+#EXTINF:-1 group-title="国际频道",HBO WEST
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361402
+#EXTINF:-1 group-title="国际频道",HBO COMEDY
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361407
+#EXTINF:-1 group-title="国际频道",AMC
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361446
+#EXTINF:-1 group-title="国际频道",AMC+
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361447
+#EXTINF:-1 group-title="国际频道",SHOWTIME
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361455
+#EXTINF:-1 group-title="国际频道",SONY MOVIE CHANNEL
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361467
+#EXTINF:-1 group-title="国际频道",NICKTOONS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361374
+#EXTINF:-1 group-title="国际频道",MTV LIVE
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361488
+#EXTINF:-1 group-title="国际频道",ITV Quiz
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/154054.m3u8
+#EXTINF:-1 group-title="国际频道",Game Show Network
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33966.m3u8
+#EXTINF:-1 group-title="国际频道",E4
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153636.m3u8
+#EXTINF:-1 group-title="国际频道",DOVE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181554.m3u8
+#EXTINF:-1 group-title="国际频道",IFC
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181559.m3u8
+#EXTINF:-1 group-title="国际频道",STV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
+#EXTINF:-1 group-title="国际频道",S4C
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153866.m3u8
+#EXTINF:-1 group-title="国际频道",UTV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
+#EXTINF:-1 group-title="国际频道",TLC
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191459.m3u8
+#EXTINF:-1 group-title="国际频道",PREMIER SPORTS 1
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8
+#EXTINF:-1 group-title="国际频道",PREMIER SPORTS 2
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
+#EXTINF:-1 group-title="国际频道",SKY SPORTS TENNIS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
+#EXTINF:-1 group-title="国际频道",NFL RED ZONE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
+#EXTINF:-1 group-title="国际频道",SPORTS GRID
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
+#EXTINF:-1 group-title="国际频道",SPEED SPORT 1
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
+#EXTINF:-1 group-title="国际频道",CBS SPORTS GOLAZO NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/27183.m3u8
+#EXTINF:-1 group-title="国际频道",CBS SPORTS HQ
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/183430.m3u8
+#EXTINF:-1 group-title="国际频道",FUBO SPORTS NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163500.m3u8
+#EXTINF:-1 group-title="国际频道",NBC SPORTS NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181442.m3u8
+#EXTINF:-1 group-title="国际频道",REAL AMERICA'S VOICE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8
+#EXTINF:-1 group-title="国际频道",DOG TV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13550.m3u8
+#EXTINF:-1 group-title="国际频道",AWE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176716.m3u8
+#EXTINF:-1 group-title="国际频道",LAFF
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8
+#EXTINF:-1 group-title="国际频道",TRU TV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176757.m3u8
+#EXTINF:-1 group-title="国际频道",REVOLT
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8
+#EXTINF:-1 group-title="国际频道",UNIVERSO
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28279.m3u8
+#EXTINF:-1 group-title="国际频道",Wild Earth
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
+#EXTINF:-1 group-title="国际频道",DEFIANCE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8
+#EXTINF:-1 group-title="国际频道",CINE LIFE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8
+#EXTINF:-1 group-title="国际频道",CINEVAULT WESTERNS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
+#EXTINF:-1 group-title="国际频道",AMC THRILLERS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401412568.m3u8
+#EXTINF:-1 group-title="国际频道",PARAMOUNT NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
+#EXTINF:-1 group-title="国际频道",Showtime Family Zone
+http://panelguys.top:8080/qcFA9B/963626/13481
+#EXTINF:-1 group-title="国际频道",Showtime Women
+http://panelguys.top:8080/qcFA9B/963626/17778
+#EXTINF:-1 group-title="国际频道",Showtime Women
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33964.m3u8
+#EXTINF:-1 group-title="国际频道",THE FILM DETECTIVE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181553.m3u8
+#EXTINF:-1 group-title="国际频道",ADULT ANIMATION
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77598.m3u8
+#EXTINF:-1 group-title="国际频道",SCREENPIX WESTERNS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28289.m3u8
+#EXTINF:-1 group-title="国际频道",SHOWTIME 2 EAST
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181563.m3u8
+#EXTINF:-1 group-title="国际频道",DISNEY CHANNEL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
+#EXTINF:-1 group-title="国际频道",LOL NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
+#EXTINF:-1 group-title="国际频道",HISTORY CHANNEL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176584.m3u8
+#EXTINF:-1 group-title="国际频道",NBA TV
+http://panelguys.top:8080/txd7Fd/030774/22995
+#EXTINF:-1 group-title="国际频道",Sportsnet East
+http://panelguys.top:8080/txd7Fd/030774/41836
+#EXTINF:-1 group-title="国际频道",YTV East
+http://panelguys.top:8080/txd7Fd/030774/63850
+#EXTINF:-1 group-title="国际频道",Animal Planet
+http://panelguys.top:8080/txd7Fd/030774/57377
+#EXTINF:-1 group-title="国际频道",Bravo
+http://panelguys.top:8080/txd7Fd/030774/57379
+#EXTINF:-1 group-title="国际频道",Cartoon Network
+http://panelguys.top:8080/txd7Fd/030774/57380
+#EXTINF:-1 group-title="国际频道",CBC Charlottetown
+http://panelguys.top:8080/txd7Fd/030774/57382
+#EXTINF:-1 group-title="国际频道",CBC Edmonton
+http://panelguys.top:8080/txd7Fd/030774/57384
+#EXTINF:-1 group-title="国际频道",CBC Halifax HD
+http://panelguys.top:8080/txd7Fd/030774/57385
+#EXTINF:-1 group-title="国际频道",CBC Montreal
+http://panelguys.top:8080/txd7Fd/030774/57387
+#EXTINF:-1 group-title="国际频道",CBC OTTAWA
+http://panelguys.top:8080/txd7Fd/030774/57305
+#EXTINF:-1 group-title="国际频道",CBC TORONTO
+http://panelguys.top:8080/txd7Fd/030774/57306
+#EXTINF:-1 group-title="国际频道",CHRGD
+http://panelguys.top:8080/txd7Fd/030774/75653
+#EXTINF:-1 group-title="国际频道",CPAC
+http://panelguys.top:8080/txd7Fd/030774/57402
+#EXTINF:-1 group-title="国际频道",CRAVE 1 HD
+http://panelguys.top:8080/txd7Fd/030774/57309
+#EXTINF:-1 group-title="国际频道",CRAVE 2 HD
+http://panelguys.top:8080/txd7Fd/030774/57310
+#EXTINF:-1 group-title="国际频道",CRAVE 3 HD
+http://panelguys.top:8080/txd7Fd/030774/57322
+#EXTINF:-1 group-title="国际频道",CRAVE 4 HD
+http://panelguys.top:8080/txd7Fd/030774/57311
+#EXTINF:-1 group-title="国际频道",CTV Two Atlantic
+http://panelguys.top:8080/txd7Fd/030774/79547
+#EXTINF:-1 group-title="国际频道",CTV Comedy Channel
+http://panelguys.top:8080/txd7Fd/030774/57408
+#EXTINF:-1 group-title="国际频道",CTV Drama Channel
+http://panelguys.top:8080/txd7Fd/030774/57254
+#EXTINF:-1 group-title="国际频道",CTV Edmonton Alberta
+http://panelguys.top:8080/txd7Fd/030774/58725
+#EXTINF:-1 group-title="国际频道",CTV Halifax Nova Scotia
+http://panelguys.top:8080/txd7Fd/030774/57410
+#EXTINF:-1 group-title="国际频道",CTV Kitchener
+http://panelguys.top:8080/txd7Fd/030774/58557
+#EXTINF:-1 group-title="国际频道",CTV Montreal HD
+http://panelguys.top:8080/txd7Fd/030774/47234
+#EXTINF:-1 group-title="国际频道",CTV NEWS CHANNEL
+http://panelguys.top:8080/txd7Fd/030774/57350
+#EXTINF:-1 group-title="国际频道",CTV OTTAWA
+http://panelguys.top:8080/txd7Fd/030774/47237
+#EXTINF:-1 group-title="国际频道",CTV Regina Saskatchewan
+http://panelguys.top:8080/txd7Fd/030774/66381
+#EXTINF:-1 group-title="国际频道",CTV Saskatoon Saskatchewan
+http://panelguys.top:8080/txd7Fd/030774/66382
+#EXTINF:-1 group-title="国际频道",CTV Toronto HD
+http://panelguys.top:8080/txd7Fd/030774/47296
+#EXTINF:-1 group-title="国际频道",CTV2 Vancouver
+http://panelguys.top:8080/txd7Fd/030774/57316
+#EXTINF:-1 group-title="国际频道",CTV2 Windsor HD
+http://panelguys.top:8080/txd7Fd/030774/77165
+#EXTINF:-1 group-title="国际频道",CTV Barrie Ontario
+http://panelguys.top:8080/txd7Fd/030774/57373
+#EXTINF:-1 group-title="国际频道",Disney Junior
+http://panelguys.top:8080/txd7Fd/030774/57349
+#EXTINF:-1 group-title="国际频道",E! CANADA HD
+http://panelguys.top:8080/txd7Fd/030774/57249
+#EXTINF:-1 group-title="国际频道",Food Network
+http://panelguys.top:8080/txd7Fd/030774/57247
+#EXTINF:-1 group-title="国际频道",FXX
+http://panelguys.top:8080/txd7Fd/030774/57429
+#EXTINF:-1 group-title="国际频道",Game Show Network
+http://panelguys.top:8080/txd7Fd/030774/57430
+#EXTINF:-1 group-title="国际频道",Ginx esports TV
+http://panelguys.top:8080/txd7Fd/030774/57431
+#EXTINF:-1 group-title="国际频道",Global News Kingston
+http://panelguys.top:8080/txd7Fd/030774/57432
+#EXTINF:-1 group-title="国际频道",Global Edmonton News
+http://panelguys.top:8080/txd7Fd/030774/58724
+#EXTINF:-1 group-title="国际频道",Global Halifax News
+http://panelguys.top:8080/txd7Fd/030774/57434
+#EXTINF:-1 group-title="国际频道",Global News Regina
+http://panelguys.top:8080/txd7Fd/030774/66384
+#EXTINF:-1 group-title="国际频道",Global Saskatoon
+http://panelguys.top:8080/txd7Fd/030774/66383
+#EXTINF:-1 group-title="国际频道",GLOBAL TORONTO
+http://panelguys.top:8080/txd7Fd/030774/57435
+#EXTINF:-1 group-title="国际频道",HBO 2
+http://panelguys.top:8080/txd7Fd/030774/57438
+#EXTINF:-1 group-title="国际频道",HGTV
+http://panelguys.top:8080/txd7Fd/030774/57273
+#EXTINF:-1 group-title="国际频道",Investigation Discovery
+http://panelguys.top:8080/txd7Fd/030774/57442
+#EXTINF:-1 group-title="国际频道",MSNBC
+http://panelguys.top:8080/txd7Fd/030774/47332
+#EXTINF:-1 group-title="国际频道",MTV
+http://panelguys.top:8080/txd7Fd/030774/57446
+#EXTINF:-1 group-title="国际频道",MTV2 (E)
+http://panelguys.top:8080/txd7Fd/030774/57447
+#EXTINF:-1 group-title="国际频道",National Geographic Wild
+http://panelguys.top:8080/txd7Fd/030774/57280
+#EXTINF:-1 group-title="国际频道",NATIONAL GEOGRAPHIC
+http://panelguys.top:8080/txd7Fd/030774/47339
+#EXTINF:-1 group-title="国际频道",NFL NETWORK HD
+http://panelguys.top:8080/txd7Fd/030774/47346
+#EXTINF:-1 group-title="国际频道",OLN (E)
+http://panelguys.top:8080/txd7Fd/030774/57366
+#EXTINF:-1 group-title="国际频道",OWN
+http://panelguys.top:8080/txd7Fd/030774/57277
+#EXTINF:-1 group-title="国际频道",PBS HD
+http://panelguys.top:8080/txd7Fd/030774/57276
+#EXTINF:-1 group-title="国际频道",(FR) RDS (R)
+http://panelguys.top:8080/txd7Fd/030774/57325
+#EXTINF:-1 group-title="国际频道",Showcase HD
+http://panelguys.top:8080/txd7Fd/030774/47366
+#EXTINF:-1 group-title="国际频道",Slice TV
+http://panelguys.top:8080/txd7Fd/030774/57274
+#EXTINF:-1 group-title="国际频道",Smithsonian Channel
+http://panelguys.top:8080/txd7Fd/030774/47369
+#EXTINF:-1 group-title="国际频道",Sportsnet 360
+http://panelguys.top:8080/txd7Fd/030774/57299
+#EXTINF:-1 group-title="国际频道",Sportsnet East HD
+http://panelguys.top:8080/txd7Fd/030774/57298
+#EXTINF:-1 group-title="国际频道",Sportsnet One
+http://panelguys.top:8080/txd7Fd/030774/47379
+#EXTINF:-1 group-title="国际频道",Sportsnet Ontario
+http://panelguys.top:8080/txd7Fd/030774/11649
+#EXTINF:-1 group-title="国际频道",Sportsnet Pacific
+http://panelguys.top:8080/txd7Fd/030774/9860
+#EXTINF:-1 group-title="国际频道",Sportsnet West
+http://panelguys.top:8080/txd7Fd/030774/20975
+#EXTINF:-1 group-title="国际频道",Sportsnet World HD
+http://panelguys.top:8080/txd7Fd/030774/75675
+#EXTINF:-1 group-title="国际频道",Teletoon East
+http://panelguys.top:8080/txd7Fd/030774/57372
+#EXTINF:-1 group-title="国际频道",TSN 2
+http://panelguys.top:8080/txd7Fd/030774/16129
+#EXTINF:-1 group-title="国际频道",TSN 3 HD
+http://panelguys.top:8080/txd7Fd/030774/47444
+#EXTINF:-1 group-title="国际频道",TSN 4
+http://panelguys.top:8080/txd7Fd/030774/66783
+#EXTINF:-1 group-title="国际频道",SKY CINEMA ACTION
+http://panelguys.top:8080/txd7Fd/030774/35254
+#EXTINF:-1 group-title="国际频道",SKY CINEMA DRAMA
+http://panelguys.top:8080/txd7Fd/030774/35251
+#EXTINF:-1 group-title="国际频道",Sky Cinema Scifi & Horror
+http://panelguys.top:8080/txd7Fd/030774/35248
+#EXTINF:-1 group-title="国际频道",SKY COMEDY
+http://panelguys.top:8080/txd7Fd/030774/35253
+#EXTINF:-1 group-title="国际频道",SKY CRIME THRILLER
+http://panelguys.top:8080/txd7Fd/030774/35252
+#EXTINF:-1 group-title="国际频道",SKY GREATS
+http://panelguys.top:8080/txd7Fd/030774/35249
+#EXTINF:-1 group-title="国际频道",RTE NEWS
+http://panelguys.top:8080/txd7Fd/030774/79108
+#EXTINF:-1 group-title="国际频道",Boomerang
+http://panelguys.top:8080/txd7Fd/030774/53718
+#EXTINF:-1 group-title="国际频道",Channel 5
+http://panelguys.top:8080/txd7Fd/030774/53653
+#EXTINF:-1 group-title="国际频道",Crime & Investigation
+http://panelguys.top:8080/txd7Fd/030774/53689
+#EXTINF:-1 group-title="国际频道",Discovery Channel
+http://panelguys.top:8080/txd7Fd/030774/53684
+#EXTINF:-1 group-title="国际频道",Discovery History
+http://panelguys.top:8080/txd7Fd/030774/53694
+#EXTINF:-1 group-title="国际频道",Film 4
+http://panelguys.top:8080/txd7Fd/030774/53702
+#EXTINF:-1 group-title="国际频道",H2
+http://panelguys.top:8080/txd7Fd/030774/53692
+#EXTINF:-1 group-title="国际频道",History  Channel
+http://panelguys.top:8080/txd7Fd/030774/53686
+#EXTINF:-1 group-title="国际频道",ITV 3
+http://panelguys.top:8080/txd7Fd/030774/53665
+#EXTINF:-1 group-title="国际频道",ITV2 HD
+http://panelguys.top:8080/txd7Fd/030774/53671
+#EXTINF:-1 group-title="国际频道",NICKELODEON
+http://panelguys.top:8080/txd7Fd/030774/53728
+#EXTINF:-1 group-title="国际频道",Sky Cinema Animation
+http://panelguys.top:8080/txd7Fd/030774/53698
+#EXTINF:-1 group-title="国际频道",Sky Cinema Family
+http://panelguys.top:8080/txd7Fd/030774/53699
+#EXTINF:-1 group-title="国际频道",Sky Cinema Premier
+http://panelguys.top:8080/txd7Fd/030774/35256
+#EXTINF:-1 group-title="国际频道",Sky Cinema Comedy
+http://panelguys.top:8080/txd7Fd/030774/53661
+#EXTINF:-1 group-title="国际频道",Sky Sports Arena
+http://panelguys.top:8080/txd7Fd/030774/35238
+#EXTINF:-1 group-title="国际频道",Sky Sports F1
+http://panelguys.top:8080/txd7Fd/030774/53704
+#EXTINF:-1 group-title="国际频道",Sky Sports Golf
+http://panelguys.top:8080/txd7Fd/030774/35240
+#EXTINF:-1 group-title="国际频道",Sky Sports Main Event
+http://panelguys.top:8080/txd7Fd/030774/35243
+#EXTINF:-1 group-title="国际频道",Sky Sports Mix
+http://panelguys.top:8080/txd7Fd/030774/53706
+#EXTINF:-1 group-title="国际频道",Sky Sports News
+http://panelguys.top:8080/txd7Fd/030774/35241
+#EXTINF:-1 group-title="国际频道",TLC
+http://panelguys.top:8080/txd7Fd/030774/53681
+#EXTINF:-1 group-title="国际频道",Willow Cricket
+http://panelguys.top:8080/txd7Fd/030774/41979
+#EXTINF:-1 group-title="国际频道",Sky Sports Cricket
+http://panelguys.top:8080/txd7Fd/030774/45940
+#EXTINF:-1 group-title="国际频道",Sky Sports F1
+http://panelguys.top:8080/txd7Fd/030774/35244
+#EXTINF:-1 group-title="国际频道",CHARGE!
+http://panelguys.top:8080/txd7Fd/030774/79594
+#EXTINF:-1 group-title="国际频道",Lifetime Movies
+http://panelguys.top:8080/txd7Fd/030774/20863
+#EXTINF:-1 group-title="国际频道",NBC Sports Network
+http://panelguys.top:8080/txd7Fd/030774/46725
+#EXTINF:-1 group-title="国际频道",WWE NETWORK
+http://panelguys.top:8080/txd7Fd/030774/11645
+#EXTINF:-1 group-title="国际频道",Bally Sports Southwest
+http://panelguys.top:8080/txd7Fd/030774/21843
+#EXTINF:-1 group-title="国际频道",FanDuel Sports West
+http://panelguys.top:8080/txd7Fd/030774/20932
+#EXTINF:-1 group-title="国际频道",Disney Jr
+http://panelguys.top:8080/txd7Fd/030774/41960
+#EXTINF:-1 group-title="国际频道",PT Eleven Sports 1
+http://panelguys.top:8080/txd7Fd/030774/35264
+#EXTINF:-1 group-title="国际频道",ESPN NEWS
+http://panelguys.top:8080/txd7Fd/030774/17707
+#EXTINF:-1 group-title="国际频道",FanDuel Sports Ohio
+http://panelguys.top:8080/txd7Fd/030774/17752
+#EXTINF:-1 group-title="国际频道",MSG2 (F)
+http://panelguys.top:8080/txd7Fd/030774/21089
+#EXTINF:-1 group-title="国际频道",NBC Sports California
+http://panelguys.top:8080/txd7Fd/030774/20940
+#EXTINF:-1 group-title="国际频道",NBC Sports Chicago
+http://panelguys.top:8080/txd7Fd/030774/20941
+#EXTINF:-1 group-title="国际频道",NBC Sports Network
+http://panelguys.top:8080/txd7Fd/030774/20926
+#EXTINF:-1 group-title="国际频道",NBC Sports Philly
+http://panelguys.top:8080/txd7Fd/030774/20943
+#EXTINF:-1 group-title="国际频道",NBC Sports Washington
+http://panelguys.top:8080/txd7Fd/030774/20944
+#EXTINF:-1 group-title="国际频道",ESPN SEC Network
+http://panelguys.top:8080/txd7Fd/030774/17608
+#EXTINF:-1 group-title="国际频道",Spectrum SportsNet LA Dodgers
+http://panelguys.top:8080/txd7Fd/030774/31636
+#EXTINF:-1 group-title="国际频道",YES Network
+http://panelguys.top:8080/txd7Fd/030774/57972
+#EXTINF:-1 group-title="国际频道",Court TV
+http://panelguys.top:8080/txd7Fd/030774/21092
+#EXTINF:-1 group-title="国际频道",UniMas
+http://panelguys.top:8080/txd7Fd/030774/57969
+#EXTINF:-1 group-title="国际频道",Univision
+http://panelguys.top:8080/txd7Fd/030774/15336
+#EXTINF:-1 group-title="国际频道",Spectrum SportsNet Lakers
+http://panelguys.top:8080/txd7Fd/030774/20946
+#EXTINF:-1 group-title="国际频道",StarMax
+http://panelguys.top:8080/txd7Fd/030774/13381
+#EXTINF:-1 group-title="国际频道",ABC
+http://panelguys.top:8080/txd7Fd/030774/22990
+#EXTINF:-1 group-title="国际频道",AMC
+http://panelguys.top:8080/txd7Fd/030774/18925
+#EXTINF:-1 group-title="国际频道",Bet Gospel
+http://panelguys.top:8080/txd7Fd/030774/66080
+#EXTINF:-1 group-title="国际频道",BET
+http://panelguys.top:8080/txd7Fd/030774/13702
+#EXTINF:-1 group-title="国际频道",Bravo
+http://panelguys.top:8080/txd7Fd/030774/20859
+#EXTINF:-1 group-title="国际频道",BUZZR
+http://panelguys.top:8080/txd7Fd/030774/21896
+#EXTINF:-1 group-title="国际频道",CBS News
+http://panelguys.top:8080/txd7Fd/030774/21259
+#EXTINF:-1 group-title="国际频道",Cinemax
+http://panelguys.top:8080/txd7Fd/030774/13380
+#EXTINF:-1 group-title="国际频道",CMT
+http://panelguys.top:8080/txd7Fd/030774/46706
+#EXTINF:-1 group-title="国际频道",CNBC
+http://panelguys.top:8080/txd7Fd/030774/9815
+#EXTINF:-1 group-title="国际频道",CNN
+http://panelguys.top:8080/txd7Fd/030774/104884
+#EXTINF:-1 group-title="国际频道",Comet
+http://panelguys.top:8080/txd7Fd/030774/66244
+#EXTINF:-1 group-title="国际频道",Decades
+http://panelguys.top:8080/txd7Fd/030774/20189
+#EXTINF:-1 group-title="国际频道",Discovery Velocity
+http://panelguys.top:8080/txd7Fd/030774/46212
+#EXTINF:-1 group-title="国际频道",Magnolia Network
+http://panelguys.top:8080/txd7Fd/030774/10503
+#EXTINF:-1 group-title="国际频道",DOGTV
+http://panelguys.top:8080/txd7Fd/030774/53539
+#EXTINF:-1 group-title="国际频道",EPIX (East)
+http://panelguys.top:8080/txd7Fd/030774/13214
+#EXTINF:-1 group-title="国际频道",Epix Drive IN
+http://panelguys.top:8080/txd7Fd/030774/14193
+#EXTINF:-1 group-title="国际频道",Epix Hits
+http://panelguys.top:8080/txd7Fd/030774/12744
+#EXTINF:-1 group-title="国际频道",EPIX2
+http://panelguys.top:8080/txd7Fd/030774/12730
+#EXTINF:-1 group-title="国际频道",ESPN 2
+http://panelguys.top:8080/txd7Fd/030774/2210
+#EXTINF:-1 group-title="国际频道",ESPN 1
+http://panelguys.top:8080/txd7Fd/030774/14197
+#EXTINF:-1 group-title="国际频道",Fox Business Network
+http://panelguys.top:8080/txd7Fd/030774/17639
+#EXTINF:-1 group-title="国际频道",Fox News
+http://panelguys.top:8080/txd7Fd/030774/1818
+#EXTINF:-1 group-title="国际频道",Fox Sports 1
+http://panelguys.top:8080/txd7Fd/030774/1846
+#EXTINF:-1 group-title="国际频道",FanDuel Sports South
+http://panelguys.top:8080/txd7Fd/030774/20922
+#EXTINF:-1 group-title="国际频道",FX East
+http://panelguys.top:8080/txd7Fd/030774/46690
+#EXTINF:-1 group-title="国际频道",FXM
+http://panelguys.top:8080/txd7Fd/030774/10260
+#EXTINF:-1 group-title="国际频道",FXX
+http://panelguys.top:8080/txd7Fd/030774/46699
+#EXTINF:-1 group-title="国际频道",Grit TV
+http://panelguys.top:8080/txd7Fd/030774/20861
+#EXTINF:-1 group-title="国际频道",Hallmark Channel
+http://panelguys.top:8080/txd7Fd/030774/46719
+#EXTINF:-1 group-title="国际频道",Hallmark Drama
+http://panelguys.top:8080/txd7Fd/030774/9307
+#EXTINF:-1 group-title="国际频道",Hallmark Movies & Mysteries
+http://panelguys.top:8080/txd7Fd/030774/10289
+#EXTINF:-1 group-title="国际频道",HBO East HD
+http://panelguys.top:8080/txd7Fd/030774/46713
+#EXTINF:-1 group-title="国际频道",HGTV
+http://panelguys.top:8080/txd7Fd/030774/46717
+#EXTINF:-1 group-title="国际频道",HISTORY
+http://panelguys.top:8080/txd7Fd/030774/46724
+#EXTINF:-1 group-title="国际频道",INSP
+http://panelguys.top:8080/txd7Fd/030774/16262
+#EXTINF:-1 group-title="国际频道",ION
+http://panelguys.top:8080/txd7Fd/030774/9297
+#EXTINF:-1 group-title="国际频道",Laff
+http://panelguys.top:8080/txd7Fd/030774/17777
+#EXTINF:-1 group-title="国际频道",Lifetime
+http://panelguys.top:8080/txd7Fd/030774/46714
+#EXTINF:-1 group-title="国际频道",MAV TV
+http://panelguys.top:8080/txd7Fd/030774/20977
+#EXTINF:-1 group-title="国际频道",More Max
+http://panelguys.top:8080/txd7Fd/030774/17776
+#EXTINF:-1 group-title="国际频道",MotorTrend (A)
+http://panelguys.top:8080/txd7Fd/030774/10399
+#EXTINF:-1 group-title="国际频道",MSG Plus
+http://panelguys.top:8080/txd7Fd/030774/9276
+#EXTINF:-1 group-title="国际频道",Nat Geo Wild East
+http://panelguys.top:8080/txd7Fd/030774/11664
+#EXTINF:-1 group-title="国际频道",One America News
+http://panelguys.top:8080/txd7Fd/030774/21752
+#EXTINF:-1 group-title="国际频道",OUTSIDE TV
+http://panelguys.top:8080/txd7Fd/030774/20865
+#EXTINF:-1 group-title="国际频道",OWN
+http://panelguys.top:8080/txd7Fd/030774/46698
+#EXTINF:-1 group-title="国际频道",Oxygen (A)
+http://panelguys.top:8080/txd7Fd/030774/46695
+#EXTINF:-1 group-title="国际频道",Paramount Network
+http://panelguys.top:8080/txd7Fd/030774/46694
+#EXTINF:-1 group-title="国际频道",PixL
+http://panelguys.top:8080/txd7Fd/030774/21648
+#EXTINF:-1 group-title="国际频道",AMC Thrillers
+http://panelguys.top:8080/txd7Fd/030774/66243
+#EXTINF:-1 group-title="国际频道",Showtime East
+http://panelguys.top:8080/txd7Fd/030774/46214
+#EXTINF:-1 group-title="国际频道",Showtime 2
+http://panelguys.top:8080/txd7Fd/030774/13219
+#EXTINF:-1 group-title="国际频道",Showtime Family Zone
+http://panelguys.top:8080/txd7Fd/030774/13481
+#EXTINF:-1 group-title="国际频道",Showtime Women
+http://panelguys.top:8080/txd7Fd/030774/17778
+#EXTINF:-1 group-title="国际频道",Starz Encore Westerns
+http://panelguys.top:8080/txd7Fd/030774/16263
+#EXTINF:-1 group-title="国际频道",TBN
+http://panelguys.top:8080/txd7Fd/030774/21895
+#EXTINF:-1 group-title="国际频道",TLC
+http://panelguys.top:8080/txd7Fd/030774/47703
+#EXTINF:-1 group-title="国际频道",TNT West
+http://panelguys.top:8080/txd7Fd/030774/46688
+#EXTINF:-1 group-title="国际频道",TNT East
+http://panelguys.top:8080/txd7Fd/030774/10455
+#EXTINF:-1 group-title="国际频道",TRUTV East
+http://panelguys.top:8080/txd7Fd/030774/10224
+#EXTINF:-1 group-title="国际频道",TV Land
+http://panelguys.top:8080/txd7Fd/030774/46696
+#EXTINF:-1 group-title="国际频道",TVG Network
+http://panelguys.top:8080/txd7Fd/030774/10259
+#EXTINF:-1 group-title="国际频道",TVG2 Network
+http://panelguys.top:8080/txd7Fd/030774/18940
+#EXTINF:-1 group-title="国际频道",VICELAND
+http://panelguys.top:8080/txd7Fd/030774/46697
 #EXTINF:-1 group-title="睛彩",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1 group-title="睛彩",睛彩竞技
