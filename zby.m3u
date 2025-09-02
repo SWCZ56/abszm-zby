@@ -2648,6 +2648,1484 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 #EXTINF:-1 group-title="世界各地",Самара ГИС
 http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BANGBROS.png",BR Globo SP HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/21020
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BANGBROS.png",BR: SBT HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/20978
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA : APTN
+https://omg.pendy.dpdns.org/4wVQA7/625159/57320
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) Canal D SD (P)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57479
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) CinePOP SD (P)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57480
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) Evasion SD (P)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57482
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) Historia HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57483
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) ICI Tele Montreal HD (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57484
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) ICI Tele Quebec HD (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57493
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA-FR | ICI VANCOUVER FR
+https://omg.pendy.dpdns.org/4wVQA7/625159/57485
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) LCN (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57968
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA-FR | MOI ET CIE
+https://omg.pendy.dpdns.org/4wVQA7/625159/57487
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) Prise  (P)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57488
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) RDS2 HD (B)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57490
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) Super Ecran 1 (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66363
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) Super Ecran 2 SD (P)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66364
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) Super Ecran 3 SD (P)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66365
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) Super Ecran 4 SD (P)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66366
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) TFO HD (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57495
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) TVA Montreal FHD (B)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57497
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA-FR | TVA SPORTS 1
+https://omg.pendy.dpdns.org/4wVQA7/625159/57498
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) NOOVO (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57501
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) Zeste HD  (B)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57502
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet East (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/41836
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet One (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/10247
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 4 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/16130
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA YTV East
+https://omg.pendy.dpdns.org/4wVQA7/625159/63850
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: A&E
+https://omg.pendy.dpdns.org/4wVQA7/625159/57476
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA A&E
+https://omg.pendy.dpdns.org/4wVQA7/625159/57264
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: ABC SPARK
+https://omg.pendy.dpdns.org/4wVQA7/625159/57375
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: AMC
+https://omg.pendy.dpdns.org/4wVQA7/625159/57376
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Animal Planet
+https://omg.pendy.dpdns.org/4wVQA7/625159/57377
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Bravo
+https://omg.pendy.dpdns.org/4wVQA7/625159/57379
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CBC Calgary HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57381
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CHCH (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57393
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: CHRGD
+https://omg.pendy.dpdns.org/4wVQA7/625159/75653
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CITY TV CALGARY (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/75652
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA City TV Toronto (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57394
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: CITY TV TORONTO HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57307
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CITY TV VANCOUVER (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57395
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CMT
+https://omg.pendy.dpdns.org/4wVQA7/625159/57258
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA Cottage Life HD (B)
+https://omg.pendy.dpdns.org/4wVQA7/625159/47217
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: CRAVE 1 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57309
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: CRAVE 2 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57310
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: CRAVE 3
+https://omg.pendy.dpdns.org/4wVQA7/625159/57322
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: CRAVE 4 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57311
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: CRIME & INVESTIGATION
+https://omg.pendy.dpdns.org/4wVQA7/625159/57256
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Two Atlantic
+https://omg.pendy.dpdns.org/4wVQA7/625159/79547
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV CALGARY (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57964
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Comedy Channel
+https://omg.pendy.dpdns.org/4wVQA7/625159/57408
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Drama Channel (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57254
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Edmonton Alberta HD (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/58725
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Halifax Nova Scotia HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57410
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV 2 London HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/58546
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Montreal HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/47234
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: CTV OTTAWA
+https://omg.pendy.dpdns.org/4wVQA7/625159/47237
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Regina Saskatchewan HD (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66381
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Saskatoon Saskatchewan HD (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66382
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Sci-Fi Channel (B)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57253
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Toronto HD (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/47296
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: CTV2 Vancouver
+https://omg.pendy.dpdns.org/4wVQA7/625159/57316
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV2 Windsor HD (B)
+https://omg.pendy.dpdns.org/4wVQA7/625159/77165
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Barrie Ontario HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57373
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Discovery Channel
+https://omg.pendy.dpdns.org/4wVQA7/625159/57252
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Discovery Science
+https://omg.pendy.dpdns.org/4wVQA7/625159/57418
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: DIY NETWORK FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/47258
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: DTOUR HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57250
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA E! (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57422
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: E! CANADA HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57249
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) TV5
+https://omg.pendy.dpdns.org/4wVQA7/625159/57288
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Discovery Family (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57347
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Family Jr HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57346
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: FX HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57268
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA FXX (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57429
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Game Show Network HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57430
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Ginx esports TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/57431
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Global Saskatoon (B)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66383
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA GLOBAL TORONTO
+https://omg.pendy.dpdns.org/4wVQA7/625159/57435
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: GLOBAL TORONTO
+https://omg.pendy.dpdns.org/4wVQA7/625159/57302
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Global Vancouver
+https://omg.pendy.dpdns.org/4wVQA7/625159/57436
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: HBO 1
+https://omg.pendy.dpdns.org/4wVQA7/625159/57437
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/古典音乐CLASSICAHD.png",CA HBO 2 (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57438
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/古典音乐CLASSICAHD.png",CA HGTV
+https://omg.pendy.dpdns.org/4wVQA7/625159/57273
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/古典音乐CLASSICAHD.png",CA HISTORY
+https://omg.pendy.dpdns.org/4wVQA7/625159/47302
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/古典音乐CLASSICAHD.png",CA HISTORY (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57272
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: HLN
+https://omg.pendy.dpdns.org/4wVQA7/625159/57441
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BJTJCAI.png",CA Investigation Discovery HD (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57442
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Lifetime
+https://omg.pendy.dpdns.org/4wVQA7/625159/57271
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Lifetime Movie Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/57444
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Love Nature HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/47324
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: MAKEFUL
+https://omg.pendy.dpdns.org/4wVQA7/625159/57270
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: MOVIETIME HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/47331
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: MTV
+https://omg.pendy.dpdns.org/4wVQA7/625159/57446
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCAMERICA.png",CA MTV2 (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57447
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: MTV HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57368
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: National Geographics
+https://omg.pendy.dpdns.org/4wVQA7/625159/57281
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: National Geographic  HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/47338
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CANALMACAU.png",CA National Geographic Wild (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57450
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CANALMACAU.png",CA National Geographic Wild
+https://omg.pendy.dpdns.org/4wVQA7/625159/57280
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: NATIONAL GEOGRAPHIC
+https://omg.pendy.dpdns.org/4wVQA7/625159/47339
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CANALMACAU.png",CA NTV St. John`s
+https://omg.pendy.dpdns.org/4wVQA7/625159/57478
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA OLN (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57366
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: OMNI1 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57365
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA OWN
+https://omg.pendy.dpdns.org/4wVQA7/625159/57277
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: PBS HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57276
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Peachtree TV HD (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/47362
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) RDS (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57325
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Showcase HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/47366
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Slice TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/57274
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Smithsonian Channel (B)
+https://omg.pendy.dpdns.org/4wVQA7/625159/47369
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet 360 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/2219
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet 360 (HD)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57299
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet East HD (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57298
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet One (FHD)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57297
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet One (HD)
+https://omg.pendy.dpdns.org/4wVQA7/625159/47379
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Sportsnet Ontario
+https://omg.pendy.dpdns.org/4wVQA7/625159/57463
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet Ontario HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57296
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet Ontario (FHD)
+https://omg.pendy.dpdns.org/4wVQA7/625159/11649
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet Pacific (FHD)
+https://omg.pendy.dpdns.org/4wVQA7/625159/9860
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet Pacific HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/47387
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet West (FHD)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20975
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: SPORTSNET WEST
+https://omg.pendy.dpdns.org/4wVQA7/625159/57300
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Sportsnet World HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/75675
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV SCI-FI
+https://omg.pendy.dpdns.org/4wVQA7/625159/57464
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: TFO  (FR)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57291
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TLC
+https://omg.pendy.dpdns.org/4wVQA7/625159/57290
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA Treehouse (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57371
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 1 (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57292
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 1 (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/47440
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 2 (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/16129
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 2 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/47442
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 3 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/10389
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 3 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/47444
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 4
+https://omg.pendy.dpdns.org/4wVQA7/625159/66783
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 4 (B)
+https://omg.pendy.dpdns.org/4wVQA7/625159/47446
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 5
+https://omg.pendy.dpdns.org/4wVQA7/625159/57467
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 5 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/16131
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA TSN 5
+https://omg.pendy.dpdns.org/4wVQA7/625159/57295
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: TV Ontario HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57369
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Vision
+https://omg.pendy.dpdns.org/4wVQA7/625159/57468
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA W Network East (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57284
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: World Fishing Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/57471
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA YES TV (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57472
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA:TELE QUEBEC (FR)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57336
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) TVA Sports 2
+https://omg.pendy.dpdns.org/4wVQA7/625159/57337
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib CVM TV (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66371
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib Flow Sports (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/79544
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib TVJ
+https://omg.pendy.dpdns.org/4wVQA7/625159/78918
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib TVJ_Sports
+https://omg.pendy.dpdns.org/4wVQA7/625159/66077
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO: TELEMEDELLIN
+https://omg.pendy.dpdns.org/4wVQA7/625159/78722
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO: CANAL UNO
+https://omg.pendy.dpdns.org/4wVQA7/625159/78698
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO: CARACOL INTERNACIONAL HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/78701
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO: CARCOL HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/78700
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO: RCN FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/78694
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/COLORSHINDI.png",COL: WIN SPORTS PLUS HD (EXCLUSIVO)
+https://omg.pendy.dpdns.org/4wVQA7/625159/78697
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO: RCN NOVELAS
+https://omg.pendy.dpdns.org/4wVQA7/625159/78716
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO: SENAL COLOMBIA
+https://omg.pendy.dpdns.org/4wVQA7/625159/78711
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO: TELECAFE
+https://omg.pendy.dpdns.org/4wVQA7/625159/78726
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO: TELEANTIOQUIA HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/78706
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO Telepacifico  (P)
+https://omg.pendy.dpdns.org/4wVQA7/625159/78729
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",CO: Win Sports + FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/78717
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BBCSCOT.png",Coffee House
+https://omg.pendy.dpdns.org/4wVQA7/625159/17854
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ALJAZEERAENGLISH.png",Erotica Lounge
+https://omg.pendy.dpdns.org/4wVQA7/625159/17828
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib ESPN
+https://omg.pendy.dpdns.org/4wVQA7/625159/66372
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 FAMILY GUY
+https://omg.pendy.dpdns.org/4wVQA7/625159/66317
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FOX Sports 1
+https://omg.pendy.dpdns.org/4wVQA7/625159/46792
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports Florida (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/46794
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 KEEPING UP WITH THE KARDASHIANS
+https://omg.pendy.dpdns.org/4wVQA7/625159/66403
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 FRESH PRINCE OF BEL-AIR
+https://omg.pendy.dpdns.org/4wVQA7/625159/79559
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 THE FIRST 48HRS
+https://omg.pendy.dpdns.org/4wVQA7/625159/66393
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png",ICI Premiere Montreal Quebec
+https://omg.pendy.dpdns.org/4wVQA7/625159/16251
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 RIDICULOUSNESS
+https://omg.pendy.dpdns.org/4wVQA7/625159/66397
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CMLP.png",MLB Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/21360
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CMLP.png",MLB Strike Zone
+https://omg.pendy.dpdns.org/4wVQA7/625159/65699
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Latin Discovery (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/57645
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/DMXCPD.png",MX: Multimedios
+https://omg.pendy.dpdns.org/4wVQA7/625159/57646
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/DMXCPD.png",MX Multimedios HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/57711
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ALLTHEKPOP.png",The KING OF QUEENS
+https://omg.pendy.dpdns.org/4wVQA7/625159/79567
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib RETV
+https://omg.pendy.dpdns.org/4wVQA7/625159/21094
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK: SKY CINEMA ACTION FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/35254
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK MOVIES: SKY CINEMA DRAMA
+https://omg.pendy.dpdns.org/4wVQA7/625159/35251
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK Sky Cinema Scifi & Horror FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/35248
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK MOVIES: SKY COMEDY
+https://omg.pendy.dpdns.org/4wVQA7/625159/35253
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK MOVIES: SKY CRIME THRILLER
+https://omg.pendy.dpdns.org/4wVQA7/625159/35252
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/SUKANRTM.png",UK-Alibi
+https://omg.pendy.dpdns.org/4wVQA7/625159/59030
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK Crime & Investigation FHD (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/53689
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-Discovery Channel
+https://omg.pendy.dpdns.org/4wVQA7/625159/53684
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-Discovery Science
+https://omg.pendy.dpdns.org/4wVQA7/625159/53695
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-Film 4
+https://omg.pendy.dpdns.org/4wVQA7/625159/53702
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-H2
+https://omg.pendy.dpdns.org/4wVQA7/625159/53692
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK History  Channel
+https://omg.pendy.dpdns.org/4wVQA7/625159/53686
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-Investigation Discovery
+https://omg.pendy.dpdns.org/4wVQA7/625159/53687
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-ITV
+https://omg.pendy.dpdns.org/4wVQA7/625159/53651
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-ITV 3
+https://omg.pendy.dpdns.org/4wVQA7/625159/53665
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-ITV 4
+https://omg.pendy.dpdns.org/4wVQA7/625159/53666
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-More4
+https://omg.pendy.dpdns.org/4wVQA7/625159/53673
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-Nat Geo Wild
+https://omg.pendy.dpdns.org/4wVQA7/625159/53693
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-Sky Cinema Family
+https://omg.pendy.dpdns.org/4wVQA7/625159/53699
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-Sky Cinema Premier
+https://omg.pendy.dpdns.org/4wVQA7/625159/35256
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK Sky Cinema Comedy
+https://omg.pendy.dpdns.org/4wVQA7/625159/53661
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-Sky Sports Arena
+https://omg.pendy.dpdns.org/4wVQA7/625159/35238
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK Sky Sports F1 FHD (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/53704
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-Sky Sports Main Event
+https://omg.pendy.dpdns.org/4wVQA7/625159/35243
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK Sky Sports Mix FHD (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/53706
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK-TLC
+https://omg.pendy.dpdns.org/4wVQA7/625159/53681
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK Sky Sports F1 FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/35244
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK: SKY SP RACING FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/76842
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US SONY Movies FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/2214
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports Southeast
+https://omg.pendy.dpdns.org/4wVQA7/625159/81111
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US CHARGE!
+https://omg.pendy.dpdns.org/4wVQA7/625159/79594
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Lifetime Movies
+https://omg.pendy.dpdns.org/4wVQA7/625159/20863
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NBC Sports Network (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/46725
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US STARZ ENCORE Black
+https://omg.pendy.dpdns.org/4wVQA7/625159/16141
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ANIMALPLANETHDWORLD.png",LAT: TELEMUNDO 51 MIAMI HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/56410
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US: WWE NETWORK
+https://omg.pendy.dpdns.org/4wVQA7/625159/11645
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT Eleven Sports 1 FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/35264
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports North (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/58827
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports Detroit
+https://omg.pendy.dpdns.org/4wVQA7/625159/20936
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports Ohio (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/17752
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US MASN (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/65697
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US MASN2
+https://omg.pendy.dpdns.org/4wVQA7/625159/65698
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US MSG2 (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/21089
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NBC Sports Bay Area (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/9900
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NBC Sports Boston (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20939
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NBC Sports California (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20940
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NBC Sports Chicago
+https://omg.pendy.dpdns.org/4wVQA7/625159/20941
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NBC Sports Network (FHD)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20926
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NBC Sports Philly (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20943
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NBC Sports Washington (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20944
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NESN (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/31637
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/PENTHOUSEGOLD.png",US ESPN SEC Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/17608
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Spectrum SportsNet LA Dodgers (HD)
+https://omg.pendy.dpdns.org/4wVQA7/625159/31636
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Spectrum SportsNet Lakers (FHD)
+https://omg.pendy.dpdns.org/4wVQA7/625159/21842
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US YES Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/57972
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA:  Showtime NEXT
+https://omg.pendy.dpdns.org/4wVQA7/625159/9316
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA:  STARZ EDGE
+https://omg.pendy.dpdns.org/4wVQA7/625159/16143
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/QIUSUO1.png",US UniMas
+https://omg.pendy.dpdns.org/4wVQA7/625159/57969
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/QIUSUO1.png",US Univision (East) (SP)
+https://omg.pendy.dpdns.org/4wVQA7/625159/15336
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US 5 StarMax
+https://omg.pendy.dpdns.org/4wVQA7/625159/13381
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: A&E
+https://omg.pendy.dpdns.org/4wVQA7/625159/59056
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US A&E (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/2201
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US ActionMAX (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/21013
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Adult Swim (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/11644
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US Altitude Sports HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/79545
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US AMC
+https://omg.pendy.dpdns.org/4wVQA7/625159/18925
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US American Heroes Channel
+https://omg.pendy.dpdns.org/4wVQA7/625159/10456
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US Animal Planet
+https://omg.pendy.dpdns.org/4wVQA7/625159/17870
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US Antenna TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/20180
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US Aspire (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/21927
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US AXS TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/48324
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bounce XL
+https://omg.pendy.dpdns.org/4wVQA7/625159/48323
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bravo (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20859
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US CBS Sports Network HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/10454
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: CMT
+https://omg.pendy.dpdns.org/4wVQA7/625159/46706
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: CMT HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/10476
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Comedy Central (East) (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/7466
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Comet (S)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66244
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Cozi (H)
+https://omg.pendy.dpdns.org/4wVQA7/625159/11868
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Decades
+https://omg.pendy.dpdns.org/4wVQA7/625159/20189
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Destination America (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/14222
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Discovery Channel (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/46720
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Discovery Channel East
+https://omg.pendy.dpdns.org/4wVQA7/625159/9811
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: DISCOVERY FAMILY
+https://omg.pendy.dpdns.org/4wVQA7/625159/10538
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: Discovery Life HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/9861
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Discovery Velocity HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/46212
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US DIY Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/10503
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/PENTHOUSEGOLD.png",US E! Entertainment Television East
+https://omg.pendy.dpdns.org/4wVQA7/625159/11651
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/PENTHOUSEPASSION.png",US EPIX (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/13214
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/PENTHOUSEPASSION.png",US Epix Drive IN (S)
+https://omg.pendy.dpdns.org/4wVQA7/625159/14193
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: Epix Hits
+https://omg.pendy.dpdns.org/4wVQA7/625159/12744
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/PENTHOUSEPASSION.png",US EPIX2 (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/12730
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Fox Sports 1
+https://omg.pendy.dpdns.org/4wVQA7/625159/1846
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Fox Sports 2 (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/1847
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports North (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20928
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports Carolinas (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20929
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports South
+https://omg.pendy.dpdns.org/4wVQA7/625159/20931
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports South (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20922
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Freeform East
+https://omg.pendy.dpdns.org/4wVQA7/625159/13370
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Fuse
+https://omg.pendy.dpdns.org/4wVQA7/625159/46701
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FX East
+https://omg.pendy.dpdns.org/4wVQA7/625159/46690
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FXM
+https://omg.pendy.dpdns.org/4wVQA7/625159/10260
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FXX (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/46699
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FYI
+https://omg.pendy.dpdns.org/4wVQA7/625159/9240
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Latin Galavision
+https://omg.pendy.dpdns.org/4wVQA7/625159/58770
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US GetTV
+https://omg.pendy.dpdns.org/4wVQA7/625159/18366
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Great American Country
+https://omg.pendy.dpdns.org/4wVQA7/625159/17640
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Grit TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/20861
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US Hallmark Channel
+https://omg.pendy.dpdns.org/4wVQA7/625159/46719
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US Hallmark Drama
+https://omg.pendy.dpdns.org/4wVQA7/625159/9307
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US Hallmark Movies & Mysteries
+https://omg.pendy.dpdns.org/4wVQA7/625159/10289
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US HBO East HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/46713
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US HBO
+https://omg.pendy.dpdns.org/4wVQA7/625159/9264
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US HBO 2 (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/9816
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US HBO Comedy (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/17773
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US HBO SIGNATURE (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/9266
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US HDNET MOVIES
+https://omg.pendy.dpdns.org/4wVQA7/625159/16265
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US Heroes & Icons (Los Angeles)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66087
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CHENGDUSHAOER.png",US HGTV (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/46717
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/SHANGHAIDUSHI.png",US HISTORY
+https://omg.pendy.dpdns.org/4wVQA7/625159/46724
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/SHANGHAIDUSHI.png",US History Channel
+https://omg.pendy.dpdns.org/4wVQA7/625159/15017
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CMUSIC.png",US IFC
+https://omg.pendy.dpdns.org/4wVQA7/625159/9272
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CMUSIC.png",US insp
+https://omg.pendy.dpdns.org/4wVQA7/625159/16262
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CMUSIC.png",US ID Investigation Discovery
+https://omg.pendy.dpdns.org/4wVQA7/625159/46810
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CMUSIC.png",US ION
+https://omg.pendy.dpdns.org/4wVQA7/625159/9297
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Laff (KNVA)
+https://omg.pendy.dpdns.org/4wVQA7/625159/17777
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Lifetime
+https://omg.pendy.dpdns.org/4wVQA7/625159/46714
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Lifetime
+https://omg.pendy.dpdns.org/4wVQA7/625159/9275
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Lifetime Movie
+https://omg.pendy.dpdns.org/4wVQA7/625159/2208
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: LOGO TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/20862
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Marquee Sports Network (HD) (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/13379
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US MAV TV (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20977
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US MeTV Network East
+https://omg.pendy.dpdns.org/4wVQA7/625159/16149
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US More Max
+https://omg.pendy.dpdns.org/4wVQA7/625159/17776
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US MotorTrend (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/10399
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US MoviePlex (East) (H)
+https://omg.pendy.dpdns.org/4wVQA7/625159/1829
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US MSG Plus
+https://omg.pendy.dpdns.org/4wVQA7/625159/9276
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US MSG (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/21090
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Nat Geo Wild East (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/11664
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US National Geographic
+https://omg.pendy.dpdns.org/4wVQA7/625159/46722
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US National Geographic (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/9277
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: OUTSIDE TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/20865
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: OWN
+https://omg.pendy.dpdns.org/4wVQA7/625159/46698
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Oxygen (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/46695
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Oxygen (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/9245
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Paramount Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/16201
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Paramount Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/46694
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Paramount TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/10464
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US PixL (S)
+https://omg.pendy.dpdns.org/4wVQA7/625159/21648
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Pursuit UP
+https://omg.pendy.dpdns.org/4wVQA7/625159/22888
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Reelz
+https://omg.pendy.dpdns.org/4wVQA7/625159/10526
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US RetroPlex (East) (H)
+https://omg.pendy.dpdns.org/4wVQA7/625159/66379
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Revolt
+https://omg.pendy.dpdns.org/4wVQA7/625159/39276
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US RFD-TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/17868
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US GAC Living (S)
+https://omg.pendy.dpdns.org/4wVQA7/625159/75654
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: AMC Thrillers
+https://omg.pendy.dpdns.org/4wVQA7/625159/66243
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Discovery Science
+https://omg.pendy.dpdns.org/4wVQA7/625159/20866
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Showtime East
+https://omg.pendy.dpdns.org/4wVQA7/625159/46214
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Showtime 2 (East) (H)
+https://omg.pendy.dpdns.org/4wVQA7/625159/13219
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Showtime Extreme (East) (SP)
+https://omg.pendy.dpdns.org/4wVQA7/625159/13220
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Showtime Family Zone (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/13481
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Showtime Women (East) (H)
+https://omg.pendy.dpdns.org/4wVQA7/625159/17778
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Smithsonian Channel (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/31150
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Sportsnet New York (SNY) (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/20938
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Sportsman Channel (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/79913
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Starz Cinema (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/17775
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Starz Cinema (East) (H)
+https://omg.pendy.dpdns.org/4wVQA7/625159/9301
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Starz East (S)
+https://omg.pendy.dpdns.org/4wVQA7/625159/9299
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Starz Encore Westerns (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/16263
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Starz in Black (East) (H)
+https://omg.pendy.dpdns.org/4wVQA7/625159/17779
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Starz West (S)
+https://omg.pendy.dpdns.org/4wVQA7/625159/21091
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US SUNDANCE
+https://omg.pendy.dpdns.org/4wVQA7/625159/46712
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABCAUSTRALIA(1).png",US TLC (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/46691
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABCAUSTRALIA(1).png",US TLC East
+https://omg.pendy.dpdns.org/4wVQA7/625159/12734
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABCAUSTRALIA(1).png",US TLC (east)
+https://omg.pendy.dpdns.org/4wVQA7/625159/47703
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABCAUSTRALIA(1).png",US TNT (West)
+https://omg.pendy.dpdns.org/4wVQA7/625159/46688
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABCAUSTRALIA(1).png",US TNT East
+https://omg.pendy.dpdns.org/4wVQA7/625159/10455
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABCAUSTRALIA(1).png",US Travel Channel East
+https://omg.pendy.dpdns.org/4wVQA7/625159/9315
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABCAUSTRALIA(1).png",US TRUTV East
+https://omg.pendy.dpdns.org/4wVQA7/625159/10224
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Latin TUDN (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/11885
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png",CA Turner Classic Movies
+https://omg.pendy.dpdns.org/4wVQA7/625159/66242
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TAIWANPLUSTV.png",US TV Land
+https://omg.pendy.dpdns.org/4wVQA7/625159/46696
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",USA: TV Land Classic HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/9271
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TAIWANPLUSTV.png",US TV One
+https://omg.pendy.dpdns.org/4wVQA7/625159/20868
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TAIWANPLUSTV.png",US TVG Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/10259
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TAIWANPLUSTV.png",US TVG2 Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/18940
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/QIUSUO1.png",US Univision (East) (SP)
+https://omg.pendy.dpdns.org/4wVQA7/625159/46692
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/QIUSUO1.png",US USA Network (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/10252
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US VH1 (East)
+https://omg.pendy.dpdns.org/4wVQA7/625159/46705
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US VH1
+https://omg.pendy.dpdns.org/4wVQA7/625159/7404
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US VICELAND
+https://omg.pendy.dpdns.org/4wVQA7/625159/46697
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US WAPA America
+https://omg.pendy.dpdns.org/4wVQA7/625159/76481
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US WE tv
+https://omg.pendy.dpdns.org/4wVQA7/625159/9237
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US World Fishing Network (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/10477
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK: Channel 4
+https://omg.pendy.dpdns.org/4wVQA7/625159/99138
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib JNN
+https://omg.pendy.dpdns.org/4wVQA7/625159/99566
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib RUSH+ Sports (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/99568
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib PBS
+https://omg.pendy.dpdns.org/4wVQA7/625159/99570
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib Aruba.TV (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/99574
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/JSTAR极限台电影.png",Star TV Gold
+https://omg.pendy.dpdns.org/4wVQA7/625159/99622
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib RUSH Sports (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/100043
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Global Durham (CHEX-DT-2) (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/100453
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Sudbury Ontario HD (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/100454
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV Timmins Ontario HD (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/100455
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA WILD TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/100456
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (Carib) FEVA (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/100457
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Super Channel Heart & Home (R)
+https://omg.pendy.dpdns.org/4wVQA7/625159/100460
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: CBC Winnipeg
+https://omg.pendy.dpdns.org/4wVQA7/625159/100628
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Global News Winnipeg (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/100629
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV WINNIPEG (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/100630
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CITY TV WINNIPEG (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/100631
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/PHTV-MS.png",PH TFC (X)
+https://omg.pendy.dpdns.org/4wVQA7/625159/101823
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/NATIONALGEOGRAPHIC.png",PH SARI SARI (C)
+https://omg.pendy.dpdns.org/4wVQA7/625159/101824
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/NATIONALGEOGRAPHIC.png",PH GMA Life TV (X)
+https://omg.pendy.dpdns.org/4wVQA7/625159/101825
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/NATIONALGEOGRAPHIC.png",PH GMA Pinoy TV (X)
+https://omg.pendy.dpdns.org/4wVQA7/625159/101826
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US GAC Family
+https://omg.pendy.dpdns.org/4wVQA7/625159/104877
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports Sun
+https://omg.pendy.dpdns.org/4wVQA7/625159/104917
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CNBCASIACHANNEL.png",CA Silver Screen (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/107190
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: Travel Escape
+https://omg.pendy.dpdns.org/4wVQA7/625159/108136
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US AT&T SportsNet Pittsburgh
+https://omg.pendy.dpdns.org/4wVQA7/625159/108178
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Latin Univision
+https://omg.pendy.dpdns.org/4wVQA7/625159/108248
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib Justice_Central
+https://omg.pendy.dpdns.org/4wVQA7/625159/108547
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1562605316-REDIS-DATA-TYPES.png",PE: PANAMERICANA HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/110633
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1562605316-REDIS-DATA-TYPES.png",PE: PERU MAGICO FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/110634
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1562605316-REDIS-DATA-TYPES.png",PE: AMERICA TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/110637
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1562605316-REDIS-DATA-TYPES.png",PE: ATV
+https://omg.pendy.dpdns.org/4wVQA7/625159/110638
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1562605316-REDIS-DATA-TYPES.png",PE: LATINA HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/110640
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ASTROPRIMA.png",PR: WIPR (PR)
+https://omg.pendy.dpdns.org/4wVQA7/625159/110642
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1562605316-REDIS-DATA-TYPES.png",PE: EXITOSA
+https://omg.pendy.dpdns.org/4wVQA7/625159/110643
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV LIFE (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/116506
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) Canal Vie HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/116947
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) CASA SD (P)
+https://omg.pendy.dpdns.org/4wVQA7/625159/116948
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US: QVC
+https://omg.pendy.dpdns.org/4wVQA7/625159/117707
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: BLOCKBUSTERS
+https://omg.pendy.dpdns.org/4wVQA7/625159/119421
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: CLASSIC
+https://omg.pendy.dpdns.org/4wVQA7/625159/119422
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: COMEDY
+https://omg.pendy.dpdns.org/4wVQA7/625159/119423
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: CULT
+https://omg.pendy.dpdns.org/4wVQA7/625159/119424
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: FAMILY
+https://omg.pendy.dpdns.org/4wVQA7/625159/119425
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: GREATS
+https://omg.pendy.dpdns.org/4wVQA7/625159/119426
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: GREATS TWO
+https://omg.pendy.dpdns.org/4wVQA7/625159/119427
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: HISTORICAL
+https://omg.pendy.dpdns.org/4wVQA7/625159/119428
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 Horror Movies
+https://omg.pendy.dpdns.org/4wVQA7/625159/119429
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: MUSICAL
+https://omg.pendy.dpdns.org/4wVQA7/625159/119430
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: MYSTERY
+https://omg.pendy.dpdns.org/4wVQA7/625159/119431
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: PREMIERE
+https://omg.pendy.dpdns.org/4wVQA7/625159/119432
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: ROMANCE
+https://omg.pendy.dpdns.org/4wVQA7/625159/119433
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: SCI-FI
+https://omg.pendy.dpdns.org/4wVQA7/625159/119434
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: WESTERN
+https://omg.pendy.dpdns.org/4wVQA7/625159/119435
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: HITS
+https://omg.pendy.dpdns.org/4wVQA7/625159/119436
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",CINEBOX: THRILLER
+https://omg.pendy.dpdns.org/4wVQA7/625159/119437
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_DOCUMENTARY_8K.png",DOCUBOX: ALL DOCUMENTERY
+https://omg.pendy.dpdns.org/4wVQA7/625159/119439
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_DOCUMENTARY_8K.png",DOCUBOX: DISCOVERY
+https://omg.pendy.dpdns.org/4wVQA7/625159/119440
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_DOCUMENTARY_8K.png",DOCUBOX: DW DOCUMENTERY
+https://omg.pendy.dpdns.org/4wVQA7/625159/119441
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_DOCUMENTARY_8K.png",DOCUBOX: FREE DOCUMENTERY ANILAMS
+https://omg.pendy.dpdns.org/4wVQA7/625159/119443
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_DOCUMENTARY_8K.png",DOCUBOX: FRONTLINE PBS
+https://omg.pendy.dpdns.org/4wVQA7/625159/119444
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_DOCUMENTARY_8K.png",DOCUBOX: NAT GEO WILD
+https://omg.pendy.dpdns.org/4wVQA7/625159/119447
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_DOCUMENTARY_8K.png",DOCUBOX: NETFLIX
+https://omg.pendy.dpdns.org/4wVQA7/625159/119448
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_DOCUMENTARY_8K.png",DOCUBOX: REAL WILD
+https://omg.pendy.dpdns.org/4wVQA7/625159/119451
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/JSTAR极限台电影.png",Star TV Sports
+https://omg.pendy.dpdns.org/4wVQA7/625159/53708
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/JSTAR极限台电影.png",Star TV Sports 2
+https://omg.pendy.dpdns.org/4wVQA7/625159/53709
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Game Show Network
+https://omg.pendy.dpdns.org/4wVQA7/625159/120633
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/AKC狗狗宠物.png",AK | Anchorage | NBC KTUU
+https://omg.pendy.dpdns.org/4wVQA7/625159/120634
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/AKC狗狗宠物.png",AK | Fairbanks | NBC KTVF
+https://omg.pendy.dpdns.org/4wVQA7/625159/120635
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CBS_News_logo.png",CBS: AL BIRMINGHAM WIAT
+https://omg.pendy.dpdns.org/4wVQA7/625159/120637
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/FOX1.png",FOX: BIRMINGHAM AL WBRC
+https://omg.pendy.dpdns.org/4wVQA7/625159/120638
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NBC 13 (WVTM) Birmingham
+https://omg.pendy.dpdns.org/4wVQA7/625159/120639
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABCAUSTRALIA(1).png",AL | Huntsville | NBC WAFF
+https://omg.pendy.dpdns.org/4wVQA7/625159/120640
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MTVBLOCKPARTY.png",LOC | TX | EL PASO | CBS KDBC
+https://omg.pendy.dpdns.org/4wVQA7/625159/120807
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/NATIONALGEOGRAPHIC.png",GR Mad (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/120970
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/NATIONALGEOGRAPHIC.png",GR Nea TV (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/120974
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/NATIONALGEOGRAPHIC.png",GR RIK Sat (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/120979
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US abc25 (WOLO) Columbia
+https://omg.pendy.dpdns.org/4wVQA7/625159/125633
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 FAMILY MATTERS
+https://omg.pendy.dpdns.org/4wVQA7/625159/125634
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 TOM AND JERRY
+https://omg.pendy.dpdns.org/4wVQA7/625159/125635
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 DUCK TALES
+https://omg.pendy.dpdns.org/4wVQA7/625159/125636
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 TEEN TITANS GO!
+https://omg.pendy.dpdns.org/4wVQA7/625159/125637
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 LOONEY TUNES
+https://omg.pendy.dpdns.org/4wVQA7/625159/125638
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US abc36 (WTVQ) Lexington
+https://omg.pendy.dpdns.org/4wVQA7/625159/125674
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FOX (WDKY) Lexington
+https://omg.pendy.dpdns.org/4wVQA7/625159/125675
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US abc9 (KGUN) Tucson
+https://omg.pendy.dpdns.org/4wVQA7/625159/125726
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CBS_News_logo.png",CBS: AZ TUCSON KOLD
+https://omg.pendy.dpdns.org/4wVQA7/625159/125727
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) RDI (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/126723
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Global Edmonton (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/132271
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US (FD) Military History
+https://omg.pendy.dpdns.org/4wVQA7/625159/134832
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US CBS (WJTV) Jackson
+https://omg.pendy.dpdns.org/4wVQA7/625159/135291
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FOX 40 (WDBD) Jackson
+https://omg.pendy.dpdns.org/4wVQA7/625159/135292
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US ABC 16 (WAPT) Jackson (H)
+https://omg.pendy.dpdns.org/4wVQA7/625159/135293
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Fox News
+https://omg.pendy.dpdns.org/4wVQA7/625159/135794
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA One Soccer
+https://omg.pendy.dpdns.org/4wVQA7/625159/135810
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US ABC (WBAY) HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/135811
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/NATGEOWILD.png",WI | Green Bay | FOX WLUK
+https://omg.pendy.dpdns.org/4wVQA7/625159/135812
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CBS_News_logo.png",CBS: WI GREEN BAY WFRV
+https://omg.pendy.dpdns.org/4wVQA7/625159/135813
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FOX (WUHF) Rochester
+https://omg.pendy.dpdns.org/4wVQA7/625159/135877
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US: CSPAN FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/136589
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MBCACTION.png",CA CTV2 VANCOUVER ISLAND (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/136612
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FOX (WTTE) Columbus (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/136613
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Global Montreal HD (B)
+https://omg.pendy.dpdns.org/4wVQA7/625159/136640
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Global Monterial News (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/136641
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT BENFICA TV HD  (P)
+https://omg.pendy.dpdns.org/4wVQA7/625159/136726
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US CBS (WDEF) Chattanooga (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/136739
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/FOX1.png",FOX: CHATTANOOGA TN WTVC
+https://omg.pendy.dpdns.org/4wVQA7/625159/136740
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABC111.png",ABC: CHATTANOOGA WTVC
+https://omg.pendy.dpdns.org/4wVQA7/625159/136741
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US CBS (KFVS) Cape Girardeau (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/136883
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FOX (KBSI) Paducah
+https://omg.pendy.dpdns.org/4wVQA7/625159/136884
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/TDMMACAUSATéLLITE.png",US AT&T SportsNet Southwest (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/136909
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US ABC (WLOS) HD (SP)
+https://omg.pendy.dpdns.org/4wVQA7/625159/137047
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US CBS (WSPA) HD (SP)
+https://omg.pendy.dpdns.org/4wVQA7/625159/137048
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US CW (WYCW) HD (SP)
+https://omg.pendy.dpdns.org/4wVQA7/625159/137049
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US ABC (WQAD) Moline
+https://omg.pendy.dpdns.org/4wVQA7/625159/137242
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US FOX (KSAZ) Phoenix
+https://omg.pendy.dpdns.org/4wVQA7/625159/137505
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/png-TRANSPARENT-RT-RUSSIA-NIEUWSZENDER-WIKIPEDIA-TELEVISION-CHANNEL-RUSSIA-ANGLE-TEXT-RECTANGLE.png",US Start TV
+https://omg.pendy.dpdns.org/4wVQA7/625159/137680
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA Global Peterborough News (E)
+https://omg.pendy.dpdns.org/4wVQA7/625159/137681
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US CBS (KGPE) Fresno (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/137682
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US ABC (WTNH) (SP)
+https://omg.pendy.dpdns.org/4wVQA7/625159/137697
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK: SKY SPORTS ARENA FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/137719
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",UK: SKY SPORTS MAIN EVENT HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/137720
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US BET Her
+https://omg.pendy.dpdns.org/4wVQA7/625159/137790
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA | Sacramento | NBC KCRA
+https://omg.pendy.dpdns.org/4wVQA7/625159/137953
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MTVBLOCKPARTY.png",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+https://omg.pendy.dpdns.org/4wVQA7/625159/137954
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABCAUSTRALIA(1).png",US Telemundo 31 (WTMO) Orlando
+https://omg.pendy.dpdns.org/4wVQA7/625159/139149
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Bally Sports Great Lake
+https://omg.pendy.dpdns.org/4wVQA7/625159/139272
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US CW (WUPA) Atlanta
+https://omg.pendy.dpdns.org/4wVQA7/625159/139462
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US PBS (WNED) HD (SP)
+https://omg.pendy.dpdns.org/4wVQA7/625159/139756
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Latin Hola TV (A)
+https://omg.pendy.dpdns.org/4wVQA7/625159/139757
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABCAUSTRALIA(1).png",US TeenNick
+https://omg.pendy.dpdns.org/4wVQA7/625159/140004
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png",24/7 GUNSMOKE
+https://omg.pendy.dpdns.org/4wVQA7/625159/140069
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US NBC (WDAM) Laurel (F)
+https://omg.pendy.dpdns.org/4wVQA7/625159/140399
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US Poker Go
+https://omg.pendy.dpdns.org/4wVQA7/625159/140814
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US World Poker Tour
+https://omg.pendy.dpdns.org/4wVQA7/625159/140815
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US CBS 7 (WNCN) Raleigh/Durham
+https://omg.pendy.dpdns.org/4wVQA7/625159/140820
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MTVBLOCKPARTY.png",LOC | NBC | KWWL WATERLOO-IOWA
+https://omg.pendy.dpdns.org/4wVQA7/625159/140899
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MTVBLOCKPARTY.png",LOC | IA | CBS | KGAN -WATERLOO-IOWA
+https://omg.pendy.dpdns.org/4wVQA7/625159/140900
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MTVBLOCKPARTY.png",LOC | IA | ABC| KCRG-WATERLOO-IOWA CITY
+https://omg.pendy.dpdns.org/4wVQA7/625159/140901
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CBS_News_logo.png",CBS: MI DETROIT WWJ
+https://omg.pendy.dpdns.org/4wVQA7/625159/147201
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MTVBLOCKPARTY.png",LOC | MI | DETROIT | CW WKBD
+https://omg.pendy.dpdns.org/4wVQA7/625159/147202
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US ABC 7 (WBBJ) Jackson (H)
+https://omg.pendy.dpdns.org/4wVQA7/625159/147203
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US PBS (WGBH) MA | Boston
+https://omg.pendy.dpdns.org/4wVQA7/625159/149621
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",US PBS (WNET) NY | New York (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/149622
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US abc7 (WZVN) Fort Myers
+https://omg.pendy.dpdns.org/4wVQA7/625159/149745
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ABC111.png",ABC: OKLAHOMA CITY KOCO
+https://omg.pendy.dpdns.org/4wVQA7/625159/154792
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/CBS_News_logo.png",CBS: LA LAFAYETTE KLFY
+https://omg.pendy.dpdns.org/4wVQA7/625159/158058
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/MTVBLOCKPARTY.png",LOC | TX | BEAUMONT-PORT ARTHUR | CBS KFDM
+https://omg.pendy.dpdns.org/4wVQA7/625159/158059
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US ABC 12 (KBMT) Port Arthur (H)
+https://omg.pendy.dpdns.org/4wVQA7/625159/158060
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/USABCNEWS.png",US ABC (KSTP) Minneapolis/St. paul
+https://omg.pendy.dpdns.org/4wVQA7/625159/158481
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png",FR: FRANCE 2 FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/160297
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png",FR: FRANCE 3 FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/160298
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png",FR: FRANCE 4 FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/160299
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png",FR: FRANCE 5 FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/160300
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png",FR: AB3 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/160302
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png",FR: MCM
+https://omg.pendy.dpdns.org/4wVQA7/625159/160303
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png",FR: CANAL+ DECALE FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/160306
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png",FR: CINE+ FAMIZ FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/160308
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA (FR) ICI RDI (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/164369
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: RTP 1 FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164792
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: CNN HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164802
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: TV CINE ACTION FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164809
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: NOS STUDIOS FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164811
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: HOLLYWOOD FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164813
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: AXN WHITE FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164815
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: AXN MOVIES  HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164818
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: SYFY FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164821
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: TV GLOBO HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164824
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: ZAP VIVA FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164853
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: TPA INTERNACIONAL SD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164855
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: TVC CABO VERDE
+https://omg.pendy.dpdns.org/4wVQA7/625159/164858
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: TVI REALITY
+https://omg.pendy.dpdns.org/4wVQA7/625159/164861
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/STARGOLD.png",ARG: EL NUEVE HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164869
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/STARGOLD.png",ARG: CINE ARGENTINO
+https://omg.pendy.dpdns.org/4wVQA7/625159/164871
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/STARGOLD.png",ARG: TN NOTICIAS
+https://omg.pendy.dpdns.org/4wVQA7/625159/164873
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/STARGOLD.png",ARG: CRONICA HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164875
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/STARGOLD.png",ARG: INFORMACION PERIODISTICA HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164879
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/STARGOLD.png",ARG: AMERICA TV HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164881
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/XITEJUSTCHILL.png",CHILE: MEGA HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164883
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/XITEJUSTCHILL.png",CHILE: CHILEVISION HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164884
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/XITEJUSTCHILL.png",CHILE: 13I
+https://omg.pendy.dpdns.org/4wVQA7/625159/164885
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/XITEJUSTCHILL.png",CHILE: TVN CHILE HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164888
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ASTROAURA.png",URU: CANAL 10 SAETA HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164917
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ASTROAURA.png",URU: CANAL12 MELO HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164921
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ASTROAURA.png",URU: A+V HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164922
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ASTROAURA.png",URU: CANAL 4 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164923
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ASTROAURA.png",URU: LA TELE HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164927
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/ICABLELIVENEWSCHANNEL.png",VENEZUELA: TELEVEN
+https://omg.pendy.dpdns.org/4wVQA7/625159/164931
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BANGBROS.png",BR: AMC HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164938
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BANGBROS.png",BR: GLOBO HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164943
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BANGBROS.png",BR: GLOBO MINAS HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164944
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BANGBROS.png",BR: ESPN
+https://omg.pendy.dpdns.org/4wVQA7/625159/164948
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BANGBROS.png",BR: HBO HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164950
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BANGBROS.png",BR: TNT SERIES HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/164958
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: SPORT TV 1 FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/167742
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: SPORT TV 2 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/167743
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: SPORT TV 4 FHD
+https://omg.pendy.dpdns.org/4wVQA7/625159/167745
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: ELEVEN SPORTS 3 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/167748
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: ELEVEN SPORTS 4 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/167749
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/Astro Tutor TV PT3.png",PT: ELEVEN SPORTS 5 HD
+https://omg.pendy.dpdns.org/4wVQA7/625159/167750
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/4E4A20A4462309F790521146E8471BF3D7CA7BCB7807.png",CA: MUCH MUSIC
+https://omg.pendy.dpdns.org/4wVQA7/625159/215268
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Action
+https://omg.pendy.dpdns.org/4wVQA7/625159/215269
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Adventure
+https://omg.pendy.dpdns.org/4wVQA7/625159/215270
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Alien
+https://omg.pendy.dpdns.org/4wVQA7/625159/215271
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Animation
+https://omg.pendy.dpdns.org/4wVQA7/625159/215272
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Avengers
+https://omg.pendy.dpdns.org/4wVQA7/625159/215273
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Batman
+https://omg.pendy.dpdns.org/4wVQA7/625159/215274
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Biography
+https://omg.pendy.dpdns.org/4wVQA7/625159/215275
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Blade
+https://omg.pendy.dpdns.org/4wVQA7/625159/215276
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Blade Runner
+https://omg.pendy.dpdns.org/4wVQA7/625159/215277
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Comedy
+https://omg.pendy.dpdns.org/4wVQA7/625159/215278
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Creature
+https://omg.pendy.dpdns.org/4wVQA7/625159/215279
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Crime
+https://omg.pendy.dpdns.org/4wVQA7/625159/215280
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Deadpool
+https://omg.pendy.dpdns.org/4wVQA7/625159/215281
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Die Hard
+https://omg.pendy.dpdns.org/4wVQA7/625159/215282
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Drama
+https://omg.pendy.dpdns.org/4wVQA7/625159/215283
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Epic
+https://omg.pendy.dpdns.org/4wVQA7/625159/215284
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Fantasy
+https://omg.pendy.dpdns.org/4wVQA7/625159/215286
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Fast and the Furious
+https://omg.pendy.dpdns.org/4wVQA7/625159/215287
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Final Destination
+https://omg.pendy.dpdns.org/4wVQA7/625159/215288
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Ghostbusters
+https://omg.pendy.dpdns.org/4wVQA7/625159/215289
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Hangover
+https://omg.pendy.dpdns.org/4wVQA7/625159/215290
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Harry Potter
+https://omg.pendy.dpdns.org/4wVQA7/625159/215291
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: History
+https://omg.pendy.dpdns.org/4wVQA7/625159/215292
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Horror
+https://omg.pendy.dpdns.org/4wVQA7/625159/215293
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Ice Age
+https://omg.pendy.dpdns.org/4wVQA7/625159/215294
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Indiana Jones
+https://omg.pendy.dpdns.org/4wVQA7/625159/215295
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: James Bond (007)
+https://omg.pendy.dpdns.org/4wVQA7/625159/215296
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: John Wick
+https://omg.pendy.dpdns.org/4wVQA7/625159/215297
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jurassic Park
+https://omg.pendy.dpdns.org/4wVQA7/625159/215298
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Kingsman
+https://omg.pendy.dpdns.org/4wVQA7/625159/215299
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Legendary
+https://omg.pendy.dpdns.org/4wVQA7/625159/215300
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Mad Max
+https://omg.pendy.dpdns.org/4wVQA7/625159/215301
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Maze Runner
+https://omg.pendy.dpdns.org/4wVQA7/625159/215302
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Men in Black
+https://omg.pendy.dpdns.org/4wVQA7/625159/215303
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Mission Impossible
+https://omg.pendy.dpdns.org/4wVQA7/625159/215304
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Musical
+https://omg.pendy.dpdns.org/4wVQA7/625159/215305
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Mystery
+https://omg.pendy.dpdns.org/4wVQA7/625159/215306
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Mythological
+https://omg.pendy.dpdns.org/4wVQA7/625159/215307
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Oceans Eleven
+https://omg.pendy.dpdns.org/4wVQA7/625159/215308
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Pirates of the Caribbean
+https://omg.pendy.dpdns.org/4wVQA7/625159/215309
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Planet of Apes
+https://omg.pendy.dpdns.org/4wVQA7/625159/215310
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Post-Apocalyptic
+https://omg.pendy.dpdns.org/4wVQA7/625159/215311
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Resident Evil
+https://omg.pendy.dpdns.org/4wVQA7/625159/215312
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Robot
+https://omg.pendy.dpdns.org/4wVQA7/625159/215313
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Rocky
+https://omg.pendy.dpdns.org/4wVQA7/625159/215314
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Romantic
+https://omg.pendy.dpdns.org/4wVQA7/625159/215315
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Saw
+https://omg.pendy.dpdns.org/4wVQA7/625159/215316
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Science Fiction
+https://omg.pendy.dpdns.org/4wVQA7/625159/215317
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Sherlock Holmes
+https://omg.pendy.dpdns.org/4wVQA7/625159/215318
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Shrek
+https://omg.pendy.dpdns.org/4wVQA7/625159/215319
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Space
+https://omg.pendy.dpdns.org/4wVQA7/625159/215320
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Spiderman
+https://omg.pendy.dpdns.org/4wVQA7/625159/215321
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Sports
+https://omg.pendy.dpdns.org/4wVQA7/625159/215322
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Spy
+https://omg.pendy.dpdns.org/4wVQA7/625159/215323
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Star Wars
+https://omg.pendy.dpdns.org/4wVQA7/625159/215324
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Superhero
+https://omg.pendy.dpdns.org/4wVQA7/625159/215325
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Survival
+https://omg.pendy.dpdns.org/4wVQA7/625159/215326
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Bourne
+https://omg.pendy.dpdns.org/4wVQA7/625159/215327
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Conjuring
+https://omg.pendy.dpdns.org/4wVQA7/625159/215328
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Expendables
+https://omg.pendy.dpdns.org/4wVQA7/625159/215329
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Godfather
+https://omg.pendy.dpdns.org/4wVQA7/625159/215330
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Hobbit
+https://omg.pendy.dpdns.org/4wVQA7/625159/215331
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Hunger Games
+https://omg.pendy.dpdns.org/4wVQA7/625159/215332
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Karete Kid
+https://omg.pendy.dpdns.org/4wVQA7/625159/215333
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Lord of The Rings
+https://omg.pendy.dpdns.org/4wVQA7/625159/215334
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Matrix
+https://omg.pendy.dpdns.org/4wVQA7/625159/215335
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Mummy
+https://omg.pendy.dpdns.org/4wVQA7/625159/215336
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Purge
+https://omg.pendy.dpdns.org/4wVQA7/625159/215337
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: The Terminator
+https://omg.pendy.dpdns.org/4wVQA7/625159/215338
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Three Flavours Cornetto
+https://omg.pendy.dpdns.org/4wVQA7/625159/215339
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Thriller
+https://omg.pendy.dpdns.org/4wVQA7/625159/215340
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Toy Story
+https://omg.pendy.dpdns.org/4wVQA7/625159/215341
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Transformers
+https://omg.pendy.dpdns.org/4wVQA7/625159/215342
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Transporter
+https://omg.pendy.dpdns.org/4wVQA7/625159/215343
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Twilight Saga
+https://omg.pendy.dpdns.org/4wVQA7/625159/215344
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: War
+https://omg.pendy.dpdns.org/4wVQA7/625159/215345
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Western
+https://omg.pendy.dpdns.org/4wVQA7/625159/215346
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: X-Men
+https://omg.pendy.dpdns.org/4wVQA7/625159/215347
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Zombie
+https://omg.pendy.dpdns.org/4wVQA7/625159/215348
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Benedict Cumberbatch
+https://omg.pendy.dpdns.org/4wVQA7/625159/215349
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Bradley Cooper
+https://omg.pendy.dpdns.org/4wVQA7/625159/215350
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Christian Bale
+https://omg.pendy.dpdns.org/4wVQA7/625159/215351
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Cillian Murphy
+https://omg.pendy.dpdns.org/4wVQA7/625159/215352
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Edward Norton
+https://omg.pendy.dpdns.org/4wVQA7/625159/215353
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Hugh Jackman
+https://omg.pendy.dpdns.org/4wVQA7/625159/215354
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jack Nicholson
+https://omg.pendy.dpdns.org/4wVQA7/625159/215355
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jake Gyllenhaal
+https://omg.pendy.dpdns.org/4wVQA7/625159/215356
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jamie Foxx
+https://omg.pendy.dpdns.org/4wVQA7/625159/215357
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jeff Bridges
+https://omg.pendy.dpdns.org/4wVQA7/625159/215358
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jim Carrey
+https://omg.pendy.dpdns.org/4wVQA7/625159/215359
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Johnny Depp
+https://omg.pendy.dpdns.org/4wVQA7/625159/215360
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Keanu Reeves
+https://omg.pendy.dpdns.org/4wVQA7/625159/215361
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Liam Neeson
+https://omg.pendy.dpdns.org/4wVQA7/625159/215362
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Mark Wahlberg
+https://omg.pendy.dpdns.org/4wVQA7/625159/215363
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Matt Damon
+https://omg.pendy.dpdns.org/4wVQA7/625159/215364
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Micheal Caine
+https://omg.pendy.dpdns.org/4wVQA7/625159/215365
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Morgan Freeman
+https://omg.pendy.dpdns.org/4wVQA7/625159/215366
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Russell Crowe
+https://omg.pendy.dpdns.org/4wVQA7/625159/215367
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Ryan Reynolds
+https://omg.pendy.dpdns.org/4wVQA7/625159/215368
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Samuel L. Jakson
+https://omg.pendy.dpdns.org/4wVQA7/625159/215369
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Tom Cruise
+https://omg.pendy.dpdns.org/4wVQA7/625159/215370
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Tom Hanks
+https://omg.pendy.dpdns.org/4wVQA7/625159/215371
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Will Smith
+https://omg.pendy.dpdns.org/4wVQA7/625159/215372
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Adam Sandler
+https://omg.pendy.dpdns.org/4wVQA7/625159/215373
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Arnold Schwarzenegger
+https://omg.pendy.dpdns.org/4wVQA7/625159/215374
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Daniel Craig
+https://omg.pendy.dpdns.org/4wVQA7/625159/215375
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Dwayne Johnson
+https://omg.pendy.dpdns.org/4wVQA7/625159/215376
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Gerard Butler
+https://omg.pendy.dpdns.org/4wVQA7/625159/215377
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jackie Chan
+https://omg.pendy.dpdns.org/4wVQA7/625159/215378
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jason Statham
+https://omg.pendy.dpdns.org/4wVQA7/625159/215379
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Kevin Hart
+https://omg.pendy.dpdns.org/4wVQA7/625159/215380
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Orlando Bloom
+https://omg.pendy.dpdns.org/4wVQA7/625159/215381
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Sylvester Stallone
+https://omg.pendy.dpdns.org/4wVQA7/625159/215382
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Tom Hardy
+https://omg.pendy.dpdns.org/4wVQA7/625159/215383
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Amy Adams
+https://omg.pendy.dpdns.org/4wVQA7/625159/215384
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Anne Hathaway
+https://omg.pendy.dpdns.org/4wVQA7/625159/215385
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Brie Larson
+https://omg.pendy.dpdns.org/4wVQA7/625159/215386
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Cate Blanchett
+https://omg.pendy.dpdns.org/4wVQA7/625159/215387
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Charlize Theron
+https://omg.pendy.dpdns.org/4wVQA7/625159/215388
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Halle Berry
+https://omg.pendy.dpdns.org/4wVQA7/625159/215389
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Helen Mirren
+https://omg.pendy.dpdns.org/4wVQA7/625159/215390
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Brad Pitt
+https://omg.pendy.dpdns.org/4wVQA7/625159/215391
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Al Pacino
+https://omg.pendy.dpdns.org/4wVQA7/625159/215392
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Denzel Washington
+https://omg.pendy.dpdns.org/4wVQA7/625159/215393
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Vin Diesel
+https://omg.pendy.dpdns.org/4wVQA7/625159/215394
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Bruce Willis
+https://omg.pendy.dpdns.org/4wVQA7/625159/215395
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Robert Downey Jr
+https://omg.pendy.dpdns.org/4wVQA7/625159/215396
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Angelina Jolie
+https://omg.pendy.dpdns.org/4wVQA7/625159/215398
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Alicia Vikander
+https://omg.pendy.dpdns.org/4wVQA7/625159/215399
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Emma Stone
+https://omg.pendy.dpdns.org/4wVQA7/625159/215400
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Emma Watson
+https://omg.pendy.dpdns.org/4wVQA7/625159/215401
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jennifer Lawrence
+https://omg.pendy.dpdns.org/4wVQA7/625159/215402
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Julia Roberts
+https://omg.pendy.dpdns.org/4wVQA7/625159/215403
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Julianne Moore
+https://omg.pendy.dpdns.org/4wVQA7/625159/215404
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Kate Winslet
+https://omg.pendy.dpdns.org/4wVQA7/625159/215405
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Keira Knightley
+https://omg.pendy.dpdns.org/4wVQA7/625159/215406
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Kristen Stewart
+https://omg.pendy.dpdns.org/4wVQA7/625159/215407
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Lupita Nyong` o
+https://omg.pendy.dpdns.org/4wVQA7/625159/215408
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Margot Robbie
+https://omg.pendy.dpdns.org/4wVQA7/625159/215409
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Meryl Streep
+https://omg.pendy.dpdns.org/4wVQA7/625159/215410
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Michelle Pfeiffer
+https://omg.pendy.dpdns.org/4wVQA7/625159/215411
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Natalie Portman
+https://omg.pendy.dpdns.org/4wVQA7/625159/215412
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Nicole Kidman
+https://omg.pendy.dpdns.org/4wVQA7/625159/215413
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Rachel McAdams
+https://omg.pendy.dpdns.org/4wVQA7/625159/215414
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Reese Witherspoon
+https://omg.pendy.dpdns.org/4wVQA7/625159/215415
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Salma Hayek
+https://omg.pendy.dpdns.org/4wVQA7/625159/215416
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Sandra Bullock
+https://omg.pendy.dpdns.org/4wVQA7/625159/215417
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Saoirse Ronan
+https://omg.pendy.dpdns.org/4wVQA7/625159/215418
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Scarlett Johansson
+https://omg.pendy.dpdns.org/4wVQA7/625159/215419
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Viola Davis
+https://omg.pendy.dpdns.org/4wVQA7/625159/215420
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Cameron Diaz
+https://omg.pendy.dpdns.org/4wVQA7/625159/215421
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Catherine Zeta-Jones
+https://omg.pendy.dpdns.org/4wVQA7/625159/215422
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Drew Barrymore
+https://omg.pendy.dpdns.org/4wVQA7/625159/215423
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Eva Green
+https://omg.pendy.dpdns.org/4wVQA7/625159/215424
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jennifer Aniston
+https://omg.pendy.dpdns.org/4wVQA7/625159/215425
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Jessica Alba
+https://omg.pendy.dpdns.org/4wVQA7/625159/215426
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Lucy Liu
+https://omg.pendy.dpdns.org/4wVQA7/625159/215427
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Megan Fox
+https://omg.pendy.dpdns.org/4wVQA7/625159/215428
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Melissa McCarthy
+https://omg.pendy.dpdns.org/4wVQA7/625159/215429
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Mila Kunis
+https://omg.pendy.dpdns.org/4wVQA7/625159/215430
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Penope Cruz
+https://omg.pendy.dpdns.org/4wVQA7/625159/215431
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Sigourney Weaver
+https://omg.pendy.dpdns.org/4wVQA7/625159/215432
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png",M4: Zoe Saldana
+https://omg.pendy.dpdns.org/4wVQA7/625159/215433
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/BRTV_CARTOON.png",Carib TVDirect13 (D)
+https://omg.pendy.dpdns.org/4wVQA7/625159/216085
+#EXTINF:-1 group-title="美国有线频道" tvg-logo="https://epg.v1.mk/logo/QIUSUO1.png",US US CW 39 (KIAH) Houston
+https://omg.pendy.dpdns.org/4wVQA7/625159/216086
 
 #EXTINF:-1 group-title="实时视频",熊猫视频
 https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
