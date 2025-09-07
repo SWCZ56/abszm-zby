@@ -3329,73 +3329,66 @@ http://220.132.15.209:5008/ofiii97/index.m3u8
 #EXTINF:-1 group-title="歐飛點播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png",銀髮聚樂部
 http://220.132.15.209:5008/ofiii99/index.m3u8
 
-#EXTINF:-1 group-title="睛彩",睛广场彩舞
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="睛彩",睛广场彩舞
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="睛彩",睛彩青少
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="睛彩",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="睛彩",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="睛彩",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="睛彩",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 group-title="睛彩",睛彩青少
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png",Astro AEC
-http://php.jdshipin.com:8880/smt.php?id=AEC
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png",Astro AOD
-http://php.jdshipin.com:8880/smt.php?id=Aodhd
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/天映.png",天映频道
-http://php.jdshipin.com:8880/smt.php?id=Celestial
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/天映经典.png",天映经典
-http://php.jdshipin.com:8880/smt.php?id=Celestial2
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png",鳳凰衛視香港台
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png",Astro欢喜台
-http://php.jdshipin.com:8880/smt.php?id=Huahee
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/翡翠台.png",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png",美亞電影台
-http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/明珠台.png",明珠台
-http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",鳳凰衛視資訊台
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",鳳凰衛視中文台
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",鳳凰衛視中文台
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png",爱奇艺
-http://php.jdshipin.com:8880/smt.php?id=Qiyi
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png",Astro QJ
-http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",鳳凰衛視資訊台
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",鳳凰衛視資訊台
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png",鳳凰衛視香港台
+http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png",鳳凰衛視香港台
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/翡翠台.png",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",无线新闻台
+https://live.tvfix.org/live/inews/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/明珠台.png",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
+https://live.tvfix.org/live/pearl/index.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/rthk31.png",RTHK31
 http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/rthk32.png",RTHK32
 http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png",TVB娱乐新闻台
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/娱乐新闻台.png",娱乐新闻台
+https://live.tvfix.org/live/enews/index.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/viutv.png",ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png",ViuTVSix
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/TVB星河.png",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/天映.png",天映频道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/天映经典.png",天映经典
+http://php.jdshipin.com:8880/smt.php?id=Celestial2
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png",Astro AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png",Astro欢喜台
+http://php.jdshipin.com:8880/smt.php?id=Huahee
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png",美亞電影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png",爱奇艺
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png",Animax
 https://live.tvfix.org/live/animax/index.m3u8
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/娱乐新闻台.png",娱乐新闻台
-https://live.tvfix.org/live/enews/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰电影频道
+http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",星空卫视频道
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",鳳凰衛視中文台
 https://live.tvfix.org/live/fhzw/index.m3u8
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",无线新闻台
-https://live.tvfix.org/live/inews/index.m3u8
-#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
-https://live.tvfix.org/live/pearl/index.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.112114.xyz/logo/TVBS.png",TVBS
 https://live.tvfix.org/live/tvbs/index.m3u8
 
@@ -5169,394 +5162,3 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cij3l0jc77u3icn4
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cjafrsbc77u9f174pvj0
 #EXTINF:-1 group-title="MTV频道",8
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cjafrsbc77u9f174pvj0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
-
-#EXTINF:-1 group-title="午夜福利",繼妹塞拉（SierraNicole）在哥哥的洗衣機頂部獲得奶油派！
-http://10238.vod.redtraffic.xyz/ph5a5cf135d7642/play.m3u8
-#EXTINF:-1 group-title="午夜福利",Fhuta-俄羅斯女兒向爸爸的朋友學習
-http://12204.vod.redtraffic.xyz/ph57c6e83db8a63/play.m3u8
-#EXTINF:-1 group-title="午夜福利",暨品嚐女生貓貓搞砸通過角質年長的傢伙
-http://12204.vod.redtraffic.xyz/ph5ab212155cc0c/play.m3u8
-#EXTINF:-1 group-title="午夜福利",中国女孩的后台裸照
-http://1244.vod.adultiptv.net/ph57c46d6c4cbde/play.m3u8
-#EXTINF:-1 group-title="午夜福利",中国女孩在监狱第4部分
-http://13216.vod.redtraffic.xyz/ph57e3d9618a6bd/play.m3u8
-#EXTINF:-1 group-title="午夜福利",StarAJCreamPie彙編
-http://13216.vod.redtraffic.xyz/ph59d44fd2d8fbf/play.m3u8
-#EXTINF:-1 group-title="午夜福利",学院派女神性急在车上就脱裤搞起后入大屁股
-http://1465.vod.adultiptv.net/ph5b7ee27f31261/play.m3u8
-#EXTINF:-1 group-title="午夜福利",Zoom
-http://185.236.229.62:9981/play/a02a
-#EXTINF:-1 group-title="午夜福利",MOM金發碧眼的辦公室老闆很高興她在辦公室初中時被丈夫欺騙了
-http://60106.vod.redtraffic.xyz/ph56b71cb238bce/play.m3u8
-#EXTINF:-1 group-title="午夜福利",BABES
-http://cord-cutter.net:8080/7MArer2/382185/159959
-#EXTINF:-1 group-title="午夜福利",BRAZZERS
-http://cord-cutter.net:8080/7MArer2/382185/159966
-#EXTINF:-1 group-title="午夜福利",俄罗斯之夜
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/147/index.m3u8
-#EXTINF:-1 group-title="午夜福利",寸止居酒屋
-https://1080p.huyall.com/play/1aKDNorb/index.m3u8
-#EXTINF:-1 group-title="午夜福利",灼热之舌
-https://1080p.huyall.com/play/1aKDox8b/index.m3u8
-#EXTINF:-1 group-title="午夜福利",爱恨龙卷风
-https://1080p.huyall.com/play/1aMGl3Bd/index.m3u8
-#EXTINF:-1 group-title="午夜福利",娇妻肉宴
-https://1080p.huyall.com/play/5eVRGMoe/index.m3u8
-#EXTINF:-1 group-title="午夜福利",爱情誓言
-https://1080p.huyall.com/play/5eVRxA1e/index.m3u8
-#EXTINF:-1 group-title="午夜福利",交换情侣3
-https://1080p.huyall.com/play/9aApxvze/index.m3u8
-#EXTINF:-1 group-title="午夜福利",卷毛直播妹
-https://1080p.huyall.com/play/9aApzOle/index.m3u8
-#EXTINF:-1 group-title="午夜福利",喜欢大家伙的女孩
-https://1080p.huyall.com/play/9b6QM7Qa/index.m3u8
-#EXTINF:-1 group-title="午夜福利",婚礼当天失去的纯洁
-https://1080p.huyall.com/play/9b6QvMza/index.m3u8
-#EXTINF:-1 group-title="午夜福利",绿帽人妻
-https://1080p.huyall.com/play/9b6Qw4Qa/index.m3u8
-#EXTINF:-1 group-title="午夜福利",触摸
-https://1080p.huyall.com/play/9b6QwmRa/index.m3u8
-#EXTINF:-1 group-title="午夜福利",新任女秘书
-https://1080p.huyall.com/play/DbDvDNBe/index.m3u8
-#EXTINF:-1 group-title="午夜福利",妹妹的味道
-https://1080p.huyall.com/play/Ddw1Ap1a/index.m3u8
-#EXTINF:-1 group-title="午夜福利",新城妈妈
-https://1080p.huyall.com/play/Ddw1lkMa/index.m3u8
-#EXTINF:-1 group-title="午夜福利",性伴侣的品格
-https://1080p.huyall.com/play/Ddw1mNMa/index.m3u8
-#EXTINF:-1 group-title="午夜福利",图霍格
-https://1080p.huyall.com/play/Le3xRp4a/index.m3u8
-#EXTINF:-1 group-title="午夜福利",露营地变态女主管
-https://1080p.huyall.com/play/lej19M4d/index.m3u8
-#EXTINF:-1 group-title="午夜福利",重生之我不是舔狗
-https://1080p.huyall.com/play/lej1g4ld/index.m3u8
-#EXTINF:-1 group-title="午夜福利",四人行
-https://1080p.huyall.com/play/lej1ggYd/index.m3u8
-#EXTINF:-1 group-title="午夜福利",贪吃的三姐妹
-https://1080p.huyall.com/play/lej1k15d/index.m3u8
-#EXTINF:-1 group-title="午夜福利",利塔
-https://1080p.huyall.com/play/lejrXo4e/index.m3u8
-#EXTINF:-1 group-title="午夜福利",回忆初体验
-https://1080p.huyall.com/play/nel1glla/index.m3u8
-#EXTINF:-1 group-title="午夜福利",一夜替身
-https://1080p.huyall.com/play/nel1oKja/index.m3u8
-#EXTINF:-1 group-title="午夜福利",哥哥给我一个机会
-https://1080p.huyall.com/play/nel1Qg1a/index.m3u8
-#EXTINF:-1 group-title="午夜福利",变态女大学生
-https://1080p.huyall.com/play/nel1VD1a/index.m3u8
-#EXTINF:-1 group-title="午夜福利",婶子
-https://1080p.huyall.com/play/nel1yPla/index.m3u8
-#EXTINF:-1 group-title="午夜福利",女保安
-https://1080p.huyall.com/play/nelwKVrd/index.m3u8
-#EXTINF:-1 group-title="午夜福利",我叫阿尔玛
-https://1080p.huyall.com/play/PdyjDjWe/index.m3u8
-#EXTINF:-1 group-title="午夜福利",相识
-https://1080p.huyall.com/play/PdyjgrEe/index.m3u8
-#EXTINF:-1 group-title="午夜福利",复仇轮回
-https://1080p.huyall.com/play/pen1o5Ed/index.m3u8
-#EXTINF:-1 group-title="午夜福利",姐夫的秘密
-https://1080p.huyall.com/play/rb2MlwAa/index.m3u8
-#EXTINF:-1 group-title="午夜福利",新婚交叉曲
-https://1080p.huyall.com/play/rb2Mojja/index.m3u8
-#EXTINF:-1 group-title="午夜福利",恋爱公主
-https://1080p.huyall.com/play/Rb4Ovz1a/index.m3u8
-#EXTINF:-1 group-title="午夜福利",交缠
-https://1080p.huyall.com/play/Rb4Z5Xne/index.m3u8
-#EXTINF:-1 group-title="午夜福利",他的PS搭档
-https://1080p.huyall.com/play/RdG0AXye/index.m3u8
-#EXTINF:-1 group-title="午夜福利",深浅行动
-https://1080p.huyall.com/play/Xe0KNW5d/index.m3u8
-#EXTINF:-1 group-title="午夜福利",塔米的幻想
-https://1080p.huyall.com/play/Xe0KV13d/index.m3u8
-#EXTINF:-1 group-title="午夜福利",甜蜜宝贝
-https://1080p.huyall.com/play/YaOKGGga/index.m3u8
-#EXTINF:-1 group-title="午夜福利",破旧山庄
-https://1080p.huyall.com/play/YaOKMoQa/index.m3u8
-#EXTINF:-1 group-title="午夜福利",母女主人
-https://1080p.huyall.com/play/YaOKXOBa/index.m3u8
-#EXTINF:-1 group-title="午夜福利",想要女朋友
-https://1080p.huyall.com/play/yb8VNnle/index.m3u8
-#EXTINF:-1 group-title="午夜福利",打底裤狂热
-https://1080p.huyall.com/play/yb8VnQre/index.m3u8
-#EXTINF:-1 group-title="午夜福利",金秘书
-https://1080p.huyall.com/play/yb8VrGoe/index.m3u8
-#EXTINF:-1 group-title="午夜福利",四大名妓
-https://1080p.huyall.com/play/yb8VZLre/index.m3u8
-#EXTINF:-1 group-title="午夜福利",第三十四条法则
-https://1080p.huyall.com/play/Yer173kd/index.m3u8
-#EXTINF:-1 group-title="午夜福利",来来去去
-https://1080p.huyall.com/play/Yer18Qkd/index.m3u8
-#EXTINF:-1 group-title="午夜福利",极乐出租屋
-https://1080p.huyall.com/play/Yer1orwd/index.m3u8
-#EXTINF:-1 group-title="午夜福利",脱衣女仆
-https://1080p.huyall.com/play/YerDQNKb/index.m3u8
-#EXTINF:-1 group-title="午夜福利",性爱餐厅1
-https://10j99.cdnedge.live/file/avple-images/hls/629a03e862a22f14d4ef251c/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",购买壮阳药-强上女医师
-https://10j99.cdnedge.live/file/avple-images/hls/629b2d8cc73d695b3e2f3937/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",惹火借宿
-https://10j99.cdnedge.live/file/avple-images/hls/629f295579f93b6e0966e235/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",淫荡小姨色诱侄子被操哭
-https://1xp60.cdnedge.live/file/avple-images/hls/629b2d59c73d695b3e2f3936/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",夜勤病栋上部
-https://1xp60.cdnedge.live/file/avple-images/hls/629e1a28759a6d027422edf1/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",小姨子的礼物
-https://1xp60.cdnedge.live/file/avple-images/hls/629f289b79f93b6e0966e233/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",性爱餐厅2
-https://8bb88.cdnedge.live/file/avple-images/hls/629a049d62a22f14d4ef251e/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",精东传媒61
-https://8bb88.cdnedge.live/file/avple-images/hls/629b2ebec73d695b3e2f3939/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",天降精喜乞丐操少妇
-https://8bb88.cdnedge.live/file/avple-images/hls/629f1bf5759a6d027422edf4/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",禁不起诱惑狂操美女老师
-https://8bb88.cdnedge.live/file/avple-images/hls/629f260979f93b6e0966e22d/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",强欲少妇勾引水电工
-https://8bb88.cdnedge.live/file/avple-images/hls/629f268279f93b6e0966e22e/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",用小穴汁援哥哥用功读书
-https://8bb88.cdnedge.live/file/avple-images/hls/629f26bc79f93b6e0966e22f/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",小妈帮继子破处
-https://8bb88.cdnedge.live/file/avple-images/hls/629f291679f93b6e0966e234/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",MCY-0036美团外卖员双飞姐妹花-沈娜娜、夏禹熙
-https://8bb88.cdnedge.live/file/avple-images/hls/62c5a50a36c38433078a694e/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",无码6
-https://askzycdn.com/20240504/co0xe9GJ/index.m3u8
-#EXTINF:-1 group-title="午夜福利",无码9
-https://askzycdn.com/20240504/fsXBagDk/index.m3u8
-#EXTINF:-1 group-title="午夜福利",无码7
-https://askzycdn.com/20240504/nsj0aMxp/index.m3u8
-#EXTINF:-1 group-title="午夜福利",无码8
-https://askzycdn.com/20240504/sbItybZ7/index.m3u8
-#EXTINF:-1 group-title="午夜福利",无码11
-https://askzycdn.com/20240504/TDdrBoz3/index.m3u8
-#EXTINF:-1 group-title="午夜福利",无码5
-https://askzycdn.com/20240507/80fFUhyH/index.m3u8
-#EXTINF:-1 group-title="午夜福利",无码1
-https://askzycdn.com/20240507/cwVnzlXp/index.m3u8
-#EXTINF:-1 group-title="午夜福利",无码3
-https://askzycdn.com/20240507/mhZIIFXJ/index.m3u8
-#EXTINF:-1 group-title="午夜福利",无码4
-https://askzycdn.com/20240507/OXqJ5zSL/index.m3u8
-#EXTINF:-1 group-title="午夜福利",无码2
-https://askzycdn.com/20240507/WkdsFPPT/index.m3u8
-#EXTINF:-1 group-title="午夜福利",父子轮啪家教老师
-https://d862cp.cdnedge.live/file/avple-images/hls/629a01ce62a22f14d4ef251b/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",潮吹出租车
-https://d862cp.cdnedge.live/file/avple-images/hls/629f273379f93b6e0966e230/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",MKY-SL-004夏夜靡遗冰淇淋的助攻夏晴子
-https://d862cp.cdnedge.live/file/avple-images/hls/62c5a49136c38433078a694d/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",JDYP-021爆操台球女助教-吉吉
-https://d862cp.cdnedge.live/file/avple-images/hls/62c5a72636c38433078a6952/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",用小穴汁援哥哥用功读书
-https://e2fa6.cdnedge.live/file/avple-images/hls/629b3e33c73d695b3e2f393a/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",表姐与外卖员的淫荡史
-https://e2fa6.cdnedge.live/file/avple-images/hls/629f1f02759a6d027422edf6/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",性爱餐厅3
-https://je40u.cdnedge.live/file/avple-images/hls/629a049d62a22f14d4ef251d/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",绿帽姐夫看姐弟乱伦
-https://je40u.cdnedge.live/file/avple-images/hls/629b2be962a22f14d4ef2520/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",极乐生活01
-https://je40u.cdnedge.live/file/avple-images/hls/629f27b179f93b6e0966e231/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",小姨的护士服
-https://je40u.cdnedge.live/file/avple-images/hls/629f282479f93b6e0966e232/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",1338.hk
-https://m1.m3u8111222333.com/G0130/e094/e094.m3u8
-#EXTINF:-1 group-title="午夜福利",极乐生活05
-https://q2cyl7.cdnedge.live/file/avple-images/hls/629b2b7162a22f14d4ef251f/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",荒淫宾客闹洞房
-https://q2cyl7.cdnedge.live/file/avple-images/hls/629e1a29759a6d027422edf2/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",农民工约啪小嫩妹
-https://q2cyl7.cdnedge.live/file/avple-images/hls/629f1c32759a6d027422edf5/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",GDCM-018时间静止老公身旁爽操人妻-林洋
-https://q2cyl7.cdnedge.live/file/avple-images/hls/62c596ee36c38433078a694b/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",LAX-0063POV淘气的初体验-MiaKay
-https://q2cyl7.cdnedge.live/file/avple-images/hls/62c5a54536c38433078a694f/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",PMC-194淫荡小姨勾引姪子被操哭-吴茜茜
-https://q2cyl7.cdnedge.live/file/avple-images/hls/62c5a6ad36c38433078a6951/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",玩火
-https://s1.bfllvip.com/video/wanhuo/中字/index.m3u8
-#EXTINF:-1 group-title="午夜福利",性交易2
-https://s1.bfllvip.com/video/xingjiaoyi2/中字/index.m3u8
-#EXTINF:-1 group-title="午夜福利",危险室友
-https://s3.bfengbf.com/video/weixianshiyou/HD/index.m3u8
-#EXTINF:-1 group-title="午夜福利",淫乱复健绝顶深喉
-https://t0.97img.com/a1000233/a.m3u8
-#EXTINF:-1 group-title="午夜福利",情欲陷阱.强制换伴
-https://t0.97img.com/a1000244/a.m3u8
-#EXTINF:-1 group-title="午夜福利",用巨乳帮儿子破处
-https://t0.97img.com/a1000245/a.m3u8
-#EXTINF:-1 group-title="午夜福利",21
-https://t26.cdn2020.com/video/m3u8/2023/05/28/0d9cd308/index.m3u8
-#EXTINF:-1 group-title="午夜福利",20
-https://t26.cdn2020.com/video/m3u8/2023/06/11/52b141a4/index.m3u8
-#EXTINF:-1 group-title="午夜福利",19
-https://t26.cdn2020.com/video/m3u8/2023/06/19/47ef4dcc/index.m3u8
-#EXTINF:-1 group-title="午夜福利",18
-https://t26.cdn2020.com/video/m3u8/2023/06/27/cb6754c3/index.m3u8
-#EXTINF:-1 group-title="午夜福利",17
-https://t26.cdn2020.com/video/m3u8/2023/07/10/bda41d9c/index.m3u8
-#EXTINF:-1 group-title="午夜福利",16
-https://t26.cdn2020.com/video/m3u8/2023/07/12/13299f46/index.m3u8
-#EXTINF:-1 group-title="午夜福利",15
-https://t26.cdn2020.com/video/m3u8/2023/07/19/65a29c4e/index.m3u8
-#EXTINF:-1 group-title="午夜福利",14
-https://t26.cdn2020.com/video/m3u8/2023/08/10/7f0c7927/index.m3u8
-#EXTINF:-1 group-title="午夜福利",13
-https://t26.cdn2020.com/video/m3u8/2023/08/12/23d0e7c5/index.m3u8
-#EXTINF:-1 group-title="午夜福利",12
-https://t26.cdn2020.com/video/m3u8/2023/09/27/4c03a145/index.m3u8
-#EXTINF:-1 group-title="午夜福利",10
-https://t26.cdn2020.com/video/m3u8/2023/11/12/c294ba6c/index.m3u8
-#EXTINF:-1 group-title="午夜福利",8
-https://t26.cdn2020.com/video/m3u8/2023/11/18/ea73f557/index.m3u8
-#EXTINF:-1 group-title="午夜福利",9
-https://t26.cdn2020.com/video/m3u8/2023/11/19/f3480b7b/index.m3u8
-#EXTINF:-1 group-title="午夜福利",7
-https://t26.cdn2020.com/video/m3u8/2023/12/02/365e0fb5/index.m3u8
-#EXTINF:-1 group-title="午夜福利",6
-https://t26.cdn2020.com/video/m3u8/2023/12/27/cfd27d15/index.m3u8
-#EXTINF:-1 group-title="午夜福利",5
-https://t26.cdn2020.com/video/m3u8/2023/12/27/fddc3162/index.m3u8
-#EXTINF:-1 group-title="午夜福利",4
-https://t26.cdn2020.com/video/m3u8/2024/01/10/edf79f1f/index.m3u8
-#EXTINF:-1 group-title="午夜福利",阖家淫新年・篇章一・除夕团圆・淫的开始
-https://t26.cdn2020.com/video/m3u8/2024/02/12/4da4ffe5/index.m3u8
-#EXTINF:-1 group-title="午夜福利",阖家淫新年・篇章二・大年三十
-https://t26.cdn2020.com/video/m3u8/2024/02/12/782e3f49/index.m3u8
-#EXTINF:-1 group-title="午夜福利",阖家淫新年・篇章三・淫宵佳节・离别前的狂欢
-https://t26.cdn2020.com/video/m3u8/2024/02/27/f2816491/index.m3u8
-#EXTINF:-1 group-title="午夜福利",阖家淫新年・亲戚间乱战・下集
-https://t30.cdn2020.com/video/m3u8/2025/02/02/41c089c1/index.m3u8
-#EXTINF:-1 group-title="午夜福利",阖家淫新年・亲戚间乱战・上集
-https://t30.cdn2020.com/video/m3u8/2025/02/02/61cffb04/index.m3u8
-#EXTINF:-1 group-title="午夜福利",MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯
-https://u89ey.cdnedge.live/file/avple-images/hls/62c448bd366b240e3b67be3b/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",MDWP-0022淫行卫生间-林襄
-https://u89ey.cdnedge.live/file/avple-images/hls/62c596ee36c38433078a694c/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",FSOG-005爆操醉酒女室友-许木学长
-https://u89ey.cdnedge.live/file/avple-images/hls/62c5a76036c38433078a6953/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",厕所
-https://vip1.bfbfhao.com/20200706/b2clwvFj/index.m3u8
-#EXTINF:-1 group-title="午夜福利",爱吃大洋屌的留学生爱不释口
-https://vip1.slbfsl.com/20221217/OCgd6xp9/index.m3u8
-#EXTINF:-1 group-title="午夜福利",厕所
-https://vip2.bfbfhao.com/20220904/PU9qUZ1b/index.m3u8
-#EXTINF:-1 group-title="午夜福利",厕所
-https://vip2.bfbfhao.com/20220923/yoqDdKRp/index.m3u8
-#EXTINF:-1 group-title="午夜福利",不伦约炮前男友放荡女伴的出轨蜜穴
-https://vip2.slbfsl.com/20230127/1fqumXLx/index.m3u8
-#EXTINF:-1 group-title="午夜福利",不小心內射了女友姊姊（第一部）
-https://vip2.slbfsl.com/20230127/NGeAXpVu/index.m3u8
-#EXTINF:-1 group-title="午夜福利",成熟诱人的邻家小妹
-https://vip2.slbfsl.com/20230128/6L47RtUU/index.m3u8
-#EXTINF:-1 group-title="午夜福利",痴女秘书勾引老板与客户4P大战
-https://vip2.slbfsl.com/20230128/dVHMP3Dg/index.m3u8
-#EXTINF:-1 group-title="午夜福利",超近距离高清拍摄少女白虎美逼
-https://vip2.slbfsl.com/20230128/LBgurqP4/index.m3u8
-#EXTINF:-1 group-title="午夜福利",超清纯萝莉美少女【粉色情人】足球宝贝射进体验
-https://vip2.slbfsl.com/20230128/XNV5xkHC/index.m3u8
-#EXTINF:-1 group-title="午夜福利",穿性感内衣的骚女友逼里面内射
-https://vip2.slbfsl.com/20230129/AgNHY58b/index.m3u8
-#EXTINF:-1 group-title="午夜福利",纯爱骚花第2弹：青梅竹马的“兔子精”诱惑我
-https://vip2.slbfsl.com/20230129/hhFqGu5r/index.m3u8
-#EXTINF:-1 group-title="午夜福利",穿着丝袜高跟鞋的邻居女孩
-https://vip2.slbfsl.com/20230129/Qjog0vAB/index.m3u8
-#EXTINF:-1 group-title="午夜福利",纯欲系跟着我一起高潮
-https://vip2.slbfsl.com/20230129/zzUzABkP/index.m3u8
-#EXTINF:-1 group-title="午夜福利",风骚眼镜颜值妹子
-https://vip2.slbfsl.com/20230130/ASVCZGII/index.m3u8
-#EXTINF:-1 group-title="午夜福利",风骚护士小姐姐给患者治病
-https://vip2.slbfsl.com/20230130/LjLskz5l/index.m3u8
-#EXTINF:-1 group-title="午夜福利",反差婊校花女友被无套后入玩弄嫩穴
-https://vip2.slbfsl.com/20230130/qGpd5BtE/index.m3u8
-#EXTINF:-1 group-title="午夜福利",肥臀秘书为保住职位委身领导
-https://vip2.slbfsl.com/20230130/uLIK9hkr/index.m3u8
-#EXTINF:-1 group-title="午夜福利",河南发生
-https://vip2.slbfsl.com/20230131/54qW0gg9/index.m3u8
-#EXTINF:-1 group-title="午夜福利",好色透视眼镜
-https://vip2.slbfsl.com/20230131/cWwz9Mvf/index.m3u8
-#EXTINF:-1 group-title="午夜福利",和男朋友的朋友在浴室激情性爱
-https://vip2.slbfsl.com/20230131/KZ6C4d4g/index.m3u8
-#EXTINF:-1 group-title="午夜福利",红色情趣装肛交速射
-https://vip2.slbfsl.com/20230201/OoAvmr5z/index.m3u8
-#EXTINF:-1 group-title="午夜福利",蝴蝶性感小内裤
-https://vip2.slbfsl.com/20230201/oYtvu4eD/index.m3u8
-#EXTINF:-1 group-title="午夜福利",黑丝性感女仆脱衣等你后入
-https://vip2.slbfsl.com/20230201/tgg1PFXF/index.m3u8
-#EXTINF:-1 group-title="午夜福利",婚紗換裝大作戰粉色情人
-https://vip2.slbfsl.com/20230201/YUnQW813/index.m3u8
-#EXTINF:-1 group-title="午夜福利",极品校花女神
-https://vip2.slbfsl.com/20230202/alp2wo71/index.m3u8
-#EXTINF:-1 group-title="午夜福利",激情第一视角
-https://vip2.slbfsl.com/20230202/ARCgYBPg/index.m3u8
-#EXTINF:-1 group-title="午夜福利",极品反差婊芋喵喵视频流出
-https://vip2.slbfsl.com/20230202/PnPwhdFg/index.m3u8
-#EXTINF:-1 group-title="午夜福利",极品美女的魅惑自慰喷水
-https://vip2.slbfsl.com/20230202/uQ4EYXIq/index.m3u8
-#EXTINF:-1 group-title="午夜福利",金发美女偷东西被抓脱衣检查
-https://vip2.slbfsl.com/20230203/fj4goKYd/index.m3u8
-#EXTINF:-1 group-title="午夜福利",绝美翘乳梦幻女神『辛尤里』极品性爱护理后入操爆乳女神
-https://vip2.slbfsl.com/20230204/1ivts8g4/index.m3u8
-#EXTINF:-1 group-title="午夜福利",巨乳制服诱惑-性伴侣唤醒
-https://vip2.slbfsl.com/20230204/W7RbasMn/index.m3u8
-#EXTINF:-1 group-title="午夜福利",绝色爆乳嫩模
-https://vip2.slbfsl.com/20230204/Wc6iHG1h/index.m3u8
-#EXTINF:-1 group-title="午夜福利",老板的私人秘书
-https://vip2.slbfsl.com/20230205/8gremyCK/index.m3u8
-#EXTINF:-1 group-title="午夜福利",空姐女神黑丝后入内射操出白浆
-https://vip2.slbfsl.com/20230205/KWreQF25/index.m3u8
-#EXTINF:-1 group-title="午夜福利",蕾丝的肛门互玩
-https://vip2.slbfsl.com/20230205/TEfGjEG0/index.m3u8
-#EXTINF:-1 group-title="午夜福利",刘玥系列-骚母狗新年夜被同学内射
-https://vip2.slbfsl.com/20230206/eDdYO29L/index.m3u8
-#EXTINF:-1 group-title="午夜福利",邻家姐姐-情趣内衣诱人高跟勾引弟弟做爱
-https://vip2.slbfsl.com/20230206/llv6oa38/index.m3u8
-#EXTINF:-1 group-title="午夜福利",刘玥系列-被窝里深喉吞精
-https://vip2.slbfsl.com/20230206/QbBnBMKw/index.m3u8
-#EXTINF:-1 group-title="午夜福利",落地大窗激情后入
-https://vip2.slbfsl.com/20230206/sKwgj3Tg/index.m3u8
-#EXTINF:-1 group-title="午夜福利",美女博主直播与男友性爱忘关镜头
-https://vip2.slbfsl.com/20230207/a9vLQbLv/index.m3u8
-#EXTINF:-1 group-title="午夜福利",美乳翘臀风骚
-https://vip2.slbfsl.com/20230207/FOTC1b82/index.m3u8
-#EXTINF:-1 group-title="午夜福利",美貌少女道具自慰潮喷
-https://vip2.slbfsl.com/20230207/V9orcRgg/index.m3u8
-#EXTINF:-1 group-title="午夜福利",美女模特黑丝高跟鞋和土豪啪啪
-https://vip2.slbfsl.com/20230207/xh65PsZP/index.m3u8
-#EXTINF:-1 group-title="午夜福利",民宿女仆
-https://vip2.slbfsl.com/20230208/0gjf7dNC/index.m3u8
-#EXTINF:-1 group-title="午夜福利",迷人的爆乳女孩被狠狠地操
-https://vip2.slbfsl.com/20230208/9gS2FNDX/index.m3u8
-#EXTINF:-1 group-title="午夜福利",遇上醉酒黑丝美女带回家操
-https://vip2.slbfsl.com/20230224/jVseaptC/index.m3u8
-#EXTINF:-1 group-title="午夜福利",职场幻想曲之电梯往上极乐将至
-https://vip2.slbfsl.com/20230225/B1meCWKV/index.m3u8
-#EXTINF:-1 group-title="午夜福利",浙江中学女老师穿情趣内裤诱惑老公干她
-https://vip2.slbfsl.com/20230225/f5Oc00dz/index.m3u8
-#EXTINF:-1 group-title="午夜福利",大屌哥约炮美女空姐
-https://vip2.slbfsl.com/20230227/DdS2qHzx/index.m3u8
-#EXTINF:-1 group-title="午夜福利",韩国女团Jinrip脱衣舞
-https://vip3.lbbf9.com/20240815/IahGqua5/index.m3u8
-#EXTINF:-1 group-title="午夜福利",韩国女团脱衣jinricp第三季
-https://vip3.lbbf9.com/20240930/Xod8esy2/index.m3u8
-#EXTINF:-1 group-title="午夜福利",大神Al_nude高能之作女团饭拍现场去衣裸舞丝滑极致反差真假难辨
-https://vip3.lbbf9.com/20240930/zdO94oci/index.m3u8
-#EXTINF:-1 group-title="午夜福利",韩国女团脱衣jinricp20240902第三季第三场
-https://vip3.lbbf9.com/20240930/ZxbE9E7s/index.m3u8
-#EXTINF:-1 group-title="午夜福利",极乐生活06
-https://w9n76.cdnedge.live/file/avple-images/hls/629b2c9c62a22f14d4ef2521/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",妖女榨汁篇章4
-https://w9n76.cdnedge.live/file/avple-images/hls/629b2e05c73d695b3e2f3938/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",JDYP-017女总裁上约啪求刺激-吉吉
-https://w9n76.cdnedge.live/file/avple-images/hls/62c43a77366b240e3b67be28/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",FSOG-006美乳姐姐浴缸激情-许木学长
-https://w9n76.cdnedge.live/file/avple-images/hls/62c5a7d836c38433078a6954/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",av91.top
-https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
-#EXTINF:-1 group-title="午夜福利",mft.hk
-https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
-#EXTINF:-1 group-title="午夜福利",女体肉粽
-https://zo392.cdnedge.live/file/avple-images/hls/629a011862a22f14d4ef251a/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",蜜桃传媒56
-https://zo392.cdnedge.live/file/avple-images/hls/629f1b7d759a6d027422edf3/playlist.m3u8
-#EXTINF:-1 group-title="午夜福利",巨象娱乐05
-https://zo392.cdnedge.live/file/avple-images/hls/62c5a63536c38433078a6950/playlist.m3u8
