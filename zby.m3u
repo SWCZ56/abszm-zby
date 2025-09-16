@@ -452,60 +452,34 @@ http://183.222.242.31:8088/hls/18/index.m3u8
 #EXTINF:-1 group-title="中国频道",江苏卫视
 http://183.222.242.31:8088/hls/19/index.m3u8
 
-#EXTINF:-1 group-title="IPV6频道",CCTV11戏曲
-http://zqh2333.top:2222/rtp/239.93.24.102:5140
-#EXTINF:-1 group-title="IPV6频道",CCTV15音乐
-http://zqh2333.top:2222/rtp/239.93.24.103:5140
-#EXTINF:-1 group-title="IPV6频道",金鹰卡通
-http://zqh2333.top:2222/rtp/239.93.24.108:5140
-#EXTINF:-1 group-title="IPV6频道",西藏卫视
-http://zqh2333.top:2222/rtp/239.93.24.175:5140
 #EXTINF:-1 group-title="IPV6频道",CCTV1综合
 http://zqh2333.top:2222/rtp/239.93.24.184:5140
-#EXTINF:-1 group-title="IPV6频道",青海卫视
-http://zqh2333.top:2222/rtp/239.93.24.192:5140
-#EXTINF:-1 group-title="IPV6频道",卡酷少儿
-http://zqh2333.top:2222/rtp/239.93.24.208:5140
-#EXTINF:-1 group-title="IPV6频道",嘉佳卡通
-http://zqh2333.top:2222/rtp/239.93.24.246:5140
-#EXTINF:-1 group-title="IPV6频道",宁夏卫视
-http://zqh2333.top:2222/rtp/239.93.24.247:5140
 #EXTINF:-1 group-title="IPV6频道",CCTV2财经
 http://zqh2333.top:2222/rtp/239.93.24.59:5140
-#EXTINF:-1 group-title="IPV6频道",山西卫视
-http://zqh2333.top:2222/rtp/239.93.24.6:5140
-#EXTINF:-1 group-title="IPV6频道",CCTV7国防军事
-http://zqh2333.top:2222/rtp/239.93.24.61:5140
-#EXTINF:-1 group-title="IPV6频道",CCTV13新闻
-http://zqh2333.top:2222/rtp/239.93.24.66:5140
-#EXTINF:-1 group-title="IPV6频道",内蒙卫视
-http://zqh2333.top:2222/rtp/239.93.24.8:5140
-#EXTINF:-1 group-title="IPV6频道",海南卫视
-http://zqh2333.top:2222/rtp/239.93.24.80:5140
-#EXTINF:-1 group-title="IPV6频道",湖南卫视
-http://zqh2333.top:2222/rtp/239.93.24.88:5140
-#EXTINF:-1 group-title="IPV6频道",CCTV17农业农村
-http://zqh2333.top:2222/rtp/239.93.24.92:5140
 #EXTINF:-1 group-title="IPV6频道",CCTV4中文国际
 http://zqh2333.top:2222/rtp/239.93.25.105:5140
-#EXTINF:-1 group-title="IPV6频道",重庆卫视
-http://zqh2333.top:2222/rtp/239.93.25.107:5140
-#EXTINF:-1 group-title="IPV6频道",陕西卫视
-http://zqh2333.top:2222/rtp/239.93.25.205:5140
+#EXTINF:-1 group-title="IPV6频道",CCTV7国防军事
+http://zqh2333.top:2222/rtp/239.93.24.61:5140
+#EXTINF:-1 group-title="IPV6频道",CCTV8电视剧
+http://zqh2333.top:2222/rtp/239.93.55.39:5140
 #EXTINF:-1 group-title="IPV6频道",CCTV9纪录
 http://zqh2333.top:2222/rtp/239.93.25.24:5140
 #EXTINF:-1 group-title="IPV6频道",CCTV10科教
 http://zqh2333.top:2222/rtp/239.93.25.28:5140
-#EXTINF:-1 group-title="IPV6频道",CCTV14少儿
-http://zqh2333.top:2222/rtp/239.93.25.29:6000
+#EXTINF:-1 group-title="IPV6频道",CCTV11戏曲
+http://zqh2333.top:2222/rtp/239.93.24.102:5140
 #EXTINF:-1 group-title="IPV6频道",CCTV12社会与法
 http://zqh2333.top:2222/rtp/239.93.25.30:8124
-#EXTINF:-1 group-title="IPV6频道",CCTV8电视剧
-http://zqh2333.top:2222/rtp/239.93.55.39:5140
-#EXTINF:-1 group-title="IPV6频道",河南卫视
-http://zqh2333.top:2222/rtp/239.93.55.45:5140
+#EXTINF:-1 group-title="IPV6频道",CCTV13新闻
+http://zqh2333.top:2222/rtp/239.93.24.66:5140
+#EXTINF:-1 group-title="IPV6频道",CCTV14少儿
+http://zqh2333.top:2222/rtp/239.93.25.29:6000
+#EXTINF:-1 group-title="IPV6频道",CCTV15音乐
+http://zqh2333.top:2222/rtp/239.93.24.103:5140
 #EXTINF:-1 group-title="IPV6频道",CCTV16奥林匹克
 http://zqh2333.top:2222/rtp/239.93.55.54:5140
+#EXTINF:-1 group-title="IPV6频道",CCTV17农业农村
+http://zqh2333.top:2222/rtp/239.93.24.92:5140
 #EXTINF:-1 group-title="IPV6频道",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="IPV6频道",CGTN阿语
@@ -518,6 +492,32 @@ https://0472.org/hls/cgtne.m3u8
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 group-title="IPV6频道",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 group-title="IPV6频道",金鹰卡通
+http://zqh2333.top:2222/rtp/239.93.24.108:5140
+#EXTINF:-1 group-title="IPV6频道",西藏卫视
+http://zqh2333.top:2222/rtp/239.93.24.175:5140
+#EXTINF:-1 group-title="IPV6频道",青海卫视
+http://zqh2333.top:2222/rtp/239.93.24.192:5140
+#EXTINF:-1 group-title="IPV6频道",卡酷少儿
+http://zqh2333.top:2222/rtp/239.93.24.208:5140
+#EXTINF:-1 group-title="IPV6频道",嘉佳卡通
+http://zqh2333.top:2222/rtp/239.93.24.246:5140
+#EXTINF:-1 group-title="IPV6频道",宁夏卫视
+http://zqh2333.top:2222/rtp/239.93.24.247:5140
+#EXTINF:-1 group-title="IPV6频道",山西卫视
+http://zqh2333.top:2222/rtp/239.93.24.6:5140
+#EXTINF:-1 group-title="IPV6频道",内蒙卫视
+http://zqh2333.top:2222/rtp/239.93.24.8:5140
+#EXTINF:-1 group-title="IPV6频道",海南卫视
+http://zqh2333.top:2222/rtp/239.93.24.80:5140
+#EXTINF:-1 group-title="IPV6频道",湖南卫视
+http://zqh2333.top:2222/rtp/239.93.24.88:5140
+#EXTINF:-1 group-title="IPV6频道",重庆卫视
+http://zqh2333.top:2222/rtp/239.93.25.107:5140
+#EXTINF:-1 group-title="IPV6频道",陕西卫视
+http://zqh2333.top:2222/rtp/239.93.25.205:5140
+#EXTINF:-1 group-title="IPV6频道",河南卫视
+http://zqh2333.top:2222/rtp/239.93.55.45:5140
 
 #EXTINF:-1 group-title="IPTV央卫",CCTV1
 http://106.52.196.79:80/TV/mui.php?id=cctv1
