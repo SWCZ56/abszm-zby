@@ -2296,6 +2296,7 @@ http://fast.163189.xyz/163189/ch5
 http://fast.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="港澳频道",CHU
 http://fast.163189.xyz/163189/chu
+
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png",LOVENATURE
 https://php.946985.xyz/iptv/jacktv.php?id=jvhloy
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FUN探索娱乐.png",fun探索娛樂台
@@ -2390,20 +2391,67 @@ https://php.946985.xyz/iptv/jacktv.php?id=2r2tki
 https://php.946985.xyz/iptv/jacktv.php?id=w3s5vi
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/戏剧免费看1.png",戲劇免費看1台
 https://php.946985.xyz/iptv/jacktv.php?id=jrt4dt
+
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png",中天新聞台
+http://142.171.7.225:50007/li-4gtv-4gtv009/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png",中天亞洲台
+http://142.171.7.225:50007/4gtv-4gtv109/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png",寰宇新聞
+http://142.171.7.225:50007/li-litv-longturn14/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png",寰宇新聞台灣台
+http://142.171.7.225:50007/li-4gtv-4gtv156/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png",寰宇財經
+http://142.171.7.225:50007/li-4gtv-4gtv158/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png",TVBS HD
+http://142.171.7.225:50007/li-4gtv-4gtv073/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png",東森新聞
+http://142.171.7.225:50007/li-4gtv-4gtv152/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png",民視新聞
+http://142.171.7.225:50007/li-litv-ftv13/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png",民視新聞
+http://142.171.7.225:50007/litv-ftv13/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png",TVBS新聞台
+http://142.171.7.225:50007/li-4gtv-4gtv072/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png",東森財經新聞
+http://142.171.7.225:50007/li-4gtv-4gtv153/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png",中視新聞台
+http://142.171.7.225:50007/li-4gtv-4gtv074/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png",非凡新聞
+http://142.171.7.225:50007/4gtv-4gtv010/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png",非凡商業
+http://142.171.7.225:50007/4gtv-4gtv048/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png",台視新聞台
+http://142.171.7.225:50007/li-4gtv-4gtv051/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png",台視財經台
+http://142.171.7.225:50007/4gtv-4gtv056/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png",台視HD
+http://142.171.7.225:50007/li-4gtv-4gtv066/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png",華視新聞台
+http://142.171.7.225:50007/li-4gtv-4gtv052/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png",中視
+http://142.171.7.225:50007/li-4gtv-4gtv040/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png",中視經典台
+http://142.171.7.225:50007/li-4gtv-4gtv080/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png",華視
+http://142.171.7.225:50007/li-4gtv-4gtv041/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png",民視綜藝
+http://142.171.7.225:50007/li-4gtv-4gtv004/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png",民視第一台
 http://142.171.7.225:50007/4gtv-4gtv003/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png",民視台灣台
 http://142.171.7.225:50007/4gtv-4gtv001/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png",民視HD
 http://142.171.7.225:50007/4gtv-4gtv002/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png",民視第一台
+http://142.171.7.225:50007/li-4gtv-4gtv003/index.m3u8
+#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png",民視台灣台
+http://142.171.7.225:50007/li-4gtv-4gtv001/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png",Arirang TV
 http://142.171.7.225:50007/4gtv-4gtv079/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png",原住民族電視台
 http://142.171.7.225:50007/4gtv-live014/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png",東森購物一台
 http://142.171.7.225:50007/4gtv-4gtv102/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png",民視新聞
-http://142.171.7.225:50007/litv-ftv13/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png",東森購物二台
 http://142.171.7.225:50007/4gtv-4gtv103/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png",民視綜藝
@@ -2438,18 +2486,6 @@ http://142.171.7.225:50007/4gtv-live022/index.m3u8
 http://142.171.7.225:50007/4gtv-live024/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live010_pc.png",戲劇免費看1台
 http://142.171.7.225:50007/4gtv-live010/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png",民視第一台
-http://142.171.7.225:50007/li-4gtv-4gtv003/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png",民視台灣台
-http://142.171.7.225:50007/li-4gtv-4gtv001/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png",中視
-http://142.171.7.225:50007/li-4gtv-4gtv040/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png",中視經典台
-http://142.171.7.225:50007/li-4gtv-4gtv080/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png",華視
-http://142.171.7.225:50007/li-4gtv-4gtv041/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png",華視新聞台
-http://142.171.7.225:50007/li-4gtv-4gtv052/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png",龍華洋片
 http://142.171.7.225:50007/li-litv-longturn02/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png",龍華卡通
@@ -2480,14 +2516,6 @@ http://142.171.7.225:50007/litv-longturn09/index.m3u8
 http://142.171.7.225:50007/litv-longturn10/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png",博斯無限II
 http://142.171.7.225:50007/litv-longturn13/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png",非凡新聞
-http://142.171.7.225:50007/4gtv-4gtv010/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png",非凡商業
-http://142.171.7.225:50007/4gtv-4gtv048/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png",台視財經台
-http://142.171.7.225:50007/4gtv-4gtv056/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png",中天亞洲台
-http://142.171.7.225:50007/4gtv-4gtv109/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png",客家電視
 http://142.171.7.225:50007/li-4gtv-4gtv043/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png",八大綜藝
@@ -2512,28 +2540,6 @@ http://142.171.7.225:50007/li-litv-longturn20/index.m3u8
 http://142.171.7.225:50007/li-4gtv-4gtv044/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png",靖洋卡通
 http://142.171.7.225:50007/li-4gtv-4gtv057/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png",東森新聞
-http://142.171.7.225:50007/li-4gtv-4gtv152/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png",民視新聞
-http://142.171.7.225:50007/li-litv-ftv13/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png",TVBS新聞台
-http://142.171.7.225:50007/li-4gtv-4gtv072/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png",東森財經新聞
-http://142.171.7.225:50007/li-4gtv-4gtv153/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png",中視新聞台
-http://142.171.7.225:50007/li-4gtv-4gtv074/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png",中天新聞台
-http://142.171.7.225:50007/li-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png",寰宇新聞
-http://142.171.7.225:50007/li-litv-longturn14/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png",寰宇新聞台灣台
-http://142.171.7.225:50007/li-4gtv-4gtv156/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png",寰宇財經
-http://142.171.7.225:50007/li-4gtv-4gtv158/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png",TVBS HD
-http://142.171.7.225:50007/li-4gtv-4gtv073/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png",民視綜藝
-http://142.171.7.225:50007/li-4gtv-4gtv004/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png",豬哥亮歌廳秀
 http://142.171.7.225:50007/li-4gtv-4gtv006/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png",靖天育樂
@@ -2600,10 +2606,6 @@ http://142.171.7.225:50007/li-4gtv-4gtv085/index.m3u8
 http://142.171.7.225:50007/li-litv-longturn22/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png",Smart知識台
 http://142.171.7.225:50007/li-litv-longturn19/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png",台視新聞台
-http://142.171.7.225:50007/li-4gtv-4gtv051/index.m3u8
-#EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png",台視HD
-http://142.171.7.225:50007/li-4gtv-4gtv066/index.m3u8
 #EXTINF:-1 group-title="必须台湾网路频道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png",第1商業台
 http://142.171.7.225:50007/li-4gtv-4gtv104/index.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",鳳凰衛視中文台
