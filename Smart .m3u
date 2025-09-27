@@ -1,856 +1,749 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港频道",香港|翡翠台 backup
-https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
-#EXTINF:-1,tvg-id="香港|iNews 新闻台" tvg-name="香港|iNews 新闻台" tvg-logo="https://epg.112114.xyz/logo/香港|INEWS新闻台.png" group-title="香港频道",香港|iNews 新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港频道",香港|J 2
-https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
-#EXTINF:-1,tvg-id="香港|珍珠台" tvg-name="香港|珍珠台" tvg-logo="https://epg.112114.xyz/logo/香港|珍珠台.png" group-title="香港频道",香港|珍珠台
-https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港频道",香港|凤凰香港
-https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-#EXTINF:-1,tvg-id="香港|HOY资讯台" tvg-name="香港|HOY资讯台" tvg-logo="https://epg.112114.xyz/logo/香港|HOY资讯台.png" group-title="香港频道",香港|HOY资讯台
-https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
-#EXTINF:-1,tvg-id="香港|RHK 31" tvg-name="香港|RHK 31" tvg-logo="https://epg.112114.xyz/logo/香港|RHK31.png" group-title="香港频道",香港|RHK 31
-https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港频道",香港|VIUTV1
-https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
-#EXTINF:-1,tvg-id="香港|RHK 32" tvg-name="香港|RHK 32" tvg-logo="https://epg.112114.xyz/logo/香港|RHK32.png" group-title="香港频道",香港|RHK 32
-https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
-#EXTINF:-1,tvg-id="香港|凤凰卫视" tvg-name="香港|凤凰卫视" tvg-logo="https://epg.112114.xyz/logo/香港|凤凰卫视.png" group-title="香港频道",香港|凤凰卫视
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港频道",香港|凤凰资讯
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-#EXTINF:-1,tvg-id="香港|Viu6" tvg-name="香港|Viu6" tvg-logo="https://epg.112114.xyz/logo/香港|VIU6.png" group-title="香港频道",香港|Viu6
-https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="中国频道",中国|CCTV-1 综合 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="中国频道",中国|CCTV-2 财经
-https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="中国频道",中国|CCTV-3 综艺 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="中国频道",中国|CCTV-4 中文国际
-https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="中国频道",中国|CCTV4 新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="中国频道",中国|CCTV-7 军事农业
-https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="中国频道",中国|CCTV-8 电视剧 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="中国频道",中国|CCTV-9 记录 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="中国频道",中国|CCTV-10 科教 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="中国频道",中国|CCTV-11 戏曲
-https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="中国频道",中国|CCTV-12 社会与法
-https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="中国频道",中国|CCTV-13 新闻频道
-https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="中国频道",中国|CCTV-14 少儿
-https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="中国频道",中国|CCTV-6
-https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="中国频道",中国|CCTV-15 音乐
-https://smart.pendy.dpdns.org/Smart.php?id=cctv15
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="中国频道",中国|湖南卫视
-https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="中国频道",中国|浙江卫视
-https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="中国频道",中国|江苏卫视
-https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="中国频道",中国|深圳卫视
-https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="中国频道",中国|福建东南卫视
-https://smart.pendy.dpdns.org/Smart.php?id=fujian
-#EXTINF:-1,tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://epg.112114.xyz/logo/南方卫视.png" group-title="中国频道",中国|广东南方卫视
-https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="中国频道",中国|广东卫视
-https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="中国频道",中国|北京卫视
-https://smart.pendy.dpdns.org/Smart.php?id=beijing
-#EXTINF:-1,tvg-id="珠江" tvg-name="珠江" tvg-logo="https://epg.112114.xyz/logo/珠江.png" group-title="中国频道",中国|珠江台
-https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="中国频道",中国|广西卫视
-https://smart.pendy.dpdns.org/Smart.php?id=guangxi
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="中国频道",中国|湖北卫视
-https://smart.pendy.dpdns.org/Smart.php?id=hubei
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="中国频道",中国|四川卫视
-https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="中国频道",中国|东方卫视
-https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
-#EXTINF:-1,tvg-id="中国|CGTN" tvg-name="中国|CGTN" tvg-logo="https://epg.112114.xyz/logo/中国|CGTN.png" group-title="中国频道",中国|CGTN
-https://smart.pendy.dpdns.org/Smart.php?id=CGTN
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="中国频道",中国|CCTV-5 体育频道
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="中国频道",中国|CCTV-5+ 体育赛事 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-#EXTINF:-1,tvg-id="体育频道|Astro Premier League 1" tvg-name="体育频道|Astro Premier League 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROPREMIERLEAGUE1.png" group-title="中国频道",体育频道|Astro Premier League 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-#EXTINF:-1,tvg-id="体育频道|Astro EPL 1 backup" tvg-name="体育频道|Astro EPL 1 backup" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROEPL1BACKUP.png" group-title="中国频道",体育频道|Astro EPL 1 backup
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
-#EXTINF:-1,tvg-id="体育频道|Astro Premier League 2" tvg-name="体育频道|Astro Premier League 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROPREMIERLEAGUE2.png" group-title="中国频道",体育频道|Astro Premier League 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-#EXTINF:-1,tvg-id="体育频道|Astro Grandstand" tvg-name="体育频道|Astro Grandstand" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROGRANDSTAND.png" group-title="中国频道",体育频道|Astro Grandstand
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-#EXTINF:-1,tvg-id="体育频道|Astro Football" tvg-name="体育频道|Astro Football" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROFOOTBALL.png" group-title="中国频道",体育频道|Astro Football
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-#EXTINF:-1,tvg-id="体育频道|Astro Sports Plus" tvg-name="体育频道|Astro Sports Plus" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROSPORTSPLUS.png" group-title="中国频道",体育频道|Astro Sports Plus
-https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-#EXTINF:-1,tvg-id="体育频道|Astro Badminton 1" tvg-name="体育频道|Astro Badminton 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON1.png" group-title="中国频道",体育频道|Astro Badminton 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-#EXTINF:-1,tvg-id="体育频道|Astro Badminton 2" tvg-name="体育频道|Astro Badminton 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON2.png" group-title="中国频道",体育频道|Astro Badminton 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
-#EXTINF:-1,tvg-id="体育频道|Astro W-Sports" tvg-name="体育频道|Astro W-Sports" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROWSPORTS.png" group-title="中国频道",体育频道|Astro W-Sports
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
-#EXTINF:-1,tvg-id="体育频道|Supersports 1" tvg-name="体育频道|Supersports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS1.png" group-title="中国频道",体育频道|Supersports 1
-https://smart.pendy.dpdns.org/Smart.php?id=Assp1
-#EXTINF:-1,tvg-id="体育频道|Supersports 2" tvg-name="体育频道|Supersports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS2.png" group-title="中国频道",体育频道|Supersports 2
-https://smart.pendy.dpdns.org/Smart.php?id=Assp2
-#EXTINF:-1,tvg-id="体育频道|Supersports 3" tvg-name="体育频道|Supersports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS3.png" group-title="中国频道",体育频道|Supersports 3
-https://smart.pendy.dpdns.org/Smart.php?id=Assp3
-#EXTINF:-1,tvg-id="体育频道|Supersports 4" tvg-name="体育频道|Supersports 4" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS4.png" group-title="中国频道",体育频道|Supersports 4
-https://smart.pendy.dpdns.org/Smart.php?id=Assp4
-#EXTINF:-1,tvg-id="体育频道|WWE" tvg-name="体育频道|WWE" tvg-logo="https://epg.112114.xyz/logo/体育频道|WWE.png" group-title="中国频道",体育频道|WWE
-https://smart.pendy.dpdns.org/Smart.php?id=Wwe
-#EXTINF:-1,tvg-id="体育频道|Fight Sports" tvg-name="体育频道|Fight Sports" tvg-logo="https://epg.112114.xyz/logo/体育频道|FIGHTSPORTS.png" group-title="中国频道",体育频道|Fight Sports
-https://smart.pendy.dpdns.org/Smart.php?id=Fs
-#EXTINF:-1,tvg-id="体育频道|NBA TV" tvg-name="体育频道|NBA TV" tvg-logo="https://epg.112114.xyz/logo/体育频道|NBATV.png" group-title="中国频道",体育频道|NBA TV
-https://smart.pendy.dpdns.org/Smart.php?id=Nba
-#EXTINF:-1,tvg-id="体育频道|Astro Cricket" tvg-name="体育频道|Astro Cricket" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROCRICKET.png" group-title="中国频道",体育频道|Astro Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=Acricket
-#EXTINF:-1,tvg-id="体育频道|Astro Golf" tvg-name="体育频道|Astro Golf" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROGOLF.png" group-title="中国频道",体育频道|Astro Golf
-https://smart.pendy.dpdns.org/Smart.php?id=Agolf
-#EXTINF:-1,tvg-id="体育频道|Tnt Sports 1" tvg-name="体育频道|Tnt Sports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS1.png" group-title="中国频道",体育频道|Tnt Sports 1
-https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
-#EXTINF:-1,tvg-id="体育频道|TNT Sports 2" tvg-name="体育频道|TNT Sports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS2.png" group-title="中国频道",体育频道|TNT Sports 2
-https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
-#EXTINF:-1,tvg-id="体育频道|TNT Sports 3" tvg-name="体育频道|TNT Sports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS3.png" group-title="中国频道",体育频道|TNT Sports 3
-https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
-#EXTINF:-1,tvg-id="体育频道|TNT Sports 4" tvg-name="体育频道|TNT Sports 4" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS4.png" group-title="中国频道",体育频道|TNT Sports 4
-https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
-#EXTINF:-1,tvg-id="体育频道|Sony Ten 1" tvg-name="体育频道|Sony Ten 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN1.png" group-title="中国频道",体育频道|Sony Ten 1
-https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
-#EXTINF:-1,tvg-id="体育频道|Sony Ten 2" tvg-name="体育频道|Sony Ten 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN2.png" group-title="中国频道",体育频道|Sony Ten 2
-https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
-#EXTINF:-1,tvg-id="体育频道|Sony Ten 3" tvg-name="体育频道|Sony Ten 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN3.png" group-title="中国频道",体育频道|Sony Ten 3
-https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
-#EXTINF:-1,tvg-id="体育频道|SPOTV 1 HD" tvg-name="体育频道|SPOTV 1 HD" tvg-logo="https://epg.112114.xyz/logo/体育频道|SPOTV1.png" group-title="中国频道",体育频道|SPOTV 1 HD
-https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
-#EXTINF:-1,tvg-id="体育频道|SPO TV 2" tvg-name="体育频道|SPO TV 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SPOTV2.png" group-title="中国频道",体育频道|SPO TV 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
-#EXTINF:-1,tvg-id="体育频道|Skysports F1" tvg-name="体育频道|Skysports F1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSF1.png" group-title="中国频道",体育频道|Skysports F1
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
-#EXTINF:-1,tvg-id="体育频道|Skysports Cricket" tvg-name="体育频道|Skysports Cricket" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSCRICKET.png" group-title="中国频道",体育频道|Skysports Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
-#EXTINF:-1,tvg-id="体育频道|Skysports EPL" tvg-name="体育频道|Skysports EPL" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSEPL.png" group-title="中国频道",体育频道|Skysports EPL
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="中国频道",体育频道|Skysports Main Event
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
-#EXTINF:-1,tvg-id="体育频道|Skysports News" tvg-name="体育频道|Skysports News" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSNEWS.png" group-title="中国频道",体育频道|Skysports News
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
-#EXTINF:-1,tvg-id="体育频道|Skysports Mix" tvg-name="体育频道|Skysports Mix" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSMIX.png" group-title="中国频道",体育频道|Skysports Mix
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
-#EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="中国频道",体育频道|爱尔达体育2台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-#EXTINF:-1,tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="中国频道",体育频道|爱尔达体育3台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-#EXTINF:-1,tvg-id="体育频道|Rugby Pass TV" tvg-name="体育频道|Rugby Pass TV" tvg-logo="https://epg.112114.xyz/logo/体育频道|RUGBYPASSTV.png" group-title="中国频道",体育频道|Rugby Pass TV
-https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
-#EXTINF:-1,tvg-id="体育频道|RTM Sports HD" tvg-name="体育频道|RTM Sports HD" tvg-logo="https://epg.112114.xyz/logo/体育频道|RTMSPORTS.png" group-title="中国频道",体育频道|RTM Sports HD
-https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
-#EXTINF:-1,tvg-id="体育频道|Arena" tvg-name="体育频道|Arena" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA.png" group-title="中国频道",体育频道|Arena
-https://smart.pendy.dpdns.org/Smart.php?id=Arena
-#EXTINF:-1,tvg-id="体育频道|Arena 2" tvg-name="体育频道|Arena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA2.png" group-title="中国频道",体育频道|Arena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Arena2
-#EXTINF:-1,tvg-id="体育频道|BolaArena 1" tvg-name="体育频道|BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA1.png" group-title="中国频道",体育频道|BolaArena 1
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-#EXTINF:-1,tvg-id="体育频道|BolaArena 2" tvg-name="体育频道|BolaArena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA2.png" group-title="中国频道",体育频道|BolaArena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
-#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 1" tvg-name="体育频道|Astro Beinsports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS1.png" group-title="中国频道",体育频道|Astro Beinsports 1
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 2" tvg-name="体育频道|Astro Beinsports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS2.png" group-title="中国频道",体育频道|Astro Beinsports 2
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 3" tvg-name="体育频道|Astro Beinsports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS3.png" group-title="中国频道",体育频道|Astro Beinsports 3
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾频道",台湾|TVBS News 新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾频道",台湾|TVBS 欢乐台 （备份）
-https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾频道",台湾|TVBS HD
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-#EXTINF:-1,tvg-id="台湾|中天新闻 HD" tvg-name="台湾|中天新闻 HD" tvg-logo="https://epg.112114.xyz/logo/台湾|中天新闻.png" group-title="台湾频道",台湾|中天新闻 HD
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-#EXTINF:-1,tvg-id="台湾|中天娱乐 CTI Entertaiment" tvg-name="台湾|中天娱乐 CTI Entertaiment" tvg-logo="https://epg.112114.xyz/logo/台湾|中天娱乐CTIENTERTAIMENT.png" group-title="台湾频道",台湾|中天娱乐 CTI Entertaiment
-https://smart.pendy.dpdns.org/Smart.php?id=ctient
-#EXTINF:-1,tvg-id="台湾|中天综合 CTI Metro" tvg-name="台湾|中天综合 CTI Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|中天综合CTIMETRO.png" group-title="台湾频道",台湾|中天综合 CTI Metro
-https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="台湾频道",台湾|中天亚洲台
-https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="台湾频道",台湾|台视 TTV HD
-https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="台湾频道",台湾|台视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="台湾频道",台湾|台视综合台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="台湾频道",台湾|中视 HD
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="台湾频道",台湾|中视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="台湾频道",台湾|民视 HD
-https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="台湾频道",台湾|民视新闻台 FTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="台湾频道",台湾|民视台湾台
-https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="台湾频道",台湾|华视 CTS HD
-https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="台湾频道",台湾|公视 CTV
-https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
-#EXTINF:-1,tvg-id="台湾|八大第一 GTV First" tvg-name="台湾|八大第一 GTV First" tvg-logo="https://epg.112114.xyz/logo/台湾|八大第一GTVFIRST.png" group-title="台湾频道",台湾|八大第一 GTV First
-https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-#EXTINF:-1,tvg-id="台湾|八大综合 GTV Metro" tvg-name="台湾|八大综合 GTV Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|八大综合GTVMETRO.png" group-title="台湾频道",台湾|八大综合 GTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-#EXTINF:-1,tvg-id="台湾|八大戏剧 GTV Drama" tvg-name="台湾|八大戏剧 GTV Drama" tvg-logo="https://epg.112114.xyz/logo/台湾|八大戏剧GTVDRAMA.png" group-title="台湾频道",台湾|八大戏剧 GTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-#EXTINF:-1,tvg-id="台湾|八大娱乐 GTV Entertainment" tvg-name="台湾|八大娱乐 GTV Entertainment" tvg-logo="https://epg.112114.xyz/logo/台湾|八大娱乐GTVENTERTAINMENT.png" group-title="台湾频道",台湾|八大娱乐 GTV Entertainment
-https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾频道",台湾|HBO_HD
-https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾频道",台湾|HBO_HITS
-https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
-#EXTINF:-1,tvg-id="台湾|Hollywood Movies" tvg-name="台湾|Hollywood Movies" tvg-logo="https://epg.112114.xyz/logo/台湾|HOLLYWOODMOVIES.png" group-title="台湾频道",台湾|Hollywood Movies
-https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
-#EXTINF:-1,tvg-id="台湾|三立台湾 Sanli Taiwan" tvg-name="台湾|三立台湾 Sanli Taiwan" tvg-logo="https://epg.112114.xyz/logo/台湾|三立台湾SANLITAIWAN.png" group-title="台湾频道",台湾|三立台湾 Sanli Taiwan
-https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-#EXTINF:-1,tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="台湾频道",台湾|三立戏剧台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-#EXTINF:-1,tvg-id="台湾|三立综合 Sanli Metro" tvg-name="台湾|三立综合 Sanli Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|三立综合SANLIMETRO.png" group-title="台湾频道",台湾|三立综合 Sanli Metro
-https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-#EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="台湾频道",台湾|三立都会台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="台湾频道",台湾|东森新闻 ETTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="台湾频道",台湾|CINEMAX
-https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
-#EXTINF:-1,tvg-id="台湾|东森综合 ETTV Metro" tvg-name="台湾|东森综合 ETTV Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|东森综合ETTVMETRO.png" group-title="台湾频道",台湾|东森综合 ETTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-#EXTINF:-1,tvg-id="台湾|东森戏剧 ETTV Drama" tvg-name="台湾|东森戏剧 ETTV Drama" tvg-logo="https://epg.112114.xyz/logo/台湾|东森戏剧ETTVDRAMA.png" group-title="台湾频道",台湾|东森戏剧 ETTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
-#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="台湾频道",台湾|东森超视
-https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-#EXTINF:-1,tvg-id="台湾|东森财经新闻 ETTV Business" tvg-name="台湾|东森财经新闻 ETTV Business" tvg-logo="https://epg.112114.xyz/logo/台湾|东森财经新闻ETTVBUSINESS.png" group-title="台湾频道",台湾|东森财经新闻 ETTV Business
-https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-#EXTINF:-1,tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="台湾频道",台湾|寰宇财经
-https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾频道",台湾|寰宇新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="台湾频道",台湾|公视2
-https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-#EXTINF:-1,tvg-id="台湾|大爱1台" tvg-name="台湾|大爱1台" tvg-logo="https://epg.112114.xyz/logo/台湾|大爱1台.png" group-title="台湾频道",台湾|大爱1台
-https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="台湾频道",台湾|非凡新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="台湾频道",台湾|龙华戏剧 Lunghua Drama
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
-#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="台湾频道",台湾|龙华经典台
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="台湾频道",台湾|龙华偶像
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="台湾频道",台湾|AXN Taiwan
-https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-#EXTINF:-1,tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="台湾频道",台湾|靖天国际台
-https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
-#EXTINF:-1,tvg-id="台湾|年代新闻" tvg-name="台湾|年代新闻" tvg-logo="https://epg.112114.xyz/logo/台湾|年代新闻.png" group-title="台湾频道",台湾|年代新闻
-https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-#EXTINF:-1,tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="台湾频道",台湾|纬来日本台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-#EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="台湾频道",台湾|纬来电影台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="台湾频道",台湾|纬来体育台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-#EXTINF:-1,tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="https://epg.112114.xyz/logo/纬来综合台.png" group-title="台湾频道",台湾|纬来综合台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-#EXTINF:-1,tvg-id="台湾|纬来育乐" tvg-name="台湾|纬来育乐" tvg-logo="https://epg.112114.xyz/logo/台湾|纬来育乐.png" group-title="台湾频道",台湾|纬来育乐
-https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-#EXTINF:-1,tvg-id="台湾|纬来精彩" tvg-name="台湾|纬来精彩" tvg-logo="https://epg.112114.xyz/logo/台湾|纬来精彩.png" group-title="台湾频道",台湾|纬来精彩
-https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-#EXTINF:-1,tvg-id="台湾|好消息 2" tvg-name="台湾|好消息 2" tvg-logo="https://epg.112114.xyz/logo/台湾|好消息2.png" group-title="台湾频道",台湾|好消息 2
-https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
-#EXTINF:-1,tvg-id="台湾|大爱2台" tvg-name="台湾|大爱2台" tvg-logo="https://epg.112114.xyz/logo/台湾|大爱2台.png" group-title="台湾频道",台湾|大爱2台
-https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-#EXTINF:-1,tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="https://epg.112114.xyz/logo/亚洲美食.png" group-title="台湾频道",台湾|亚洲美食
-https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
-#EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="台湾频道",台湾|美食星球
-https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-#EXTINF:-1,tvg-id="台湾|亚洲旅游 TLC Asia" tvg-name="台湾|亚洲旅游 TLC Asia" tvg-logo="https://epg.112114.xyz/logo/台湾|亚洲旅游TLCASIA.png" group-title="台湾频道",台湾|亚洲旅游 TLC Asia
-https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
-#EXTINF:-1,tvg-id="台湾|东森电影 ETTV Movie" tvg-name="台湾|东森电影 ETTV Movie" tvg-logo="https://epg.112114.xyz/logo/台湾|东森电影ETTVMOVIE.png" group-title="台湾频道",台湾|东森电影 ETTV Movie
-https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-#EXTINF:-1,tvg-id="台湾|阿里郎 Arirang" tvg-name="台湾|阿里郎 Arirang" tvg-logo="https://epg.112114.xyz/logo/台湾|阿里郎ARIRANG.png" group-title="台湾频道",台湾|阿里郎 Arirang
-https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn
-#EXTINF:-1,tvg-id="台湾|博斯运动 1" tvg-name="台湾|博斯运动 1" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯运动1.png" group-title="台湾频道",台湾|博斯运动 1
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-#EXTINF:-1,tvg-id="台湾|博斯运动 2" tvg-name="台湾|博斯运动 2" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯运动2.png" group-title="台湾频道",台湾|博斯运动 2
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
-#EXTINF:-1,tvg-id="台湾|博斯高球2 HD" tvg-name="台湾|博斯高球2 HD" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯高球2.png" group-title="台湾频道",台湾|博斯高球2 HD
-https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
-#EXTINF:-1,tvg-id="台湾|博斯网球 HD" tvg-name="台湾|博斯网球 HD" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯网球.png" group-title="台湾频道",台湾|博斯网球 HD
-https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
-#EXTINF:-1,tvg-id="台湾|东森洋片 ETTV Western" tvg-name="台湾|东森洋片 ETTV Western" tvg-logo="https://epg.112114.xyz/logo/台湾|东森洋片ETTVWESTERN.png" group-title="台湾频道",台湾|东森洋片 ETTV Western
-https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-#EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="台湾频道",台湾|龙华洋片 Lunghua Western
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
-#EXTINF:-1,tvg-id="台湾|博斯无限" tvg-name="台湾|博斯无限" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯无限.png" group-title="台湾频道",台湾|博斯无限
-https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="台湾频道",台湾|MTV Live
-https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
-#EXTINF:-1,tvg-id="台湾|龙详时代" tvg-name="台湾|龙详时代" tvg-logo="https://epg.112114.xyz/logo/台湾|龙详时代.png" group-title="台湾频道",台湾|龙详时代
-https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1,tvg-id="台湾|EYETV 旅游" tvg-name="台湾|EYETV 旅游" tvg-logo="https://epg.112114.xyz/logo/台湾|EYETV旅游.png" group-title="台湾频道",台湾|EYETV 旅游
-https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="台湾频道",台湾|靖天卡通台
-https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
-#EXTINF:-1,tvg-id="台湾|EYETV 戏剧" tvg-name="台湾|EYETV 戏剧" tvg-logo="https://epg.112114.xyz/logo/台湾|EYETV戏剧.png" group-title="台湾频道",台湾|EYETV 戏剧
-https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-#EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="台湾频道",台湾|卫视中文台 Star Movies Chinese
-https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-#EXTINF:-1,tvg-id="台湾|东森幼幼 Yoyo TV" tvg-name="台湾|东森幼幼 Yoyo TV" tvg-logo="https://epg.112114.xyz/logo/台湾|东森幼幼YOYOTV.png" group-title="台湾频道",台湾|东森幼幼 Yoyo TV
-https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
-#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="台湾频道",台湾|卫视电影台
-https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
-#EXTINF:-1,tvg-id="台湾|美亚电影" tvg-name="台湾|美亚电影" tvg-logo="https://epg.112114.xyz/logo/台湾|美亚电影.png" group-title="台湾频道",台湾|美亚电影
-https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-#EXTINF:-1,tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" group-title="台湾频道",台湾|爱尔达影剧台
-https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-#EXTINF:-1,tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" group-title="台湾频道",台湾|爱尔达综合台
-https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-#EXTINF:-1,tvg-id="台湾|星卫电影" tvg-name="台湾|星卫电影" tvg-logo="https://epg.112114.xyz/logo/台湾|星卫电影.png" group-title="台湾频道",台湾|星卫电影
-https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="台湾频道",台湾|AFC 亚洲旅游台
-https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="台湾频道",电影频道|Cinemax
-https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
-#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="台湾频道",电影频道|Animax
-https://smart.pendy.dpdns.org/Smart.php?id=Animax
-#EXTINF:-1,tvg-id="电影频道|Movies Now HD" tvg-name="电影频道|Movies Now HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|MOVIESNOW.png" group-title="台湾频道",电影频道|Movies Now HD
-https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
-#EXTINF:-1,tvg-id="电影频道|Star Movies HD" tvg-name="电影频道|Star Movies HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|STARMOVIES.png" group-title="台湾频道",电影频道|Star Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾频道",电影频道|HBO Family
-https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="台湾频道",电影频道|Hits
-https://smart.pendy.dpdns.org/Smart.php?id=Hits
-#EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://epg.112114.xyz/logo/WARNERTV.png" group-title="台湾频道",电影频道|Warner TV
-https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾频道",电影频道|HBO HD
-https://smart.pendy.dpdns.org/Smart.php?id=Hbo
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾频道",电影频道|HBO Signature
-https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾频道",电影频道|HBO Hits
-https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
-#EXTINF:-1,tvg-id="电影频道|SCM" tvg-name="电影频道|SCM" tvg-logo="https://epg.112114.xyz/logo/电影频道|SCM.png" group-title="台湾频道",电影频道|SCM
-https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
-#EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.112114.xyz/logo/DREAMWORKS.png" group-title="台湾频道",电影频道|Dreamworks
-https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
-#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="台湾频道",电影频道|Thrill
-https://smart.pendy.dpdns.org/Smart.php?id=Thrill
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="台湾频道",电影频道|Hits Movie
-https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
-#EXTINF:-1,tvg-id="电影频道|One" tvg-name="电影频道|One" tvg-logo="https://epg.112114.xyz/logo/电影频道|ONE.png" group-title="台湾频道",电影频道|One
-https://smart.pendy.dpdns.org/Smart.php?id=One
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="台湾频道",电影频道|tvN Movie
-https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
-#EXTINF:-1,tvg-id="电影频道|Celestial Classic" tvg-name="电影频道|Celestial Classic" tvg-logo="https://epg.112114.xyz/logo/电影频道|CELESTIALCLASSIC.png" group-title="台湾频道",电影频道|Celestial Classic
-https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
-#EXTINF:-1,tvg-id="电影频道|Celestial Movies HD" tvg-name="电影频道|Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|CELESTIALMOVIES.png" group-title="台湾频道",电影频道|Celestial Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="台湾频道",电影频道|Axn HD
-https://smart.pendy.dpdns.org/Smart.php?id=Axn
-#EXTINF:-1,tvg-id="电影频道|Paramount Network" tvg-name="电影频道|Paramount Network" tvg-logo="https://epg.112114.xyz/logo/电影频道|PARAMOUNTNETWORK.png" group-title="台湾频道",电影频道|Paramount Network
-https://smart.pendy.dpdns.org/Smart.php?id=Paramountnetwork
-#EXTINF:-1,tvg-id="电影频道|Astrol Kplus" tvg-name="电影频道|Astrol Kplus" tvg-logo="https://epg.112114.xyz/logo/电影频道|ASTROLKPLUS.png" group-title="台湾频道",电影频道|Astrol Kplus
-https://smart.pendy.dpdns.org/Smart.php?id=Kplus
-#EXTINF:-1,tvg-id="电影频道|Rock Actions" tvg-name="电影频道|Rock Actions" tvg-logo="https://epg.112114.xyz/logo/电影频道|ROCKACTIONS.png" group-title="台湾频道",电影频道|Rock Actions
-https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
-#EXTINF:-1,tvg-id="电影频道|Rock Entertainment" tvg-name="电影频道|Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/电影频道|ROCKENTERTAINMENT.png" group-title="台湾频道",电影频道|Rock Entertainment
-https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
-#EXTINF:-1,tvg-id="纪录频道|Natgeo_HD" tvg-name="纪录频道|Natgeo_HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_.png" group-title="台湾频道",纪录频道|Natgeo_HD
-https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
-#EXTINF:-1,tvg-id="纪录频道|NatGeo_Wild HD" tvg-name="纪录频道|NatGeo_Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_WILD.png" group-title="台湾频道",纪录频道|NatGeo_Wild HD
-https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
-#EXTINF:-1,tvg-id="纪录频道|Animal_Planet" tvg-name="纪录频道|Animal_Planet" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMAL_PLANET.png" group-title="台湾频道",纪录频道|Animal_Planet
-https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="台湾频道",纪录频道|Discovery Asia
-https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="台湾频道",纪录频道|CI
-https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="台湾频道",纪录频道|Discovery HD
-https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
-#EXTINF:-1,tvg-id="纪录频道|NatGeo HD" tvg-name="纪录频道|NatGeo HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO.png" group-title="台湾频道",纪录频道|NatGeo HD
-https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
-#EXTINF:-1,tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="台湾频道",纪录频道|Fashion TV
-https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
-#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="台湾频道",纪录频道|History
-https://smart.pendy.dpdns.org/Smart.php?id=History
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="台湾频道",纪录频道|BBC Earth HD
-https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="台湾频道",纪录频道|BBC Earth Lifestyle
-https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
-#EXTINF:-1,tvg-id="纪录频道|NatGeo Wild HD" tvg-name="纪录频道|NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEOWILD.png" group-title="台湾频道",纪录频道|NatGeo Wild HD
-https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
-#EXTINF:-1,tvg-id="纪录频道|Animal Planet (Eng)" tvg-name="纪录频道|Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMALPLANET(ENG).png" group-title="台湾频道",纪录频道|Animal Planet (Eng)
-https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
-#EXTINF:-1,tvg-id="纪录频道|TLC" tvg-name="纪录频道|TLC" tvg-logo="https://epg.112114.xyz/logo/纪录频道|TLC.png" group-title="台湾频道",纪录频道|TLC
-https://smart.pendy.dpdns.org/Smart.php?id=Tlc
-#EXTINF:-1,tvg-id="纪录频道|Foodnetwork Hd" tvg-name="纪录频道|Foodnetwork Hd" tvg-logo="https://epg.112114.xyz/logo/纪录频道|FOODNETWORK.png" group-title="台湾频道",纪录频道|Foodnetwork Hd
-https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
-#EXTINF:-1,tvg-id="纪录频道|HGTV" tvg-name="纪录频道|HGTV" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="台湾频道",纪录频道|HGTV
-https://smart.pendy.dpdns.org/Smart.php?id=HGTV
-#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="台湾频道",新闻频道|Skynews
-https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
-#EXTINF:-1,tvg-id="新闻频道|ABC News" tvg-name="新闻频道|ABC News" tvg-logo="https://epg.112114.xyz/logo/新闻频道|ABCNEWS.png" group-title="台湾频道",新闻频道|ABC News
-https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
-#EXTINF:-1,tvg-id="新闻频道|CBS HD" tvg-name="新闻频道|CBS HD" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CBS.png" group-title="台湾频道",新闻频道|CBS HD
-https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
-#EXTINF:-1,tvg-id="新闻频道|CBSN HD" tvg-name="新闻频道|CBSN HD" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CBSN.png" group-title="台湾频道",新闻频道|CBSN HD
-https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
-#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="台湾频道",新闻频道|France 24
-https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
-#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="台湾频道",新闻频道|DW (Deutsch)
-https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="台湾频道",新闻频道|NHK World
-https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
-#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="台湾频道",新闻频道|Fox News
-https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="台湾频道",新闻频道|CNN International
-https://smart.pendy.dpdns.org/Smart.php?id=Cnn
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="台湾频道",新闻频道|CNN backup
-https://smart.pendy.dpdns.org/Smart.php?id=cnn_twn
-#EXTINF:-1,tvg-id="新闻频道|CNBC" tvg-name="新闻频道|CNBC" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CNBC.png" group-title="台湾频道",新闻频道|CNBC
-https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
-#EXTINF:-1,tvg-id="新闻频道|CNA" tvg-name="新闻频道|CNA" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CNA.png" group-title="台湾频道",新闻频道|CNA
-https://smart.pendy.dpdns.org/Smart.php?id=cna
-#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="台湾频道",新闻频道|BBC World News
-https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
-#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="台湾频道",新闻频道|BBC World News
-https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
-#EXTINF:-1,tvg-id="新闻频道|Bloomberg News" tvg-name="新闻频道|Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/新闻频道|BLOOMBERGNEWS.png" group-title="台湾频道",新闻频道|Bloomberg News
-https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
-#EXTINF:-1,tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" group-title="台湾频道",新闻频道|Al-Jazeera
-https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
-#EXTINF:-1,tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="台湾频道",儿童频道|Baby TV Eng
-https://smart.pendy.dpdns.org/Smart.php?id=Babytv
-#EXTINF:-1,tvg-id="CBEEBIES" tvg-name="CBEEBIES" tvg-logo="https://epg.112114.xyz/logo/CBEEBIES.png" group-title="台湾频道",儿童频道|CBeebies
-https://smart.pendy.dpdns.org/Smart.php?id=Cbeebies
-#EXTINF:-1,tvg-id="儿童频道|Kids TV" tvg-name="儿童频道|Kids TV" tvg-logo="https://epg.112114.xyz/logo/儿童频道|KIDSTV.png" group-title="台湾频道",儿童频道|Kids TV
-https://smart.pendy.dpdns.org/Smart.php?id=KidsTV
-#EXTINF:-1,tvg-id="儿童频道|Momo TV" tvg-name="儿童频道|Momo TV" tvg-logo="https://epg.112114.xyz/logo/儿童频道|MOMOTV.png" group-title="台湾频道",儿童频道|Momo TV
-https://smart.pendy.dpdns.org/Smart.php?id=momo1_twn
-#EXTINF:-1,tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="台湾频道",儿童频道|Baby TV
-https://smart.pendy.dpdns.org/Smart.php?id=babytv_twn
-#EXTINF:-1,tvg-id="儿童频道|MiaoMi" tvg-name="儿童频道|MiaoMi" tvg-logo="https://epg.112114.xyz/logo/儿童频道|MIAOMI.png" group-title="台湾频道",儿童频道|MiaoMi
-https://smart.pendy.dpdns.org/Smart.php?id=MiaoMi
-#EXTINF:-1,tvg-id="儿童频道|Cartoon Network" tvg-name="儿童频道|Cartoon Network" tvg-logo="https://epg.112114.xyz/logo/儿童频道|CARTOONNETWORK.png" group-title="台湾频道",儿童频道|Cartoon Network
-https://smart.pendy.dpdns.org/Smart.php?id=Cn
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="台湾频道",儿童频道|Nickelodeon
-https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
-#EXTINF:-1,tvg-id="儿童频道|Nick Jr" tvg-name="儿童频道|Nick Jr" tvg-logo="https://epg.112114.xyz/logo/儿童频道|NICKJR.png" group-title="台湾频道",儿童频道|Nick Jr
-https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
-#EXTINF:-1,tvg-id="新加坡|Channel 5" tvg-name="新加坡|Channel 5" tvg-logo="https://epg.112114.xyz/logo/新加坡|CHANNEL5.png" group-title="亚洲各地",新加坡|Channel 5
-https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD
-#EXTINF:-1,tvg-id="新加坡|Channel 8" tvg-name="新加坡|Channel 8" tvg-logo="https://epg.112114.xyz/logo/新加坡|CHANNEL8.png" group-title="亚洲各地",新加坡|Channel 8
-https://smart.pendy.dpdns.org/Smart.php?id=Channel8HD
-#EXTINF:-1,tvg-id="新加坡|Suria" tvg-name="新加坡|Suria" tvg-logo="https://epg.112114.xyz/logo/新加坡|SURIA.png" group-title="亚洲各地",新加坡|Suria
-https://smart.pendy.dpdns.org/Smart.php?id=Suria
-#EXTINF:-1,tvg-id="新加坡|Channel U" tvg-name="新加坡|Channel U" tvg-logo="https://epg.112114.xyz/logo/新加坡|CHANNELU.png" group-title="亚洲各地",新加坡|Channel U
-https://smart.pendy.dpdns.org/Smart.php?id=ChannelU
-#EXTINF:-1,tvg-id="新加坡|Vasantham" tvg-name="新加坡|Vasantham" tvg-logo="https://epg.112114.xyz/logo/新加坡|VASANTHAM.png" group-title="亚洲各地",新加坡|Vasantham
-https://smart.pendy.dpdns.org/Smart.php?id=Vasantham
-#EXTINF:-1,tvg-id="新加坡|CNA backup" tvg-name="新加坡|CNA backup" tvg-logo="https://epg.112114.xyz/logo/新加坡|CNABACKUP.png" group-title="亚洲各地",新加坡|CNA backup
-https://smart.pendy.dpdns.org/Smart.php?id=cna_twn
-#EXTINF:-1,tvg-id="新加坡|MeWatch Ch 5" tvg-name="新加坡|MeWatch Ch 5" tvg-logo="https://epg.112114.xyz/logo/新加坡|MEWATCHCH5.png" group-title="亚洲各地",新加坡|MeWatch Ch 5
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch5
-#EXTINF:-1,tvg-id="新加坡|MeWatch Ch 8" tvg-name="新加坡|MeWatch Ch 8" tvg-logo="https://epg.112114.xyz/logo/新加坡|MEWATCHCH8.png" group-title="亚洲各地",新加坡|MeWatch Ch 8
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch8
-#EXTINF:-1,tvg-id="新加坡|MeWatch Ch U" tvg-name="新加坡|MeWatch Ch U" tvg-logo="https://epg.112114.xyz/logo/新加坡|MEWATCHCHU.png" group-title="亚洲各地",新加坡|MeWatch Ch U
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_chU
-#EXTINF:-1,tvg-id="新加坡|MeWatch Suria" tvg-name="新加坡|MeWatch Suria" tvg-logo="https://epg.112114.xyz/logo/新加坡|MEWATCHSURIA.png" group-title="亚洲各地",新加坡|MeWatch Suria
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Suria
-#EXTINF:-1,tvg-id="新加坡|MeWatch Vasantham" tvg-name="新加坡|MeWatch Vasantham" tvg-logo="https://epg.112114.xyz/logo/新加坡|MEWATCHVASANTHAM.png" group-title="亚洲各地",新加坡|MeWatch Vasantham
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Vasantham
-#EXTINF:-1,tvg-id="新加坡|MeWatch CNA" tvg-name="新加坡|MeWatch CNA" tvg-logo="https://epg.112114.xyz/logo/新加坡|MEWATCHCNA.png" group-title="亚洲各地",新加坡|MeWatch CNA
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_cna
-#EXTINF:-1,tvg-id="马来西亚|TV1" tvg-name="马来西亚|TV1" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TV1.png" group-title="亚洲各地",马来西亚|TV1
-https://smart.pendy.dpdns.org/Smart.php?id=TV1
-#EXTINF:-1,tvg-id="马来西亚|TV1 backup" tvg-name="马来西亚|TV1 backup" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TV1BACKUP.png" group-title="亚洲各地",马来西亚|TV1 backup
-https://smart.pendy.dpdns.org/Smart.php?id=TV1_backup
-#EXTINF:-1,tvg-id="马来西亚|TV2" tvg-name="马来西亚|TV2" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TV2.png" group-title="亚洲各地",马来西亚|TV2
-https://smart.pendy.dpdns.org/Smart.php?id=TV2
-#EXTINF:-1,tvg-id="马来西亚|TV3" tvg-name="马来西亚|TV3" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TV3.png" group-title="亚洲各地",马来西亚|TV3
-https://smart.pendy.dpdns.org/Smart.php?id=TV3
-#EXTINF:-1,tvg-id="马来西亚|TV3 SD" tvg-name="马来西亚|TV3 SD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TV3SD.png" group-title="亚洲各地",马来西亚|TV3 SD
-https://smart.pendy.dpdns.org/Smart.php?id=TV3_mega
-#EXTINF:-1,tvg-id="马来西亚|NTV7" tvg-name="马来西亚|NTV7" tvg-logo="https://epg.112114.xyz/logo/马来西亚|NTV7.png" group-title="亚洲各地",马来西亚|NTV7
-https://smart.pendy.dpdns.org/Smart.php?id=NTV7
-#EXTINF:-1,tvg-id="马来西亚|TV8" tvg-name="马来西亚|TV8" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TV8.png" group-title="亚洲各地",马来西亚|TV8
-https://smart.pendy.dpdns.org/Smart.php?id=TV8
-#EXTINF:-1,tvg-id="马来西亚|TV9" tvg-name="马来西亚|TV9" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TV9.png" group-title="亚洲各地",马来西亚|TV9
-https://smart.pendy.dpdns.org/Smart.php?id=TV9
-#EXTINF:-1,tvg-id="马来西亚|Ria" tvg-name="马来西亚|Ria" tvg-logo="https://epg.112114.xyz/logo/马来西亚|RIA.png" group-title="亚洲各地",马来西亚|Ria
-https://smart.pendy.dpdns.org/Smart.php?id=Ria-0
-#EXTINF:-1,tvg-id="马来西亚|Ria-3" tvg-name="马来西亚|Ria-3" tvg-logo="https://epg.112114.xyz/logo/马来西亚|RIA3.png" group-title="亚洲各地",马来西亚|Ria-3
-https://smart.pendy.dpdns.org/Smart.php?id=Ria_backup
-#EXTINF:-1,tvg-id="马来西亚|Al-Hijrah" tvg-name="马来西亚|Al-Hijrah" tvg-logo="https://epg.112114.xyz/logo/马来西亚|ALHIJRAH.png" group-title="亚洲各地",马来西亚|Al-Hijrah
-https://smart.pendy.dpdns.org/Smart.php?id=Alhijrah
-#EXTINF:-1,tvg-id="马来西亚|Al-Hijrah backup" tvg-name="马来西亚|Al-Hijrah backup" tvg-logo="https://epg.112114.xyz/logo/马来西亚|ALHIJRAHBACKUP.png" group-title="亚洲各地",马来西亚|Al-Hijrah backup
-https://smart.pendy.dpdns.org/Smart.php?id=Alhijrah_backup
-#EXTINF:-1,tvg-id="马来西亚|Awani" tvg-name="马来西亚|Awani" tvg-logo="https://epg.112114.xyz/logo/马来西亚|AWANI.png" group-title="亚洲各地",马来西亚|Awani
-https://smart.pendy.dpdns.org/Smart.php?id=Awani
-#EXTINF:-1,tvg-id="马来西亚|Bernama" tvg-name="马来西亚|Bernama" tvg-logo="https://epg.112114.xyz/logo/马来西亚|BERNAMA.png" group-title="亚洲各地",马来西亚|Bernama
-https://smart.pendy.dpdns.org/Smart.php?id=Bernama
-#EXTINF:-1,tvg-id="马来西亚|Prima" tvg-name="马来西亚|Prima" tvg-logo="https://epg.112114.xyz/logo/马来西亚|PRIMA.png" group-title="亚洲各地",马来西亚|Prima
-https://smart.pendy.dpdns.org/Smart.php?id=Prima-0
-#EXTINF:-1,tvg-id="马来西亚|Prima backup" tvg-name="马来西亚|Prima backup" tvg-logo="https://epg.112114.xyz/logo/马来西亚|PRIMABACKUP.png" group-title="亚洲各地",马来西亚|Prima backup
-https://smart.pendy.dpdns.org/Smart.php?id=AAprima1
-#EXTINF:-1,tvg-id="马来西亚|Prima backup 2" tvg-name="马来西亚|Prima backup 2" tvg-logo="https://epg.112114.xyz/logo/马来西亚|PRIMABACKUP2.png" group-title="亚洲各地",马来西亚|Prima backup 2
-https://smart.pendy.dpdns.org/Smart.php?id=AAprima
-#EXTINF:-1,tvg-id="马来西亚|Ceria" tvg-name="马来西亚|Ceria" tvg-logo="https://epg.112114.xyz/logo/马来西亚|CERIA.png" group-title="亚洲各地",马来西亚|Ceria
-https://smart.pendy.dpdns.org/Smart.php?id=Ceria
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="亚洲各地",马来西亚|Astro MTV
-https://smart.pendy.dpdns.org/Smart.php?id=AstroMTV
-#EXTINF:-1,tvg-id="马来西亚|Mecca Live HD" tvg-name="马来西亚|Mecca Live HD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|MECCALIVE.png" group-title="亚洲各地",马来西亚|Mecca Live HD
-https://smart.pendy.dpdns.org/Smart.php?id=quran_mido
-#EXTINF:-1,tvg-id="马来西亚|Madinah HD" tvg-name="马来西亚|Madinah HD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|MADINAH.png" group-title="亚洲各地",马来西亚|Madinah HD
-https://smart.pendy.dpdns.org/Smart.php?id=sunnah_mido
-#EXTINF:-1,tvg-id="马来西亚|Oasis" tvg-name="马来西亚|Oasis" tvg-logo="https://epg.112114.xyz/logo/马来西亚|OASIS.png" group-title="亚洲各地",马来西亚|Oasis
-https://smart.pendy.dpdns.org/Smart.php?id=Oasis
-#EXTINF:-1,tvg-id="马来西亚|Siar" tvg-name="马来西亚|Siar" tvg-logo="https://epg.112114.xyz/logo/马来西亚|SIAR.png" group-title="亚洲各地",马来西亚|Siar
-https://smart.pendy.dpdns.org/Smart.php?id=Siar
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="亚洲各地",马来西亚|Citra
-https://smart.pendy.dpdns.org/Smart.php?id=AAcitra
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="亚洲各地",马来西亚|Citra backup
-https://smart.pendy.dpdns.org/Smart.php?id=AAcitra1
-#EXTINF:-1,tvg-id="马来西亚|Sensasi" tvg-name="马来西亚|Sensasi" tvg-logo="https://epg.112114.xyz/logo/马来西亚|SENSASI.png" group-title="亚洲各地",马来西亚|Sensasi
-https://smart.pendy.dpdns.org/Smart.php?id=Sensasi
-#EXTINF:-1,tvg-id="马来西亚|Aura" tvg-name="马来西亚|Aura" tvg-logo="https://epg.112114.xyz/logo/马来西亚|AURA.png" group-title="亚洲各地",马来西亚|Aura
-https://smart.pendy.dpdns.org/Smart.php?id=Aura
-#EXTINF:-1,tvg-id="马来西亚|Rania" tvg-name="马来西亚|Rania" tvg-logo="https://epg.112114.xyz/logo/马来西亚|RANIA.png" group-title="亚洲各地",马来西亚|Rania
-https://smart.pendy.dpdns.org/Smart.php?id=Rania
-#EXTINF:-1,tvg-id="马来西亚|KBS World" tvg-name="马来西亚|KBS World" tvg-logo="https://epg.112114.xyz/logo/马来西亚|KBSWORLD.png" group-title="亚洲各地",马来西亚|KBS World
-https://smart.pendy.dpdns.org/Smart.php?id=KBS
-#EXTINF:-1,tvg-id="马来西亚|Boo" tvg-name="马来西亚|Boo" tvg-logo="https://epg.112114.xyz/logo/马来西亚|BOO.png" group-title="亚洲各地",马来西亚|Boo
-https://smart.pendy.dpdns.org/Smart.php?id=Boo
-#EXTINF:-1,tvg-id="马来西亚|Awesome TV" tvg-name="马来西亚|Awesome TV" tvg-logo="https://epg.112114.xyz/logo/马来西亚|AWESOMETV.png" group-title="亚洲各地",马来西亚|Awesome TV
-https://smart.pendy.dpdns.org/Smart.php?id=Dsangat
-#EXTINF:-1,tvg-id="马来西亚|Astro Sonypix" tvg-name="马来西亚|Astro Sonypix" tvg-logo="https://epg.112114.xyz/logo/马来西亚|ASTROSONYPIX.png" group-title="亚洲各地",马来西亚|Astro Sonypix
-https://smart.pendy.dpdns.org/Smart.php?id=Asonypix
-#EXTINF:-1,tvg-id="马来西亚|Sony HD" tvg-name="马来西亚|Sony HD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|SONY.png" group-title="亚洲各地",马来西亚|Sony HD
-https://smart.pendy.dpdns.org/Smart.php?id=SetOne
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="亚洲各地",马来西亚|TvN
-https://smart.pendy.dpdns.org/Smart.php?id=TVN
-#EXTINF:-1,tvg-id="马来西亚|AEC" tvg-name="马来西亚|AEC" tvg-logo="https://epg.112114.xyz/logo/马来西亚|AEC.png" group-title="亚洲各地",马来西亚|AEC
-https://smart.pendy.dpdns.org/Smart.php?id=AEC
-#EXTINF:-1,tvg-id="马来西亚|华丽台 HD （Wah Lai Toi）" tvg-name="马来西亚|华丽台 HD （Wah Lai Toi）" tvg-logo="https://epg.112114.xyz/logo/马来西亚|华丽台HD（WAHLAITOI）.png" group-title="亚洲各地",马来西亚|华丽台 HD （Wah Lai Toi）
-https://smart.pendy.dpdns.org/Smart.php?id=Wlt
-#EXTINF:-1,tvg-id="马来西亚|欢喜台 HD （Hua Hee Tai）" tvg-name="马来西亚|欢喜台 HD （Hua Hee Tai）" tvg-logo="https://epg.112114.xyz/logo/马来西亚|欢喜台HD（HUAHEETAI）.png" group-title="亚洲各地",马来西亚|欢喜台 HD （Hua Hee Tai）
-https://smart.pendy.dpdns.org/Smart.php?id=Huahee
-#EXTINF:-1,tvg-id="马来西亚|Astro QJ" tvg-name="马来西亚|Astro QJ" tvg-logo="https://epg.112114.xyz/logo/马来西亚|ASTROQJ.png" group-title="亚洲各地",马来西亚|Astro QJ
-https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
-#EXTINF:-1,tvg-id="马来西亚|TVB Jade" tvg-name="马来西亚|TVB Jade" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TVBJADE.png" group-title="亚洲各地",马来西亚|TVB Jade
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
-#EXTINF:-1,tvg-id="马来西亚|TVB Asia" tvg-name="马来西亚|TVB Asia" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TVBASIA.png" group-title="亚洲各地",马来西亚|TVB Asia
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
-#EXTINF:-1,tvg-id="马来西亚|TVB Entertainment" tvg-name="马来西亚|TVB Entertainment" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TVBENTERTAINMENT.png" group-title="亚洲各地",马来西亚|TVB Entertainment
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
-#EXTINF:-1,tvg-id="马来西亚|TVB Classic" tvg-name="马来西亚|TVB Classic" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TVBCLASSIC.png" group-title="亚洲各地",马来西亚|TVB Classic
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
-#EXTINF:-1,tvg-id="马来西亚|AOD" tvg-name="马来西亚|AOD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|AOD.png" group-title="亚洲各地",马来西亚|AOD
-https://smart.pendy.dpdns.org/Smart.php?id=Aodhd
-#EXTINF:-1,tvg-id="马来西亚|TVB 星河台 Xing He" tvg-name="马来西亚|TVB 星河台 Xing He" tvg-logo="https://epg.112114.xyz/logo/马来西亚|TVB星河台XINGHE.png" group-title="亚洲各地",马来西亚|TVB 星河台 Xing He
-https://smart.pendy.dpdns.org/Smart.php?id=Xinhe
-#EXTINF:-1,tvg-id="马来西亚|爱奇艺 iQiyi" tvg-name="马来西亚|爱奇艺 iQiyi" tvg-logo="https://epg.112114.xyz/logo/马来西亚|爱奇艺IQIYI.png" group-title="亚洲各地",马来西亚|爱奇艺 iQiyi
-https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
-#EXTINF:-1,tvg-id="马来西亚|Goshop" tvg-name="马来西亚|Goshop" tvg-logo="https://epg.112114.xyz/logo/马来西亚|GOSHOP.png" group-title="亚洲各地",马来西亚|Goshop
-https://smart.pendy.dpdns.org/Smart.php?id=Goshop
-#EXTINF:-1,tvg-id="马来西亚|Celestial Movies HD" tvg-name="马来西亚|Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|CELESTIALMOVIES.png" group-title="亚洲各地",马来西亚|Celestial Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=Celestial
-#EXTINF:-1,tvg-id="马来西亚|Astro LOL" tvg-name="马来西亚|Astro LOL" tvg-logo="https://epg.112114.xyz/logo/马来西亚|ASTROLOL.png" group-title="亚洲各地",马来西亚|Astro LOL
-https://smart.pendy.dpdns.org/Smart.php?id=Astro_lol
-#EXTINF:-1,tvg-id="马来西亚|Astro Rusi" tvg-name="马来西亚|Astro Rusi" tvg-logo="https://epg.112114.xyz/logo/马来西亚|ASTRORUSI.png" group-title="亚洲各地",马来西亚|Astro Rusi
-https://smart.pendy.dpdns.org/Smart.php?id=Rusi
-#EXTINF:-1,tvg-id="马来西亚|WION" tvg-name="马来西亚|WION" tvg-logo="https://epg.112114.xyz/logo/马来西亚|WION.png" group-title="亚洲各地",马来西亚|WION
-https://smart.pendy.dpdns.org/Smart.php?id=Wion
-#EXTINF:-1,tvg-id="马来西亚|RTM Asean" tvg-name="马来西亚|RTM Asean" tvg-logo="https://epg.112114.xyz/logo/马来西亚|RTMASEAN.png" group-title="亚洲各地",马来西亚|RTM Asean
-https://smart.pendy.dpdns.org/Smart.php?id=Rtmasean
-#EXTINF:-1,tvg-id="印度尼西亚|TVRI National" tvg-name="印度尼西亚|TVRI National" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TVRINATIONAL.png" group-title="亚洲各地",印度尼西亚|TVRI National
-https://smart.pendy.dpdns.org/Smart.php?id=TVRI
-#EXTINF:-1,tvg-id="印度尼西亚|RCTI" tvg-name="印度尼西亚|RCTI" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|RCTI.png" group-title="亚洲各地",印度尼西亚|RCTI
-https://smart.pendy.dpdns.org/Smart.php?id=Rcti
-#EXTINF:-1,tvg-id="印度尼西亚|Kompass TV" tvg-name="印度尼西亚|Kompass TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|KOMPASSTV.png" group-title="亚洲各地",印度尼西亚|Kompass TV
-https://smart.pendy.dpdns.org/Smart.php?id=Kompass
-#EXTINF:-1,tvg-id="印度尼西亚|Berita Satu" tvg-name="印度尼西亚|Berita Satu" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|BERITASATU.png" group-title="亚洲各地",印度尼西亚|Berita Satu
-https://smart.pendy.dpdns.org/Smart.php?id=BeritaSatu_eko
-#EXTINF:-1,tvg-id="印度尼西亚|Indosiar HD" tvg-name="印度尼西亚|Indosiar HD" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|INDOSIAR.png" group-title="亚洲各地",印度尼西亚|Indosiar HD
-https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
-#EXTINF:-1,tvg-id="印度尼西亚|AnTV" tvg-name="印度尼西亚|AnTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|ANTV.png" group-title="亚洲各地",印度尼西亚|AnTV
-https://smart.pendy.dpdns.org/Smart.php?id=Antv
-#EXTINF:-1,tvg-id="印度尼西亚|MNC TV" tvg-name="印度尼西亚|MNC TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|MNCTV.png" group-title="亚洲各地",印度尼西亚|MNC TV
-https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
-#EXTINF:-1,tvg-id="印度尼西亚|Trans 7" tvg-name="印度尼西亚|Trans 7" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TRANS7.png" group-title="亚洲各地",印度尼西亚|Trans 7
-https://smart.pendy.dpdns.org/Smart.php?id=Trans7_eko
-#EXTINF:-1,tvg-id="印度尼西亚|Transtv" tvg-name="印度尼西亚|Transtv" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TRANSTV.png" group-title="亚洲各地",印度尼西亚|Transtv
-https://smart.pendy.dpdns.org/Smart.php?id=Transtv
-#EXTINF:-1,tvg-id="印度尼西亚|JTV" tvg-name="印度尼西亚|JTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|JTV.png" group-title="亚洲各地",印度尼西亚|JTV
-https://smart.pendy.dpdns.org/Smart.php?id=JTV_eko
-#EXTINF:-1,tvg-id="印度尼西亚|Metro TV" tvg-name="印度尼西亚|Metro TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|METROTV.png" group-title="亚洲各地",印度尼西亚|Metro TV
-https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
-#EXTINF:-1,tvg-id="印度尼西亚|SCTV" tvg-name="印度尼西亚|SCTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|SCTV.png" group-title="亚洲各地",印度尼西亚|SCTV
-https://smart.pendy.dpdns.org/Smart.php?id=SCTV
-#EXTINF:-1,tvg-id="印度尼西亚|Tvone" tvg-name="印度尼西亚|Tvone" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TVONE.png" group-title="亚洲各地",印度尼西亚|Tvone
-https://smart.pendy.dpdns.org/Smart.php?id=Tvone
-#EXTINF:-1,tvg-id="印度尼西亚|TVMU" tvg-name="印度尼西亚|TVMU" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TVMU.png" group-title="亚洲各地",印度尼西亚|TVMU
-https://smart.pendy.dpdns.org/Smart.php?id=TVMU_eko
-#EXTINF:-1,tvg-id="印度尼西亚|GTV" tvg-name="印度尼西亚|GTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|GTV.png" group-title="亚洲各地",印度尼西亚|GTV
-https://smart.pendy.dpdns.org/Smart.php?id=Gtv
-#EXTINF:-1,tvg-id="印度尼西亚|RTV" tvg-name="印度尼西亚|RTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|RTV.png" group-title="亚洲各地",印度尼西亚|RTV
-https://smart.pendy.dpdns.org/Smart.php?id=Rtv
-#EXTINF:-1,tvg-id="印度尼西亚|Jak TV" tvg-name="印度尼西亚|Jak TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|JAKTV.png" group-title="亚洲各地",印度尼西亚|Jak TV
-https://smart.pendy.dpdns.org/Smart.php?id=JakTV
-#EXTINF:-1,tvg-id="印度尼西亚|iNews TV" tvg-name="印度尼西亚|iNews TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|INEWSTV.png" group-title="亚洲各地",印度尼西亚|iNews TV
-https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
-#EXTINF:-1,tvg-id="印度尼西亚|Daai TV" tvg-name="印度尼西亚|Daai TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|DAAITV.png" group-title="亚洲各地",印度尼西亚|Daai TV
-https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
-#EXTINF:-1,tvg-id="印度尼西亚|Net TV" tvg-name="印度尼西亚|Net TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|NETTV.png" group-title="亚洲各地",印度尼西亚|Net TV
-https://smart.pendy.dpdns.org/Smart.php?id=NetTV
-#EXTINF:-1,tvg-id="印度尼西亚|EWTN" tvg-name="印度尼西亚|EWTN" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|EWTN.png" group-title="亚洲各地",印度尼西亚|EWTN
-https://smart.pendy.dpdns.org/Smart.php?id=Ewtn
-#EXTINF:-1,tvg-id="印度尼西亚|AlQuran AlKareem" tvg-name="印度尼西亚|AlQuran AlKareem" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|ALQURANALKAREEM.png" group-title="亚洲各地",印度尼西亚|AlQuran AlKareem
-https://smart.pendy.dpdns.org/Smart.php?id=AlQuran
-#EXTINF:-1,tvg-id="印度尼西亚|Tawaf TV" tvg-name="印度尼西亚|Tawaf TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TAWAFTV.png" group-title="亚洲各地",印度尼西亚|Tawaf TV
-https://smart.pendy.dpdns.org/Smart.php?id=TawafTV
-#EXTINF:-1,tvg-id="印度尼西亚|Vision Prime" tvg-name="印度尼西亚|Vision Prime" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|VISIONPRIME.png" group-title="亚洲各地",印度尼西亚|Vision Prime
-https://smart.pendy.dpdns.org/Smart.php?id=VisionPrime
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="亚洲各地",印度尼西亚|Muslim TV
-https://smart.pendy.dpdns.org/Smart.php?id=MuslimTV
-#EXTINF:-1,tvg-id="印度尼西亚|Music TV" tvg-name="印度尼西亚|Music TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|MUSICTV.png" group-title="亚洲各地",印度尼西亚|Music TV
-https://smart.pendy.dpdns.org/Smart.php?id=MusicTV
-#EXTINF:-1,tvg-id="印度尼西亚|Lifestyle&amp;Fashion" tvg-name="印度尼西亚|Lifestyle&amp;Fashion" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|LIFESTYLE&amp;FASHION.png" group-title="亚洲各地",印度尼西亚|Lifestyle&amp;Fashion
-https://smart.pendy.dpdns.org/Smart.php?id=Lifestyle
-#EXTINF:-1,tvg-id="印度尼西亚|Entertain" tvg-name="印度尼西亚|Entertain" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|ENTERTAIN.png" group-title="亚洲各地",印度尼西亚|Entertain
-https://smart.pendy.dpdns.org/Smart.php?id=Entertain
-#EXTINF:-1,tvg-id="印度|Sun TV HD" tvg-name="印度|Sun TV HD" tvg-logo="https://epg.112114.xyz/logo/印度|SUNTV.png" group-title="亚洲各地",印度|Sun TV HD
-https://smart.pendy.dpdns.org/Smart.php?id=Suntv
-#EXTINF:-1,tvg-id="印度|Star Vijay" tvg-name="印度|Star Vijay" tvg-logo="https://epg.112114.xyz/logo/印度|STARVIJAY.png" group-title="亚洲各地",印度|Star Vijay
-https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
-#EXTINF:-1,tvg-id="印度|Colors Tamil" tvg-name="印度|Colors Tamil" tvg-logo="https://epg.112114.xyz/logo/印度|COLORSTAMIL.png" group-title="亚洲各地",印度|Colors Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
-#EXTINF:-1,tvg-id="印度|Sun Music" tvg-name="印度|Sun Music" tvg-logo="https://epg.112114.xyz/logo/印度|SUNMUSIC.png" group-title="亚洲各地",印度|Sun Music
-https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
-#EXTINF:-1,tvg-id="印度|Astro Sunlife" tvg-name="印度|Astro Sunlife" tvg-logo="https://epg.112114.xyz/logo/印度|ASTROSUNLIFE.png" group-title="亚洲各地",印度|Astro Sunlife
-https://smart.pendy.dpdns.org/Smart.php?id=Sunlife
-#EXTINF:-1,tvg-id="印度|Astro Vaanavil" tvg-name="印度|Astro Vaanavil" tvg-logo="https://epg.112114.xyz/logo/印度|ASTROVAANAVIL.png" group-title="亚洲各地",印度|Astro Vaanavil
-https://smart.pendy.dpdns.org/Smart.php?id=Vaanavil
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="亚洲各地",印度|Zee Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="亚洲各地",印度|Zee Business
-https://smart.pendy.dpdns.org/Smart.php?id=Zeebusiness
-#EXTINF:-1,tvg-id="印度|News 18 Tamil" tvg-name="印度|News 18 Tamil" tvg-logo="https://epg.112114.xyz/logo/印度|NEWS18TAMIL.png" group-title="亚洲各地",印度|News 18 Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=news18tamil_raj
-#EXTINF:-1,tvg-id="印度|Adithya" tvg-name="印度|Adithya" tvg-logo="https://epg.112114.xyz/logo/印度|ADITHYA.png" group-title="亚洲各地",印度|Adithya
-https://smart.pendy.dpdns.org/Smart.php?id=Adithya
-#EXTINF:-1,tvg-id="印度|Makkal TV" tvg-name="印度|Makkal TV" tvg-logo="https://epg.112114.xyz/logo/印度|MAKKALTV.png" group-title="亚洲各地",印度|Makkal TV
-https://smart.pendy.dpdns.org/Smart.php?id=Makkaltv
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="亚洲各地",印度|Zee Action
-https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction
-#EXTINF:-1,tvg-id="印度|Astro KTV" tvg-name="印度|Astro KTV" tvg-logo="https://epg.112114.xyz/logo/印度|ASTROKTV.png" group-title="亚洲各地",印度|Astro KTV
-https://smart.pendy.dpdns.org/Smart.php?id=Astroktv
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="亚洲各地",印度|Zee TV HD
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="亚洲各地",印度|Zee Cinema HD
-https://smart.pendy.dpdns.org/Smart.php?id=Zeecinemahd
-#EXTINF:-1,tvg-id="印度|Color HD" tvg-name="印度|Color HD" tvg-logo="https://epg.112114.xyz/logo/印度|COLOR.png" group-title="亚洲各地",印度|Color HD
-https://smart.pendy.dpdns.org/Smart.php?id=Colorhd
-#EXTINF:-1,tvg-id="印度|Starplus HD" tvg-name="印度|Starplus HD" tvg-logo="https://epg.112114.xyz/logo/印度|STARPLUS.png" group-title="亚洲各地",印度|Starplus HD
-https://smart.pendy.dpdns.org/Smart.php?id=Starplushd
-#EXTINF:-1,tvg-id="印度|Picture HD" tvg-name="印度|Picture HD" tvg-logo="https://epg.112114.xyz/logo/印度|PICTURE.png" group-title="亚洲各地",印度|Picture HD
-https://smart.pendy.dpdns.org/Smart.php?id=Npicture
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="亚洲各地",印度|Zee News
-https://smart.pendy.dpdns.org/Smart.php?id=Zeenews
-#EXTINF:-1,tvg-id="印度|Asianet" tvg-name="印度|Asianet" tvg-logo="https://epg.112114.xyz/logo/印度|ASIANET.png" group-title="亚洲各地",印度|Asianet
-https://smart.pendy.dpdns.org/Smart.php?id=asianet_raj
-#EXTINF:-1,tvg-id="印度|Asianet News" tvg-name="印度|Asianet News" tvg-logo="https://epg.112114.xyz/logo/印度|ASIANETNEWS.png" group-title="亚洲各地",印度|Asianet News
-https://smart.pendy.dpdns.org/Smart.php?id=asianetnews_raj
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="亚洲各地",印度|Discovery World Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoveryworldtam_raj
-#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="亚洲各地",印度|History Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=historytam_raj
-#EXTINF:-1,tvg-id="印度|NatGeo Tamil" tvg-name="印度|NatGeo Tamil" tvg-logo="https://epg.112114.xyz/logo/印度|NATGEOTAMIL.png" group-title="亚洲各地",印度|NatGeo Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=natgeotamil_raj
-#EXTINF:-1,tvg-id="印度|Natgeo Wild Tamil" tvg-name="印度|Natgeo Wild Tamil" tvg-logo="https://epg.112114.xyz/logo/印度|NATGEOWILDTAMIL.png" group-title="亚洲各地",印度|Natgeo Wild Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=natgeowildtamil_raj
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="亚洲各地",印度|Discovery Kids Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoverykidtamil_raj
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="亚洲各地",印度|Discovery Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoverytamil_raj
-#EXTINF:-1,tvg-id="印度|Sony Yay Tamil" tvg-name="印度|Sony Yay Tamil" tvg-logo="https://epg.112114.xyz/logo/印度|SONYYAYTAMIL.png" group-title="亚洲各地",印度|Sony Yay Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=sonyyaytam_raj
-#EXTINF:-1,tvg-id="印度|Sun TV India" tvg-name="印度|Sun TV India" tvg-logo="https://epg.112114.xyz/logo/印度|SUNTVINDIA.png" group-title="亚洲各地",印度|Sun TV India
-https://smart.pendy.dpdns.org/Smart.php?id=suntv_raj
-#EXTINF:-1,tvg-id="印度|Starmaa HD" tvg-name="印度|Starmaa HD" tvg-logo="https://epg.112114.xyz/logo/印度|STARMAA.png" group-title="亚洲各地",印度|Starmaa HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmaa_raj
-#EXTINF:-1,tvg-id="印度|Starmaa Movies HD" tvg-name="印度|Starmaa Movies HD" tvg-logo="https://epg.112114.xyz/logo/印度|STARMAAMOVIES.png" group-title="亚洲各地",印度|Starmaa Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
-#EXTINF:-1,tvg-id="印度|Bollyone" tvg-name="印度|Bollyone" tvg-logo="https://epg.112114.xyz/logo/印度|BOLLYONE.png" group-title="亚洲各地",印度|Bollyone
-https://smart.pendy.dpdns.org/Smart.php?id=Bollyone
-#EXTINF:-1,tvg-id="印度|Vijay Super" tvg-name="印度|Vijay Super" tvg-logo="https://epg.112114.xyz/logo/印度|VIJAYSUPER.png" group-title="亚洲各地",印度|Vijay Super
-https://smart.pendy.dpdns.org/Smart.php?id=vijaysuper_raj
-#EXTINF:-1,tvg-id="印度|Vellithirai" tvg-name="印度|Vellithirai" tvg-logo="https://epg.112114.xyz/logo/印度|VELLITHIRAI.png" group-title="亚洲各地",印度|Vellithirai
-https://smart.pendy.dpdns.org/Smart.php?id=Vellithirai
-#EXTINF:-1,tvg-id="泰国|Channel 3 Thailand" tvg-name="泰国|Channel 3 Thailand" tvg-logo="https://epg.112114.xyz/logo/泰国|CHANNEL3THAILAND.png" group-title="亚洲各地",泰国|Channel 3 Thailand
-https://smart.pendy.dpdns.org/Smart.php?id=ch3_pat
-#EXTINF:-1,tvg-id="泰国|Channel 5 Thailand" tvg-name="泰国|Channel 5 Thailand" tvg-logo="https://epg.112114.xyz/logo/泰国|CHANNEL5THAILAND.png" group-title="亚洲各地",泰国|Channel 5 Thailand
-https://smart.pendy.dpdns.org/Smart.php?id=ch5_pat
-#EXTINF:-1,tvg-id="泰国|Channel 7 Thailand" tvg-name="泰国|Channel 7 Thailand" tvg-logo="https://epg.112114.xyz/logo/泰国|CHANNEL7THAILAND.png" group-title="亚洲各地",泰国|Channel 7 Thailand
-https://smart.pendy.dpdns.org/Smart.php?id=ch7_pat
-#EXTINF:-1,tvg-id="泰国|MCOT HD Thailand-1" tvg-name="泰国|MCOT HD Thailand-1" tvg-logo="https://epg.112114.xyz/logo/泰国|MCOTHDTHAILAND1.png" group-title="亚洲各地",泰国|MCOT HD Thailand-1
-https://smart.pendy.dpdns.org/Smart.php?id=mcot_pat
-#EXTINF:-1,tvg-id="泰国|PPTV Thailand1" tvg-name="泰国|PPTV Thailand1" tvg-logo="https://epg.112114.xyz/logo/泰国|PPTVTHAILAND1.png" group-title="亚洲各地",泰国|PPTV Thailand1
-https://smart.pendy.dpdns.org/Smart.php?id=pptv_pat
-#EXTINF:-1,tvg-id="泰国|Thai Thai" tvg-name="泰国|Thai Thai" tvg-logo="https://epg.112114.xyz/logo/泰国|THAITHAI.png" group-title="亚洲各地",泰国|Thai Thai
-https://smart.pendy.dpdns.org/Smart.php?id=thaithai_pat
-#EXTINF:-1,tvg-id="泰国|Amarin" tvg-name="泰国|Amarin" tvg-logo="https://epg.112114.xyz/logo/泰国|AMARIN.png" group-title="亚洲各地",泰国|Amarin
-https://smart.pendy.dpdns.org/Smart.php?id=amarin_pat
-#EXTINF:-1,tvg-id="泰国|Ch 8" tvg-name="泰国|Ch 8" tvg-logo="https://epg.112114.xyz/logo/泰国|CH8.png" group-title="亚洲各地",泰国|Ch 8
-https://smart.pendy.dpdns.org/Smart.php?id=ch8_pat
-#EXTINF:-1,tvg-id="泰国|GmmOne" tvg-name="泰国|GmmOne" tvg-logo="https://epg.112114.xyz/logo/泰国|GMMONE.png" group-title="亚洲各地",泰国|GmmOne
-https://smart.pendy.dpdns.org/Smart.php?id=gmmone_pat
-#EXTINF:-1,tvg-id="泰国|Mono" tvg-name="泰国|Mono" tvg-logo="https://epg.112114.xyz/logo/泰国|MONO.png" group-title="亚洲各地",泰国|Mono
-https://smart.pendy.dpdns.org/Smart.php?id=mono_pat
-#EXTINF:-1,tvg-id="泰国|Thairath" tvg-name="泰国|Thairath" tvg-logo="https://epg.112114.xyz/logo/泰国|THAIRATH.png" group-title="亚洲各地",泰国|Thairath
-https://smart.pendy.dpdns.org/Smart.php?id=thairath_pat
-#EXTINF:-1,tvg-id="泰国|tpbs" tvg-name="泰国|tpbs" tvg-logo="https://epg.112114.xyz/logo/泰国|TPBS.png" group-title="亚洲各地",泰国|tpbs
-https://smart.pendy.dpdns.org/Smart.php?id=tpbs_pat
-#EXTINF:-1,tvg-id="泰国|Workpoint" tvg-name="泰国|Workpoint" tvg-logo="https://epg.112114.xyz/logo/泰国|WORKPOINT.png" group-title="亚洲各地",泰国|Workpoint
-https://smart.pendy.dpdns.org/Smart.php?id=workpoint_pat
-#EXTINF:-1,tvg-id="泰国|Gmm Channel" tvg-name="泰国|Gmm Channel" tvg-logo="https://epg.112114.xyz/logo/泰国|GMMCHANNEL.png" group-title="亚洲各地",泰国|Gmm Channel
-https://smart.pendy.dpdns.org/Smart.php?id=gmmchannel_pat
-#EXTINF:-1,tvg-id="泰国|Nation" tvg-name="泰国|Nation" tvg-logo="https://epg.112114.xyz/logo/泰国|NATION.png" group-title="亚洲各地",泰国|Nation
-https://smart.pendy.dpdns.org/Smart.php?id=nation_pat
-#EXTINF:-1,tvg-id="泰国|Tnn24" tvg-name="泰国|Tnn24" tvg-logo="https://epg.112114.xyz/logo/泰国|TNN24.png" group-title="亚洲各地",泰国|Tnn24
-https://smart.pendy.dpdns.org/Smart.php?id=tnn24_pat
-#EXTINF:-1,tvg-id="泰国|Nbt" tvg-name="泰国|Nbt" tvg-logo="https://epg.112114.xyz/logo/泰国|NBT.png" group-title="亚洲各地",泰国|Nbt
-https://smart.pendy.dpdns.org/Smart.php?id=nbt_pat
-#EXTINF:-1,tvg-id="泰国|New" tvg-name="泰国|New" tvg-logo="https://epg.112114.xyz/logo/泰国|NEW.png" group-title="亚洲各地",泰国|New
-https://smart.pendy.dpdns.org/Smart.php?id=new_pat
-#EXTINF:-1,tvg-id="泰国|TPTV" tvg-name="泰国|TPTV" tvg-logo="https://epg.112114.xyz/logo/泰国|TPTV.png" group-title="亚洲各地",泰国|TPTV
-https://smart.pendy.dpdns.org/Smart.php?id=tptv_pat
-#EXTINF:-1,tvg-id="英国|BBC 1" tvg-name="英国|BBC 1" tvg-logo="https://epg.112114.xyz/logo/英国|BBC1.png" group-title="亚洲各地",英国|BBC 1
-https://smart.pendy.dpdns.org/Smart.php?id=bbc1_antik
-#EXTINF:-1,tvg-id="英国|BBC 2" tvg-name="英国|BBC 2" tvg-logo="https://epg.112114.xyz/logo/英国|BBC2.png" group-title="亚洲各地",英国|BBC 2
-https://smart.pendy.dpdns.org/Smart.php?id=bbc2_antik
-#EXTINF:-1,tvg-id="英国|CBBC" tvg-name="英国|CBBC" tvg-logo="https://epg.112114.xyz/logo/英国|CBBC.png" group-title="亚洲各地",英国|CBBC
-https://smart.pendy.dpdns.org/Smart.php?id=cbbc_antik
-#EXTINF:-1,tvg-id="英国|More4" tvg-name="英国|More4" tvg-logo="https://epg.112114.xyz/logo/英国|MORE4.png" group-title="亚洲各地",英国|More4
-https://smart.pendy.dpdns.org/Smart.php?id=more4_antik
-#EXTINF:-1,tvg-id="英国|Freesports" tvg-name="英国|Freesports" tvg-logo="https://epg.112114.xyz/logo/英国|FREESPORTS.png" group-title="亚洲各地",英国|Freesports
-https://smart.pendy.dpdns.org/Smart.php?id=freesports_antik
-#EXTINF:-1,tvg-id="英国|Pick TV" tvg-name="英国|Pick TV" tvg-logo="https://epg.112114.xyz/logo/英国|PICKTV.png" group-title="亚洲各地",英国|Pick TV
-https://smart.pendy.dpdns.org/Smart.php?id=picktv_antik
-#EXTINF:-1,tvg-id="英国|itv 1" tvg-name="英国|itv 1" tvg-logo="https://epg.112114.xyz/logo/英国|ITV1.png" group-title="亚洲各地",英国|itv 1
-https://smart.pendy.dpdns.org/Smart.php?id=itv1_antik
-#EXTINF:-1,tvg-id="英国|itv 2" tvg-name="英国|itv 2" tvg-logo="https://epg.112114.xyz/logo/英国|ITV2.png" group-title="亚洲各地",英国|itv 2
-https://smart.pendy.dpdns.org/Smart.php?id=itv2_antik
-#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="亚洲各地",英国|Euronews
-https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
-#EXTINF:-1,tvg-id="英国|Channel 4" tvg-name="英国|Channel 4" tvg-logo="https://epg.112114.xyz/logo/英国|CHANNEL4.png" group-title="亚洲各地",英国|Channel 4
-https://smart.pendy.dpdns.org/Smart.php?id=channel4_antik
-#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="亚洲各地",英国|BBC World News
-https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
-#EXTINF:-1,tvg-id="越南|ANTV" tvg-name="越南|ANTV" tvg-logo="https://epg.112114.xyz/logo/越南|ANTV.png" group-title="亚洲各地",越南|ANTV
-https://smart.pendy.dpdns.org/Smart.php?id=viet_antv
-#EXTINF:-1,tvg-id="越南|VTV 1" tvg-name="越南|VTV 1" tvg-logo="https://epg.112114.xyz/logo/越南|VTV1.png" group-title="亚洲各地",越南|VTV 1
-https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv1
-#EXTINF:-1,tvg-id="越南|VTV 7" tvg-name="越南|VTV 7" tvg-logo="https://epg.112114.xyz/logo/越南|VTV7.png" group-title="亚洲各地",越南|VTV 7
-https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv7
-#EXTINF:-1,tvg-id="越南|HTV 7" tvg-name="越南|HTV 7" tvg-logo="https://epg.112114.xyz/logo/越南|HTV7.png" group-title="亚洲各地",越南|HTV 7
-https://smart.pendy.dpdns.org/Smart.php?id=viet_htv7
-#EXTINF:-1,tvg-id="越南|HTV 9" tvg-name="越南|HTV 9" tvg-logo="https://epg.112114.xyz/logo/越南|HTV9.png" group-title="亚洲各地",越南|HTV 9
-https://smart.pendy.dpdns.org/Smart.php?id=viet_htv9
-#EXTINF:-1,tvg-id="越南|BPTV 2" tvg-name="越南|BPTV 2" tvg-logo="https://epg.112114.xyz/logo/越南|BPTV2.png" group-title="亚洲各地",越南|BPTV 2
-https://smart.pendy.dpdns.org/Smart.php?id=viet_bptv2
-#EXTINF:-1,tvg-id="越南|BRT HD" tvg-name="越南|BRT HD" tvg-logo="https://epg.112114.xyz/logo/越南|BRT.png" group-title="亚洲各地",越南|BRT HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_brt
-#EXTINF:-1,tvg-id="越南|Ca Mau TV" tvg-name="越南|Ca Mau TV" tvg-logo="https://epg.112114.xyz/logo/越南|CAMAUTV.png" group-title="亚洲各地",越南|Ca Mau TV
-https://smart.pendy.dpdns.org/Smart.php?id=viet_camautv
-#EXTINF:-1,tvg-id="越南|Danang TV1 HD" tvg-name="越南|Danang TV1 HD" tvg-logo="https://epg.112114.xyz/logo/越南|DANANGTV1.png" group-title="亚洲各地",越南|Danang TV1 HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv1
-#EXTINF:-1,tvg-id="越南|Danang TV2 HD" tvg-name="越南|Danang TV2 HD" tvg-logo="https://epg.112114.xyz/logo/越南|DANANGTV2.png" group-title="亚洲各地",越南|Danang TV2 HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv2
-#EXTINF:-1,tvg-id="越南|HBTV HD" tvg-name="越南|HBTV HD" tvg-logo="https://epg.112114.xyz/logo/越南|HBTV.png" group-title="亚洲各地",越南|HBTV HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_hbtv
-#EXTINF:-1,tvg-id="越南|PTTH 1" tvg-name="越南|PTTH 1" tvg-logo="https://epg.112114.xyz/logo/越南|PTTH1.png" group-title="亚洲各地",越南|PTTH 1
-https://smart.pendy.dpdns.org/Smart.php?id=viet_ptth1
-#EXTINF:-1,tvg-id="韩国|Arirang HD" tvg-name="韩国|Arirang HD" tvg-logo="https://epg.112114.xyz/logo/韩国|ARIRANG.png" group-title="亚洲各地",韩国|Arirang HD
-https://smart.pendy.dpdns.org/Smart.php?id=arirang_korea
-#EXTINF:-1,tvg-id="韩国|Yonhap News" tvg-name="韩国|Yonhap News" tvg-logo="https://epg.112114.xyz/logo/韩国|YONHAPNEWS.png" group-title="亚洲各地",韩国|Yonhap News
-https://smart.pendy.dpdns.org/Smart.php?id=yonhapnews_korea
-#EXTINF:-1,tvg-id="韩国|CBS" tvg-name="韩国|CBS" tvg-logo="https://epg.112114.xyz/logo/韩国|CBS.png" group-title="亚洲各地",韩国|CBS
-https://smart.pendy.dpdns.org/Smart.php?id=cbs_korea
-#EXTINF:-1,tvg-id="韩国|EBS 1" tvg-name="韩国|EBS 1" tvg-logo="https://epg.112114.xyz/logo/韩国|EBS1.png" group-title="亚洲各地",韩国|EBS 1
-https://smart.pendy.dpdns.org/Smart.php?id=ebs1_korea
-#EXTINF:-1,tvg-id="韩国|EBS2" tvg-name="韩国|EBS2" tvg-logo="https://epg.112114.xyz/logo/韩国|EBS2.png" group-title="亚洲各地",韩国|EBS2
-https://smart.pendy.dpdns.org/Smart.php?id=ebs2_korea
-#EXTINF:-1,tvg-id="韩国|EBS Plus2" tvg-name="韩国|EBS Plus2" tvg-logo="https://epg.112114.xyz/logo/韩国|EBSPLUS2.png" group-title="亚洲各地",韩国|EBS Plus2
-https://smart.pendy.dpdns.org/Smart.php?id=ebsplus2_korea
-#EXTINF:-1,tvg-id="韩国|SBS Plus" tvg-name="韩国|SBS Plus" tvg-logo="https://epg.112114.xyz/logo/韩国|SBSPLUS.png" group-title="亚洲各地",韩国|SBS Plus
-https://smart.pendy.dpdns.org/Smart.php?id=sbsplus_korea
-#EXTINF:-1,tvg-id="韩国|YTN" tvg-name="韩国|YTN" tvg-logo="https://epg.112114.xyz/logo/韩国|YTN.png" group-title="亚洲各地",韩国|YTN
-https://smart.pendy.dpdns.org/Smart.php?id=ytn_korea
-#EXTINF:-1,tvg-id="韩国|KBS World 24" tvg-name="韩国|KBS World 24" tvg-logo="https://epg.112114.xyz/logo/韩国|KBSWORLD24.png" group-title="亚洲各地",韩国|KBS World 24
-https://smart.pendy.dpdns.org/Smart.php?id=kbsworld24_korea
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="亚洲各地",韩国|YTN Science
-https://smart.pendy.dpdns.org/Smart.php?id=ytnscience_korea
-#EXTINF:-1,tvg-id="韩国|YTN Korean" tvg-name="韩国|YTN Korean" tvg-logo="https://epg.112114.xyz/logo/韩国|YTNKOREAN.png" group-title="亚洲各地",韩国|YTN Korean
-https://smart.pendy.dpdns.org/Smart.php?id=ytnkorean_korea
-#EXTINF:-1,tvg-id="韩国|YTN DMB" tvg-name="韩国|YTN DMB" tvg-logo="https://epg.112114.xyz/logo/韩国|YTNDMB.png" group-title="亚洲各地",韩国|YTN DMB
-https://smart.pendy.dpdns.org/Smart.php?id=ytndmb_korea
-#EXTINF:-1,tvg-id="韩国|Apps TV" tvg-name="韩国|Apps TV" tvg-logo="https://epg.112114.xyz/logo/韩国|APPSTV.png" group-title="亚洲各地",韩国|Apps TV
-https://smart.pendy.dpdns.org/Smart.php?id=appongoogle_korea
-#EXTINF:-1,tvg-id="韩国|All the Kpop" tvg-name="韩国|All the Kpop" tvg-logo="https://epg.112114.xyz/logo/韩国|ALLTHEKPOP.png" group-title="亚洲各地",韩国|All the Kpop
-https://smart.pendy.dpdns.org/Smart.php?id=allthekpop_korea
-#EXTINF:-1,tvg-id="韩国|J the Kpop" tvg-name="韩国|J the Kpop" tvg-logo="https://epg.112114.xyz/logo/韩国|JTHEKPOP.png" group-title="亚洲各地",韩国|J the Kpop
-https://smart.pendy.dpdns.org/Smart.php?id=jthekpop_korea
-#EXTINF:-1,tvg-id="韩国|EBS Kids" tvg-name="韩国|EBS Kids" tvg-logo="https://epg.112114.xyz/logo/韩国|EBSKIDS.png" group-title="亚洲各地",韩国|EBS Kids
-https://smart.pendy.dpdns.org/Smart.php?id=ebskids_korea
-#EXTINF:-1,tvg-id="韩国|CGNTV" tvg-name="韩国|CGNTV" tvg-logo="https://epg.112114.xyz/logo/韩国|CGNTV.png" group-title="亚洲各地",韩国|CGNTV
-https://smart.pendy.dpdns.org/Smart.php?id=cgntv_korea
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="亚洲各地",日本|NHK-総合-2
-https://smart.pendy.dpdns.org/Smart.php?id=nhkg_japan
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="亚洲各地",日本|NHK-E
-https://smart.pendy.dpdns.org/Smart.php?id=nhke_japan
-#EXTINF:-1,tvg-id="日本|テレビ朝日 Asahi TV" tvg-name="日本|テレビ朝日 Asahi TV" tvg-logo="https://epg.112114.xyz/logo/日本|テレビ朝日ASAHITV.png" group-title="亚洲各地",日本|テレビ朝日 Asahi TV
-https://smart.pendy.dpdns.org/Smart.php?id=asahitv_japan
-#EXTINF:-1,tvg-id="日本|JET 綜合" tvg-name="日本|JET 綜合" tvg-logo="https://epg.112114.xyz/logo/日本|JET綜合.png" group-title="亚洲各地",日本|JET 綜合
-https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
-#EXTINF:-1,tvg-id="日本|テレビ東京 Tokyo TV" tvg-name="日本|テレビ東京 Tokyo TV" tvg-logo="https://epg.112114.xyz/logo/日本|テレビ東京TOKYOTV.png" group-title="亚洲各地",日本|テレビ東京 Tokyo TV
-https://smart.pendy.dpdns.org/Smart.php?id=tokyotv_japan
-#EXTINF:-1,tvg-id="日本|TOKYOMX" tvg-name="日本|TOKYOMX" tvg-logo="https://epg.112114.xyz/logo/日本|TOKYOMX.png" group-title="亚洲各地",日本|TOKYOMX
-https://smart.pendy.dpdns.org/Smart.php?id=tokyomx_japan
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="亚洲各地",日本|NHKBS1
-https://smart.pendy.dpdns.org/Smart.php?id=nhkbs1_japan
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="亚洲各地",日本|NHKBSプレミア Premium
-https://smart.pendy.dpdns.org/Smart.php?id=nhkpremium_japan
-#EXTINF:-1,tvg-id="日本|BSジャパン 181" tvg-name="日本|BSジャパン 181" tvg-logo="https://epg.112114.xyz/logo/日本|BSジャパン.png" group-title="亚洲各地",日本|BSジャパン 181
-https://smart.pendy.dpdns.org/Smart.php?id=bs181_japan
-#EXTINF:-1,tvg-id="日本|BSフジ BS Fuji" tvg-name="日本|BSフジ BS Fuji" tvg-logo="https://epg.112114.xyz/logo/日本|BSフジBSFUJI.png" group-title="亚洲各地",日本|BSフジ BS Fuji
-https://smart.pendy.dpdns.org/Smart.php?id=bsfuji_japan
-#EXTINF:-1,tvg-id="日本|CNA Japan" tvg-name="日本|CNA Japan" tvg-logo="https://epg.112114.xyz/logo/日本|CNAJAPAN.png" group-title="亚洲各地",日本|CNA Japan
-https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
-#EXTINF:-1,tvg-id="日本|BS-TBS" tvg-name="日本|BS-TBS" tvg-logo="https://epg.112114.xyz/logo/日本|BSTBS.png" group-title="亚洲各地",日本|BS-TBS
-https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="亚洲各地",日本|NHK Oaska
-https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+#EXTM3U
+#EXTINF:-1 group-title="香港频道",翡翠台
+https://live.catvod.com/catvod_com.php?id=jade_twn&token=c437275db73ad3d7f74e2f148647ee8f0b655aa0955d750f348391a1f8f18015%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",翡翠台 backup
+https://live.catvod.com/catvod_com.php?id=Jade_xue&token=7cf7c8e7c805a109676659250f17583b8b8c94b78592f2327777e8e7e633e629%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",iNews 新闻台
+https://live.catvod.com/catvod_com.php?id=inews_twn&token=456d35c20cd624d7699e7a9cc21ef686f8cbdc053b2f1f234616dcc10caae263%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",J 2
+https://live.catvod.com/catvod_com.php?id=j2_twn&token=6d8cc8a5d56aff8afd5cd384fc70633b7d4c4317fe7010024a76936a54363304%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",珍珠台
+https://live.catvod.com/catvod_com.php?id=pearl_twn&token=70c8b65cd5693bb510b661692e96a86e92715210891d501789c783224b4ee2fb%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",凤凰香港
+https://live.catvod.com/catvod_com.php?id=hkphoenix_twn&token=13a3bac8267c1a7a61314552a0fd311c2cf454139b5fe1ed83cc491ac428f6e0%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",HOY资讯台
+https://live.catvod.com/catvod_com.php?id=hoycaijing_twn&token=1709ee8e6a7ee46d69bf15a2e47a09a73db3324cc984fec7ea2c7c31697eecfa%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",RHK 31
+https://live.catvod.com/catvod_com.php?id=rhk31_twn&token=ff8f5364d45761544efc3484b3411a7e98e212b97680f8524b27366b18a1621e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",VIUTV1
+https://live.catvod.com/catvod_com.php?id=viu1_twn&token=51ea76855e5c197aed519b809f04b5d086ab7473c488111da2553d28d96e866b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",RHK 32
+https://live.catvod.com/catvod_com.php?id=rhk32_twn&token=240e1c67ec341ed2d502d8064d104a8b3b5813cfcc3e039d43d429ec492b230a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",凤凰卫视
+https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=56280319b9abb1a57b2d2f92d2b9b230e0af9304ae4aee88c2964f472bf1c91d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",凤凰资讯
+https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd&token=c94e9d99f90d48cd7b519f4b0d7dd6434d790dafd96c204b48676368cd3e8ad9%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="香港频道",Viu6
+https://live.catvod.com/catvod_com.php?id=viusix_twn&token=cf2649a3acf095c611e2a981c0345a5151d44f8754734ef84d32cfae28357294%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-1 综合 HD
+https://live.catvod.com/catvod_com.php?id=cctv1&token=f7cc14d6a0c7221e341e9bf50eed5cdd6cd9c53c4e95ba15b9296bf483de218a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-2 财经
+https://live.catvod.com/catvod_com.php?id=cctv2&token=5796aa8362f47cd872294c11ac6279cae85ea3a9f5ad41649006309a87086b82%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-3 综艺 HD
+https://live.catvod.com/catvod_com.php?id=cctv3&token=d132d24996c722b8d97a0a455df9dc6ce105a9ea97a3421b42ee5678e2fe69f9%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-4 中文国际
+https://live.catvod.com/catvod_com.php?id=cctv4&token=c1e6516487cacc899d0fb10cfbcbff5e2c8cb45fea720ec154c13f8ce3632c5a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV4 新闻台
+https://live.catvod.com/catvod_com.php?id=Cctv4&token=054fd20213f51ac73ead4dbad1bdc825f2e994d9c8376701bd1e15f6c217eddb%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-5 体育频道
+https://live.catvod.com/catvod_com.php?id=cctv5&token=0dffe07fa1597fed3124d2b00ddef8cef527a434af3180d8dbdf775f757c52ca%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-5+ 体育赛事 HD
+https://live.catvod.com/catvod_com.php?id=cctv5plus&token=37f4966fc4abfe7db068b7721ca3cd5e1cd2661e7138f5518d8dfb03cf9d7d18%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-6
+https://live.catvod.com/catvod_com.php?id=cctv6&token=a9a1041225a7cc00bf7312d5efce0d69c16c97c8ce7860f9df9142c0abead5d7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-7 军事农业
+https://live.catvod.com/catvod_com.php?id=cctv7&token=c4f102ed43ec93762635b11b46fe09a4a46f0491637dcf5b028c3402f5e685a5%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-8 电视剧 HD
+https://live.catvod.com/catvod_com.php?id=cctv8hd&token=ec5f14b010e56fb9e7c90dc01dceab72dbb0f527c44cd3e0ed3cceec29dc7cbb%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-9 记录 HD
+https://live.catvod.com/catvod_com.php?id=cctv9hd&token=853025f7518e4162d76f14278b90c743566d8c0b276df4813fc1beb52930ee70%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-10 科教 HD
+https://live.catvod.com/catvod_com.php?id=cctv10hd&token=79a9eaa53c16ab8b377ba900c3f17a2dc5db27d70087958764b5353c26ec9d0d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-11 戏曲
+https://live.catvod.com/catvod_com.php?id=cctv11&token=0669e546a47f0dd261eff0695966d4ae94d99975668a92a41d164fca535b52ca%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-12 社会与法
+https://live.catvod.com/catvod_com.php?id=cctv12&token=7d0ed33a84eea2475e71399e310db3855818ee48314a785a925c300923be910e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-13 新闻频道
+https://live.catvod.com/catvod_com.php?id=cctv13&token=6979676262503ea5719a0aa8ca8472f51cb4d864c3568b8a30b63d90269dca4e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-14 少儿
+https://live.catvod.com/catvod_com.php?id=cctv14&token=fbd3bef0fa716be1bf4b2f75774fa5194930b828220ad8a73380574b577fc840%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="央视频道",CCTV-15 音乐
+https://live.catvod.com/catvod_com.php?id=cctv15&token=8cebcae8981152084063206c96cc7d4eb529919f22c760c5b8545c0b76b528c6%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+https://live.catvod.com/catvod_com.php?id=hunan_twn&token=4f689ccf5a2236bd1ca8afff8fe1368315800eaccef44bf59c186d751e30f7bf%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=3d872c17c756b91316c52f6f4ac87c3c061cb9d63c57b2d3c5db7c561760b243%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+https://live.catvod.com/catvod_com.php?id=jiangsu_twn&token=d3a52644fd35fe2185c3a1e70db1dd8e1a465a0b8661ad6459ce0d708ff3625f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+https://live.catvod.com/catvod_com.php?id=shenzhen&token=3a874a5162e9bb0cb9f9f9e2a6d9c2c460865ceaef7029603391d0622ba1119f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",福建东南卫视
+https://live.catvod.com/catvod_com.php?id=fujian&token=66d2a69adbf88a4f9a7f57a0ccb04704172d4dbbb72a965d3cc232c050f2548f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",广东南方卫视
+https://live.catvod.com/catvod_com.php?id=nanfang_twn&token=39f6d85544dca31e2e72042d74a0b1bb6874311f4e1f256258e13fa536c9b71f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",广东卫视
+https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=44a97e9418bc447f4a22e7a4a77af53b3bd1e7d2c4a90ef226281c9bcadb4b5a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",北京卫视
+https://live.catvod.com/catvod_com.php?id=beijing&token=c9dab5d80e0d1520100a9fbfa8b55dc6c40ca3adb0abdf5bf05bd39f8a6d7658%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",珠江台
+https://live.catvod.com/catvod_com.php?id=zhujiang&token=138d9af854796348653eff1df2d933281e00b981f830b6a73c5ef8ecdaff031c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",广西卫视
+https://live.catvod.com/catvod_com.php?id=guangxi&token=8a2f5e1a41e3d4ab0baa3b9ae1499d7c6bbf934fb962b58a6ea3c4de4a33a4fa%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+https://live.catvod.com/catvod_com.php?id=hubei&token=664b3ca5f58d370df84c04ca613d226bad200791f282060199d4daaedfc89fa0%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",四川卫视
+https://live.catvod.com/catvod_com.php?id=sichuan_twn&token=68c7be8a8522d506c45f0e01fccccfbcc4d44ee9746c2049c34d53c47be20f15%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",东方卫视
+https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=efb65c2c42f9da8e5576008b9e2c40fd329f4c93a199fd6f463542cc3d3a0359%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="卫视频道",CGTN
+https://live.catvod.com/catvod_com.php?id=CGTN&token=1daf2b556fac2cbb7db4fc91fcecf6dda8d4ba60458953e0dbd0a5327abb66a0%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Premier League 1
+https://live.catvod.com/catvod_com.php?id=go_assp1&token=15ea62e67823f9177a746717eca422af4c6a3c650763c6d1dc27d53548c775fe%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro EPL 1 backup
+https://live.catvod.com/catvod_com.php?id=go_assp1x&token=35f81b8d1d4a6cc6355f97cd26459e320f1448c7b9757c54d0bd498447fe182f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Premier League 2
+https://live.catvod.com/catvod_com.php?id=go_assp2&token=79b2481b496df1b4dad54bc73ffd3c6b36cf63386e82f2ebeeabdb977c6af740%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Grandstand
+https://live.catvod.com/catvod_com.php?id=go_assp3&token=d9654f6344d186d6c851d62bc6a58c9283036a8141f15f3619746840d86a3e41%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Football
+https://live.catvod.com/catvod_com.php?id=go_assp4&token=b8affb73a08c4d7430b57538082b4dfe4521c6ac871fa77d39c25b734a7f7474%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Sports Plus
+https://live.catvod.com/catvod_com.php?id=go_sportsplus&token=f496a659d3fe649ccced17283928c957909cae4e87dc08ac74916ea9f5cde5a8%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Badminton 1
+https://live.catvod.com/catvod_com.php?id=go_badminton1&token=32b36c16bef61b72b25ba13fe2341a6583ea1621e5313c14dcb2f1784796c486%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Badminton 2
+https://live.catvod.com/catvod_com.php?id=go_badminton2&token=c90f781b828c3e95224cb8e1fc30ebd70baba361698799f5079bc59c2e40b13f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro W-Sports
+https://live.catvod.com/catvod_com.php?id=go_assp5&token=947451f9c3ffc7b21cffbb0ee8789eda7948aea6f5ab5facaeebceba19f4f28f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Supersports 1
+https://live.catvod.com/catvod_com.php?id=Assp1&token=5549135ce56b6c2f10b899c2bf8df58a150343286deddc7f70fef0b2965a1889%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Supersports 2
+https://live.catvod.com/catvod_com.php?id=Assp2&token=406a5e6f6e1a947fcf7c976a5e20caa65eb3d4c4c964dbe3b83aa7ed54afc04d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Supersports 3
+https://live.catvod.com/catvod_com.php?id=Assp3&token=4db8f4fec3ff0a7cc8f10b7318ecd70e0e83fd43e29780673a6516ec4a535bd6%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Supersports 4
+https://live.catvod.com/catvod_com.php?id=Assp4&token=5440ebdea9c0954288072d3878d982a5488ed9e4a5880a89e7fe06fa94889bc7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",WWE
+https://live.catvod.com/catvod_com.php?id=Wwe&token=44bafc85235081a3eb4e38e75e65a0ae850cdbc02a3d2114f73e1541c76daf84%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Fight Sports
+https://live.catvod.com/catvod_com.php?id=Fs&token=84960dfdb8530fb098fafe3de86f311f7916172f4772252e46339a8bed603239%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",NBA TV
+https://live.catvod.com/catvod_com.php?id=Nba&token=50e593251f7fb3cb73d2716492193ca4d6881d0e334a31bb79753e6f33a2f639%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Cricket
+https://live.catvod.com/catvod_com.php?id=Acricket&token=d350ef841bc51b1f14c85652b8f959f38a99233918c669ccc82ad521f8dd6521%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Golf
+https://live.catvod.com/catvod_com.php?id=Agolf&token=d6eb446ce02b95c8383499ac28b7ffe20d0178de4c082964cb52d63902c793e5%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Tnt Sports 1
+https://live.catvod.com/catvod_com.php?id=6fac0aaead&token=d915f2034b305a6b4950c20299df30f6c37234a3333a5d27e11a3b624b5e018f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",TNT Sports 2
+https://live.catvod.com/catvod_com.php?id=d9a76a79cc&token=cfe20dc583b01251dd64355c6bb8510c0d1797d21cb155dab8e7d97af493d31a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",TNT Sports 3
+https://live.catvod.com/catvod_com.php?id=5fea4d73db&token=da80100c54b1c7261d25801d6617f00bd7baa4e7a8a443d3645680431031203f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",TNT Sports 4
+https://live.catvod.com/catvod_com.php?id=tntsport4&token=bf2bd14b13ebc77f6b67a354ec77a95a6bdb063d38938ada8f20f12ba195cec7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Sony Ten 1
+https://live.catvod.com/catvod_com.php?id=ten1_raj&token=f00f1a1ac5f2af70d341806fb161c9146940cf9d8b6d77de28c52f386e1c70bb%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Sony Ten 2
+https://live.catvod.com/catvod_com.php?id=ten2_raj&token=db9013a580d5b7ccb98654ae726cf8fb5a34ef0d234efd7b9907d90d1888c24c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Sony Ten 3
+https://live.catvod.com/catvod_com.php?id=ten3_raj&token=cfe4d97328bc5ab98624e421f82c40c7ebaf8d29ca442828f46608cf3bae70ec%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",SPOTV 1 HD
+https://live.catvod.com/catvod_com.php?id=go_spotv&token=430ce72ee86b1485835a41cef768e490551d63ab4debbb9269d76d6802c6ff0e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",SPO TV 2
+https://live.catvod.com/catvod_com.php?id=go_spotv2&token=37d039842af9c3a80e5279c9bdf7e550a9f549048ab6a8caeb8b631fe10d19bb%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Skysports F1
+https://live.catvod.com/catvod_com.php?id=tiankongf1&token=9096a199d678be39a8e23e9225af456af8313394c2e30cdf8148a67e55f3589d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Skysports Cricket
+https://live.catvod.com/catvod_com.php?id=tiankongcricket&token=b678bbaceea14267d51a409b57e2c78578abe66389ca80dfa4f6a5af5f9e3e4b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Skysports EPL
+https://live.catvod.com/catvod_com.php?id=tiankongepl&token=fde452a21d88c4032e2a16fec42d8c2dfa4dea4a6b39f9c00be296648988ed85%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Skysports Main Event
+https://live.catvod.com/catvod_com.php?id=tiankongmain&token=516619e743e33da9139419a90b4b81a215fed176c30a313aafec7e1f7a23f2ea%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Skysports News
+https://live.catvod.com/catvod_com.php?id=tiankongnews&token=059ef630e853d41a5bcac9817320f8d64b116cfbac258ae3419c18313f2aea82%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Skysports Mix
+https://live.catvod.com/catvod_com.php?id=tiankongmix&token=f6279c6be8728a2d18da09c4d7b1388aba443193289c633d4e60103e5de63b87%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",爱尔达体育1台
+https://live.catvod.com/catvod_com.php?id=eltasport_twn&token=3b6f5d5c6a254a2f87ea1184ac7980fd5a0fe52407082b9e06763ddfa505b03f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",爱尔达体育2台
+https://live.catvod.com/catvod_com.php?id=eltasport2_twn&token=2b44e7d9dfa26aa0d7787fa49cdfc21b39163e132cf1fd3b8c61daef7c3bb486%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",爱尔达体育3台
+https://live.catvod.com/catvod_com.php?id=eltasport3_twn&token=30e53d09b5d06b67b41ef62dbf75ad8c4758eab72d50a6e740e55baa65aefd14%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",爱尔达体育4台
+https://live.catvod.com/catvod_com.php?id=eltasports4_twn&token=31dd24a21dd4ea9e89db76e7bf3f38507183c537de2105e4a710f07379f6500f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",小公視
+https://live.catvod.com/catvod_com.php?id=pts3_twn&token=17b2083d13c01eb6f1f8b4a7bea2af3adc5c86abdfc02972f0b21a6cf738c180%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",DAZN 1
+https://live.catvod.com/catvod_com.php?id=dazn1_twn&token=40110e2739e863da526cfe1231a1bd39103131fa41a6311bc02641a557cae002%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",DAZN 2
+https://live.catvod.com/catvod_com.php?id=dazn2_twn&token=46388bb5787a8625cc24be9caed82aa729aec21c5724ce3ccecce38016d250f2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Rugby Pass TV
+https://live.catvod.com/catvod_com.php?id=Rugbypasstv&token=f759b314614e52bf07568c20c821d4e2e7d7d8abfc9d69e8b8fefbc1cd2ecc82%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",RTM Sports HD
+https://live.catvod.com/catvod_com.php?id=Rtmsport&token=a0fca9ce375e3567f975892f70f83daf9a4cb7229229187769b8e7d3fc3a4fff%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Arena
+https://live.catvod.com/catvod_com.php?id=Arena&token=79d0672c6abb50ca1269b9cf7216557b01542709dd98eceb818a1684e0c9efa2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Arena 2
+https://live.catvod.com/catvod_com.php?id=Arena2&token=1f35f91ded57ddcb5e37df22aaa279c256213f949c298d5deb56271d4da8eb72%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",BolaArena 1
+https://live.catvod.com/catvod_com.php?id=Bolaarena1&token=96775ce646364c8132bf361745954cbb3372c79265e16ae885722912e8402c94%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",BolaArena 2
+https://live.catvod.com/catvod_com.php?id=Bolaarena2&token=480d04e56b63f1bd8851124796558890262cf361c6dbefa568cfc7c07eac0001%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Beinsports 1
+https://live.catvod.com/catvod_com.php?id=Astrobein1&token=ddb6624ee9750bf4d111148af72a69be486a2e1dc8ce057a774538bb57cad703%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Beinsports 2
+https://live.catvod.com/catvod_com.php?id=Astrobein2&token=2206ca72044d2b7c4f9bc8f2079d82751c6ba19c8cae0e4c632495aa8d44c222%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="体育频道",Astro Beinsports 3
+https://live.catvod.com/catvod_com.php?id=Astrobein3&token=9bb978425328d1e7268f213f910f0c47e36cbfb37f8376f5b895696b4a5e369b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",TVBS News 新闻台
+https://live.catvod.com/catvod_com.php?id=tvbs_n&token=2585757d3e42153c2155e2387eceaa99634975ecfd2a2246bc9d3f994c9dd60d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",TVBS 欢乐台 （备份）
+https://live.catvod.com/catvod_com.php?id=tvbshuanle_twn&token=3413828b09bdc71c6b963de1ef86244cf02cc02cacfdf0052e9565d2360acdb2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",TVBS HD
+https://live.catvod.com/catvod_com.php?id=tvbs&token=2b61fe9d4b83731b8b2aac013fb8b690be6cfbb6ad9c03a47b78990c0b497c8a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",中天新闻 HD
+https://live.catvod.com/catvod_com.php?id=ctinews&token=e124a5232f2269e47b8b0fbb80b030b1797ead990a38f2409ec61e371bc0eb69%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",中天娱乐 CTI Entertaiment
+https://live.catvod.com/catvod_com.php?id=ctient&token=b9f1e331fd3bc296cb9e29c6637ab8135b966f7a7945697d20538cfcebd8c24e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",中天综合 CTI Metro
+https://live.catvod.com/catvod_com.php?id=ctizhonghe&token=30d565b455ea41ec682f19c7e48b018ab4e9cd35ebd039718fe522370b9e64a2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",中天亚洲台
+https://live.catvod.com/catvod_com.php?id=ctiasia_twn&token=4207ec47a9dcc8893f838b472303815a04e365ad3f96fc8fa5d7478027c61404%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",台视 TTV HD
+https://live.catvod.com/catvod_com.php?id=ttv_taiwan&token=60ab16eb27f1e1e9ee527f965ccc783a4009c2fcbe110194ea902f33d88dc429%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",台视新闻台
+https://live.catvod.com/catvod_com.php?id=ttvnews_twn&token=0015e74e339223f7593662443e46b92b305b14a33a749f3e9e5a04b674cee9c7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",台视综合台
+https://live.catvod.com/catvod_com.php?id=ttvzhonghe&token=9ad7f5f8a5bd9ab846dbc5dfda6d90d070855a02fd438e0d8bf23ad9a55651eb%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",JET綜合
+https://live.catvod.com/catvod_com.php?id=jet&token=8f5d3bf4834ccd1b73b976e5cd6f8533b026c134665a336dfeeb8547b506282d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",中视 HD
+https://live.catvod.com/catvod_com.php?id=zhongshihd_twn&token=5da0eb7e6d4c72b7b11ee32381ef8cdaf2854e9ce848e03bba0da91f22f4564c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",中视新闻台
+https://live.catvod.com/catvod_com.php?id=zhongshinews_twn&token=fb6b72948e9ec07cfca75bc8b39856433c4ecab5ea5f6db3a268759e4400545f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",民视 HD
+https://live.catvod.com/catvod_com.php?id=ftvhd_taiwan&token=828d71c860d38f24bcbc3860e1bba0e4376ce697dacbcaea0c13c931d14b02c6%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",民视新闻台 FTV News
+https://live.catvod.com/catvod_com.php?id=ftvnew_taiwan&token=02b7c812f1b43786c9d5c491a2b08f59bee148aaad2291257a834d9c4b502528%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",民视台湾台
+https://live.catvod.com/catvod_com.php?id=ftvtaiwan_twn&token=a1f30401c4fb2d9df71d12ccbb15c195b81025db1c4b9a45cd6ab88033500f12%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",华视 CTS HD
+https://live.catvod.com/catvod_com.php?id=ctshd_twn&token=b03281a24a5d3e7467be1fa0c3ddd77a0b3835374dec491f0ab8b579882c1c89%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",公视 CTV
+https://live.catvod.com/catvod_com.php?id=ctv_taiwan&token=c852b7d9443b07e4424b649a0b15c311a876974a34a4a5388a7f7a3473fb7ae4%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",天映频道
+https://live.catvod.com/catvod_com.php?id=ctv18_twn&token=79c1dfdf7d3ceb3de9d1ed362076739d17a6b51117d371350278d2200b9c1dec%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",八大第一 GTV First
+https://live.catvod.com/catvod_com.php?id=badafirst&token=d305e8fd63e3ccccd3d5dee784d4570987cd48996d3b6e0381656f299f32ae88%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",八大综合 GTV Metro
+https://live.catvod.com/catvod_com.php?id=badazhonghe&token=97448e73f74a383b388ee7bdfa062359d931f45ee3807b0b39291d32c195ce40%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",八大戏剧 GTV Drama
+https://live.catvod.com/catvod_com.php?id=badadrama&token=1c49d56a9640a5d0a1c7f850f430370c2d85af61a49807c0e9200688b1acde06%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",HBO_HD
+https://live.catvod.com/catvod_com.php?id=hbohd_twn&token=5f7518e8a9ca35f7d85fc43f7d9f27e59a5e6ed4673c8fb3226fdecf65c73c0f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",HBO_HITS
+https://live.catvod.com/catvod_com.php?id=hbohit_twn&token=785b3dc70948ab6a5d919549a58e487e42c83ea75ab4d9264a68cb6d00dc07d2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",Hollywood Movies
+https://live.catvod.com/catvod_com.php?id=hollywoodmovies_twn&token=077bb9ce59e0c33ac85566f44bcfb4a20a68d223b253271ca72f7a0679732d40%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",三立台湾 Sanli Taiwan
+https://live.catvod.com/catvod_com.php?id=sanlitaiwan&token=0ebde1accbd76f34cb40866eace6e13d3be930a99005678d7aef3ed65e9f4315%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",三立戏剧台
+https://live.catvod.com/catvod_com.php?id=sanlixiju_twn&token=f4d7a0b3ef8fd876d1071af8963a2fa12c9f346382234096a6ea09c08fd18fda%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",三立综合 Sanli Metro
+https://live.catvod.com/catvod_com.php?id=sanlizhonghe&token=58207e9ee6b1c133467c95f7ddc7cd05fe81f08ead30b7c8e92aba243bfada1d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",三立都会台
+https://live.catvod.com/catvod_com.php?id=sanlidouhui_twn&token=a8a86e8dc7a1b70f9965d3ccf03d95a5ca188b5cd2a0083081d0cdbe4eea8c5a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",东森新闻 ETTV News
+https://live.catvod.com/catvod_com.php?id=ettvnews&token=bccc6f273af09c326c095f9a32530b6ed670a4e53d55042f2b835a6136c63db3%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",CINEMAX
+https://live.catvod.com/catvod_com.php?id=cinemax_twn&token=f4ff83ea96e9f142fd0f0831f1ce6da0c28a2e0483e3a15b0262d7f335144604%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",东森综合 ETTV Metro
+https://live.catvod.com/catvod_com.php?id=ettvzhonghe&token=ce8742fe77fdb3c03a4ba0b8c636afd8c0859c9e2ad142c83f6bafe28f4efd47%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",东森戏剧 ETTV Drama
+https://live.catvod.com/catvod_com.php?id=ettvdrama&token=62b155768487a37ff939a7a76b9904f4ace5ddb1db47102644af2c944333cca0%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",东森超视
+https://live.catvod.com/catvod_com.php?id=ettvsuper&token=6924d5905ceba374301bbaf39e732fb6a67afee229ecb152ac885653c86d2669%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",东森财经新闻 ETTV Business
+https://live.catvod.com/catvod_com.php?id=ettvcaijing_twn&token=003ab2f21bd583bd7d4af37aa4fd66ece1bc6b20018413d6ccf66a563e228865%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",寰宇财经
+https://live.catvod.com/catvod_com.php?id=huanyutaiwan_twn&token=8301b2dfdcbf7ee1bf8f7a6467353c069f7480d26f6f7e53182d655a64bdced5%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",寰宇新闻台
+https://live.catvod.com/catvod_com.php?id=huanyuxinwen_twn&token=7c3b8d7c32787da5f60b6c8e6ffe2249a68f193b69b7549d6c1d507e80917359%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",公视2
+https://live.catvod.com/catvod_com.php?id=ctv2_twn&token=d5a2c7bad419324e55c2acce2ac2d4c304dd61450dec932d070915d6325e5e32%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",信大
+https://live.catvod.com/catvod_com.php?id=xinda_twn&token=4faba014d0e6885318b09398a435e4fa31340c80acb1d727bb77e0c635b9a42d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",霹靂
+https://live.catvod.com/catvod_com.php?id=pilitw_twn&token=1331e174de46d0b2ec44be85582d4729c4b74ea756c24fb2fc1eb69974e902ff%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",大爱1台
+https://live.catvod.com/catvod_com.php?id=daai_twn&token=e894f969b602e04404030ce705d16dea84143627fc2809e6316a5e869144ae18%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",壹新聞
+https://live.catvod.com/catvod_com.php?id=yinews&token=e1edfa7be068ddfcce8b1a4fa8b15323f4ad76464a533c396dcc0482f04e82fc%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",非凡新闻台
+https://live.catvod.com/catvod_com.php?id=feifannews_twn&token=247a72dd89f6c2fd3011360b4787808ec0ae86ac9abd5bca5a4ccae136877ec0%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",龙华戏剧 Lunghua Drama
+https://live.catvod.com/catvod_com.php?id=lunghuaxiju_twn&token=168e48ca4900be4babcfbda574daa5b9765d70797022ff389dea57e7d47a2626%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",龙华经典台
+https://live.catvod.com/catvod_com.php?id=lunghuajingdian_twn&token=ae65fc5186a5e905a9eefee812c95361e528f9cb7a2f0384642a7b6ab57a8817%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",龙华偶像
+https://live.catvod.com/catvod_com.php?id=lunghuaidol_twn&token=2fc7d79af8e96b5e4ca59ace2afaae54a6ef6284cec084a17477322ef7b6339c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",AXN Taiwan
+https://live.catvod.com/catvod_com.php?id=axn_twn&token=e788b68043e1e512c62a38811192b4454ae67e0a1b07c72b427a98251006bcbd%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",靖天国际台
+https://live.catvod.com/catvod_com.php?id=jingtianintl_twn&token=6b55c8b202b0b53b1c2402a4bd24dae67063ebd812545f594e0606498fc29118%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",年代新闻
+https://live.catvod.com/catvod_com.php?id=niandainews_twn&token=739772988cc9d95e1e8d3e1078cfe5dcb2710ec4248e9e1bbf9a0ba887f3e71b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",年代MUCH
+https://live.catvod.com/catvod_com.php?id=niandaitv_twn&token=a4022151b46e451bc495de57df96ed0bb5e9fdfcc8e41dc3b462ab7f9cdc90f9%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",纬来日本台
+https://live.catvod.com/catvod_com.php?id=videolandjapan&token=25eca80a4df8e4369169c54c0e56f6920359daea5acf2a9aa1277048f0956009%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",纬来电影台
+https://live.catvod.com/catvod_com.php?id=videolandmovie&token=1643aaeec6f209bfc07e0c19e2556691bb190ae928187064d1c63e4129cdebbf%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",纬来体育台
+https://live.catvod.com/catvod_com.php?id=videolandsport&token=53d5b221417b03d0ad982b7c0397ebcbc166c64ded6d1828f6e0e739410f37d6%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",纬来综合台
+https://live.catvod.com/catvod_com.php?id=videolandzonghe&token=a40a87bd51d895b6a7bfb56ced54688c906f7f1619668015f651a526f450a262%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",纬来育乐
+https://live.catvod.com/catvod_com.php?id=videolandmax&token=6d17f79625b9e167141d9a9270e1387b0bdc23554cee029eda23b75a1a8e0472%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",纬来精彩
+https://live.catvod.com/catvod_com.php?id=videolandspecial_twn&token=8b25639bca659028c35c57220bb5a9d80d6588f700fab1fbdb0f03935a5c5d70%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",緯來戲劇
+https://live.catvod.com/catvod_com.php?id=videolandtv&token=49abf9407f4d299de4f013d65e8164a75b94309968da4d56a9727c29d207d944%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",好消息 2
+https://live.catvod.com/catvod_com.php?id=good2_twn&token=82e1995c293863a7fe75d4a4493a16d97d8cd9013f8c63692a2bbe9d847cfe27%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",大爱2台
+https://live.catvod.com/catvod_com.php?id=daai2_twn&token=1a5b366ca6a5cc137eed9e5335357e589b9c93fa86782afc0dab66ed892607a7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",亚洲美食
+https://live.catvod.com/catvod_com.php?id=afc_twn&token=d26c07513fc3b07f68ce828dba72c9760295d9524a46ddd276a621e2433a7cd0%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",美食星球
+https://live.catvod.com/catvod_com.php?id=foodplanet_twn&token=841b5f8863e0e534a5b1b5a5327cca3fd4536e2a9bf262e413943f3ee29aa2e0%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",亚洲旅游 TLC Asia
+https://live.catvod.com/catvod_com.php?id=tlc_twn&token=24fb6a108def29534948c2e1da41667d8b07e3ded01658bce66f1b0621574b63%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",东森电影 ETTV Movie
+https://live.catvod.com/catvod_com.php?id=ettvmovie&token=f1646962977be0d8175a17e3f3ddae833c746a324d3551454fb61e7d37813ff8%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",阿里郎 Arirang
+https://live.catvod.com/catvod_com.php?id=arirang_twn&token=f4dc8b8fabb82f2c8e5d6180f98bc80eee08a7106c2020a0c033f567d87ec31c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",博斯运动 1
+https://live.catvod.com/catvod_com.php?id=bosisport1_twn&token=1572fd1c1cf94c6dbf241a5ab5be4747b84a9c64e478ac8604b4045b02b0750b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",博斯运动 2
+https://live.catvod.com/catvod_com.php?id=bosisport2_twn&token=05a8993eedff87866df9cb7e101a8d505e61615c3e75bae60175e20a064cda7d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",博斯高球2 HD
+https://live.catvod.com/catvod_com.php?id=bosigolf2_twn&token=d7c08b976917390038cf6a505098be8af758589c08afb6a98fabafe64f95625d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",博斯网球 HD
+https://live.catvod.com/catvod_com.php?id=bositennis_twn&token=65e3bb78898b44f9011820394af4631b8691f7497b5e3e79e3b7952ec41b2675%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",东森洋片 ETTV Western
+https://live.catvod.com/catvod_com.php?id=ettvwestern&token=bd2b7925913d898c4fee42732d934cd4adc77fca0d6d84b5e25480d7e617a030%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",龙华洋片 Lunghua Western
+https://live.catvod.com/catvod_com.php?id=lunghuawestern_twn&token=2ae72856dab3e84054c340a5113dde7d5d90b134dfa836a7b6d99974cdda5423%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",博斯无限
+https://live.catvod.com/catvod_com.php?id=bosiunlimited_twn&token=300758a7e0bc97b9efdc01561815d3b08c031f3e8ee45522e5b0a57b35570085%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",MTV Live
+https://live.catvod.com/catvod_com.php?id=mtvhd_twn&token=73a23d7cb148f0e20f7758c3943d2699321401da42d65c426a37190c520540d7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",龙详时代
+https://live.catvod.com/catvod_com.php?id=lungxiangtime_twn&token=febedfdfc5daa3baa0eaf5214c6fc1d84699f2cb179919b872d224c445644654%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",EYETV 旅游
+https://live.catvod.com/catvod_com.php?id=eyetvtravel_twn&token=9e3ce9711930fe2429b74c0cd097c9610f48da74b6629aae3ebb760e187d8869%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",靖天卡通台
+https://live.catvod.com/catvod_com.php?id=jingtiancartoon_twn&token=3fd55bcac8de0e55b311b32e5e1d39e45f42911d32db6990f4ab21a760e04ae8%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",EYETV 戏剧
+https://live.catvod.com/catvod_com.php?id=eyetvxiju_twn&token=c7adae2256f5b8b36c5dc70bdf633423132ff6652ccaed65d33dca87939b350b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",卫视中文台 Star Movies Chinese
+https://live.catvod.com/catvod_com.php?id=weishichinese_twn&token=ee4b65cc9132beae0467a46b3cc98d3d07949577706bdcc36a8745a3a35fd005%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",东森幼幼 Yoyo TV
+https://live.catvod.com/catvod_com.php?id=yoyo_twn&token=48eeb94c379f289c0a081b40daa6c8dfe8f38c05759565c8919a170038f75fbf%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",卫视电影台
+https://live.catvod.com/catvod_com.php?id=weishimovie_twn&token=8d80b0a4229bca8708841ea7ea1ab2bae306b0086f66702b70d1a925a9879009%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",美亚电影
+https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=da764aad7683f8685511f285eff646cc92a23c3037f00daf0c2167f1a9594b8f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",爱尔达影剧台
+https://live.catvod.com/catvod_com.php?id=eltayingju_twn&token=831e781ac408f7161fcb058666b87acad565fd2c9dc264c339a50c72256413ff%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",爱尔达综合台
+https://live.catvod.com/catvod_com.php?id=eltazonghe_twn&token=3975de0334978efd71543726d850728c0179828cc0e0b1123185e847f35298f1%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",星卫电影
+https://live.catvod.com/catvod_com.php?id=xingwei_movie&token=55dcebeefcdcbc83a71f0cfbde480367ffb57e96d65974f8cd0b3cb4bc2e1879%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="台湾频道",AFC 亚洲旅游台
+https://live.catvod.com/catvod_com.php?id=asiatravel_twn&token=12627334b40c06bad13ca627eaab1ebe15116d005c374c1e84b241ca99823dc6%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Catchplay電影
+https://live.catvod.com/catvod_com.php?id=catchplay_twn&token=d22d42e2dd4b60dfc22c5a8f7adccb72108a5d596e27b2a00d6d00da9b7e202e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",amc電影
+https://live.catvod.com/catvod_com.php?id=starmoviesgold_twn&token=16595c8d8823143d723d263b414f68dbee32134639c089aa3ebbe860b50ecbde%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Cinemax
+https://live.catvod.com/catvod_com.php?id=Cinemax&token=3ff4b1317b9e406aa4791981bc8ff65ae89f1a3791dc224ce689912a73c64a73%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Animax
+https://live.catvod.com/catvod_com.php?id=Animax&token=73a4345234a2207d67df96d23e9ce6068fc3053cdd79282eeb926e52d8a33a3c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Movies Now HD
+https://live.catvod.com/catvod_com.php?id=moviesnow_raj&token=07f936582602adb92346fab75ebd08667cb47077f704781370746fadf967a3c0%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Star Movies HD
+https://live.catvod.com/catvod_com.php?id=starmovies_raj&token=c4a624b6005c2aa57b38a0992abf458582eef2d52d8b2f7c465e1db76a4909e1%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",HBO Family
+https://live.catvod.com/catvod_com.php?id=Hbofamily&token=81e48a50c2e7ba1b48e443f9583d6650a2937b67c842298f6d61df7c70cb4db2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Hits
+https://live.catvod.com/catvod_com.php?id=Hits&token=87120ceb4267401454b17dfbfb82ee81b6861b8f47c261e65901b8be71d373e5%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Warner TV
+https://live.catvod.com/catvod_com.php?id=WarnerTV&token=d4d21c555f2dcb069fc3a0926b9e9657e801b0e43daafb17cc61df635ddfdbec%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",HBO HD
+https://live.catvod.com/catvod_com.php?id=Hbo&token=e7bd597206d33febaec5d36906a4ecde4b0a4aff202ce24545d36137295a72b7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",HBO Signature
+https://live.catvod.com/catvod_com.php?id=Hbosignature&token=2eea95ae9aaa3a6b4c3a8d5dc793c9e43d32491a7a75deabf93c313d8a92344b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",HBO Hits
+https://live.catvod.com/catvod_com.php?id=Hbohitshd&token=fcf0c49dc50dc701344576897b2a9cffd5e45ddf7d93ae92dc8b6d0a8aca0426%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",SCM
+https://live.catvod.com/catvod_com.php?id=Weishimovie&token=d62450169d174669652b6639896f2e75634989985fcb8c64420956ebd0f1f012%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Dreamworks
+https://live.catvod.com/catvod_com.php?id=Dreamworks&token=da570a8466919dfe543761c1c6d99b9a9b4914ea13d7b4250d5316a9ca95b1dc%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Thrill
+https://live.catvod.com/catvod_com.php?id=Thrill&token=71096afd01c847bc9d27b383c9dbd449ac1f2435a84dfc917c44182fb826c219%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Hits Movie
+https://live.catvod.com/catvod_com.php?id=Hitsmovie&token=feba0dcfdf9cfac7d8abbf79516adb3a67a68ef1e958392cd5434f0418efe12d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",One
+https://live.catvod.com/catvod_com.php?id=One&token=931dd68654cf47b3518afa17394fd62e02595b83a0218fa8e6f87b1c1f7add40%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",tvN Movie
+https://live.catvod.com/catvod_com.php?id=Tvnmovie&token=4f5a5db2ada224254ab868a3108e1a29449aff41949f2119e29571a6403f7bf4%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Celestial Classic
+https://live.catvod.com/catvod_com.php?id=Celestial2&token=9888519ed61a527f7054163acd7ae360675bc6715ef41a65d16c3ffd809e006d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Celestial Movies HD
+https://live.catvod.com/catvod_com.php?id=Celestialindo&token=be65e25a42c4f913cfdc08efccd7ea04d72a42e6b7c95a8e94641fd1af513420%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Axn HD
+https://live.catvod.com/catvod_com.php?id=Axn&token=33c9ed6cdcdc51b32d6e2fb9bf5dbb38fbf4fd01dbbaa3a73adf2f48fe8f2077%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Paramount Network
+https://live.catvod.com/catvod_com.php?id=Paramountnetwork&token=24fc3ac7cc6dc9033818a9ae093fed9f9307ec0d3d3e7aa51dd24c102022e0db%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Astrol Kplus
+https://live.catvod.com/catvod_com.php?id=Kplus&token=ae2ef8bdf49a87054f5a3f504f0458d3cca13d4b81bd131ff87748e925f83e91%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Rock Actions
+https://live.catvod.com/catvod_com.php?id=Rockaction&token=c7ce1e22ad444fcb9d6d4d2480e073a6047156c870617408ee09430ab605a619%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="电影频道",Rock Entertainment
+https://live.catvod.com/catvod_com.php?id=Rockentertain&token=6986c40f2ad357d5fe4fd982e16d07bf78b89af1df6a57e66499094732f34c99%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",Natgeo_HD
+https://live.catvod.com/catvod_com.php?id=natgeohd_twn&token=e80935d6224df36e3ce509209dd7a201e04bba2945b65dd305be7a8d6024a95a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",NatGeo_Wild HD
+https://live.catvod.com/catvod_com.php?id=natgeowild_twn&token=d9c8841c5d04f02221e36582de648ec93db83d48edb6826aac0f301367d62365%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",Animal_Planet
+https://live.catvod.com/catvod_com.php?id=animalplanet_twn&token=d85e998e378abe49b596b8e4b8871ec016ef2433f17f07385cb9d9f50056ca3b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",Discovery Asia
+https://live.catvod.com/catvod_com.php?id=discoverytwn_twn&token=2926d08508609a54108d44a79dcdd286352d6a433446bc351203315376a54efb%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",CI
+https://live.catvod.com/catvod_com.php?id=ci_twn&token=98b9c4c11f5dc54c5020df401018428061e2482747da276cca48525cf5494337%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",Discovery HD
+https://live.catvod.com/catvod_com.php?id=discoverych_twn&token=e59215f954f31587ceef535811955436bdb8e66819f761435397e16c2643a97b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",NatGeo HD
+https://live.catvod.com/catvod_com.php?id=Natgeo&token=da3cd32c71bcec1a55468e46a60c45bbe5e89428245fb5811c76e1e9577a40dc%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",Fashion TV
+https://live.catvod.com/catvod_com.php?id=fashiontv_twn&token=d04bd24a97d3d4b2496b18250d430f72c5ee02b5afc3931d6977bcf7aef5039d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",History
+https://live.catvod.com/catvod_com.php?id=History&token=d872702c008af9a411ac269c64fe8081eec2102a9ded2eab1dc3308925d443b7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",BBC Earth HD
+https://live.catvod.com/catvod_com.php?id=bbcearth_twn&token=b12ba54faf266a8ee594df35eb631953f3448ae28d07b9e17c6bc17d6544c102%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",BBC Earth Lifestyle
+https://live.catvod.com/catvod_com.php?id=bbclifestyle_twn&token=66839495466c424f2eb4cada4262650a6c28ca98de83b95faf49e34e8d87987a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",NatGeo Wild HD
+https://live.catvod.com/catvod_com.php?id=Natgeowild&token=7ecc0aaa660734011a49ca0879232dac2878fdf33fe6573890185006eae78c21%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",Animal Planet (Eng)
+https://live.catvod.com/catvod_com.php?id=AnimalPlanet&token=a18781cab145813e8c2e58d4ac987e3ffc63d1eb36f06c76871a23bea7285739%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",TLC
+https://live.catvod.com/catvod_com.php?id=Tlc&token=e7fe49a299b32be3d27b7be80525ee74b1fddfde09150e765ff16d16f19edb9c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",Foodnetwork Hd
+https://live.catvod.com/catvod_com.php?id=Foodnetwork&token=3f5ac2b0a50a769aa0971116e255ee3357bbab15f77bf3e43b796b3b7a2c7a80%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="记录频道",HGTV
+https://live.catvod.com/catvod_com.php?id=HGTV&token=39de215ceca51d3cae3cb55eeda345d21d98bb428417c140cfd9e24a47ea4e62%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",Skynews
+https://live.catvod.com/catvod_com.php?id=skynews_twn&token=9099276cf4b3339bd10af45d77beaf9b6ee936a2ca0f52987d307d09025e3bd5%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",ABC News
+https://live.catvod.com/catvod_com.php?id=abcnews_glo&token=aad25e0284fc85997f0e23be2a2b9a30b19ab97c3b873fcfc1c2349ee8bc0733%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",CBS HD
+https://live.catvod.com/catvod_com.php?id=cbshd_glo&token=1eef59007831eb5d2e4d8ab07a5cc3b2e21ffb9734bd0ab1250a97340262fc66%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",CBSN HD
+https://live.catvod.com/catvod_com.php?id=cbsn_glo&token=53ef8286466be88ab4854e03372e084005d6c6d48293769cf51bfee07baad094%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",France 24
+https://live.catvod.com/catvod_com.php?id=france24_twn&token=6af74618f71cc9bcb4789d9a78b6f2b0075546fccdb2e6ca1dd448c01f2a7331%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",DW (Deutsch)
+https://live.catvod.com/catvod_com.php?id=dw_twn&token=110ec6c48f2c9aa030e2bd7a8f459f18d4677a2c33d917029d3fd19f819bdc14%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",NHK World
+https://live.catvod.com/catvod_com.php?id=nhkworld_japan&token=b7630ca3df4f661d3e99385e01bc5181cf4f012b7fcafb8c00142af995b4e8e9%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",Fox News
+https://live.catvod.com/catvod_com.php?id=foxnews_twn&token=5aa85d2e5e641bec9ea53e6e256dfef40e4d6bc5672ce6eaca5a1812c8289e6d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",CNN International
+https://live.catvod.com/catvod_com.php?id=Cnn&token=ff7ac8e5a492edc4d48ac1fcde4b566c2803d71fdcb35021c01a7bb13cf64217%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",CNN backup
+https://live.catvod.com/catvod_com.php?id=cnn_twn&token=a554399bc311eea69bfffdf01098bf58e3e0e496ce23dd77da0a9ae7ec1d5482%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",CNBC
+https://live.catvod.com/catvod_com.php?id=cnbc_twn&token=6c3a2377ab2cafce6bac9f95e524b8f2aa89f4198999ca0859d0e412ed1e02a5%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",CNA
+https://live.catvod.com/catvod_com.php?id=cna&token=ad0d2281afa1cdfda6225485e689cde212e27a32580776b2b3519cdcc7b6cf9e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",BBC World News
+https://live.catvod.com/catvod_com.php?id=bbcnews_twn&token=12694c94b3f08ee2195b45158a0d9096d8b7bc0ad5056de1418fe4117190320f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",BBC World News
+https://live.catvod.com/catvod_com.php?id=Bbcnews&token=b09d9456f55fd1d4c4977cef3f98959b1a8e2c99908756c00d14a1d4ce0da6e9%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",Bloomberg News
+https://live.catvod.com/catvod_com.php?id=bloomberg_twn&token=60543de9b81f7b560eff27b7e5f5007b3bb412eadf4b367d99b71ec415801481%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="新闻频道",Al-Jazeera
+https://live.catvod.com/catvod_com.php?id=aljazeera_twn&token=0953204af513e1f4381d5cd25ced2e9be6b200b7d116d65faf55f92cb0a86673%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="儿童频道",Baby TV Eng
+https://live.catvod.com/catvod_com.php?id=Babytv&token=41c40d54f328f1324f6efbe1a0ca4444687f280c90a1972e959b43eaf7ddf7f4%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="儿童频道",CBeebies
+https://live.catvod.com/catvod_com.php?id=Cbeebies&token=6168fb69c5a78441fee3869fcea3d4b3af584378e84a4dab69f194774a7661b1%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="儿童频道",Kids TV
+https://live.catvod.com/catvod_com.php?id=KidsTV&token=e2023e529243fb6cb53623abf9b2fef45f5e8106b6a77899dc16703ad80bd8f9%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="儿童频道",Momo TV
+https://live.catvod.com/catvod_com.php?id=momo1_twn&token=13cf14c1fe0327ec2b78aed0247c733950ebcff404718533ed444c1678f4277f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="儿童频道",Baby TV
+https://live.catvod.com/catvod_com.php?id=babytv_twn&token=6857f8b8ced2c8f034bfa9d12e153753314f3b11c8760ad29e9a645df3de3320%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="儿童频道",MiaoMi
+https://live.catvod.com/catvod_com.php?id=MiaoMi&token=75d198a6aace613af10d36a7679798eaeb631454705735e4183ef4d9dce901cd%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="儿童频道",Cartoon Network
+https://live.catvod.com/catvod_com.php?id=Cn&token=13af6490aabed2546c7b553764da0e7c556026e74a26107b854dd0e27395cdf0%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="儿童频道",Nickelodeon台灣
+https://live.catvod.com/catvod_com.php?id=nickelodeon_twn&token=530f11dea9d51987a417226f2f128bbd361cc7c9bb545739794521deeb1fb5cb%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="儿童频道",Nickelodeon
+https://live.catvod.com/catvod_com.php?id=Nickelodeon&token=81419c0d25fbb33899f711453f1e29f6b5938177c9482a359efcff5ff4723133%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="儿童频道",Nick Jr
+https://live.catvod.com/catvod_com.php?id=Nickjr&token=879d2cff9154c6d32ba23021c739e3920332182714ede579213b9e9b6cd023a8%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",NHK
+https://live.catvod.com/catvod_com.php?id=NHK&token=9099229c588073d80172c8724543f64580903331114c6cbe204642fcc0bba229%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Channel 5
+https://live.catvod.com/catvod_com.php?id=Channel5HD&token=c03bb2f18c1211d3809b6c3e996c1582c25a27e21425de5c72c290c06920377c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Channel 8
+https://live.catvod.com/catvod_com.php?id=Channel8HD&token=4e55ece18e5aa02896d2c1829678ab069fe65fd9ac04f3ec835de5fadb0e4e8e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Suria
+https://live.catvod.com/catvod_com.php?id=Suria&token=3b39b15f14c5b028d74e67034d662160953ad123ec8f7d63da5e2a6e2ad0f9e4%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Channel U
+https://live.catvod.com/catvod_com.php?id=ChannelU&token=513826c49029a9c5012ba5347545ce4cbc1ec7842084bd07c2a9fbe7ee3cc52e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Vasantham
+https://live.catvod.com/catvod_com.php?id=Vasantham&token=2b8ef94187879f408441e99cab8f536b82e0f61d8dbf4894b68341a0c81bcf40%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",MeWatch Ch 5
+https://live.catvod.com/catvod_com.php?id=Mewatch_ch5&token=dab31bce014391b9a53600ae19cfced068e734455de56b86b6edf181e8dba12d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",MeWatch Ch 8
+https://live.catvod.com/catvod_com.php?id=Mewatch_ch8&token=edb73e746481055f39fb24bf7b32bf16b1e33b654a7d96e9f07262cf13259a33%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",MeWatch Ch U
+https://live.catvod.com/catvod_com.php?id=Mewatch_chU&token=dcd5c0c68620eb37bc86fa73bf251cf9e01d1dcdab7ce80d424a49662bfc7bcb%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",MeWatch Suria
+https://live.catvod.com/catvod_com.php?id=Mewatch_Suria&token=44eeca609da9232db89627f085c38e77f865924036d7aa21a5762bc96400830c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",MeWatch Vasantham
+https://live.catvod.com/catvod_com.php?id=Mewatch_Vasantham&token=bde9a9c1a2df5044e5c59edb762fa710ff5a2741716d1f1df17162853538400a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",MeWatch CNA
+https://live.catvod.com/catvod_com.php?id=Mewatch_cna&token=2d7a61b777ff985a3841f90199cb90d18aa6f93d63e237bee17f52b2634068be%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TV1
+https://live.catvod.com/catvod_com.php?id=TV1&token=5221a4b9f6668125ea67a9c8587900e0e5112c357c295fb2e7ac007767289eff%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TV1 backup
+https://live.catvod.com/catvod_com.php?id=TV1_backup&token=39eb23526ac57be74e5da3505477704c37b900e2909d4c6d4779fdf0877861cc%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TV2
+https://live.catvod.com/catvod_com.php?id=TV2&token=04f2d8f61b1e8e28aa250218fe516bfb0f83fc83bb418d273f562dd2041159a2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TV3
+https://live.catvod.com/catvod_com.php?id=TV3&token=07eae62e9b04f1453808b6265446249c4a3f45af1a4d16d33c3fdd1b3e290d96%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TV3 SD
+https://live.catvod.com/catvod_com.php?id=TV3_mega&token=3ca700e3a86c7cd119cd5da7bb996a50488abd54aa680f1e5fbbd85503d3bfaa%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",NTV7
+https://live.catvod.com/catvod_com.php?id=NTV7&token=20fc8dd9ab66ffd2a0d351ec5e28e63795b3c4484ff4c439e29a748bfbc99c33%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TV8
+https://live.catvod.com/catvod_com.php?id=TV8&token=238834e2ff2cc38d216ca20bd674f31e8e24db4b97cab7413da56e254f2dcb67%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TV9
+https://live.catvod.com/catvod_com.php?id=TV9&token=35cb641d402a891d2d55ef1289ac1271a227161ddc3e15cc86de1c755e14b8c7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Ria
+https://live.catvod.com/catvod_com.php?id=Ria&token=107e43c624877d2a67511cc4779d0ac2a0e7ed30878af84ef85af5e904849814%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Ria-3
+https://live.catvod.com/catvod_com.php?id=Ria_backup&token=4b3d9a719fe032019fd2c635df752ebcd821476f717ead096353e4a024c10d0b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Al-Hijrah
+https://live.catvod.com/catvod_com.php?id=Alhijrah&token=7a43fde69339d4f779c1a4a0f6d6db821a3703df7874d4c4a5d5949967975e20%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Al-Hijrah backup
+https://live.catvod.com/catvod_com.php?id=Alhijrah_backup&token=3366cd75909474cf1db7e52a8e1e41b1cbf76e850f6360bd5f19ba5535913ca9%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Awani
+https://live.catvod.com/catvod_com.php?id=Awani&token=3d30b565280e51f125438610df9e7722d4307b9e054479af7dfd201dd3457528%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Bernama
+https://live.catvod.com/catvod_com.php?id=Bernama&token=333c04e8fb5977443af4388ee36cc43bc30956f1bf0ff375c0f5c1e20ed1b960%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Prima
+https://live.catvod.com/catvod_com.php?id=Prima&token=d7d3edc053b4e922373ebf3ea9f44191ed2a1af16633b3013215099bdd59b5a9%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Prima backup
+https://live.catvod.com/catvod_com.php?id=AAprima1&token=469bdecb20b8a07eaabab33c7d57b50d6e44934dd695724589aef06f1abe2bf2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Prima backup 2
+https://live.catvod.com/catvod_com.php?id=AAprima&token=90451cabb16310491a1043b4bfc89652a49bc4fcff9299b0bf836741697ca64e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Ceria
+https://live.catvod.com/catvod_com.php?id=Ceria&token=861a4f9830bbe7671d16419068c2fc6622f9a3b12c3c75fbd58040883c6583ff%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Astro MTV
+https://live.catvod.com/catvod_com.php?id=AstroMTV&token=d974dea28c4be4c6f81a3ab7dac090d6e8e48d4a57049f2918d28b5707c68abf%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Mecca Live HD
+https://live.catvod.com/catvod_com.php?id=quran_mido&token=9b7532796bc76665eef3fa59c40914361ed6e7b98b9442c2e48fa3f6242bdfa7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Madinah HD
+https://live.catvod.com/catvod_com.php?id=sunnah_mido&token=6083eb66ddb38912731900129e001f2920b5c3199ddd224d14ce72db8a680b34%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Oasis
+https://live.catvod.com/catvod_com.php?id=Oasis&token=cc59c4178143f2936c7fc237ce4c96d27aa490591f4613acb78983688f37bcb3%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Siar
+https://live.catvod.com/catvod_com.php?id=Siar&token=8f34a14f52729968b94ab2b3ffa23e7d71b5830ccb91a1a6416dbc960872b4d4%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Citra
+https://live.catvod.com/catvod_com.php?id=AAcitra&token=1774cf045b1da52eaa2d0fe069386043e490210d8e360cb5025bb32c285f504a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Citra backup
+https://live.catvod.com/catvod_com.php?id=AAcitra1&token=9094d6affb175f79f635066d65e33cd326dfd2312c33290b122d5bc2af2e2a4f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Sensasi
+https://live.catvod.com/catvod_com.php?id=Sensasi&token=3ea14ab5383a3600b7690aed809156448b67f718c3b3b4dde6d90f78865e1855%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Aura
+https://live.catvod.com/catvod_com.php?id=Aura&token=d07326afe4deee6202377342143f66affe956a6d35c32aa59b95712a187d9980%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Rania
+https://live.catvod.com/catvod_com.php?id=Rania&token=07c2c47c18435004d010a162cd5a16a5305102a93493f634978077a9302a509d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",KBS World
+https://live.catvod.com/catvod_com.php?id=KBS&token=e8fa0522af44881accace643c66cf93cfe627d0863c44d88ac8fcbfa0107f47d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Boo
+https://live.catvod.com/catvod_com.php?id=Boo&token=db2b522ed9d37ccd642f4d0c224af24d0143d721b7410734a7561bcf458208fd%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Awesome TV
+https://live.catvod.com/catvod_com.php?id=Dsangat&token=e09fbd6ee8366969090c9608acc3d11de41bba53584153374b1648a3ad68e789%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Astro Sonypix
+https://live.catvod.com/catvod_com.php?id=Asonypix&token=7e07652728632298e37c8165f8d62ed9573ded947c325ffefd20d441fd2258be%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Sony HD
+https://live.catvod.com/catvod_com.php?id=SetOne&token=011307683cbc613c90fd0c763a21754de81c1f12825aff19a78a55a69a880474%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TvN
+https://live.catvod.com/catvod_com.php?id=TVN&token=fd0b605fb731726c28c48d61c206cf08059d327a0101b64d6f2faf538c301e8f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",AEC
+https://live.catvod.com/catvod_com.php?id=AEC&token=8f9d8448f743fe935564d050e7068a8374400ddff352361808655c2788401054%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",华丽台 HD （Wah Lai Toi）
+https://live.catvod.com/catvod_com.php?id=Wlt&token=da49a3403b48edd87a7af37b44bc17ff278737ba8a6139f807fa09dc4c8a2ff5%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",欢喜台 HD （Hua Hee Tai）
+https://live.catvod.com/catvod_com.php?id=Huahee&token=395042d88395b02153337f06ca4e37a9848378c6ea6a69617ae2348c475585c5%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Astro QJ
+https://live.catvod.com/catvod_com.php?id=Quanjia&token=458382e6a5c3321ea10c8c134342b1027be473776b0da0bfe0b524b376a3e8b9%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TVB Jade
+https://live.catvod.com/catvod_com.php?id=Tvbjade&token=b6fabd754c3d0ef91666b7540f445ec9947dff61498815d41b64a8e111353555%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TVB Asia
+https://live.catvod.com/catvod_com.php?id=Tvbasia&token=3819ed169913f0fe129046a51832aeadf44713a01a31174fb9612c8f7c954c39%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TVB Entertainment
+https://live.catvod.com/catvod_com.php?id=Tvbentertainment&token=af591150e9ff56bd00fa8684cef7de30b033caf900e4cf486640f272a3de34c8%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TVB Classic
+https://live.catvod.com/catvod_com.php?id=Tvbclassic&token=733ddc6bd69a14b2ffaad41db62348ce370992710c204f53d890dc9b68f6c855%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",AOD
+https://live.catvod.com/catvod_com.php?id=Aodhd&token=dc181443fa2e81ae2ee07d2435156b46211f3a89e0f5113ae2ad615bed06a1ea%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TVB 星河台 Xing He
+https://live.catvod.com/catvod_com.php?id=Xinhe&token=6623f0fead4011d0010e52fa5b82601813e73a71bb4fb6568d7e00475e2854f2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",爱奇艺 iQiyi
+https://live.catvod.com/catvod_com.php?id=Qiyi&token=66fcf856be9531d45e89a2233a6097011ede9bbf2ffa8a78d0953a0d13f0c326%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Goshop
+https://live.catvod.com/catvod_com.php?id=Goshop&token=0700b96d689a3b22ff60d274923a10f44c04df15fdbeb1fb4d17dab67c7c03b2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Celestial Movies HD
+https://live.catvod.com/catvod_com.php?id=Celestial&token=6a3edf0f5a0e3c22b101200115b001666d97289bb6fcf7ba60b8bd51fc540ffb%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Astro LOL
+https://live.catvod.com/catvod_com.php?id=Astro_lol&token=72448ef876ca959b3c9a232cb885e34669ed6d1cc84bfc92137b3fdb4099a092%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Astro Rusi
+https://live.catvod.com/catvod_com.php?id=Rusi&token=a9c156affa970c1c5009d30fcde03fd50f54c470fee3959e7e4d352f2d79580c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",WION
+https://live.catvod.com/catvod_com.php?id=Wion&token=8bf5e38b36bd6feb8b6629f1ac163536b78e54ea9601d0b150d0f8666c83b9f2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",RTM Asean
+https://live.catvod.com/catvod_com.php?id=Rtmasean&token=b7e314a6026114af924ce3f78d06495aff6e78af55aa332e0c305d10ce791a74%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TVRI National
+https://live.catvod.com/catvod_com.php?id=TVRI&token=38cd58d31cd4cabb29cc82090aa80b993c709e8248b24e876a50369aece474b3%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",RCTI
+https://live.catvod.com/catvod_com.php?id=Rcti&token=a7c427d6f9f76b5fad4c5be84fd3c513b62e3779bc35bdb2517e221c8b913023%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Kompass TV
+https://live.catvod.com/catvod_com.php?id=Kompass&token=cf00e6195ab2573a3f09d03be136956d4e9b16f3379ca3889100ec1bec884ade%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Berita Satu
+https://live.catvod.com/catvod_com.php?id=BeritaSatu_eko&token=e4bf9ceed7e39127920ff470aabecb977a54bb18af57e1ba49ec92242e2bb7be%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Indosiar HD
+https://live.catvod.com/catvod_com.php?id=Indosiar&token=cae402ab8ff2e5276b44b9c1eecf7dd4f07f78c3a35527153dac0aa88e7a22ae%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",AnTV
+https://live.catvod.com/catvod_com.php?id=Antv&token=8a1d61224f0d5e376a188b1ca4f07ad4777150b115c159d55e9fe1ca1331d01f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",MNC TV
+https://live.catvod.com/catvod_com.php?id=Mnctv&token=f85522f225cfe7abef21306f2a29ce844411a4c47b14c27480bc58f76c35dcc5%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Trans 7
+https://live.catvod.com/catvod_com.php?id=Trans7_eko&token=3bc33c584b54dfb1773a22ea0ac66395d07ef19bd794a3cc8295edf8f3df1dca%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Transtv
+https://live.catvod.com/catvod_com.php?id=Transtv&token=649e968c6b52d2b9b9b00335abc8db559d0f53cb44c16f98ce82837c9453bd55%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",JTV
+https://live.catvod.com/catvod_com.php?id=JTV_eko&token=d89d8c33cccab97ea78b043efc83ead2338d93707c302857436749aae2d11aa4%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Metro TV
+https://live.catvod.com/catvod_com.php?id=metrotv_eko&token=33135cffc6e6d4b7f6f170f3b33af89f4e4ccb543be1e2ccaa18adc5c4571cb2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",SCTV
+https://live.catvod.com/catvod_com.php?id=SCTV&token=c8af11d9d8122ffbeade31d96f69201671c1090fb25da5fe5a5137a0ffb67acd%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Tvone
+https://live.catvod.com/catvod_com.php?id=Tvone&token=b2c412e7bf7f9e81deb5a970e7c4019a61cac0a8a631073a45569284ac680aa6%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",TVMU
+https://live.catvod.com/catvod_com.php?id=TVMU_eko&token=9c5d9cb7fd9661f05f035eaf564eeaa624dc0222d4d91066e58c324d88cf19d1%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",GTV
+https://live.catvod.com/catvod_com.php?id=Gtv&token=7360c0422a0003b21308cb8208ca236db7d6b994428ce540f687dd0a1b44c72e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",RTV
+https://live.catvod.com/catvod_com.php?id=Rtv&token=64291e82b4229020d3b7b2e963f0d544ecf47cf6b88c2f8be83b2a65b971cd54%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Jak TV
+https://live.catvod.com/catvod_com.php?id=JakTV&token=154732f499e1485effdd627583821e5bd35015a2609acf0aedbd749a24274b18%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",iNews TV
+https://live.catvod.com/catvod_com.php?id=Inewstv&token=4ecb36c060a22b9f50cc6ac96f81f84109fc38efb39d4f8ca426493721a0efaf%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Daai TV
+https://live.catvod.com/catvod_com.php?id=DaaiTV&token=71b889b33f3144e0c0a3425fe6cde4cf92390308dc72b9bd830b36f8b328a96b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Net TV
+https://live.catvod.com/catvod_com.php?id=NetTV&token=4a6a5dbe9f0a6b8947c9ea7f9b5c9a2eb2ca1f99ea598a3a57e27cf35807912f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",EWTN
+https://live.catvod.com/catvod_com.php?id=Ewtn&token=db19276c37f8b7e2d8f0220a8a801d012194163e31cebfad12da3f16c3dbaf17%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Tawaf TV
+https://live.catvod.com/catvod_com.php?id=TawafTV&token=14ba151c99e7e705d5b85e78e3710cfd3b0e8986bc2eccb688fcb4aa41b231c7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Vision Prime
+https://live.catvod.com/catvod_com.php?id=VisionPrime&token=25cab6adae316686640fb0832ea75cfbfe17bcf08127c784e8250796bbff5e76%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Muslim TV
+https://live.catvod.com/catvod_com.php?id=MuslimTV&token=a0774d322fa474481b4bf9a63670d62979e3767c71dd8ae6c49099c894bdca7d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Music TV
+https://live.catvod.com/catvod_com.php?id=MusicTV&token=4e46f00ae33be9c4b91f67d2c3c2fc4f977628f1f0c32382f3423f4ed7b790ad%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Lifestyle&amp;Fashion
+https://live.catvod.com/catvod_com.php?id=Lifestyle&token=7e65596277cf6a24677aa575d2766e81f4e41493da4804eec82ea999e955086d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Sun TV HD
+https://live.catvod.com/catvod_com.php?id=Suntv&token=352b93f5402e48d3358461add101b11493b34bfe13b2a30eb558d795aac6caba%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Star Vijay
+https://live.catvod.com/catvod_com.php?id=Starvijay&token=f1f1f070cdce6ded0293e080f231a5e83d58b108073d8400b76e8ec895640d7e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Colors Tamil
+https://live.catvod.com/catvod_com.php?id=Colorstam&token=677661f79eab608cb2b5ab46c690d1df5679ee2321504d6a4059b44c7be164ac%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Sun Music
+https://live.catvod.com/catvod_com.php?id=Sunmusic&token=fba9f1988c86fad1b37491107f980cf8febe05b67e9261b8a64d93cc3f9bbaa2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Astro Sunlife
+https://live.catvod.com/catvod_com.php?id=Sunlife&token=5667ad7d51e90512c701c8b7036d00e8feeee9cead52cb8856da3c5bde0120db%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Astro Vaanavil
+https://live.catvod.com/catvod_com.php?id=Vaanavil&token=f5265edcd864ef6d5fc0ed777f948ed50281bca01a2324b73246ec750492da82%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Zee Tamil
+https://live.catvod.com/catvod_com.php?id=Zeetamil&token=d9fd26309ee164512fe306662072f5c1e3b478ef5b185048c297404fb53793bf%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Zee Business
+https://live.catvod.com/catvod_com.php?id=Zeebusiness&token=dd913d28df0ec4b4c651e3569a6897f3bb83d3af61595b576dff4f0296ba781a%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",News 18 Tamil
+https://live.catvod.com/catvod_com.php?id=news18tamil_raj&token=4bd8ea65efd3e5007d8761b63f4ab7a8a6d2917681a95401e74ce13df67f207e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Adithya
+https://live.catvod.com/catvod_com.php?id=Adithya&token=04704946e388239a69b3f2854c70c2525649ffc1e0e70133a4927808f08edd55%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Makkal TV
+https://live.catvod.com/catvod_com.php?id=Makkaltv&token=6819540bb142186a768d43f930ffd642f2a7552ee0b4c09aaeeb9109804e4b5c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Zee Action
+https://live.catvod.com/catvod_com.php?id=Zeeaction&token=0a96df27705f25de2d152d68039003bc2f2e0fc4d1740b4913b0223c1ec629c8%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Astro KTV
+https://live.catvod.com/catvod_com.php?id=Astroktv&token=9dfc9eccaf40e522b9fb01dc898b93d0cdac3a2d6ed27939b490ae84b881029e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Zee TV HD
+https://live.catvod.com/catvod_com.php?id=Zeetvhd&token=4ee00d0d42688035853ccda94e9bc4cb125f29016a0f00b42bb3fd792037611e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Zee Cinema HD
+https://live.catvod.com/catvod_com.php?id=Zeecinemahd&token=c0b02edff016acecb3721d9bf9b2d01bf26be7715be1e32ae8db1036a9a490f1%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Color HD
+https://live.catvod.com/catvod_com.php?id=Colorhd&token=db8593cdbf4b15eebc2ae6e07d782e943573c11095a2d6809284d7084cec974d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Starplus HD
+https://live.catvod.com/catvod_com.php?id=Starplushd&token=5a55d50e8576531434d48ad29b873bfda291319285854307a322c65d72f692a9%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Picture HD
+https://live.catvod.com/catvod_com.php?id=Npicture&token=4723933a5de0b77de711d0e9855535228e94fa186f43ff0eccc8add77a208e89%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Zee News
+https://live.catvod.com/catvod_com.php?id=Zeenews&token=a1db03b3efa5150b2c255845b4f93f2a3fb86241835a09074a10a5153af2ea8e%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Asianet
+https://live.catvod.com/catvod_com.php?id=asianet_raj&token=875ffebbd77b6759bc5c261592d3a4d82b109ae1ea508d4916464a59913a2636%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Discovery World Tamil
+https://live.catvod.com/catvod_com.php?id=discoveryworldtam_raj&token=075eafbc5c8fc5b9cd2e4db1da7a0bdcb08cb819506cae693b9b6aa7c504cc08%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",History Tamil
+https://live.catvod.com/catvod_com.php?id=historytam_raj&token=53850376dc360acc21cc181ca1a02046f3543c7d31989880daf31bce03cdd31d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",NatGeo Tamil
+https://live.catvod.com/catvod_com.php?id=natgeotamil_raj&token=99ced525cf44f60938349f7dee07d5a0f537bf1f321e4d157d376f41b3ab3669%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Natgeo Wild Tamil
+https://live.catvod.com/catvod_com.php?id=natgeowildtamil_raj&token=9cffb6cd7b1637152a0247f6b40e1e53f374a569a44ea59d2e84d979a2e941e7%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Discovery Kids Tamil
+https://live.catvod.com/catvod_com.php?id=discoverykidtamil_raj&token=bf3e2db807851ea825e21d6efe2ffb95ccc84602c544e78c90dbf99ef18998d8%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Sony Yay Tamil
+https://live.catvod.com/catvod_com.php?id=sonyyaytam_raj&token=13fd354c9fc9ee41885d66f678c6e3087dd9a96642aa00d6d718a9f58175b29c%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Starmaa HD
+https://live.catvod.com/catvod_com.php?id=starmaa_raj&token=ae01ef53da68a8a13a8135cf8a9010f700e3f8a49fd07c94952be5147ec1eedf%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Starmaa Movies HD
+https://live.catvod.com/catvod_com.php?id=starmaamovies_raj&token=0c6f58fe63c241ea2f3dbc5c640cd0c27819723ea9a6f4c14dae9ca68096764f%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Bollyone
+https://live.catvod.com/catvod_com.php?id=Bollyone&token=2bf1eb75277528b4fac951af1376b4a31c7ad577426fa19d4709f8110328f10b%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Vijay Super
+https://live.catvod.com/catvod_com.php?id=vijaysuper_raj&token=95d960ed8d9eeaed68993bdb9e304012dd347af4cac83c63224ec815a872d358%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Vellithirai
+https://live.catvod.com/catvod_com.php?id=Vellithirai&token=de12b578e8791ee7f2bcb5c4616f61cd6ac0f29aa90ed06bd5d9b3daca2d2303%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",MCOT HD Thailand-1
+https://live.catvod.com/catvod_com.php?id=mcot_pat&token=6c1f3724e46cc0a29d73b0cf1b451940884f9dabdfdc6dabe3c4a70bfd52b394%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",PPTV Thailand1
+https://live.catvod.com/catvod_com.php?id=pptv_pat&token=25e7932aa19afcf13a40b8274d68e68e2b19fcdbd33d822249578c1f52906d83%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Ch 8
+https://live.catvod.com/catvod_com.php?id=ch8_pat&token=8aa2c638dbc9e5a3dbe5dfe6f8a837d721a9abf5174b63525a073b929bd139b2%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Mono
+https://live.catvod.com/catvod_com.php?id=mono_pat&token=c9ee5e00a5200140df38318e32f1286c28430c57b04554ed5c38ade719103185%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Workpoint
+https://live.catvod.com/catvod_com.php?id=workpoint_pat&token=88d79f29c9635200330d4a4f6f4ef762b057881162ec0af900e85d8f9485b30d%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Gmm Channel
+https://live.catvod.com/catvod_com.php?id=gmmchannel_pat&token=1938f839e1920afbd401c2427e82cd6a35869c9012be839d5c3f77baf56345af%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Nation
+https://live.catvod.com/catvod_com.php?id=nation_pat&token=e695986d8fd92fa5e0f1b2ddc64a4c1d66f9f1b0dcf470cf1f0063ac4eedd872%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",Tnn24
+https://live.catvod.com/catvod_com.php?id=tnn24_pat&token=537eb06fb6645c79f16e40e55f2f8038f3b307593a5ecd37565db1b013f4dbd6%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",BBC 1
+https://live.catvod.com/catvod_com.php?id=bbc1_antik&token=ab485491858e2afaf00d555365370dedf1b0695276d442bb088e1ec3c8b0cbc4%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
+#EXTINF:-1 group-title="其它频道",itv 1
+https://live.catvod.com/catvod_com.php?id=itv1_antik&token=7b84aace5d10f375d1626a71bf1201bc858551515c987b19bad7ef547655b280%3A1758998365%3AMjE5Ljc4LjE4OS4yMg%3D%3D
