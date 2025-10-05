@@ -2478,6 +2478,26 @@ http://fast.163189.xyz/163189/ch5
 http://fast.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="港澳频道",CHU
 http://fast.163189.xyz/163189/chu
+#EXTINF:-1 group-title="港澳频道",18台
+https://t62a.iptv200.com/live/hk603/index.m3u8?session=3ybe6afohvv96zb6amiyardn9772xp1c
+#EXTINF:-1 group-title="港澳频道",18台
+https://t44b.iptv200.com/live/hk603.flv?sign=1759671463-d411800b2231aadc1f6dd7d48f6ebb52
+#EXTINF:-1 group-title="港澳频道",18台
+https://t61b.iptv200.com/live/hk603.flv?sign=1759671468-237790191fb69ac046b4c65c8fdb6f7b
+#EXTINF:-1 group-title="港澳频道",NOW新闻台
+https://t2a.iptv200.com/live/now331/index.m3u8?session=9b8rqhw77ov1ha9i6macu80wevmmniwn
+#EXTINF:-1 group-title="港澳频道",HOY
+https://t3a.iptv200.com/live/hoy78/index.m3u8?session=c2zyolqx1w358vy0s1lgwrdy5ufxfcv1
+#EXTINF:-1 group-title="港澳频道",HOY
+https://t54b.iptv200.com/live/hoy78.flv?sign=1759670684-cc4a02716a2481ae847096f06e66cb8a
+#EXTINF:-1 group-title="港澳频道",HOY
+https://t11b.iptv200.com/live/hoy78.flv?sign=1759671151-2ec02d90a965ee374ba90e82766ab48b
+#EXTINF:-1 group-title="港澳频道",HOY国际财经台
+https://t3a.iptv200.com/live/hkibc/index.m3u8?session=wmktdwqi0s77m86okxx9okfmgckzf5ui
+#EXTINF:-1 group-title="港澳频道",HOY资信台
+https://t66b.iptv200.com/live/hoy78.flv?sign=1759672025-694172ccd874a4ab1f8db072d25d14a9
+#EXTINF:-1 group-title="港澳频道",HOY资信台
+https://t5a.iptv200.com/live/hoy78/index.m3u8?session=2spn8tua1u4l1h5pu2k4s9p9l4dp5glk
 
 #EXTINF:-1 group-title="台湾网络" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png",中天新聞台
 http://142.171.7.225:50007/li-4gtv-4gtv009/index.m3u8
