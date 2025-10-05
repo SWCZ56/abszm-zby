@@ -1739,16 +1739,6 @@ http://zzy789.xyz/douyu1.php?id=9548850
 #EXTINF:-1 group-title="电影频道",天映电影国标
 https://cdn9.163189.xyz/smt1.1.php?id=Celestial
 
-#EXTINF:-1 group-title="世界各地",Newmax美国
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF:-1 group-title="世界各地",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 group-title="世界各地",Astro欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 group-title="世界各地",爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 group-title="世界各地",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/VEqQfTu.png",印尼Jogja Istimewa TV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 group-title="世界各地",FunRoads
@@ -1759,8 +1749,6 @@ http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="世界各地",斯洛伐克TelevíziaOSEM
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/KFC2WSB.png",印度尼西亚Semarang TV
-http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/dGonewm.png",越南Cao Bang TV (
 http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/oQyioVa.png",越南Đồng Nai 1
@@ -1771,121 +1759,34 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/QckiN3H.png",越南Quang Ngai TV
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/HTnQGcs.png",缅甸ETV
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="世界各地",智利ElPingüinoTV
 http://167.114.133.205:1935/live/pinguinotv_360p/playlist.m3u8
 #EXTINF:-1 group-title="世界各地",ElPingüinoTV
 http://167.114.133.205:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",重庆.双流综合
+http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
 #EXTINF:-1 group-title="世界各地",意大利欧洲独立音乐排行榜电视
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/IFpAmvW.png",未知国家CCTN 47
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.postimg.cc/xT9jJXZ0/TBK-logo-2021.png",越南Bac Kan TV
-http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/zXqjjUf.png",越南Ha Giang TV
-http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF:-1 group-title="世界各地" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png",对话木偶团体
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 group-title="世界各地",美国AlientoVision
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/qLMcGPT.png",越南Khanh Hoa TV
-http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1 group-title="世界各地",吉尔吉斯斯坦TV1KG
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="世界各地",波兰TV托伦
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 #EXTINF:-1 group-title="世界各地",波兰 Telewizja Toruń
 http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1 group-title="世界各地",土库曼斯坦 土库曼斯坦体育
-http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 group-title="世界各地",土库曼斯坦阿斯哈巴德
-http://217.174.225.146/legacyhls/ch006_720/index.m3u8
 #EXTINF:-1 group-title="世界各地",俄罗斯联邦 Самара ГИС [不是 24/7
 http://45.67.57.9:8080/new/new/playlist.m3u8
 #EXTINF:-1 group-title="世界各地",Самара ГИС
 http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="世界各地",俄罗斯联邦 ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/a9v5CbU.png",布基纳信息电视
-http://69.64.57.208/burkinainfo/index.m3u8
 #EXTINF:-1 group-title="世界各地",阿塞拜疆EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 group-title="世界各地",Глас
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-#EXTINF:-1 group-title="世界各地",КТК
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 group-title="世界各地",俄罗斯RBC (Opt-1)
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="世界各地",阿里郎
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 group-title="世界各地",阿里郎韩国(韩国)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各地",韩国阿里郎WORLD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-#EXTINF:-1 group-title="世界各地",阿里郎韩国(韩国)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各地",阿里郎电视
-http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="世界各地",ABC 新闻直播 1
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 group-title="世界各地",ABC 新闻直播 2
-https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-#EXTINF:-1 group-title="世界各地",ABC 新闻直播 3
-https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
-#EXTINF:-1 group-title="世界各地",ABC 新闻直播 4
-https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-#EXTINF:-1 group-title="世界各地",ABC 新闻直播 5
-https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-#EXTINF:-1 group-title="世界各地",ABC 新闻直播 10
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#EXTINF:-1 group-title="世界各地",韩国-阿里郎
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="世界各地",CBSN 萨克拉门托
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/WpMGnTr.png",印度尼西亚RTB Sukmaindera
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/MY40GrC.png",印度尼西亚RTB Aneka
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/CGlzsD5.png",文莱RTB Go
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/Ge1EutY.png",韩国C31 墨尔本
-https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 group-title="世界各地",INTV Simaye Azadi
-https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
-#EXTINF:-1 group-title="世界各地",Sky 1 Racing
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1 group-title="世界各地",Sky 2 Racing
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 group-title="世界各地",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/ppxUDxB.png",新加波meWATCH LIVE 1
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="世界各地",荷兰OmroepWest
-https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 group-title="世界各地",亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-#EXTINF:-1 group-title="世界各地",新加坡
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="世界各地" tvg-logo="https://i.imgur.com/dLzgBUj.png",马来西亚Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 group-title="世界各地",InfoWars
-https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
-#EXTINF:-1 group-title="世界各地",InfoWars - 作战室
-https://freespeech.akamaized.net/hls/live/2016873/live4/playlist.m3u8
-#EXTINF:-1 group-title="世界各地",柬埔寨EXTVLCOPT
-https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="世界各地",NBC News Now |高清
-https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
-#EXTINF:-1 group-title="世界各地",印度NDTVIndia
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 group-title="世界各地",印度NDTVProfit
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
-#EXTINF:-1 group-title="世界各地",NASATVMedia
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="世界各地",今日印度 EN
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",TBS
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8#EXTINF:-1 group-title="国际频道",TBS
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="国际频道",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
