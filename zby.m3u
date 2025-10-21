@@ -3420,87 +3420,87 @@ https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv8899&id=Quanjia
 #EXTINF:-1 tvg-id="TV3 SD" tvg-name="TV3 SD" tvg-logo="" group-title="马来西亚" tvg-chno="282" tvg-shift="0",Astro欢喜台
 https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv8899&id=Huahee
 
-#EXTINF:-1 tvg-id="TVRI National" tvg-name="TVRI National" tvg-logo="" group-title=""印尼频道",TVRI National
+#EXTINF:-1 tvg-id="TVRI National" tvg-name="TVRI National" tvg-logo="" group-title="印尼频道",TVRI National
 http://142.171.7.225:5050/smart.php?id=TVRI&token=swqz
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="" group-title=""印尼频道",RCTI
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="" group-title="印尼频道",RCTI
 http://142.171.7.225:5050/smart.php?id=Rcti&token=swqz
-#EXTINF:-1 tvg-id="Kompass TV" tvg-name="Kompass TV" tvg-logo="" group-title=""印尼频道",Kompass TV
+#EXTINF:-1 tvg-id="Kompass TV" tvg-name="Kompass TV" tvg-logo="" group-title="印尼频道",Kompass TV
 http://142.171.7.225:5050/smart.php?id=Kompass&token=swqz
-#EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="" group-title=""印尼频道",Berita Satu
+#EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="" group-title="印尼频道",Berita Satu
 http://142.171.7.225:5050/smart.php?id=BeritaSatu_eko&token=swqz
-#EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="" group-title=""印尼频道",Indosiar HD
+#EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="" group-title="印尼频道",Indosiar HD
 http://142.171.7.225:5050/smart.php?id=Indosiar&token=swqz
-#EXTINF:-1 tvg-id="AnTV" tvg-name="AnTV" tvg-logo="" group-title=""印尼频道",AnTV
+#EXTINF:-1 tvg-id="AnTV" tvg-name="AnTV" tvg-logo="" group-title="印尼频道",AnTV
 http://142.171.7.225:5050/smart.php?id=Antv&token=swqz
-#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="" group-title=""印尼频道",MNC TV
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="" group-title="印尼频道",MNC TV
 http://142.171.7.225:5050/smart.php?id=Mnctv&token=swqz
-#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="" group-title=""印尼频道",Trans 7
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="" group-title="印尼频道",Trans 7
 http://142.171.7.225:5050/smart.php?id=Trans7_eko&token=swqz
-#EXTINF:-1 tvg-id="Transtv" tvg-name="Transtv" tvg-logo="" group-title=""印尼频道",Transtv
+#EXTINF:-1 tvg-id="Transtv" tvg-name="Transtv" tvg-logo="" group-title="印尼频道",Transtv
 http://142.171.7.225:5050/smart.php?id=Transtv&token=swqz
-#EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="" group-title=""印尼频道",JTV
+#EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="" group-title="印尼频道",JTV
 http://142.171.7.225:5050/smart.php?id=JTV_eko&token=swqz
-#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="" group-title=""印尼频道",Metro TV
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="" group-title="印尼频道",Metro TV
 http://142.171.7.225:5050/smart.php?id=metrotv_eko&token=swqz
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title=""印尼频道",Cinemax
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="印尼频道",Cinemax
 http://142.171.7.225:5050/smart.php?id=Cinemax&token=swqz
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="" group-title=""印尼频道",SCTV
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="" group-title="印尼频道",SCTV
 http://142.171.7.225:5050/smart.php?id=SCTV&token=swqz
-#EXTINF:-1 tvg-id="Tvone" tvg-name="Tvone" tvg-logo="" group-title=""印尼频道",Tvone
+#EXTINF:-1 tvg-id="Tvone" tvg-name="Tvone" tvg-logo="" group-title="印尼频道",Tvone
 http://142.171.7.225:5050/smart.php?id=Tvone&token=swqz
-#EXTINF:-1 tvg-id="TVMU" tvg-name="TVMU" tvg-logo="" group-title=""印尼频道",TVMU
+#EXTINF:-1 tvg-id="TVMU" tvg-name="TVMU" tvg-logo="" group-title="印尼频道",TVMU
 http://142.171.7.225:5050/smart.php?id=TVMU_eko&token=swqz
-#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="" group-title=""印尼频道",GTV
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="" group-title="印尼频道",GTV
 http://142.171.7.225:5050/smart.php?id=Gtv&token=swqz
-#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="" group-title=""印尼频道",RTV
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="" group-title="印尼频道",RTV
 http://142.171.7.225:5050/smart.php?id=Rtv&token=swqz
-#EXTINF:-1 tvg-id="Jak TV" tvg-name="Jak TV" tvg-logo="" group-title=""印尼频道",Jak TV
+#EXTINF:-1 tvg-id="Jak TV" tvg-name="Jak TV" tvg-logo="" group-title="印尼频道",Jak TV
 http://142.171.7.225:5050/smart.php?id=JakTV&token=swqz
-#EXTINF:-1 tvg-id="iNews TV" tvg-name="iNews TV" tvg-logo="" group-title=""印尼频道",iNews TV
+#EXTINF:-1 tvg-id="iNews TV" tvg-name="iNews TV" tvg-logo="" group-title="印尼频道",iNews TV
 http://142.171.7.225:5050/smart.php?id=Inewstv&token=swqz
-#EXTINF:-1 tvg-id="Daai TV" tvg-name="Daai TV" tvg-logo="" group-title=""印尼频道",Daai TV
+#EXTINF:-1 tvg-id="Daai TV" tvg-name="Daai TV" tvg-logo="" group-title="印尼频道",Daai TV
 http://142.171.7.225:5050/smart.php?id=DaaiTV&token=swqz
-#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="" group-title=""印尼频道",Net TV
+#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="" group-title="印尼频道",Net TV
 http://142.171.7.225:5050/smart.php?id=NetTV&token=swqz
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title=""印尼频道",Animax
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="印尼频道",Animax
 http://142.171.7.225:5050/smart.php?id=Animax&token=swqz
-#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="" group-title=""印尼频道",EWTN
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="" group-title="印尼频道",EWTN
 http://142.171.7.225:5050/smart.php?id=Ewtn&token=swqz
-#EXTINF:-1 tvg-id="AlQuran AlKareem" tvg-name="AlQuran AlKareem" tvg-logo="" group-title=""印尼频道",AlQuran AlKareem
+#EXTINF:-1 tvg-id="AlQuran AlKareem" tvg-name="AlQuran AlKareem" tvg-logo="" group-title="印尼频道",AlQuran AlKareem
 http://142.171.7.225:5050/smart.php?id=AlQuran&token=swqz
-#EXTINF:-1 tvg-id="Tawaf TV" tvg-name="Tawaf TV" tvg-logo="" group-title=""印尼频道",Tawaf TV
+#EXTINF:-1 tvg-id="Tawaf TV" tvg-name="Tawaf TV" tvg-logo="" group-title="印尼频道",Tawaf TV
 http://142.171.7.225:5050/smart.php?id=TawafTV&token=swqz
-#EXTINF:-1 tvg-id="Vision Prime" tvg-name="Vision Prime" tvg-logo="" group-title=""印尼频道",Vision Prime
+#EXTINF:-1 tvg-id="Vision Prime" tvg-name="Vision Prime" tvg-logo="" group-title="印尼频道",Vision Prime
 http://142.171.7.225:5050/smart.php?id=VisionPrime&token=swqz
-#EXTINF:-1 tvg-id="Muslim TV" tvg-name="Muslim TV" tvg-logo="" group-title=""印尼频道",Muslim TV
+#EXTINF:-1 tvg-id="Muslim TV" tvg-name="Muslim TV" tvg-logo="" group-title="印尼频道",Muslim TV
 http://142.171.7.225:5050/smart.php?id=MuslimTV&token=swqz
-#EXTINF:-1 tvg-id="Music TV" tvg-name="Music TV" tvg-logo="" group-title=""印尼频道",Music TV
+#EXTINF:-1 tvg-id="Music TV" tvg-name="Music TV" tvg-logo="" group-title="印尼频道",Music TV
 http://142.171.7.225:5050/smart.php?id=MusicTV&token=swqz
-#EXTINF:-1 tvg-id="Lifestyle&Fashion" tvg-name="Lifestyle&Fashion" tvg-logo="" group-title=""印尼频道",Lifestyle&Fashion
+#EXTINF:-1 tvg-id="Lifestyle&Fashion" tvg-name="Lifestyle&Fashion" tvg-logo="" group-title="印尼频道",Lifestyle&Fashion
 http://142.171.7.225:5050/smart.php?id=Lifestyle&token=swqz
-#EXTINF:-1 tvg-id="Entertain" tvg-name="Entertain" tvg-logo="" group-title=""印尼频道",Entertain
+#EXTINF:-1 tvg-id="Entertain" tvg-name="Entertain" tvg-logo="" group-title="印尼频道",Entertain
 http://142.171.7.225:5050/smart.php?id=Entertain&token=swqz
-#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title=""印尼频道",Hits
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="印尼频道",Hits
 http://142.171.7.225:5050/smart.php?id=Hits&token=swqz
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title=""印尼频道",Warner TV
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="印尼频道",Warner TV
 http://142.171.7.225:5050/smart.php?id=WarnerTV&token=swqz
-#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title=""印尼频道",SCM
+#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="印尼频道",SCM
 http://142.171.7.225:5050/smart.php?id=Weishimovie&token=swqz
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title=""印尼频道",Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="印尼频道",Thrill
 http://142.171.7.225:5050/smart.php?id=Thrill&token=swqz
-#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title=""印尼频道",Fight Sports
+#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="印尼频道",Fight Sports
 http://142.171.7.225:5050/smart.php?id=Fs&token=swqz
-#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title=""印尼频道",Hits Movie
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="印尼频道",Hits Movie
 http://142.171.7.225:5050/smart.php?id=Hitsmovie&token=swqz
-#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title=""印尼频道",One
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="印尼频道",One
 http://142.171.7.225:5050/smart.php?id=One&token=swqz
-#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title=""印尼频道",tvN Movie
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="印尼频道",tvN Movie
 http://142.171.7.225:5050/smart.php?id=Tvnmovie&token=swqz
-#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title=""印尼频道",Celestial Movies HD
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title="印尼频道",Celestial Movies HD
 http://142.171.7.225:5050/smart.php?id=Celestialindo&token=swqz
-#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title=""印尼频道",Rock Actions
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="印尼频道",Rock Actions
 http://142.171.7.225:5050/smart.php?id=Rockaction&token=swqz
-#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title=""印尼频道",Rock Entertainment
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="印尼频道",Rock Entertainment
 http://142.171.7.225:5050/smart.php?id=Rockentertain&token=swqz
 
 #EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="" group-title="印度频道",Sun TV HD
