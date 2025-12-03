@@ -1,4 +1,8 @@
 #EXTM3U
+
+
+#------ 香港频道 分类开始 ------
+
 #EXTINF:-1 group-title="香港频道" tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7217,3 +7221,5 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951428/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951416/hls/playlist.m3u8?ads.xumo_channelId=99951416&ads._fw_ifa_type=&ads._fw_did=31f23514-3a6b-4556-8736-dac5fbd1d885&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FoxTampaBay&ads.csid=xumo_web_FoxTampaBay_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4150&ads.xumo_contentName=FoxTampaBay&ads.xumo_providerId=4150&ads.xumo_providerName=FoxTampaBay&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951416&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 group-title="Xumo频道" tvg-id="99951424" tvg-name="FOX LOCAL Philadelphia" tvg-logo="https://image.xumo.com/v1/channels/channel/99951424/168x168.png?type=color_onBlack",FOX LOCAL Philadelphia
 https://dbrb49pjoymg4.cloudfront.net/10001/99951424/hls/playlist.m3u8?ads.xumo_channelId=99951424&ads._fw_ifa_type=&ads._fw_did=5f224e40-6462-4634-ba0e-b49a4296f298&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FoxPhiladelphia&ads.csid=xumo_web_FoxPhiladelphia_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4159&ads.xumo_contentName=FoxPhiladelphia&ads.xumo_providerId=4159&ads.xumo_providerName=FoxPhiladelphia&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951424&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+#------ Xumo频道 分类结束 ------
